@@ -36,3 +36,12 @@ python -m fetchers.release_blogs
 ```
 
 Each emits a JSON envelope to stdout.
+
+## Release blog feeds
+
+At the time of writing, Anthropic does not publish an RSS feed for its news/engineering blog. `fetchers/release_blogs.py` currently pulls from:
+
+- OpenAI — `https://openai.com/news/rss.xml`
+- Google DeepMind — `https://deepmind.google/blog/rss.xml`
+
+Add additional vendors by editing the `FEEDS` list in `fetchers/release_blogs.py`.

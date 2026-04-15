@@ -23,6 +23,7 @@ FEEDS = [
 
 TIMEOUT = 30
 USER_AGENT = "Mozilla/5.0 (daily-ai-brief)"
+MAX_ITEMS_PER_FEED = 20  # feeds are reverse chronological; keep recent items only
 
 
 def fetch_raw() -> list[tuple[str, bytes]]:
@@ -47,7 +48,7 @@ def parse_feed(raw: bytes, source_label: str) -> list[dict[str, Any]]:
     if parsed.get("bozo") and not parsed.get("entries"):
         return []
     items: list[dict[str, Any]] = []
-    for entry in parsed.get("entries", []):
+    for entry in parsed.get("entries", [])[:MAX_ITEMS_PER_FEED]:
         title = entry.get("title")
         link = entry.get("link")
         if not title or not link:

@@ -1,0 +1,446 @@
+{
+  "source": "release_blogs",
+  "fetched_at": "2026-04-15T20:00:56+09:00",
+  "items": [
+    {
+      "id": "rss:openai:https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "title": "Trusted access for the next era of cyber defense",
+      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "description": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Tue, 14 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/cloudflare-openai-agent-cloud",
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "description": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Mon, 13 Apr 2026 06:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/axios-developer-tool-compromise",
+      "title": "Our response to the Axios developer tool compromise",
+      "url": "https://openai.com/index/axios-developer-tool-compromise",
+      "description": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/projects",
+      "title": "Using projects in ChatGPT",
+      "url": "https://openai.com/academy/projects",
+      "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/managers",
+      "title": "ChatGPT for managers",
+      "url": "https://openai.com/academy/managers",
+      "description": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/customer-success",
+      "title": "ChatGPT for customer success teams",
+      "url": "https://openai.com/academy/customer-success",
+      "description": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/search-and-deep-research",
+      "title": "Research with ChatGPT",
+      "url": "https://openai.com/academy/search-and-deep-research",
+      "description": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/healthcare",
+      "title": "Healthcare",
+      "url": "https://openai.com/academy/healthcare",
+      "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/financial-services",
+      "title": "Financial services",
+      "url": "https://openai.com/academy/financial-services",
+      "description": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/custom-gpts",
+      "title": "Using custom GPTs",
+      "url": "https://openai.com/academy/custom-gpts",
+      "description": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/working-with-files",
+      "title": "Working with files in ChatGPT",
+      "url": "https://openai.com/academy/working-with-files",
+      "description": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/getting-started",
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/personalization",
+      "title": "Personalizing ChatGPT",
+      "url": "https://openai.com/academy/personalization",
+      "description": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/data-analysis",
+      "title": "Analyzing data with ChatGPT",
+      "url": "https://openai.com/academy/data-analysis",
+      "description": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/brainstorming",
+      "title": "Brainstorming with ChatGPT",
+      "url": "https://openai.com/academy/brainstorming",
+      "description": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/prompting",
+      "title": "Prompting fundamentals",
+      "url": "https://openai.com/academy/prompting",
+      "description": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/skills",
+      "title": "Using skills",
+      "url": "https://openai.com/academy/skills",
+      "description": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/operations",
+      "title": "ChatGPT for operations teams",
+      "url": "https://openai.com/academy/operations",
+      "description": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/finance",
+      "title": "ChatGPT for finance teams",
+      "url": "https://openai.com/academy/finance",
+      "description": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/applications-of-ai",
+      "title": "Applications of AI at OpenAI",
+      "url": "https://openai.com/academy/applications-of-ai",
+      "description": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-robotics-er-1-6/",
+      "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+      "description": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Mon, 13 Apr 2026 15:52:13 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+      "description": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 02 Apr 2026 16:00:49 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "description": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 26 Mar 2026 15:23:35 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+      "title": "Protecting people from harmful manipulation",
+      "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+      "description": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Wed, 25 Mar 2026 16:46:20 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+      "title": "Lyria 3 Pro: Create longer tracks in more",
+      "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+      "description": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Wed, 25 Mar 2026 16:01:39 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+      "title": "Measuring progress toward AGI: A cognitive framework",
+      "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+      "description": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 17 Mar 2026 16:03:47 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/10-years-of-alphago/",
+      "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+      "url": "https://deepmind.google/blog/10-years-of-alphago/",
+      "description": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Mon, 09 Mar 2026 13:52:36 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+      "description": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 03 Mar 2026 16:35:55 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+      "description": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 26 Feb 2026 16:01:50 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+      "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+      "description": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 19 Feb 2026 16:06:14 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+      "title": "A new way to express yourself: Gemini can now create music",
+      "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+      "description": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Wed, 18 Feb 2026 16:01:38 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+      "title": "Accelerating discovery in India through AI-powered science and education",
+      "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+      "description": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 17 Feb 2026 13:42:20 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+      "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+      "description": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 12 Feb 2026 16:15:09 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+      "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+      "description": "Research papers point to the growing impact of Deep Think across fields",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Mon, 09 Feb 2026 16:12:06 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+      "description": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 29 Jan 2026 17:01:05 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+      "title": "D4RT: Teaching AI to see the world in four dimensions",
+      "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+      "description": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Fri, 16 Jan 2026 10:39:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+      "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+      "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+      "description": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging — and supports vertical video generation.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 13 Jan 2026 17:00:18 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+      "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+      "description": "Google 2025 recap: Research breakthroughs of the year",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 23 Dec 2025 17:01:02 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+      "title": "Gemini 3 Flash: frontier intelligence built for speed",
+      "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+      "description": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Wed, 17 Dec 2025 11:58:17 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+      "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+      "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+      "description": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 16 Dec 2025 10:14:24 +0000"
+      },
+      "category_hint": null
+    }
+  ]
+}

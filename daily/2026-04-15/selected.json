@@ -1,0 +1,19 @@
+[
+  {"url": "https://code.claude.com/docs/en/routines", "title": "Claude Code Routines"},
+  {"url": "https://github.com/forrestchang/andrej-karpathy-skills", "title": "forrestchang/andrej-karpathy-skills"},
+  {"url": "https://github.com/obra/superpowers", "title": "obra/superpowers"},
+  {"url": "https://openai.com/index/cloudflare-openai-agent-cloud", "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI"},
+  {"url": "https://huggingface.co/papers/2604.08570", "title": "QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation"},
+  {"url": "https://github.com/thedotmack/claude-mem", "title": "thedotmack/claude-mem"},
+  {"url": "https://github.com/vercel-labs/open-agents", "title": "vercel-labs/open-agents"},
+  {"url": "https://github.com/Donchitos/Claude-Code-Game-Studios", "title": "Donchitos/Claude-Code-Game-Studios"},
+  {"url": "https://huggingface.co/papers/2604.11784", "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents"},
+  {"url": "https://huggingface.co/papers/2604.11840", "title": "When Reasoning Models Hurt Behavioral Simulation: A Solver-Sampler Mismatch in Multi-Agent LLM Negotiation"},
+  {"url": "https://huggingface.co/papers/2604.09746", "title": "CONSCIENTIA: Can LLM Agents Learn to Strategize? Emergent Deception and Trust in a Multi-Agent NYC Simulation"},
+  {"url": "https://huggingface.co/papers/2604.09557", "title": "SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding"},
+  {"url": "https://huggingface.co/papers/2604.09574", "title": "Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization"},
+  {"url": "https://huggingface.co/papers/2604.13018", "title": "Toward Autonomous Long-Horizon Engineering for ML Research"},
+  {"url": "https://huggingface.co/papers/2604.09443", "title": "Many-Tier Instruction Hierarchy in LLM Agents"},
+  {"url": "https://huggingface.co/papers/2604.10539", "title": "IceCache: Memory-efficient KV-cache Management for Long-Sequence LLMs"},
+  {"url": "https://openai.com/academy/prompting", "title": "Prompting fundamentals"}
+]

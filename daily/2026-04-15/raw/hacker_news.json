@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-04-15T20:00:54+09:00",
+  "items": [
+    {
+      "id": "hn:47772012",
+      "title": "Stop Flock",
+      "url": "https://stopflock.com",
+      "description": "",
+      "signals": {
+        "points": 702,
+        "num_comments": 181,
+        "discussion_url": "https://news.ycombinator.com/item?id=47772012"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47769796",
+      "title": "Tell HN: Fiverr left customer files public and searchable",
+      "url": "https://news.ycombinator.com/item?id=47769796",
+      "description": "",
+      "signals": {
+        "points": 678,
+        "num_comments": 170,
+        "discussion_url": "https://news.ycombinator.com/item?id=47769796"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47765604",
+      "title": "Rare concert recordings are landing on the Internet Archive",
+      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "description": "",
+      "signals": {
+        "points": 654,
+        "num_comments": 189,
+        "discussion_url": "https://news.ycombinator.com/item?id=47765604"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47768133",
+      "title": "Claude Code Routines",
+      "url": "https://code.claude.com/docs/en/routines",
+      "description": "",
+      "signals": {
+        "points": 628,
+        "num_comments": 359,
+        "discussion_url": "https://news.ycombinator.com/item?id=47768133"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47759420",
+      "title": "The dangers of California's legislation to censor 3D printing",
+      "url": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
+      "description": "",
+      "signals": {
+        "points": 413,
+        "num_comments": 371,
+        "discussion_url": "https://news.ycombinator.com/item?id=47759420"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47732535",
+      "title": "The Orange Pi 6 Plus",
+      "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
+      "description": "",
+      "signals": {
+        "points": 197,
+        "num_comments": 165,
+        "discussion_url": "https://news.ycombinator.com/item?id=47732535"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47758870",
+      "title": "Let's talk space toilets",
+      "url": "https://mceglowski.substack.com/p/lets-talk-space-toilets",
+      "description": "",
+      "signals": {
+        "points": 187,
+        "num_comments": 52,
+        "discussion_url": "https://news.ycombinator.com/item?id=47758870"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47724571",
+      "title": "A communist Apple II and fourteen years of not knowing what you're testing",
+      "url": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
+      "description": "",
+      "signals": {
+        "points": 180,
+        "num_comments": 75,
+        "discussion_url": "https://news.ycombinator.com/item?id=47724571"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47767676",
+      "title": "5NF and Database Design",
+      "url": "https://kb.databasedesignbook.com/posts/5nf/",
+      "description": "",
+      "signals": {
+        "points": 169,
+        "num_comments": 60,
+        "discussion_url": "https://news.ycombinator.com/item?id=47767676"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47768339",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "description": "",
+      "signals": {
+        "points": 168,
+        "num_comments": 83,
+        "discussion_url": "https://news.ycombinator.com/item?id=47768339"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47774789",
+      "title": "Fixing a 20-year-old bug in Enlightenment E16",
+      "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
+      "description": "",
+      "signals": {
+        "points": 155,
+        "num_comments": 52,
+        "discussion_url": "https://news.ycombinator.com/item?id=47774789"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47728662",
+      "title": "Picasso’s Guernica (Gigapixel)",
+      "url": "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59",
+      "description": "",
+      "signals": {
+        "points": 147,
+        "num_comments": 47,
+        "discussion_url": "https://news.ycombinator.com/item?id=47728662"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47773812",
+      "title": "Dependency cooldowns turn you into a free-rider",
+      "url": "https://calpaterson.com/deps.html",
+      "description": "",
+      "signals": {
+        "points": 123,
+        "num_comments": 85,
+        "discussion_url": "https://news.ycombinator.com/item?id=47773812"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47707382",
+      "title": "Guide.world: A compendium of travel guides",
+      "url": "https://guide.world/",
+      "description": "",
+      "signals": {
+        "points": 116,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=47707382"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47775628",
+      "title": "Wacli – WhatsApp CLI: sync, search, send",
+      "url": "https://github.com/steipete/wacli",
+      "description": "",
+      "signals": {
+        "points": 113,
+        "num_comments": 92,
+        "discussion_url": "https://news.ycombinator.com/item?id=47775628"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47773788",
+      "title": "Not all elementary functions can be expressed with exp-minus-log",
+      "url": "https://www.stylewarning.com/posts/not-all-elementary/",
+      "description": "",
+      "signals": {
+        "points": 104,
+        "num_comments": 81,
+        "discussion_url": "https://news.ycombinator.com/item?id=47773788"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47721076",
+      "title": "Understanding Clojure's Persistent Vectors, pt. 1 (2013)",
+      "url": "https://hypirion.com/musings/understanding-persistent-vector-pt-1",
+      "description": "",
+      "signals": {
+        "points": 84,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=47721076"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47775183",
+      "title": "Amazon to acquire Globalstar and expand Amazon Leo satellite network",
+      "url": "https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network",
+      "description": "",
+      "signals": {
+        "points": 76,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=47775183"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47739278",
+      "title": "My adventure in designing API keys",
+      "url": "https://vjay15.github.io/blog/apikeys/",
+      "description": "",
+      "signals": {
+        "points": 72,
+        "num_comments": 55,
+        "discussion_url": "https://news.ycombinator.com/item?id=47739278"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47776796",
+      "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
+      "url": "https://prog21.dadgum.com/30.html",
+      "description": "",
+      "signals": {
+        "points": 71,
+        "num_comments": 22,
+        "discussion_url": "https://news.ycombinator.com/item?id=47776796"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47775653",
+      "title": "My AI-Assisted Workflow",
+      "url": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
+      "description": "",
+      "signals": {
+        "points": 45,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=47775653"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47776557",
+      "title": "Good Sleep, Good Learning (2012)",
+      "url": "https://super-memory.com/articles/sleep.htm",
+      "description": "",
+      "signals": {
+        "points": 43,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=47776557"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47725897",
+      "title": "Installing OpenBSD on the Pomera DM250 Writerdeck",
+      "url": "https://jcs.org/2026/04/09/openbsd-dm250",
+      "description": "",
+      "signals": {
+        "points": 41,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=47725897"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47775633",
+      "title": "Claude may require identity verification in some cases",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "description": "",
+      "signals": {
+        "points": 30,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=47775633"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47774971",
+      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=47774971"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47776667",
+      "title": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
+      "url": "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=47776667"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47722731",
+      "title": "PCBWay sponsorship: full-size SD module for Arduino projects",
+      "url": "https://www.colino.net/wordpress/archives/2026/04/10/pcbway-sponsorship-full-size-sd-module-for-arduino-projects/",
+      "description": "",
+      "signals": {
+        "points": 20,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=47722731"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47734629",
+      "title": "What Is in Road Flares?",
+      "url": "https://www.spiegl.org/rocket/flare/flare.html",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=47734629"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47776723",
+      "title": "'Seeking connection': video game where players stopped shooting, started talking",
+      "url": "https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=47776723"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47740840",
+      "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
+      "url": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=47740840"
+      },
+      "category_hint": null
+    }
+  ]
+}

@@ -1,1 +1,104 @@
-{}
+{
+  "https://code.claude.com/docs/en/routines": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "Claude Code Routines"
+  },
+  "https://github.com/forrestchang/andrej-karpathy-skills": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "forrestchang/andrej-karpathy-skills"
+  },
+  "https://github.com/obra/superpowers": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "obra/superpowers"
+  },
+  "https://openai.com/index/cloudflare-openai-agent-cloud": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI"
+  },
+  "https://huggingface.co/papers/2604.08570": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation"
+  },
+  "https://github.com/thedotmack/claude-mem": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "thedotmack/claude-mem"
+  },
+  "https://github.com/vercel-labs/open-agents": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "vercel-labs/open-agents"
+  },
+  "https://github.com/Donchitos/Claude-Code-Game-Studios": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "Donchitos/Claude-Code-Game-Studios"
+  },
+  "https://huggingface.co/papers/2604.11784": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents"
+  },
+  "https://huggingface.co/papers/2604.11840": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "When Reasoning Models Hurt Behavioral Simulation: A Solver-Sampler Mismatch in Multi-Agent LLM Negotiation"
+  },
+  "https://huggingface.co/papers/2604.09746": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "CONSCIENTIA: Can LLM Agents Learn to Strategize? Emergent Deception and Trust in a Multi-Agent NYC Simulation"
+  },
+  "https://huggingface.co/papers/2604.09557": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding"
+  },
+  "https://huggingface.co/papers/2604.09574": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization"
+  },
+  "https://huggingface.co/papers/2604.13018": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "Toward Autonomous Long-Horizon Engineering for ML Research"
+  },
+  "https://huggingface.co/papers/2604.09443": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "Many-Tier Instruction Hierarchy in LLM Agents"
+  },
+  "https://huggingface.co/papers/2604.10539": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "IceCache: Memory-efficient KV-cache Management for Long-Sequence LLMs"
+  },
+  "https://openai.com/academy/prompting": {
+    "first_seen": "2026-04-15",
+    "last_seen": "2026-04-15",
+    "days": 1,
+    "title": "Prompting fundamentals"
+  }
+}

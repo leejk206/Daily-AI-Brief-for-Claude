@@ -75,6 +75,70 @@ def _find_existing(state: dict[str, Any], url: str) -> dict[str, Any] | None:
     return None
 
 
+def _format_entry(entry: dict[str, Any]) -> str:
+    return (
+        f"### {entry['title']}\n"
+        f"- **요약**: {entry['summary']}\n"
+        f"- **출처**: {entry['source']}\n"
+        f"- **brief 날짜**: {entry['brief_date']}\n"
+        f"- **URL**: {entry['url']}\n\n"
+        f"---\n"
+    )
+
+
+def _category_header(category: str) -> str:
+    return f"# {category} — 저장된 항목\n"
+
+
+def _today_date_str(now: dt.datetime) -> str:
+    return now.date().isoformat()
+
+
+def _prepend_to_category_md(
+    md_path: Path, category: str, entry: dict[str, Any], today: str
+) -> None:
+    md_path.parent.mkdir(parents=True, exist_ok=True)
+    date_header = f"## {today} 저장\n"
+    entry_block = _format_entry(entry)
+
+    if not md_path.exists():
+        md_path.write_text(
+            f"{_category_header(category)}\n{date_header}\n{entry_block}"
+        )
+        return
+
+    text = md_path.read_text()
+    lines = text.splitlines(keepends=True)
+
+    # Find header line index (first line starting with "# ")
+    header_end = 0
+    for i, line in enumerate(lines):
+        if line.startswith("# "):
+            header_end = i + 1
+            while header_end < len(lines) and lines[header_end].strip() == "":
+                header_end += 1
+            break
+
+    # Find first "## " (most recent date block)
+    first_date_idx = None
+    for i in range(header_end, len(lines)):
+        if lines[i].startswith("## "):
+            first_date_idx = i
+            break
+
+    if first_date_idx is not None and lines[first_date_idx].strip() == f"## {today} 저장":
+        insert_at = first_date_idx + 1
+        while insert_at < len(lines) and lines[insert_at].strip() == "":
+            insert_at += 1
+        block = entry_block if entry_block.endswith("\n") else entry_block + "\n"
+        new_lines = lines[:insert_at] + [block] + lines[insert_at:]
+    else:
+        new_block = f"{date_header}\n{entry_block}"
+        new_lines = lines[:header_end] + [new_block] + lines[header_end:]
+
+    md_path.write_text("".join(new_lines))
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = _build_parser()
     try:
@@ -105,7 +169,11 @@ def main(argv: list[str] | None = None) -> int:
     state["items"].insert(0, entry)
     _save_state(state_path, state)
 
-    # Markdown write deferred to Task 3
+    saved_dir = Path(args.saved_dir)
+    md_path = saved_dir / f"{args.category}.md"
+    today = _today_date_str(dt.datetime.now(KST))
+    _prepend_to_category_md(md_path, args.category, entry, today)
+
     print(f"SAVED: {args.title} -> {args.saved_dir}/{args.category}.md")
     return 0
 

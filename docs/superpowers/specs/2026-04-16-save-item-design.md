@@ -115,7 +115,7 @@ Claude (오케스트레이션 — CLAUDE.md 지시에 따라)
    - `saved_at` = `datetime.now(ZoneInfo("Asia/Seoul")).isoformat(timespec="seconds")`
    - `items` 맨 앞에 push (최신이 위)
    - `saved/<category>.md`가 없으면 헤더만 있는 새 파일 생성
-   - 파일 내 가장 최신 `## YYYY-MM-DD 저장` 블록이 오늘 날짜면 그 블록 맨 앞에 항목 추가 (구분자 `---` 포함), 아니면 새 날짜 블록 생성
+   - 파일 내 가장 최신 `## YYYY-MM-DD 저장` 블록이 오늘 날짜면 그 블록의 헤더 바로 아래(같은 날 먼저 저장된 항목들보다 위)에 새 항목을 삽입, 구분자 `---` 포함. 오늘 날짜 블록이 없으면 파일 상단 헤더(`# <category> — 저장된 항목`) 바로 아래에 새 날짜 블록을 생성
    - `state/saved.json` 저장
 4. `stdout`: `SAVED: <title> → saved/<category>.md`
 5. **종료 코드**: 성공(중복 포함) = 0, 인자/I/O 오류 = 비-0
@@ -177,7 +177,7 @@ Claude가 이 프로젝트의 모든 세션에서 자동으로 읽는 파일. �
 
 **인자 파싱**:
 - `/saved` → `state/saved.json` 읽어 최근 10개 역순 표시
-- `/saved <category>` → `saved/<category>.md`가 있으면 그 파일 렌더링, 없으면 "저장 항목 없음"
+- `/saved <category>` → `saved/<category>.md`가 있으면 파일 본문을 그대로 출력(Claude는 추가 가공 없이 Read → echo). 없으면 "저장 항목 없음"
 - `/saved <category> <N>` → `state/saved.json`에서 해당 카테고리 최신 N개만
 
 **출력 형식** (기본, 카테고리 무관):

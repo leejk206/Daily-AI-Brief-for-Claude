@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "summary": "에이전틱 워크플로 겨냥 오픈 모델 출시",
+      "source": "release_blogs",
+      "category": "agent-frameworks",
+      "brief_date": "2026-04-16",
+      "saved_at": "2026-04-16T21:21:52+09:00"
+    }
+  ]
+}

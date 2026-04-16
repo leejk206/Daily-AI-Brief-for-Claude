@@ -10,7 +10,13 @@ Usage: python -m scripts.save_item \\
 from __future__ import annotations
 
 import argparse
+import datetime as dt
+import json
+import shutil
 import sys
+from pathlib import Path
+from typing import Any
+from zoneinfo import ZoneInfo
 
 VALID_SOURCES = {"github_trending", "hacker_news", "huggingface", "release_blogs"}
 VALID_CATEGORIES = {
@@ -21,6 +27,8 @@ VALID_CATEGORIES = {
     "prompt-context-engineering",
     "uncategorized",
 }
+
+KST = ZoneInfo("Asia/Seoul")
 
 
 def _build_parser() -> argparse.ArgumentParser:
@@ -36,14 +44,69 @@ def _build_parser() -> argparse.ArgumentParser:
     return p
 
 
+def _empty_state() -> dict[str, Any]:
+    return {"version": 1, "items": []}
+
+
+def _load_state(path: Path) -> tuple[dict[str, Any], str | None]:
+    if not path.exists():
+        return _empty_state(), None
+    try:
+        data = json.loads(path.read_text())
+        if not isinstance(data, dict) or "items" not in data:
+            raise ValueError("malformed")
+        return data, None
+    except (json.JSONDecodeError, ValueError):
+        ts = dt.datetime.now(KST).strftime("%Y%m%d%H%M%S")
+        backup = path.with_suffix(path.suffix + f".corrupt-{ts}")
+        shutil.copy(path, backup)
+        return _empty_state(), str(backup)
+
+
+def _save_state(path: Path, state: dict[str, Any]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n")
+
+
+def _find_existing(state: dict[str, Any], url: str) -> dict[str, Any] | None:
+    for item in state["items"]:
+        if item.get("url") == url:
+            return item
+    return None
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = _build_parser()
     try:
         args = parser.parse_args(argv)
     except SystemExit as e:
         return int(e.code) if e.code is not None else 2
-    # Stub — real logic in later tasks
-    del args
+
+    state_path = Path(args.state_path)
+    state, corrupt_backup = _load_state(state_path)
+    if corrupt_backup:
+        print(f"WARNING: corrupt state backed up to {corrupt_backup}", file=sys.stderr)
+
+    existing = _find_existing(state, args.url)
+    if existing is not None:
+        print(f"SKIP: already saved on {existing.get('saved_at', '<unknown>')}")
+        return 0
+
+    now = dt.datetime.now(KST).isoformat(timespec="seconds")
+    entry = {
+        "url": args.url,
+        "title": args.title,
+        "summary": args.summary,
+        "source": args.source,
+        "category": args.category,
+        "brief_date": args.brief_date,
+        "saved_at": now,
+    }
+    state["items"].insert(0, entry)
+    _save_state(state_path, state)
+
+    # Markdown write deferred to Task 3
+    print(f"SAVED: {args.title} -> {args.saved_dir}/{args.category}.md")
     return 0
 
 

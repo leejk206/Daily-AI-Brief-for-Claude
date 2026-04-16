@@ -25,10 +25,12 @@ Each fetcher has a 60-second timeout. If a fetcher exits non-zero, note the sour
 Read these files:
 - `interests.md`
 - `state/seen.json` (treat missing file or empty object as `{}`)
+- `state/archive.json` (treat missing file or empty object as `{}`) — permanent TOP 5 archive
 - All four raw JSON files from `daily/$TODAY/raw/`
 
 ## Step 4 — Filter by interests
 For each item across all four envelopes:
+- **Hard exclude:** If the item's URL is present in `archive.json`, drop it immediately. These were past TOP 5s and must NEVER reappear in any future brief, even as a carousel item.
 - Check if it matches any of the five categories in `interests.md`.
 - Use keyword matching as a first pass, then apply semantic judgment. A hit on the single word "agent" is NOT enough — require a phrase like "agent framework", "multi-agent", or an explicit category keyword.
 - Respect each category's `Exclude` list and the `Global exclude` list.
@@ -98,15 +100,21 @@ Rules:
 - If no items match interests at all, write a fallback section listing the raw top 3 of each source.
 
 ## Step 8 — Save selected items
-Write `daily/$TODAY/selected.json` — a JSON array of all items included in the brief (both TOP 5 and carousels), each as `{"url": "...", "title": "..."}`.
+Write two files:
+- `daily/$TODAY/selected.json` — JSON array of all items in the brief (TOP 5 + carousels), each as `{"url": "...", "title": "..."}`.
+- `daily/$TODAY/top5.json` — JSON array of just the TOP 5 items (same shape, ordered 1→5).
 
 ## Step 9 — Update state
-Run: `.venv/bin/python scripts/update_seen.py state/seen.json daily/$TODAY/selected.json`
+Run both in order:
+```
+.venv/bin/python scripts/update_seen.py state/seen.json daily/$TODAY/selected.json
+.venv/bin/python scripts/archive_top5.py state/archive.json daily/$TODAY/top5.json
+```
 
 ## Step 10 — Commit
 ```
 git add -f daily/$TODAY
-git add state/seen.json
+git add state/seen.json state/archive.json
 git commit -m "brief: $TODAY"
 ```
 

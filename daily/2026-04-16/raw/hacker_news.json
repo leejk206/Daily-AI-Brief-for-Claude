@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-04-16T12:40:33+09:00",
+  "items": [
+    {
+      "id": "hn:47782570",
+      "title": "Google broke its promise to me – now ICE has my data",
+      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "description": "",
+      "signals": {
+        "points": 1205,
+        "num_comments": 532,
+        "discussion_url": "https://news.ycombinator.com/item?id=47782570"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47778475",
+      "title": "God sleeps in the minerals",
+      "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+      "description": "",
+      "signals": {
+        "points": 478,
+        "num_comments": 99,
+        "discussion_url": "https://news.ycombinator.com/item?id=47778475"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47783713",
+      "title": "Live Nation illegally monopolized ticketing market, jury finds",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
+      "description": "",
+      "signals": {
+        "points": 447,
+        "num_comments": 129,
+        "discussion_url": "https://news.ycombinator.com/item?id=47783713"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47776035",
+      "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
+      "url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
+      "description": "",
+      "signals": {
+        "points": 355,
+        "num_comments": 383,
+        "discussion_url": "https://news.ycombinator.com/item?id=47776035"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47769089",
+      "title": "Cybersecurity looks like proof of work now",
+      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+      "description": "",
+      "signals": {
+        "points": 291,
+        "num_comments": 106,
+        "discussion_url": "https://news.ycombinator.com/item?id=47769089"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47783940",
+      "title": "Ask HN: Who is using OpenClaw?",
+      "url": "https://news.ycombinator.com/item?id=47783940",
+      "description": "",
+      "signals": {
+        "points": 236,
+        "num_comments": 285,
+        "discussion_url": "https://news.ycombinator.com/item?id=47783940"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47780456",
+      "title": "Cal.com is going closed source",
+      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "description": "",
+      "signals": {
+        "points": 235,
+        "num_comments": 177,
+        "discussion_url": "https://news.ycombinator.com/item?id=47780456"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47786791",
+      "title": "YouTube users get option to set their Shorts time limit to zero minutes",
+      "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+      "description": "",
+      "signals": {
+        "points": 226,
+        "num_comments": 97,
+        "discussion_url": "https://news.ycombinator.com/item?id=47786791"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47778086",
+      "title": "Do you even need a database?",
+      "url": "https://www.dbpro.app/blog/do-you-even-need-a-database",
+      "description": "",
+      "signals": {
+        "points": 217,
+        "num_comments": 254,
+        "discussion_url": "https://news.ycombinator.com/item?id=47778086"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47738081",
+      "title": "Fixing a monitor that goes black, off or blinks due to static electricity (2023)",
+      "url": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
+      "description": "",
+      "signals": {
+        "points": 121,
+        "num_comments": 67,
+        "discussion_url": "https://news.ycombinator.com/item?id=47738081"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47782256",
+      "title": "The Gemini app is now on Mac",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
+      "description": "",
+      "signals": {
+        "points": 103,
+        "num_comments": 51,
+        "discussion_url": "https://news.ycombinator.com/item?id=47782256"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47781286",
+      "title": "CRISPR takes important step toward silencing Down syndrome’s extra chromosome",
+      "url": "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html",
+      "description": "",
+      "signals": {
+        "points": 93,
+        "num_comments": 57,
+        "discussion_url": "https://news.ycombinator.com/item?id=47781286"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47784244",
+      "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
+      "url": "http://tinycorelinux.net/5.x/armv6/releases/README",
+      "description": "",
+      "signals": {
+        "points": 89,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=47784244"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47785948",
+      "title": "Ohio prison inmates 'built computers and hid them in ceiling' (2017)",
+      "url": "https://www.bbc.com/news/technology-39576394",
+      "description": "",
+      "signals": {
+        "points": 84,
+        "num_comments": 74,
+        "discussion_url": "https://news.ycombinator.com/item?id=47785948"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47786164",
+      "title": "I made a terminal pager",
+      "url": "https://theleo.zone/posts/pager/",
+      "description": "",
+      "signals": {
+        "points": 79,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=47786164"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47769245",
+      "title": "How can I keep from singing?",
+      "url": "https://blog.danieljanus.pl/singing/",
+      "description": "",
+      "signals": {
+        "points": 57,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=47769245"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47777897",
+      "title": "Retrofitting JIT Compilers into C Interpreters",
+      "url": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html",
+      "description": "",
+      "signals": {
+        "points": 53,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=47777897"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47787854",
+      "title": "Arguing with Agents",
+      "url": "https://blowmage.com/2026/04/14/arguing-with-agents/",
+      "description": "",
+      "signals": {
+        "points": 47,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=47787854"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47785582",
+      "title": "Hacker News CLI (2014)",
+      "url": "https://pythonhosted.org/hackernews-cli/commands.html",
+      "description": "",
+      "signals": {
+        "points": 39,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=47785582"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47749548",
+      "title": "Introduction to Spherical Harmonics for Graphics Programmers",
+      "url": "https://gpfault.net/posts/sph.html",
+      "description": "",
+      "signals": {
+        "points": 30,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=47749548"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47734815",
+      "title": "PBS Nova: Terror in Space (1998)",
+      "url": "https://www.pbs.org/wgbh/nova/mir/",
+      "description": "",
+      "signals": {
+        "points": 29,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=47734815"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47787587",
+      "title": "A Better Ludum Dare; Or, How to Ruin a Legacy",
+      "url": "https://ldjam.com/events/ludum-dare/59/$425291/$425292",
+      "description": "",
+      "signals": {
+        "points": 20,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47787587"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47787877",
+      "title": "Stealth signals are bypassing Iran’s internet blackout",
+      "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
+      "description": "",
+      "signals": {
+        "points": 17,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47787877"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47747770",
+      "title": "The paper computer",
+      "url": "https://jsomers.net/blog/the-paper-computer",
+      "description": "",
+      "signals": {
+        "points": 17,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47747770"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47720941",
+      "title": "A Mercury Rover Could Explore the Planet by Sticking to the Terminator",
+      "url": "https://www.universetoday.com/articles/a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=47720941"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47786836",
+      "title": "The Universal Constraint Engine: Neuromorphic Computing Without Neural Networks",
+      "url": "https://zenodo.org/records/19600206",
+      "description": "",
+      "signals": {
+        "points": 11,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=47786836"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47787127",
+      "title": "Agent - Native Mac OS X coding ide/harness",
+      "url": "https://github.com/macOS26/Agent",
+      "description": "",
+      "signals": {
+        "points": 10,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47787127"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47320921",
+      "title": "Making your JITted Code known: Let me count the ways",
+      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47320921"
+      },
+      "category_hint": null
+    }
+  ]
+}

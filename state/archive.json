@@ -1,0 +1,42 @@
+{
+  "https://code.claude.com/docs/en/routines": {
+    "archived_on": "2026-04-15",
+    "title": "Claude Code Routines"
+  },
+  "https://github.com/forrestchang/andrej-karpathy-skills": {
+    "archived_on": "2026-04-15",
+    "title": "forrestchang/andrej-karpathy-skills"
+  },
+  "https://github.com/obra/superpowers": {
+    "archived_on": "2026-04-15",
+    "title": "obra/superpowers"
+  },
+  "https://openai.com/index/cloudflare-openai-agent-cloud": {
+    "archived_on": "2026-04-15",
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI"
+  },
+  "https://huggingface.co/papers/2604.08570": {
+    "archived_on": "2026-04-15",
+    "title": "QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation"
+  },
+  "https://openai.com/index/the-next-evolution-of-the-agents-sdk": {
+    "archived_on": "2026-04-16",
+    "title": "The next evolution of the Agents SDK"
+  },
+  "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/": {
+    "archived_on": "2026-04-16",
+    "title": "Gemma 4: Byte for byte, the most capable open models"
+  },
+  "https://huggingface.co/papers/2604.09409": {
+    "archived_on": "2026-04-16",
+    "title": "Do AI Coding Agents Log Like Humans? An Empirical Study"
+  },
+  "https://huggingface.co/papers/2604.10866": {
+    "archived_on": "2026-04-16",
+    "title": "OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models"
+  },
+  "https://github.com/lsdefine/GenericAgent": {
+    "archived_on": "2026-04-16",
+    "title": "lsdefine/GenericAgent"
+  }
+}

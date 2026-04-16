@@ -31,32 +31,32 @@
   },
   "https://github.com/thedotmack/claude-mem": {
     "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
-    "days": 1,
+    "last_seen": "2026-04-16",
+    "days": 2,
     "title": "thedotmack/claude-mem"
   },
   "https://github.com/vercel-labs/open-agents": {
     "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
-    "days": 1,
+    "last_seen": "2026-04-16",
+    "days": 2,
     "title": "vercel-labs/open-agents"
   },
   "https://github.com/Donchitos/Claude-Code-Game-Studios": {
     "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
-    "days": 1,
+    "last_seen": "2026-04-16",
+    "days": 2,
     "title": "Donchitos/Claude-Code-Game-Studios"
   },
   "https://huggingface.co/papers/2604.11784": {
     "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
-    "days": 1,
+    "last_seen": "2026-04-16",
+    "days": 2,
     "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents"
   },
   "https://huggingface.co/papers/2604.11840": {
     "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
-    "days": 1,
+    "last_seen": "2026-04-16",
+    "days": 2,
     "title": "When Reasoning Models Hurt Behavioral Simulation: A Solver-Sampler Mismatch in Multi-Agent LLM Negotiation"
   },
   "https://huggingface.co/papers/2604.09746": {
@@ -85,8 +85,8 @@
   },
   "https://huggingface.co/papers/2604.09443": {
     "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
-    "days": 1,
+    "last_seen": "2026-04-16",
+    "days": 2,
     "title": "Many-Tier Instruction Hierarchy in LLM Agents"
   },
   "https://huggingface.co/papers/2604.10539": {
@@ -97,8 +97,80 @@
   },
   "https://openai.com/academy/prompting": {
     "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
-    "days": 1,
+    "last_seen": "2026-04-16",
+    "days": 2,
     "title": "Prompting fundamentals"
+  },
+  "https://openai.com/index/the-next-evolution-of-the-agents-sdk": {
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "days": 1,
+    "title": "The next evolution of the Agents SDK"
+  },
+  "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/": {
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "days": 1,
+    "title": "Gemma 4: Byte for byte, the most capable open models"
+  },
+  "https://huggingface.co/papers/2604.09409": {
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "days": 1,
+    "title": "Do AI Coding Agents Log Like Humans? An Empirical Study"
+  },
+  "https://huggingface.co/papers/2604.10866": {
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "days": 1,
+    "title": "OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models"
+  },
+  "https://github.com/lsdefine/GenericAgent": {
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "days": 1,
+    "title": "lsdefine/GenericAgent"
+  },
+  "https://huggingface.co/papers/2604.14116": {
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "days": 1,
+    "title": "TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration"
+  },
+  "https://huggingface.co/papers/2604.12890": {
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "days": 1,
+    "title": "Towards Long-horizon Agentic Multimodal Search"
+  },
+  "https://huggingface.co/papers/2604.09497": {
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "days": 1,
+    "title": "BERT-as-a-Judge: A Robust Alternative to Lexical Methods for Efficient Reference-Based LLM Evaluation"
+  },
+  "https://huggingface.co/papers/2604.07429": {
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "days": 1,
+    "title": "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents"
+  },
+  "https://huggingface.co/papers/2604.13201": {
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "days": 1,
+    "title": "InfiniteScienceGym: An Unbounded, Procedurally-Generated Benchmark for Scientific Analysis"
+  },
+  "https://github.com/macOS26/Agent": {
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "days": 1,
+    "title": "Agent - Native Mac OS X coding ide/harness"
+  },
+  "https://huggingface.co/papers/2604.05278": {
+    "first_seen": "2026-04-16",
+    "last_seen": "2026-04-16",
+    "days": 1,
+    "title": "Spec Kit Agents: Context-Grounded Agentic Workflows"
   }
 }

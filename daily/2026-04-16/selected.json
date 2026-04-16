@@ -1,0 +1,21 @@
+[
+  {"url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk", "title": "The next evolution of the Agents SDK"},
+  {"url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/", "title": "Gemma 4: Byte for byte, the most capable open models"},
+  {"url": "https://huggingface.co/papers/2604.09409", "title": "Do AI Coding Agents Log Like Humans? An Empirical Study"},
+  {"url": "https://huggingface.co/papers/2604.10866", "title": "OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models"},
+  {"url": "https://github.com/lsdefine/GenericAgent", "title": "lsdefine/GenericAgent"},
+  {"url": "https://github.com/vercel-labs/open-agents", "title": "vercel-labs/open-agents"},
+  {"url": "https://huggingface.co/papers/2604.14116", "title": "TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration"},
+  {"url": "https://huggingface.co/papers/2604.12890", "title": "Towards Long-horizon Agentic Multimodal Search"},
+  {"url": "https://huggingface.co/papers/2604.11784", "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents"},
+  {"url": "https://huggingface.co/papers/2604.11840", "title": "When Reasoning Models Hurt Behavioral Simulation: A Solver-Sampler Mismatch in Multi-Agent LLM Negotiation"},
+  {"url": "https://huggingface.co/papers/2604.09497", "title": "BERT-as-a-Judge: A Robust Alternative to Lexical Methods for Efficient Reference-Based LLM Evaluation"},
+  {"url": "https://huggingface.co/papers/2604.07429", "title": "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents"},
+  {"url": "https://huggingface.co/papers/2604.13201", "title": "InfiniteScienceGym: An Unbounded, Procedurally-Generated Benchmark for Scientific Analysis"},
+  {"url": "https://github.com/thedotmack/claude-mem", "title": "thedotmack/claude-mem"},
+  {"url": "https://github.com/Donchitos/Claude-Code-Game-Studios", "title": "Donchitos/Claude-Code-Game-Studios"},
+  {"url": "https://github.com/macOS26/Agent", "title": "Agent - Native Mac OS X coding ide/harness"},
+  {"url": "https://huggingface.co/papers/2604.05278", "title": "Spec Kit Agents: Context-Grounded Agentic Workflows"},
+  {"url": "https://openai.com/academy/prompting", "title": "Prompting fundamentals"},
+  {"url": "https://huggingface.co/papers/2604.09443", "title": "Many-Tier Instruction Hierarchy in LLM Agents"}
+]

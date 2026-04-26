@@ -1,176 +1,128 @@
 {
-  "https://code.claude.com/docs/en/routines": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
+  "https://openai.com/index/introducing-gpt-5-5": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "Claude Code Routines"
+    "title": "Introducing GPT-5.5"
   },
-  "https://github.com/forrestchang/andrej-karpathy-skills": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
+  "https://github.com/mattpocock/skills": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "forrestchang/andrej-karpathy-skills"
+    "title": "mattpocock/skills"
   },
-  "https://github.com/obra/superpowers": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
+  "https://openai.com/index/introducing-workspace-agents-in-chatgpt": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "obra/superpowers"
+    "title": "Introducing workspace agents in ChatGPT"
   },
-  "https://openai.com/index/cloudflare-openai-agent-cloud": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
+  "https://openai.com/index/codex-for-almost-everything": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI"
+    "title": "Codex for (almost) everything"
   },
-  "https://huggingface.co/papers/2604.08570": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
+  "https://github.com/trycua/cua": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation"
+    "title": "trycua/cua"
   },
-  "https://github.com/thedotmack/claude-mem": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-16",
-    "days": 2,
-    "title": "thedotmack/claude-mem"
-  },
-  "https://github.com/vercel-labs/open-agents": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-16",
-    "days": 2,
-    "title": "vercel-labs/open-agents"
-  },
-  "https://github.com/Donchitos/Claude-Code-Game-Studios": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-16",
-    "days": 2,
-    "title": "Donchitos/Claude-Code-Game-Studios"
-  },
-  "https://huggingface.co/papers/2604.11784": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-16",
-    "days": 2,
-    "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents"
-  },
-  "https://huggingface.co/papers/2604.11840": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-16",
-    "days": 2,
-    "title": "When Reasoning Models Hurt Behavioral Simulation: A Solver-Sampler Mismatch in Multi-Agent LLM Negotiation"
-  },
-  "https://huggingface.co/papers/2604.09746": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
+  "https://openai.com/index/speeding-up-agentic-workflows-with-websockets": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "CONSCIENTIA: Can LLM Agents Learn to Strategize? Emergent Deception and Trust in a Multi-Agent NYC Simulation"
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API"
   },
-  "https://huggingface.co/papers/2604.09557": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
+  "https://huggingface.co/papers/2604.19859": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding"
+    "title": "DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data"
   },
-  "https://huggingface.co/papers/2604.09574": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
+  "https://huggingface.co/papers/2604.15093": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization"
+    "title": "OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis"
   },
-  "https://huggingface.co/papers/2604.13018": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
+  "https://huggingface.co/papers/2604.20987": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "Toward Autonomous Long-Horizon Engineering for ML Research"
+    "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks"
   },
-  "https://huggingface.co/papers/2604.09443": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-16",
-    "days": 2,
-    "title": "Many-Tier Instruction Hierarchy in LLM Agents"
-  },
-  "https://huggingface.co/papers/2604.10539": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-15",
+  "https://huggingface.co/papers/2604.21375": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "IceCache: Memory-efficient KV-cache Management for Long-Sequence LLMs"
+    "title": "VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation"
   },
-  "https://openai.com/academy/prompting": {
-    "first_seen": "2026-04-15",
-    "last_seen": "2026-04-16",
-    "days": 2,
-    "title": "Prompting fundamentals"
-  },
-  "https://openai.com/index/the-next-evolution-of-the-agents-sdk": {
-    "first_seen": "2026-04-16",
-    "last_seen": "2026-04-16",
+  "https://github.com/Alishahryar1/free-claude-code": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "The next evolution of the Agents SDK"
+    "title": "Alishahryar1/free-claude-code"
   },
-  "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/": {
-    "first_seen": "2026-04-16",
-    "last_seen": "2026-04-16",
+  "https://github.com/gastownhall/beads": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "Gemma 4: Byte for byte, the most capable open models"
+    "title": "gastownhall/beads"
   },
-  "https://huggingface.co/papers/2604.09409": {
-    "first_seen": "2026-04-16",
-    "last_seen": "2026-04-16",
+  "https://github.com/ComposioHQ/awesome-codex-skills": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "Do AI Coding Agents Log Like Humans? An Empirical Study"
+    "title": "ComposioHQ/awesome-codex-skills"
   },
-  "https://huggingface.co/papers/2604.10866": {
-    "first_seen": "2026-04-16",
-    "last_seen": "2026-04-16",
+  "https://openai.com/index/scaling-codex-to-enterprises-worldwide": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models"
+    "title": "Scaling Codex to enterprises worldwide"
   },
-  "https://github.com/lsdefine/GenericAgent": {
-    "first_seen": "2026-04-16",
-    "last_seen": "2026-04-16",
+  "https://openai.com/academy/codex-automations": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "lsdefine/GenericAgent"
+    "title": "Automations"
   },
-  "https://huggingface.co/papers/2604.14116": {
-    "first_seen": "2026-04-16",
-    "last_seen": "2026-04-16",
+  "https://openai.com/academy/codex-plugins-and-skills": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration"
+    "title": "Plugins and skills"
   },
-  "https://huggingface.co/papers/2604.12890": {
-    "first_seen": "2026-04-16",
-    "last_seen": "2026-04-16",
+  "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "Towards Long-horizon Agentic Multimodal Search"
+    "title": "Using coding assistance tools to revive projects you never were going to finish"
   },
-  "https://huggingface.co/papers/2604.09497": {
-    "first_seen": "2026-04-16",
-    "last_seen": "2026-04-16",
+  "https://huggingface.co/papers/2604.16529": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "BERT-as-a-Judge: A Robust Alternative to Lexical Methods for Efficient Reference-Based LLM Evaluation"
+    "title": "Scaling Test-Time Compute for Agentic Coding"
   },
-  "https://huggingface.co/papers/2604.07429": {
-    "first_seen": "2026-04-16",
-    "last_seen": "2026-04-16",
+  "https://huggingface.co/papers/2604.20200": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents"
+    "title": "Chasing the Public Score: User Pressure and Evaluation Exploitation in Coding Agent Workflows"
   },
-  "https://huggingface.co/papers/2604.13201": {
-    "first_seen": "2026-04-16",
-    "last_seen": "2026-04-16",
+  "https://huggingface.co/papers/2604.19572": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "InfiniteScienceGym: An Unbounded, Procedurally-Generated Benchmark for Scientific Analysis"
+    "title": "A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression"
   },
-  "https://github.com/macOS26/Agent": {
-    "first_seen": "2026-04-16",
-    "last_seen": "2026-04-16",
+  "https://github.com/abhigyanpatwari/GitNexus": {
+    "first_seen": "2026-04-26",
+    "last_seen": "2026-04-26",
     "days": 1,
-    "title": "Agent - Native Mac OS X coding ide/harness"
-  },
-  "https://huggingface.co/papers/2604.05278": {
-    "first_seen": "2026-04-16",
-    "last_seen": "2026-04-16",
-    "days": 1,
-    "title": "Spec Kit Agents: Context-Grounded Agentic Workflows"
+    "title": "abhigyanpatwari/GitNexus"
   }
 }

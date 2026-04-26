@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-04-26T21:15:13+09:00",
+  "items": [
+    {
+      "id": "hn:47907879",
+      "title": "The West forgot how to make things, now it’s forgetting how to code",
+      "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+      "description": "",
+      "signals": {
+        "points": 532,
+        "num_comments": 312,
+        "discussion_url": "https://news.ycombinator.com/item?id=47907879"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47903126",
+      "title": "Amateur armed with ChatGPT solves an Erdős problem",
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "description": "",
+      "signals": {
+        "points": 441,
+        "num_comments": 280,
+        "discussion_url": "https://news.ycombinator.com/item?id=47903126"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47904876",
+      "title": "USB Cheat Sheet (2022)",
+      "url": "https://fabiensanglard.net/usbcheat/index.html",
+      "description": "",
+      "signals": {
+        "points": 359,
+        "num_comments": 65,
+        "discussion_url": "https://news.ycombinator.com/item?id=47904876"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47860198",
+      "title": "The Free Universal Construction Kit",
+      "url": "https://fffff.at/free-universal-construction-kit/",
+      "description": "",
+      "signals": {
+        "points": 326,
+        "num_comments": 71,
+        "discussion_url": "https://news.ycombinator.com/item?id=47860198"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47906253",
+      "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+      "url": "https://news.ycombinator.com/item?id=47906253",
+      "description": "",
+      "signals": {
+        "points": 316,
+        "num_comments": 124,
+        "discussion_url": "https://news.ycombinator.com/item?id=47906253"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47902525",
+      "title": "Using coding assistance tools to revive projects you never were going to finish",
+      "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+      "description": "",
+      "signals": {
+        "points": 281,
+        "num_comments": 176,
+        "discussion_url": "https://news.ycombinator.com/item?id=47902525"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47905984",
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "description": "",
+      "signals": {
+        "points": 263,
+        "num_comments": 159,
+        "discussion_url": "https://news.ycombinator.com/item?id=47905984"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47870901",
+      "title": "OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "description": "",
+      "signals": {
+        "points": 229,
+        "num_comments": 45,
+        "discussion_url": "https://news.ycombinator.com/item?id=47870901"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47907130",
+      "title": "EU Age Control: The trojan horse for digital IDs",
+      "url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
+      "description": "",
+      "signals": {
+        "points": 211,
+        "num_comments": 110,
+        "discussion_url": "https://news.ycombinator.com/item?id=47907130"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47866127",
+      "title": "The Joy of Folding Bikes",
+      "url": "https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes",
+      "description": "",
+      "signals": {
+        "points": 190,
+        "num_comments": 126,
+        "discussion_url": "https://news.ycombinator.com/item?id=47866127"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47867473",
+      "title": "Flickr: The first and last great photo platform",
+      "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
+      "description": "",
+      "signals": {
+        "points": 190,
+        "num_comments": 88,
+        "discussion_url": "https://news.ycombinator.com/item?id=47867473"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47902987",
+      "title": "Simulacrum of Knowledge Work",
+      "url": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
+      "description": "",
+      "signals": {
+        "points": 158,
+        "num_comments": 64,
+        "discussion_url": "https://news.ycombinator.com/item?id=47902987"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47876930",
+      "title": "Math Is Hard – OpenBSD Stories",
+      "url": "http://miod.online.fr/software/openbsd/stories/vaxfp.html",
+      "description": "",
+      "signals": {
+        "points": 126,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=47876930"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47902993",
+      "title": "Hokusai and Tesselations",
+      "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+      "description": "",
+      "signals": {
+        "points": 119,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=47902993"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47903945",
+      "title": "America's Geothermal Breakthrough",
+      "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
+      "description": "",
+      "signals": {
+        "points": 117,
+        "num_comments": 138,
+        "discussion_url": "https://news.ycombinator.com/item?id=47903945"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47885239",
+      "title": "Mahjong: A Visual Guide",
+      "url": "https://themahjong.guide/",
+      "description": "",
+      "signals": {
+        "points": 114,
+        "num_comments": 32,
+        "discussion_url": "https://news.ycombinator.com/item?id=47885239"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47907018",
+      "title": "GnuPG – post-quantum crypto landing in mainline",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+      "description": "",
+      "signals": {
+        "points": 88,
+        "num_comments": 30,
+        "discussion_url": "https://news.ycombinator.com/item?id=47907018"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47906161",
+      "title": "The Super Nintendo Cartridges (2024)",
+      "url": "https://fabiensanglard.net/snes_carts/",
+      "description": "",
+      "signals": {
+        "points": 78,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=47906161"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47908433",
+      "title": "Eden AI – European Alternative to OpenRouter",
+      "url": "https://www.edenai.co",
+      "description": "",
+      "signals": {
+        "points": 68,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=47908433"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47908833",
+      "title": "Statecharts: hierarchical state machines",
+      "url": "https://statecharts.dev/",
+      "description": "",
+      "signals": {
+        "points": 57,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=47908833"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47898660",
+      "title": "Quirks of Human Anatomy",
+      "url": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
+      "description": "",
+      "signals": {
+        "points": 44,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=47898660"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47876071",
+      "title": "Show HN: Turning a Gaussian Splat into a videogame",
+      "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
+      "description": "",
+      "signals": {
+        "points": 44,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=47876071"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47877277",
+      "title": "I spent 6 years building my Kanban as I hated how managers run the boards",
+      "url": "https://www.npmjs.com/package/ooko",
+      "description": "",
+      "signals": {
+        "points": 41,
+        "num_comments": 34,
+        "discussion_url": "https://news.ycombinator.com/item?id=47877277"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47908139",
+      "title": "Exposing Floating Point – Bartosz Ciechanowski (2019)",
+      "url": "https://ciechanow.ski/exposing-floating-point/",
+      "description": "",
+      "signals": {
+        "points": 40,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=47908139"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47877811",
+      "title": "The route from Prussian military headquarters to Gary Gygax’s basement",
+      "url": "https://asteriskmag.com/issues/14/shall-we-play-a-game",
+      "description": "",
+      "signals": {
+        "points": 37,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=47877811"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47908166",
+      "title": "APL is more French than English",
+      "url": "https://www.jsoftware.com/papers/perlis78.htm",
+      "description": "",
+      "signals": {
+        "points": 23,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=47908166"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47908158",
+      "title": "The Knight Programming Language",
+      "url": "https://github.com/knight-lang/knight-lang/tree/master",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=47908158"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47320921",
+      "title": "Making your JITted Code known: Let me count the ways",
+      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47320921"
+      },
+      "category_hint": null
+    }
+  ]
+}

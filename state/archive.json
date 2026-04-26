@@ -38,5 +38,25 @@
   "https://github.com/lsdefine/GenericAgent": {
     "archived_on": "2026-04-16",
     "title": "lsdefine/GenericAgent"
+  },
+  "https://openai.com/index/introducing-gpt-5-5": {
+    "archived_on": "2026-04-26",
+    "title": "Introducing GPT-5.5"
+  },
+  "https://github.com/mattpocock/skills": {
+    "archived_on": "2026-04-26",
+    "title": "mattpocock/skills"
+  },
+  "https://openai.com/index/introducing-workspace-agents-in-chatgpt": {
+    "archived_on": "2026-04-26",
+    "title": "Introducing workspace agents in ChatGPT"
+  },
+  "https://openai.com/index/codex-for-almost-everything": {
+    "archived_on": "2026-04-26",
+    "title": "Codex for (almost) everything"
+  },
+  "https://github.com/trycua/cua": {
+    "archived_on": "2026-04-26",
+    "title": "trycua/cua"
   }
 }

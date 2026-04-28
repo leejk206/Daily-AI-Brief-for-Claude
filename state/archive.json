@@ -58,5 +58,25 @@
   "https://github.com/trycua/cua": {
     "archived_on": "2026-04-26",
     "title": "trycua/cua"
+  },
+  "https://openai.com/index/openai-on-aws": {
+    "archived_on": "2026-04-29",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS"
+  },
+  "https://openai.com/index/open-source-codex-orchestration-symphony": {
+    "archived_on": "2026-04-29",
+    "title": "An open-source spec for orchestration: Symphony"
+  },
+  "https://huggingface.co/papers/2604.23781": {
+    "archived_on": "2026-04-29",
+    "title": "ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents"
+  },
+  "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/": {
+    "archived_on": "2026-04-29",
+    "title": "A playable DOOM MCP app"
+  },
+  "https://huggingface.co/papers/2604.22294": {
+    "archived_on": "2026-04-29",
+    "title": "Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets"
   }
 }

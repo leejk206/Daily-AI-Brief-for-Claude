@@ -30,8 +30,8 @@
     "title": "trycua/cua"
   },
   "https://openai.com/index/speeding-up-agentic-workflows-with-websockets": {
-    "first_seen": "2026-04-26",
-    "last_seen": "2026-04-26",
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
     "days": 1,
     "title": "Speeding up agentic workflows with WebSockets in the Responses API"
   },
@@ -60,8 +60,8 @@
     "title": "VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation"
   },
   "https://github.com/Alishahryar1/free-claude-code": {
-    "first_seen": "2026-04-26",
-    "last_seen": "2026-04-26",
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
     "days": 1,
     "title": "Alishahryar1/free-claude-code"
   },
@@ -72,8 +72,8 @@
     "title": "gastownhall/beads"
   },
   "https://github.com/ComposioHQ/awesome-codex-skills": {
-    "first_seen": "2026-04-26",
-    "last_seen": "2026-04-26",
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
     "days": 1,
     "title": "ComposioHQ/awesome-codex-skills"
   },
@@ -84,14 +84,14 @@
     "title": "Scaling Codex to enterprises worldwide"
   },
   "https://openai.com/academy/codex-automations": {
-    "first_seen": "2026-04-26",
-    "last_seen": "2026-04-26",
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
     "days": 1,
     "title": "Automations"
   },
   "https://openai.com/academy/codex-plugins-and-skills": {
-    "first_seen": "2026-04-26",
-    "last_seen": "2026-04-26",
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
     "days": 1,
     "title": "Plugins and skills"
   },
@@ -120,9 +120,159 @@
     "title": "A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression"
   },
   "https://github.com/abhigyanpatwari/GitNexus": {
-    "first_seen": "2026-04-26",
-    "last_seen": "2026-04-26",
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
     "days": 1,
     "title": "abhigyanpatwari/GitNexus"
+  },
+  "https://openai.com/index/openai-on-aws": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS"
+  },
+  "https://openai.com/index/open-source-codex-orchestration-symphony": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "An open-source spec for orchestration: Symphony"
+  },
+  "https://huggingface.co/papers/2604.23781": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents"
+  },
+  "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "A playable DOOM MCP app"
+  },
+  "https://huggingface.co/papers/2604.22294": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets"
+  },
+  "https://huggingface.co/papers/2604.22446": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company"
+  },
+  "https://huggingface.co/papers/2604.19548": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment"
+  },
+  "https://openai.com/academy/workspace-agents": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "Workspace agents"
+  },
+  "https://huggingface.co/papers/2604.22436": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild"
+  },
+  "https://huggingface.co/papers/2604.21480": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "Efficient Agent Evaluation via Diversity-Guided User Simulation"
+  },
+  "https://huggingface.co/papers/2604.23099": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation"
+  },
+  "https://github.com/davila7/claude-code-templates": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "davila7/claude-code-templates"
+  },
+  "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "Who owns the code Claude Code wrote?"
+  },
+  "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "GitHub Copilot code review will start consuming GitHub Actions minutes"
+  },
+  "https://poolside.ai/blog/laguna-a-deeper-dive": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "Laguna XS.2 and M.1"
+  },
+  "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all"
+  },
+  "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs"
+  },
+  "https://openai.com/academy/top-10-use-cases-codex-for-work": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "Top 10 uses for Codex at work"
+  },
+  "https://openai.com/academy/what-is-codex": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "What is Codex?"
+  },
+  "https://openai.com/academy/codex-how-to-start": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "How to get started with Codex"
+  },
+  "https://openai.com/academy/codex-settings": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "Codex settings"
+  },
+  "https://openai.com/academy/working-with-codex": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "Working with Codex"
+  },
+  "https://huggingface.co/papers/2604.22085": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents"
+  },
+  "https://huggingface.co/papers/2604.16353": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "AgriIR: A Scalable Framework for Domain-Specific Knowledge Retrieval"
+  },
+  "https://huggingface.co/papers/2604.22565": {
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "days": 1,
+    "title": "Learning Evidence Highlighting for Frozen LLMs"
   }
 }

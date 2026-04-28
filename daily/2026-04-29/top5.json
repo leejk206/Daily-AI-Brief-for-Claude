@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://openai.com/index/openai-on-aws",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS"
+  },
+  {
+    "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "title": "An open-source spec for orchestration: Symphony"
+  },
+  {
+    "url": "https://huggingface.co/papers/2604.23781",
+    "title": "ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents"
+  },
+  {
+    "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+    "title": "A playable DOOM MCP app"
+  },
+  {
+    "url": "https://huggingface.co/papers/2604.22294",
+    "title": "Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets"
+  }
+]

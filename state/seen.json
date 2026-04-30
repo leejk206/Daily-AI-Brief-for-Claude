@@ -274,5 +274,119 @@
     "last_seen": "2026-04-29",
     "days": 1,
     "title": "Learning Evidence Highlighting for Frozen LLMs"
+  },
+  "https://github.com/warpdotdev/warp": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "warpdotdev/warp"
+  },
+  "https://github.com/TauricResearch/TradingAgents": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "TauricResearch/TradingAgents"
+  },
+  "https://twitter.com/theo/status/2049645973350363168": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\""
+  },
+  "https://huggingface.co/papers/2604.25917": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "Recursive Multi-Agent Systems"
+  },
+  "https://huggingface.co/papers/2604.25914": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios"
+  },
+  "https://github.com/browserbase/skills": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "browserbase/skills"
+  },
+  "https://huggingface.co/papers/2604.25135": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments"
+  },
+  "https://huggingface.co/papers/2604.26904": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents"
+  },
+  "https://huggingface.co/papers/2604.24005": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents"
+  },
+  "https://huggingface.co/papers/2604.23941": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction"
+  },
+  "https://huggingface.co/papers/2604.26752": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents"
+  },
+  "https://huggingface.co/papers/2604.23772": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "PageGuide: Browser extension to assist users in navigating a webpage and locating information"
+  },
+  "https://huggingface.co/papers/2604.21003": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "The Last Harness You'll Ever Build"
+  },
+  "https://huggingface.co/papers/2604.25256": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery"
+  },
+  "https://huggingface.co/papers/2604.24441": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark"
+  },
+  "https://github.com/1jehuang/jcode": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "1jehuang/jcode"
+  },
+  "https://simonwillison.net/2026/Apr/30/zig-anti-ai/": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "The Zig project's rationale for their anti-AI contribution policy"
+  },
+  "https://huggingface.co/poolside/Laguna-XS.2": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "poolside/Laguna-XS.2"
+  },
+  "https://huggingface.co/papers/2604.25727": {
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "days": 1,
+    "title": "Toward Scalable Terminal Task Synthesis via Skill Graphs"
   }
 }

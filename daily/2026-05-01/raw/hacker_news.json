@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-01T05:28:12+09:00",
+  "items": [
+    {
+      "id": "hn:47957688",
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "description": "",
+      "signals": {
+        "points": 998,
+        "num_comments": 600,
+        "discussion_url": "https://news.ycombinator.com/item?id=47957688"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47963204",
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "url": "https://twitter.com/theo/status/2049645973350363168",
+      "description": "",
+      "signals": {
+        "points": 689,
+        "num_comments": 405,
+        "discussion_url": "https://news.ycombinator.com/item?id=47963204"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47961319",
+      "title": "Belgium stops decommissioning nuclear power plants",
+      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+      "description": "",
+      "signals": {
+        "points": 666,
+        "num_comments": 580,
+        "discussion_url": "https://news.ycombinator.com/item?id=47961319"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47957294",
+      "title": "The Zig project's rationale for their anti-AI contribution policy",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "description": "",
+      "signals": {
+        "points": 618,
+        "num_comments": 401,
+        "discussion_url": "https://news.ycombinator.com/item?id=47957294"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47959463",
+      "title": "Mozilla's opposition to Chrome's Prompt API",
+      "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
+      "description": "",
+      "signals": {
+        "points": 491,
+        "num_comments": 196,
+        "discussion_url": "https://news.ycombinator.com/item?id=47959463"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47964034",
+      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+      "description": "",
+      "signals": {
+        "points": 312,
+        "num_comments": 141,
+        "discussion_url": "https://news.ycombinator.com/item?id=47964034"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47965060",
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "description": "",
+      "signals": {
+        "points": 289,
+        "num_comments": 77,
+        "discussion_url": "https://news.ycombinator.com/item?id=47965060"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47960507",
+      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+      "description": "",
+      "signals": {
+        "points": 251,
+        "num_comments": 160,
+        "discussion_url": "https://news.ycombinator.com/item?id=47960507"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47962548",
+      "title": "How an oil refinery works",
+      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "description": "",
+      "signals": {
+        "points": 242,
+        "num_comments": 57,
+        "discussion_url": "https://news.ycombinator.com/item?id=47962548"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47965108",
+      "title": "CopyFail was not disclosed to Gentoo developer",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "description": "",
+      "signals": {
+        "points": 236,
+        "num_comments": 148,
+        "discussion_url": "https://news.ycombinator.com/item?id=47965108"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47964617",
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "description": "",
+      "signals": {
+        "points": 231,
+        "num_comments": 74,
+        "discussion_url": "https://news.ycombinator.com/item?id=47964617"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47961378",
+      "title": "I aggregated 28 US Government auction sites into one search",
+      "url": "https://bidprowl.com",
+      "description": "",
+      "signals": {
+        "points": 201,
+        "num_comments": 62,
+        "discussion_url": "https://news.ycombinator.com/item?id=47961378"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47924912",
+      "title": "You can beat the binary search",
+      "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
+      "description": "",
+      "signals": {
+        "points": 184,
+        "num_comments": 91,
+        "discussion_url": "https://news.ycombinator.com/item?id=47924912"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47963316",
+      "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
+      "url": "https://honker.dev/",
+      "description": "",
+      "signals": {
+        "points": 124,
+        "num_comments": 27,
+        "discussion_url": "https://news.ycombinator.com/item?id=47963316"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47933934",
+      "title": "A Primer on Bézier Curves – So What Makes a Bézier Curve?",
+      "url": "https://pomax.github.io/bezierinfo/",
+      "description": "",
+      "signals": {
+        "points": 111,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=47933934"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47965503",
+      "title": "I built a Game Boy emulator in F#",
+      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "description": "",
+      "signals": {
+        "points": 109,
+        "num_comments": 28,
+        "discussion_url": "https://news.ycombinator.com/item?id=47965503"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47947944",
+      "title": "10Gb/s Ethernet: what I did to get it working in my home",
+      "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
+      "description": "",
+      "signals": {
+        "points": 82,
+        "num_comments": 60,
+        "discussion_url": "https://news.ycombinator.com/item?id=47947944"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47967289",
+      "title": "U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets",
+      "url": "https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd",
+      "description": "",
+      "signals": {
+        "points": 62,
+        "num_comments": 27,
+        "discussion_url": "https://news.ycombinator.com/item?id=47967289"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47963868",
+      "title": "A 1960s art school experiment that redefined creativity",
+      "url": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
+      "description": "",
+      "signals": {
+        "points": 57,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=47963868"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47960778",
+      "title": "1.4 GW: battery storage at former Grohnde nuclear power plant",
+      "url": "https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html",
+      "description": "",
+      "signals": {
+        "points": 41,
+        "num_comments": 45,
+        "discussion_url": "https://news.ycombinator.com/item?id=47960778"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47966625",
+      "title": "Does Postgres Scale?",
+      "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+      "description": "",
+      "signals": {
+        "points": 30,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=47966625"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47966530",
+      "title": "If Apple makes an iPad Neo, it's all over",
+      "url": "https://www.techadvisor.com/article/3128472/if-apple-makes-an-ipad-neo-its-all-over.html",
+      "description": "",
+      "signals": {
+        "points": 26,
+        "num_comments": 34,
+        "discussion_url": "https://news.ycombinator.com/item?id=47966530"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47966254",
+      "title": "Full-Text Search with DuckDB",
+      "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+      "description": "",
+      "signals": {
+        "points": 25,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=47966254"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47965161",
+      "title": "Show HN: TRiP – a complete transformer engine in C built from scratch just by me",
+      "url": "https://github.com/carlovalenti/TRiP",
+      "description": "",
+      "signals": {
+        "points": 25,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=47965161"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47965835",
+      "title": "Recovering files from beyond the grave using PhotoRec",
+      "url": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
+      "description": "",
+      "signals": {
+        "points": 22,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=47965835"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47937814",
+      "title": "Reverse Engineering SimTower",
+      "url": "https://phulin.me/blog/simtower",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47937814"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47937611",
+      "title": "How Semiconductors Were Made in America",
+      "url": "https://www.siliconimist.com/p/semiconductors-made-in-america",
+      "description": "",
+      "signals": {
+        "points": 20,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=47937611"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47965227",
+      "title": "Kubereboot/Kured: Kubernetes Reboot Daemon",
+      "url": "https://github.com/kubereboot/kured",
+      "description": "",
+      "signals": {
+        "points": 15,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=47965227"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47967069",
+      "title": "Follow-up to Carrot disclosure: Forgejo",
+      "url": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
+      "description": "",
+      "signals": {
+        "points": 11,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=47967069"
+      },
+      "category_hint": null
+    }
+  ]
+}

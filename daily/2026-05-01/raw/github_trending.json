@@ -1,0 +1,162 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-05-01T05:28:11+09:00",
+  "items": [
+    {
+      "id": "github:warpdotdev/warp",
+      "title": "warpdotdev/warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "signals": {
+        "stars": 48821,
+        "stars_today": 8262,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "signals": {
+        "stars": 57387,
+        "stars_today": 2203,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:mattpocock/skills",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "signals": {
+        "stars": 48955,
+        "stars_today": 6175,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:obra/superpowers",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "signals": {
+        "stars": 174438,
+        "stars_today": 1623,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:lukilabs/craft-agents-oss",
+      "title": "lukilabs/craft-agents-oss",
+      "url": "https://github.com/lukilabs/craft-agents-oss",
+      "description": "",
+      "signals": {
+        "stars": 5536,
+        "stars_today": 314,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:public-apis/public-apis",
+      "title": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "signals": {
+        "stars": 429389,
+        "stars_today": 307,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:1jehuang/jcode",
+      "title": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "signals": {
+        "stars": 1832,
+        "stars_today": 670,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:soxoj/maigret",
+      "title": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "signals": {
+        "stars": 20747,
+        "stars_today": 723,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:HunxByts/GhostTrack",
+      "title": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "signals": {
+        "stars": 12107,
+        "stars_today": 830,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:iamgio/quarkdown",
+      "title": "iamgio/quarkdown",
+      "url": "https://github.com/iamgio/quarkdown",
+      "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+      "signals": {
+        "stars": 12966,
+        "stars_today": 350,
+        "language": "Kotlin"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ghostty-org/ghostty",
+      "title": "ghostty-org/ghostty",
+      "url": "https://github.com/ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "signals": {
+        "stars": 52761,
+        "stars_today": 379,
+        "language": "Zig"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ForrestKnight/open-source-cs",
+      "title": "ForrestKnight/open-source-cs",
+      "url": "https://github.com/ForrestKnight/open-source-cs",
+      "description": "Video discussing this curriculum:",
+      "signals": {
+        "stars": 22345,
+        "stars_today": 133,
+        "language": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:browserbase/skills",
+      "title": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "signals": {
+        "stars": 785,
+        "stars_today": 54,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    }
+  ]
+}

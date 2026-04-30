@@ -78,5 +78,25 @@
   "https://huggingface.co/papers/2604.22294": {
     "archived_on": "2026-04-29",
     "title": "Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets"
+  },
+  "https://github.com/warpdotdev/warp": {
+    "archived_on": "2026-05-01",
+    "title": "warpdotdev/warp"
+  },
+  "https://github.com/TauricResearch/TradingAgents": {
+    "archived_on": "2026-05-01",
+    "title": "TauricResearch/TradingAgents"
+  },
+  "https://twitter.com/theo/status/2049645973350363168": {
+    "archived_on": "2026-05-01",
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\""
+  },
+  "https://huggingface.co/papers/2604.25917": {
+    "archived_on": "2026-05-01",
+    "title": "Recursive Multi-Agent Systems"
+  },
+  "https://huggingface.co/papers/2604.25914": {
+    "archived_on": "2026-05-01",
+    "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios"
   }
 }

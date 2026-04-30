@@ -1,0 +1,446 @@
+{
+  "source": "release_blogs",
+  "fetched_at": "2026-05-01T05:28:14+09:00",
+  "items": [
+    {
+      "id": "rss:openai:https://openai.com/index/advanced-account-security",
+      "title": "Introducing Advanced Account Security",
+      "url": "https://openai.com/index/advanced-account-security",
+      "description": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 30 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/where-the-goblins-came-from",
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "description": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 29 Apr 2026 20:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "description": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 29 Apr 2026 15:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "title": "Cybersecurity in the Intelligence Age",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 29 Apr 2026 04:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/openai-on-aws",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Tue, 28 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/our-commitment-to-community-safety",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Tue, 28 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/openai-available-at-fedramp-moderate",
+      "title": "OpenAI available at FedRAMP Moderate",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "description": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Mon, 27 Apr 2026 14:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/next-phase-of-microsoft-partnership",
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "description": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Mon, 27 Apr 2026 06:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/open-source-codex-orchestration-symphony",
+      "title": "An open-source spec for orchestration: Symphony",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "description": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Mon, 27 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/choco",
+      "title": "Choco automates food distribution with AI agents",
+      "url": "https://openai.com/index/choco",
+      "description": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Mon, 27 Apr 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/our-principles",
+      "title": "Our principles",
+      "url": "https://openai.com/index/our-principles",
+      "description": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Sun, 26 Apr 2026 16:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/gpt-5-5-system-card",
+      "title": "GPT-5.5 System Card",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "description": "",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 23 Apr 2026 11:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/introducing-gpt-5-5",
+      "title": "Introducing GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "description": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 23 Apr 2026 11:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/what-is-codex",
+      "title": "What is Codex?",
+      "url": "https://openai.com/academy/what-is-codex",
+      "description": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 23 Apr 2026 10:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/codex-how-to-start",
+      "title": "How to get started with Codex",
+      "url": "https://openai.com/academy/codex-how-to-start",
+      "description": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 23 Apr 2026 10:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/codex-settings",
+      "title": "Codex settings",
+      "url": "https://openai.com/academy/codex-settings",
+      "description": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 23 Apr 2026 10:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/working-with-codex",
+      "title": "Working with Codex",
+      "url": "https://openai.com/academy/working-with-codex",
+      "description": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 23 Apr 2026 10:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/codex-plugins-and-skills",
+      "title": "Plugins and skills",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "description": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 23 Apr 2026 10:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "title": "Top 10 uses for Codex at work",
+      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "description": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 23 Apr 2026 10:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/academy/codex-automations",
+      "title": "Automations",
+      "url": "https://openai.com/academy/codex-automations",
+      "description": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 23 Apr 2026 10:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/ai-co-clinician/",
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "url": "https://deepmind.google/blog/ai-co-clinician/",
+      "description": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 30 Apr 2026 12:14:15 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "title": "Announcing our partnership with the Republic of Korea",
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "description": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Mon, 27 Apr 2026 07:00:06 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/decoupled-diloco/",
+      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+      "url": "https://deepmind.google/blog/decoupled-diloco/",
+      "description": "",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Wed, 22 Apr 2026 10:20:03 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+      "title": "Partnering with industry leaders to accelerate AI transformation",
+      "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+      "description": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 21 Apr 2026 14:54:15 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+      "description": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Wed, 15 Apr 2026 16:03:19 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-robotics-er-1-6/",
+      "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+      "description": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Mon, 13 Apr 2026 15:52:13 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+      "description": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 02 Apr 2026 16:00:49 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "description": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 26 Mar 2026 15:23:35 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+      "title": "Protecting people from harmful manipulation",
+      "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+      "description": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Wed, 25 Mar 2026 16:46:20 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+      "title": "Lyria 3 Pro: Create longer tracks in more",
+      "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+      "description": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Wed, 25 Mar 2026 16:01:39 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+      "title": "Measuring progress toward AGI: A cognitive framework",
+      "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+      "description": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 17 Mar 2026 16:03:47 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/10-years-of-alphago/",
+      "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+      "url": "https://deepmind.google/blog/10-years-of-alphago/",
+      "description": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Mon, 09 Mar 2026 13:52:36 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+      "description": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 03 Mar 2026 16:35:55 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+      "description": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 26 Feb 2026 16:01:50 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+      "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+      "description": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 19 Feb 2026 16:06:14 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+      "title": "A new way to express yourself: Gemini can now create music",
+      "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+      "description": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Wed, 18 Feb 2026 16:01:38 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+      "title": "Accelerating discovery in India through AI-powered science and education",
+      "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+      "description": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 17 Feb 2026 13:42:20 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+      "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+      "description": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 12 Feb 2026 16:15:09 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+      "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+      "description": "Research papers point to the growing impact of Deep Think across fields",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Mon, 09 Feb 2026 16:12:06 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+      "description": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 29 Jan 2026 17:01:05 +0000"
+      },
+      "category_hint": null
+    }
+  ]
+}

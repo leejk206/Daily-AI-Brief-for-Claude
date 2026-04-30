@@ -1,0 +1,21 @@
+[
+  {"url": "https://github.com/warpdotdev/warp", "title": "warpdotdev/warp"},
+  {"url": "https://github.com/TauricResearch/TradingAgents", "title": "TauricResearch/TradingAgents"},
+  {"url": "https://twitter.com/theo/status/2049645973350363168", "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\""},
+  {"url": "https://huggingface.co/papers/2604.25917", "title": "Recursive Multi-Agent Systems"},
+  {"url": "https://huggingface.co/papers/2604.25914", "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios"},
+  {"url": "https://github.com/browserbase/skills", "title": "browserbase/skills"},
+  {"url": "https://huggingface.co/papers/2604.25135", "title": "FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments"},
+  {"url": "https://huggingface.co/papers/2604.26904", "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents"},
+  {"url": "https://huggingface.co/papers/2604.24005", "title": "TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents"},
+  {"url": "https://huggingface.co/papers/2604.23941", "title": "GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction"},
+  {"url": "https://huggingface.co/papers/2604.26752", "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents"},
+  {"url": "https://huggingface.co/papers/2604.23772", "title": "PageGuide: Browser extension to assist users in navigating a webpage and locating information"},
+  {"url": "https://huggingface.co/papers/2604.21003", "title": "The Last Harness You'll Ever Build"},
+  {"url": "https://huggingface.co/papers/2604.25256", "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery"},
+  {"url": "https://huggingface.co/papers/2604.24441", "title": "AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark"},
+  {"url": "https://github.com/1jehuang/jcode", "title": "1jehuang/jcode"},
+  {"url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/", "title": "The Zig project's rationale for their anti-AI contribution policy"},
+  {"url": "https://huggingface.co/poolside/Laguna-XS.2", "title": "poolside/Laguna-XS.2"},
+  {"url": "https://huggingface.co/papers/2604.25727", "title": "Toward Scalable Terminal Task Synthesis via Skill Graphs"}
+]

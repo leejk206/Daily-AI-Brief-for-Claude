@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-02T16:04:37+09:00",
+  "items": [
+    {
+      "id": "hn:47977134",
+      "title": "The gay jailbreak technique (2025)",
+      "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+      "description": "",
+      "signals": {
+        "points": 484,
+        "num_comments": 197,
+        "discussion_url": "https://news.ycombinator.com/item?id=47977134"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47972511",
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "url": "https://github.com/darrylmorley/whatcable",
+      "description": "",
+      "signals": {
+        "points": 483,
+        "num_comments": 139,
+        "discussion_url": "https://news.ycombinator.com/item?id=47972511"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47979583",
+      "title": "Ti-84 Evo",
+      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "description": "",
+      "signals": {
+        "points": 413,
+        "num_comments": 367,
+        "discussion_url": "https://news.ycombinator.com/item?id=47979583"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47978370",
+      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "description": "",
+      "signals": {
+        "points": 380,
+        "num_comments": 105,
+        "discussion_url": "https://news.ycombinator.com/item?id=47978370"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47977748",
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "description": "",
+      "signals": {
+        "points": 310,
+        "num_comments": 175,
+        "discussion_url": "https://news.ycombinator.com/item?id=47977748"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47975571",
+      "title": "Ask HN: Who is hiring? (May 2026)",
+      "url": "https://news.ycombinator.com/item?id=47975571",
+      "description": "",
+      "signals": {
+        "points": 253,
+        "num_comments": 269,
+        "discussion_url": "https://news.ycombinator.com/item?id=47975571"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47983226",
+      "title": "Ask.com has closed",
+      "url": "https://www.ask.com/",
+      "description": "",
+      "signals": {
+        "points": 200,
+        "num_comments": 102,
+        "discussion_url": "https://news.ycombinator.com/item?id=47983226"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47954394",
+      "title": "Artemis II Photo Timeline",
+      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+      "description": "",
+      "signals": {
+        "points": 163,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=47954394"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47950070",
+      "title": "The smelly baby problem",
+      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+      "description": "",
+      "signals": {
+        "points": 161,
+        "num_comments": 104,
+        "discussion_url": "https://news.ycombinator.com/item?id=47950070"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47976566",
+      "title": "Apocalypse Early Warning System",
+      "url": "https://ews.kylemcdonald.net/",
+      "description": "",
+      "signals": {
+        "points": 157,
+        "num_comments": 84,
+        "discussion_url": "https://news.ycombinator.com/item?id=47976566"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47975676",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "url": "https://news.ycombinator.com/item?id=47975676",
+      "description": "",
+      "signals": {
+        "points": 150,
+        "num_comments": 211,
+        "discussion_url": "https://news.ycombinator.com/item?id=47975676"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47982512",
+      "title": "Job Postings for Software Engineers Are Rapidly Rising",
+      "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+      "description": "",
+      "signals": {
+        "points": 136,
+        "num_comments": 69,
+        "discussion_url": "https://news.ycombinator.com/item?id=47982512"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47975592",
+      "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
+      "url": "https://github.com/whohas/whohas",
+      "description": "",
+      "signals": {
+        "points": 136,
+        "num_comments": 32,
+        "discussion_url": "https://news.ycombinator.com/item?id=47975592"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47978834",
+      "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+      "url": "https://github.com/microsoft/lib0xc",
+      "description": "",
+      "signals": {
+        "points": 132,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=47978834"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47955789",
+      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+      "description": "",
+      "signals": {
+        "points": 126,
+        "num_comments": 163,
+        "discussion_url": "https://news.ycombinator.com/item?id=47955789"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47979190",
+      "title": "Whimsical Animations Course Open House",
+      "url": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
+      "description": "",
+      "signals": {
+        "points": 87,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=47979190"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47983352",
+      "title": "Why does it take so long to release black fan versions?",
+      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "description": "",
+      "signals": {
+        "points": 67,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=47983352"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47981669",
+      "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+      "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
+      "description": "",
+      "signals": {
+        "points": 60,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=47981669"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47949794",
+      "title": "To Restore an Island Paradise, Add Fungi",
+      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
+      "description": "",
+      "signals": {
+        "points": 46,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=47949794"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47982708",
+      "title": "I built the Playwright for desktop apps. 80% token savings",
+      "url": "https://github.com/lahfir/agent-desktop",
+      "description": "",
+      "signals": {
+        "points": 45,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=47982708"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47952773",
+      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+      "url": "https://www.nature.com/articles/s41467-026-71526-5",
+      "description": "",
+      "signals": {
+        "points": 42,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=47952773"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47944409",
+      "title": "Tvheadend: Self-Hosted IPTV Server",
+      "url": "https://tvheadend.org",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=47944409"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47983176",
+      "title": "K3k: Kubernetes in Kubernetes",
+      "url": "https://github.com/rancher/k3k",
+      "description": "",
+      "signals": {
+        "points": 24,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=47983176"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47957648",
+      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
+      "url": "https://www.liquid.ai/blog/lfm2-24b-a2b",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=47957648"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47939149",
+      "title": "Sourcefeed – a pop-up RSS service",
+      "url": "https://www.sourcefeed.app/",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=47939149"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47982763",
+      "title": "Create an MP4 video of a web page scrolling at a steady speed",
+      "url": "https://github.com/upenn/web-scroll-video",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=47982763"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47956671",
+      "title": "Integer Overflow Checking Cost",
+      "url": "https://danluu.com/integer-overflow/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=47956671"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47983873",
+      "title": "Spirit Airlines Is Winding Down All Operations",
+      "url": "https://www.spiritrestructuring.com/",
+      "description": "",
+      "signals": {
+        "points": 11,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=47983873"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47959907",
+      "title": "Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity",
+      "url": "https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/",
+      "description": "",
+      "signals": {
+        "points": 10,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=47959907"
+      },
+      "category_hint": null
+    }
+  ]
+}

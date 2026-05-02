@@ -98,5 +98,25 @@
   "https://huggingface.co/papers/2604.25914": {
     "archived_on": "2026-05-01",
     "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios"
+  },
+  "https://github.com/simstudioai/sim": {
+    "archived_on": "2026-05-02",
+    "title": "simstudioai/sim"
+  },
+  "https://huggingface.co/papers/2604.27351": {
+    "archived_on": "2026-05-02",
+    "title": "Heterogeneous Scientific Foundation Model Collaboration"
+  },
+  "https://huggingface.co/papers/2604.28139": {
+    "archived_on": "2026-05-02",
+    "title": "Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows"
+  },
+  "https://huggingface.co/papers/2604.27151": {
+    "archived_on": "2026-05-02",
+    "title": "Step-level Optimization for Efficient Computer-use Agents"
+  },
+  "https://github.com/1jehuang/jcode": {
+    "archived_on": "2026-05-02",
+    "title": "1jehuang/jcode"
   }
 }

@@ -1,0 +1,114 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-05-02T16:04:37+09:00",
+  "items": [
+    {
+      "id": "github:TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "signals": {
+        "stars": 60354,
+        "stars_today": 2112,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:soxoj/maigret",
+      "title": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "signals": {
+        "stars": 21916,
+        "stars_today": 535,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:warpdotdev/warp",
+      "title": "warpdotdev/warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "signals": {
+        "stars": 51866,
+        "stars_today": 3401,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:1jehuang/jcode",
+      "title": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "signals": {
+        "stars": 2476,
+        "stars_today": 403,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:mattpocock/skills",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "signals": {
+        "stars": 53245,
+        "stars_today": 3645,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:browserbase/skills",
+      "title": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "signals": {
+        "stars": 1254,
+        "stars_today": 334,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:simstudioai/sim",
+      "title": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "signals": {
+        "stars": 28223,
+        "stars_today": 56,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:obra/superpowers",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "signals": {
+        "stars": 175901,
+        "stars_today": 1096,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Flowseal/zapret-discord-youtube",
+      "title": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "signals": {
+        "stars": 26998,
+        "stars_today": 145,
+        "language": "Batchfile"
+      },
+      "category_hint": null
+    }
+  ]
+}

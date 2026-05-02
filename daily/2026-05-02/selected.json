@@ -1,0 +1,17 @@
+[
+  {"url": "https://github.com/simstudioai/sim", "title": "simstudioai/sim"},
+  {"url": "https://huggingface.co/papers/2604.27351", "title": "Heterogeneous Scientific Foundation Model Collaboration"},
+  {"url": "https://huggingface.co/papers/2604.28139", "title": "Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows"},
+  {"url": "https://huggingface.co/papers/2604.27151", "title": "Step-level Optimization for Efficient Computer-use Agents"},
+  {"url": "https://github.com/1jehuang/jcode", "title": "1jehuang/jcode"},
+  {"url": "https://github.com/browserbase/skills", "title": "browserbase/skills"},
+  {"url": "https://huggingface.co/papers/2604.25135", "title": "FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments"},
+  {"url": "https://huggingface.co/papers/2604.26904", "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents"},
+  {"url": "https://huggingface.co/papers/2604.27419", "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?"},
+  {"url": "https://huggingface.co/papers/2604.25256", "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery"},
+  {"url": "https://huggingface.co/papers/2604.21003", "title": "The Last Harness You'll Ever Build"},
+  {"url": "https://huggingface.co/papers/2604.24977", "title": "A Survey on LLM-based Conversational User Simulation"},
+  {"url": "https://huggingface.co/papers/2604.21523", "title": "Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models"},
+  {"url": "https://huggingface.co/poolside/Laguna-XS.2", "title": "poolside/Laguna-XS.2"},
+  {"url": "https://github.com/lahfir/agent-desktop", "title": "I built the Playwright for desktop apps. 80% token savings"}
+]

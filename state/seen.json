@@ -307,20 +307,20 @@
   },
   "https://github.com/browserbase/skills": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-01",
-    "days": 1,
+    "last_seen": "2026-05-02",
+    "days": 2,
     "title": "browserbase/skills"
   },
   "https://huggingface.co/papers/2604.25135": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-01",
-    "days": 1,
+    "last_seen": "2026-05-02",
+    "days": 2,
     "title": "FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments"
   },
   "https://huggingface.co/papers/2604.26904": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-01",
-    "days": 1,
+    "last_seen": "2026-05-02",
+    "days": 2,
     "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents"
   },
   "https://huggingface.co/papers/2604.24005": {
@@ -349,14 +349,14 @@
   },
   "https://huggingface.co/papers/2604.21003": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-01",
-    "days": 1,
+    "last_seen": "2026-05-02",
+    "days": 2,
     "title": "The Last Harness You'll Ever Build"
   },
   "https://huggingface.co/papers/2604.25256": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-01",
-    "days": 1,
+    "last_seen": "2026-05-02",
+    "days": 2,
     "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery"
   },
   "https://huggingface.co/papers/2604.24441": {
@@ -367,8 +367,8 @@
   },
   "https://github.com/1jehuang/jcode": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-01",
-    "days": 1,
+    "last_seen": "2026-05-02",
+    "days": 2,
     "title": "1jehuang/jcode"
   },
   "https://simonwillison.net/2026/Apr/30/zig-anti-ai/": {
@@ -379,8 +379,8 @@
   },
   "https://huggingface.co/poolside/Laguna-XS.2": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-01",
-    "days": 1,
+    "last_seen": "2026-05-02",
+    "days": 2,
     "title": "poolside/Laguna-XS.2"
   },
   "https://huggingface.co/papers/2604.25727": {
@@ -388,5 +388,53 @@
     "last_seen": "2026-05-01",
     "days": 1,
     "title": "Toward Scalable Terminal Task Synthesis via Skill Graphs"
+  },
+  "https://github.com/simstudioai/sim": {
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-02",
+    "days": 1,
+    "title": "simstudioai/sim"
+  },
+  "https://huggingface.co/papers/2604.27351": {
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-02",
+    "days": 1,
+    "title": "Heterogeneous Scientific Foundation Model Collaboration"
+  },
+  "https://huggingface.co/papers/2604.28139": {
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-02",
+    "days": 1,
+    "title": "Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows"
+  },
+  "https://huggingface.co/papers/2604.27151": {
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-02",
+    "days": 1,
+    "title": "Step-level Optimization for Efficient Computer-use Agents"
+  },
+  "https://huggingface.co/papers/2604.27419": {
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-02",
+    "days": 1,
+    "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?"
+  },
+  "https://huggingface.co/papers/2604.24977": {
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-02",
+    "days": 1,
+    "title": "A Survey on LLM-based Conversational User Simulation"
+  },
+  "https://huggingface.co/papers/2604.21523": {
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-02",
+    "days": 1,
+    "title": "Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models"
+  },
+  "https://github.com/lahfir/agent-desktop": {
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-02",
+    "days": 1,
+    "title": "I built the Playwright for desktop apps. 80% token savings"
   }
 }

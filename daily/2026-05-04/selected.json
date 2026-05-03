@@ -1,14 +1,15 @@
 [
-  {"url": "https://github.com/czlonkowski/n8n-mcp", "title": "czlonkowski/n8n-mcp"},
-  {"url": "https://github.com/Hmbown/DeepSeek-TUI", "title": "Hmbown/DeepSeek-TUI"},
-  {"url": "https://huggingface.co/papers/2604.24658", "title": "The Last Human-Written Paper: Agent-Native Research Artifacts"},
-  {"url": "https://huggingface.co/papers/2604.28181", "title": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation"},
-  {"url": "https://github.com/bschoepke/ableton-live-mcp", "title": "Show HN: Ableton Live MCP"},
-  {"url": "https://huggingface.co/papers/2604.26904", "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents"},
+  {"url": "https://openai.com/index/gpt-5-5-system-card", "title": "GPT-5.5 System Card"},
+  {"url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/", "title": "Measuring progress toward AGI: A cognitive framework"},
+  {"url": "https://huggingface.co/papers/2604.23758", "title": "Agentic Fusion of Large Atomic and Language Models to Accelerate Superconductors Discovery"},
+  {"url": "https://huggingface.co/papers/2604.28157", "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption"},
+  {"url": "https://huggingface.co/papers/2604.24902", "title": "Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains"},
+  {"url": "https://huggingface.co/papers/2604.27251", "title": "Compliance versus Sensibility: On the Reasoning Controllability in Large Language Models"},
+  {"url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses", "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors"},
+  {"url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/", "title": "Why TUIs Are Back"},
+  {"url": "https://github.com/browserbase/skills", "title": "browserbase/skills"},
+  {"url": "https://huggingface.co/poolside/Laguna-XS.2", "title": "poolside/Laguna-XS.2"},
   {"url": "https://huggingface.co/papers/2604.25135", "title": "FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments"},
-  {"url": "https://huggingface.co/papers/2604.27419", "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?"},
-  {"url": "https://huggingface.co/papers/2604.21523", "title": "Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models"},
-  {"url": "https://huggingface.co/papers/2604.21003", "title": "The Last Harness You'll Ever Build"},
-  {"url": "https://huggingface.co/papers/2604.25256", "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery"},
-  {"url": "https://huggingface.co/poolside/Laguna-XS.2", "title": "poolside/Laguna-XS.2"}
+  {"url": "https://huggingface.co/papers/2604.26904", "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents"},
+  {"url": "https://huggingface.co/papers/2604.21003", "title": "The Last Harness You'll Ever Build"}
 ]

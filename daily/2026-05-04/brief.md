@@ -2,57 +2,52 @@
 
 ## 🔥 오늘의 TOP 5
 
-1. **czlonkowski/n8n-mcp** — Claude Desktop/Code/Windsurf/Cursor에서 n8n 워크플로우를 빌드해주는 MCP 서버, 19.4k stars
-   sources: github_trending
-   https://github.com/czlonkowski/n8n-mcp
+1. **GPT-5.5 System Card** — 5.5의 안전·평가 메트릭 공식 문서로 평가 기준선 갱신
+   sources: openai
+   https://openai.com/index/gpt-5-5-system-card
 
-2. **Hmbown/DeepSeek-TUI** — DeepSeek 모델용 터미널 코딩 에이전트, +389 stars/일로 급부상
-   sources: github_trending
-   https://github.com/Hmbown/DeepSeek-TUI
+2. **Measuring progress toward AGI: A cognitive framework** — DeepMind이 AGI 진척도 측정 프레임워크와 Kaggle 평가 챌린지 공개
+   sources: deepmind
+   https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/
 
-3. **The Last Human-Written Paper: Agent-Native Research Artifacts** — 에이전트 네이티브 연구 산출물 제안, 논문 선형 서사의 한계 비판
+3. **Agentic Fusion of Large Atomic and Language Models** — 도메인 모델·LLM을 자율 오케스트레이션으로 묶는 과학용 멀티에이전트
    sources: huggingface
-   https://huggingface.co/papers/2604.24658
+   https://huggingface.co/papers/2604.23758
 
-4. **Synthetic Computers at Scale for Long-Horizon Productivity Simulation** — 사용자별 컴퓨터 환경 합성 데이터로 장시간 생산성 에이전트 시뮬레이션
+4. **FlashRT: Efficient Red-Teaming for Prompt Injection** — 롱컨텍스트 LLM 프롬프트 주입·지식 오염 레드팀을 메모리 효율적으로 수행
    sources: huggingface
-   https://huggingface.co/papers/2604.28181
+   https://huggingface.co/papers/2604.28157
 
-5. **Show HN: Ableton Live MCP** — Ableton Live를 MCP로 제어, 음악 워크플로우 자동화 사례
-   sources: hacker_news
-   https://github.com/bschoepke/ableton-live-mcp
+5. **Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains** — 100개 모델 파인튜닝 후 안전 속성이 일관되게 깨진다는 실증 연구
+   sources: huggingface
+   https://huggingface.co/papers/2604.24902
 
 ## 📋 카테고리별 나머지
 
-### 에이전트 프레임워크
-- **ClawGym: A Scalable Framework for Building Effective Claw Agents** [huggingface] — Claw 스타일 멀티스텝 에이전트 검증 가능한 학습 데이터 합성 (day 4)
-  https://huggingface.co/papers/2604.26904
-- **FAMA: Failure-Aware Meta-Agentic Framework** [huggingface] — 오픈소스 LLM 도구 사용 실패 인지 메타 에이전트 (day 4)
-  https://huggingface.co/papers/2604.25135
-
 ### LLM 하네스·평가
-- **InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution?** [huggingface] — 인터랙티브 웹사이트 생성에서 멀티모달 에이전트 맹목 실행 평가 (day 3)
-  https://huggingface.co/papers/2604.27419
-- **Seeing Isn't Believing: Uncovering Blind Spots in Evaluator VLMs** [huggingface] — VLM 평가자 사각지대 메타 평가 (day 3)
-  https://huggingface.co/papers/2604.21523
-- **The Last Harness You'll Ever Build** [huggingface] — 도메인 복잡 워크플로우용 범용 에이전트 하네스 제안 (day 4)
-  https://huggingface.co/papers/2604.21003
-- **AutoResearchBench: Benchmarking AI Agents on Scientific Literature Discovery** [huggingface] — 자율 과학 연구 에이전트 벤치마크 (day 4)
-  https://huggingface.co/papers/2604.25256
+- **Compliance versus Sensibility: On the Reasoning Controllability in LLMs** [huggingface] — CoT 추론 패턴(귀납·연역·귀추) 분리·제어 가능성 평가 (new)
+  https://huggingface.co/papers/2604.27251
+- **OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors** [hacker_news] — 하버드 응급실 트리아지 비교 시험 결과 (new)
+  https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses
 
 ### 코딩 에이전트
-- **poolside/Laguna-XS.2** [huggingface] — Poolside 코딩 모델 HF 다운로드 지속 (day 4)
-  https://huggingface.co/poolside/Laguna-XS.2
+- **Why TUIs Are Back** [hacker_news] — Claude Code·Codex 등 터미널 코딩 에이전트 부상 맥락의 TUI 부활 분석 (new)
+  https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/
 
 ## 📌 Still trending (day 2+)
-- **InteractWeb-Bench** [day 3] — 인터랙티브 웹 생성 멀티모달 에이전트 벤치마크 회자 지속
-  https://huggingface.co/papers/2604.27419
-- **Seeing Isn't Believing** [day 3] — VLM 평가자 신뢰성 논의 이어짐
-  https://huggingface.co/papers/2604.21523
-- **The Last Harness / AutoResearchBench / ClawGym / FAMA** [day 4] — 에이전트 하네스·벤치마크 묶음 트래픽 잔존
+- **browserbase/skills** [day 4] — Claude Agent SDK 기반 웹 브라우징 툴 트렌딩 잔존
+  https://github.com/browserbase/skills
+- **poolside/Laguna-XS.2** [day 4] — Poolside 코딩 베이스 모델 HF 다운로드 지속
+  https://huggingface.co/poolside/Laguna-XS.2
+- **FAMA: Failure-Aware Meta-Agentic Framework** [day 4] — 오픈소스 LLM 도구 사용 실패 인지 메타 에이전트
+  https://huggingface.co/papers/2604.25135
+- **ClawGym: Scalable Framework for Building Effective Claw Agents** [day 4] — Claude 스타일 에이전트 학습 프레임워크
+  https://huggingface.co/papers/2604.26904
+- **The Last Harness You'll Ever Build** [day 4] — 도메인 워크플로우용 범용 에이전트 하네스 제안
+  https://huggingface.co/papers/2604.21003
 
 ## ⚠️ 소스 상태
-- github_trending: ok (9 items / 2 matched)
-- hacker_news: ok (30 items / 1 matched)
-- huggingface: ok (66 items / 8 matched)
-- release_blogs: ok (43 items / 0 matched)
+- github_trending: ok (9 items / 0 matched after archive filter)
+- hacker_news: ok (30 items / 2 matched)
+- huggingface: ok (60 items / 5 matched after archive filter)
+- release_blogs: ok (39 items / 2 matched after archive filter)

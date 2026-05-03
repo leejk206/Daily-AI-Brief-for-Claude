@@ -1,6 +1,6 @@
 {
   "source": "huggingface",
-  "fetched_at": "2026-05-04T06:52:39+09:00",
+  "fetched_at": "2026-05-04T07:46:59+09:00",
   "items": [
     {
       "id": "hf-model:deepseek-ai/DeepSeek-V4-Pro",
@@ -10,7 +10,7 @@
       "signals": {
         "type": "model",
         "downloads": 457348,
-        "likes": 3465,
+        "likes": 3467,
         "pipeline": "text-generation"
       },
       "category_hint": null
@@ -127,7 +127,7 @@
       "signals": {
         "type": "model",
         "downloads": 413995,
-        "likes": 927,
+        "likes": 928,
         "pipeline": "text-generation"
       },
       "category_hint": null
@@ -192,7 +192,7 @@
       "signals": {
         "type": "model",
         "downloads": 1045084,
-        "likes": 557,
+        "likes": 558,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -218,7 +218,7 @@
       "signals": {
         "type": "model",
         "downloads": 1647,
-        "likes": 112,
+        "likes": 113,
         "pipeline": "text-to-image"
       },
       "category_hint": null
@@ -231,7 +231,7 @@
       "signals": {
         "type": "model",
         "downloads": 21714,
-        "likes": 215,
+        "likes": 217,
         "pipeline": "text-generation"
       },
       "category_hint": null
@@ -250,15 +250,15 @@
       "category_hint": null
     },
     {
-      "id": "hf-model:google/gemma-4-31B-it",
-      "title": "google/gemma-4-31B-it",
-      "url": "https://huggingface.co/google/gemma-4-31B-it",
-      "description": "image-text-to-text",
+      "id": "hf-model:SulphurAI/Sulphur-2-base",
+      "title": "SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "description": "text-to-video",
       "signals": {
         "type": "model",
-        "downloads": 7907233,
-        "likes": 2492,
-        "pipeline": "image-text-to-text"
+        "downloads": 332,
+        "likes": 98,
+        "pipeline": "text-to-video"
       },
       "category_hint": null
     },
@@ -281,7 +281,7 @@
       "description": "Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relying on brittle, application-specific integrations. Despite recent advances in benchmark performance, strong computer-use agents r",
       "signals": {
         "type": "paper",
-        "upvotes": 12,
+        "upvotes": 13,
         "arxiv_id": "2604.27151"
       },
       "category_hint": null
@@ -521,7 +521,7 @@
       "description": "Recent visual generation models have made major progress in photorealism, typography, instruction following, and interactive editing, yet they still struggle with spatial reasoning, persistent state, long-horizon consistency, and causal understanding. We argue that the field should move beyond appea",
       "signals": {
         "type": "paper",
-        "upvotes": 80,
+        "upvotes": 81,
         "arxiv_id": "2604.28185"
       },
       "category_hint": null

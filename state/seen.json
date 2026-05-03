@@ -217,8 +217,8 @@
   },
   "https://github.com/browserbase/skills": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-03",
-    "days": 3,
+    "last_seen": "2026-05-04",
+    "days": 4,
     "title": "browserbase/skills"
   },
   "https://huggingface.co/papers/2604.25135": {
@@ -400,5 +400,53 @@
     "last_seen": "2026-05-04",
     "days": 1,
     "title": "Show HN: Ableton Live MCP"
+  },
+  "https://openai.com/index/gpt-5-5-system-card": {
+    "first_seen": "2026-05-04",
+    "last_seen": "2026-05-04",
+    "days": 1,
+    "title": "GPT-5.5 System Card"
+  },
+  "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/": {
+    "first_seen": "2026-05-04",
+    "last_seen": "2026-05-04",
+    "days": 1,
+    "title": "Measuring progress toward AGI: A cognitive framework"
+  },
+  "https://huggingface.co/papers/2604.23758": {
+    "first_seen": "2026-05-04",
+    "last_seen": "2026-05-04",
+    "days": 1,
+    "title": "Agentic Fusion of Large Atomic and Language Models to Accelerate Superconductors Discovery"
+  },
+  "https://huggingface.co/papers/2604.28157": {
+    "first_seen": "2026-05-04",
+    "last_seen": "2026-05-04",
+    "days": 1,
+    "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption"
+  },
+  "https://huggingface.co/papers/2604.24902": {
+    "first_seen": "2026-05-04",
+    "last_seen": "2026-05-04",
+    "days": 1,
+    "title": "Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains"
+  },
+  "https://huggingface.co/papers/2604.27251": {
+    "first_seen": "2026-05-04",
+    "last_seen": "2026-05-04",
+    "days": 1,
+    "title": "Compliance versus Sensibility: On the Reasoning Controllability in Large Language Models"
+  },
+  "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses": {
+    "first_seen": "2026-05-04",
+    "last_seen": "2026-05-04",
+    "days": 1,
+    "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors"
+  },
+  "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/": {
+    "first_seen": "2026-05-04",
+    "last_seen": "2026-05-04",
+    "days": 1,
+    "title": "Why TUIs Are Back"
   }
 }

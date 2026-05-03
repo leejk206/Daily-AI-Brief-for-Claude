@@ -1,0 +1,102 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-05-03T12:34:57+09:00",
+  "items": [
+    {
+      "id": "github:TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "signals": {
+        "stars": 63022,
+        "stars_today": 2225,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ruvnet/ruflo",
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "signals": {
+        "stars": 36961,
+        "stars_today": 1299,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:browserbase/skills",
+      "title": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "signals": {
+        "stars": 1550,
+        "stars_today": 346,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:soxoj/maigret",
+      "title": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "signals": {
+        "stars": 22866,
+        "stars_today": 1064,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Flowseal/zapret-discord-youtube",
+      "title": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "signals": {
+        "stars": 27127,
+        "stars_today": 181,
+        "language": "Batchfile"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:1jehuang/jcode",
+      "title": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "signals": {
+        "stars": 2900,
+        "stars_today": 482,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ShareX/ShareX",
+      "title": "ShareX/ShareX",
+      "url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "signals": {
+        "stars": 36865,
+        "stars_today": 152,
+        "language": "C#"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:jwasham/coding-interview-university",
+      "title": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "signals": {
+        "stars": 344634,
+        "stars_today": 694,
+        "language": ""
+      },
+      "category_hint": null
+    }
+  ]
+}

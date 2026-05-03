@@ -307,20 +307,20 @@
   },
   "https://github.com/browserbase/skills": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-02",
-    "days": 2,
+    "last_seen": "2026-05-03",
+    "days": 3,
     "title": "browserbase/skills"
   },
   "https://huggingface.co/papers/2604.25135": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-02",
-    "days": 2,
+    "last_seen": "2026-05-03",
+    "days": 3,
     "title": "FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments"
   },
   "https://huggingface.co/papers/2604.26904": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-02",
-    "days": 2,
+    "last_seen": "2026-05-03",
+    "days": 3,
     "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents"
   },
   "https://huggingface.co/papers/2604.24005": {
@@ -336,8 +336,8 @@
     "title": "GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction"
   },
   "https://huggingface.co/papers/2604.26752": {
-    "first_seen": "2026-05-01",
-    "last_seen": "2026-05-01",
+    "first_seen": "2026-05-03",
+    "last_seen": "2026-05-03",
     "days": 1,
     "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents"
   },
@@ -349,14 +349,14 @@
   },
   "https://huggingface.co/papers/2604.21003": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-02",
-    "days": 2,
+    "last_seen": "2026-05-03",
+    "days": 3,
     "title": "The Last Harness You'll Ever Build"
   },
   "https://huggingface.co/papers/2604.25256": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-02",
-    "days": 2,
+    "last_seen": "2026-05-03",
+    "days": 3,
     "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery"
   },
   "https://huggingface.co/papers/2604.24441": {
@@ -379,8 +379,8 @@
   },
   "https://huggingface.co/poolside/Laguna-XS.2": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-02",
-    "days": 2,
+    "last_seen": "2026-05-03",
+    "days": 3,
     "title": "poolside/Laguna-XS.2"
   },
   "https://huggingface.co/papers/2604.25727": {
@@ -415,20 +415,20 @@
   },
   "https://huggingface.co/papers/2604.27419": {
     "first_seen": "2026-05-02",
-    "last_seen": "2026-05-02",
-    "days": 1,
+    "last_seen": "2026-05-03",
+    "days": 2,
     "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?"
   },
   "https://huggingface.co/papers/2604.24977": {
     "first_seen": "2026-05-02",
-    "last_seen": "2026-05-02",
-    "days": 1,
+    "last_seen": "2026-05-03",
+    "days": 2,
     "title": "A Survey on LLM-based Conversational User Simulation"
   },
   "https://huggingface.co/papers/2604.21523": {
     "first_seen": "2026-05-02",
-    "last_seen": "2026-05-02",
-    "days": 1,
+    "last_seen": "2026-05-03",
+    "days": 2,
     "title": "Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models"
   },
   "https://github.com/lahfir/agent-desktop": {
@@ -436,5 +436,29 @@
     "last_seen": "2026-05-02",
     "days": 1,
     "title": "I built the Playwright for desktop apps. 80% token savings"
+  },
+  "https://github.com/ruvnet/ruflo": {
+    "first_seen": "2026-05-03",
+    "last_seen": "2026-05-03",
+    "days": 1,
+    "title": "ruvnet/ruflo"
+  },
+  "https://github.com/microsoft/vscode/pull/310226": {
+    "first_seen": "2026-05-03",
+    "last_seen": "2026-05-03",
+    "days": 1,
+    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage"
+  },
+  "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox": {
+    "first_seen": "2026-05-03",
+    "last_seen": "2026-05-03",
+    "days": 1,
+    "title": "The agent harness belongs outside the sandbox"
+  },
+  "https://hnup.date/hn-sota": {
+    "first_seen": "2026-05-03",
+    "last_seen": "2026-05-03",
+    "days": 1,
+    "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters"
   }
 }

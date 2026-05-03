@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-03T12:34:58+09:00",
+  "items": [
+    {
+      "id": "hn:47989883",
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "url": "https://github.com/microsoft/vscode/pull/310226",
+      "description": "",
+      "signals": {
+        "points": 894,
+        "num_comments": 429,
+        "discussion_url": "https://news.ycombinator.com/item?id=47989883"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47988776",
+      "title": "NetHack 5.0.0",
+      "url": "https://nethack.org/v500/release.html",
+      "description": "",
+      "signals": {
+        "points": 391,
+        "num_comments": 122,
+        "discussion_url": "https://news.ycombinator.com/item?id=47988776"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47988504",
+      "title": "Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "description": "",
+      "signals": {
+        "points": 362,
+        "num_comments": 114,
+        "discussion_url": "https://news.ycombinator.com/item?id=47988504"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47988742",
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
+      "description": "",
+      "signals": {
+        "points": 261,
+        "num_comments": 269,
+        "discussion_url": "https://news.ycombinator.com/item?id=47988742"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47984852",
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "description": "",
+      "signals": {
+        "points": 228,
+        "num_comments": 83,
+        "discussion_url": "https://news.ycombinator.com/item?id=47984852"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47988592",
+      "title": "Do_not_track",
+      "url": "https://donottrack.sh/",
+      "description": "",
+      "signals": {
+        "points": 227,
+        "num_comments": 70,
+        "discussion_url": "https://news.ycombinator.com/item?id=47988592"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47988261",
+      "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
+      "url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
+      "description": "",
+      "signals": {
+        "points": 207,
+        "num_comments": 128,
+        "discussion_url": "https://news.ycombinator.com/item?id=47988261"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47990606",
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "description": "",
+      "signals": {
+        "points": 198,
+        "num_comments": 41,
+        "discussion_url": "https://news.ycombinator.com/item?id=47990606"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47991350",
+      "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
+      "url": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
+      "description": "",
+      "signals": {
+        "points": 189,
+        "num_comments": 71,
+        "discussion_url": "https://news.ycombinator.com/item?id=47991350"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47990318",
+      "title": "This Month in Ladybird - April 2026",
+      "url": "https://ladybird.org/newsletter/2026-04-30/",
+      "description": "",
+      "signals": {
+        "points": 178,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=47990318"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47960015",
+      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
+      "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+      "description": "",
+      "signals": {
+        "points": 167,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=47960015"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47948526",
+      "title": "Barman – Backup and Recovery Manager for PostgreSQL",
+      "url": "https://github.com/EnterpriseDB/barman",
+      "description": "",
+      "signals": {
+        "points": 141,
+        "num_comments": 23,
+        "discussion_url": "https://news.ycombinator.com/item?id=47948526"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47990284",
+      "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
+      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+      "description": "",
+      "signals": {
+        "points": 127,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=47990284"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47986136",
+      "title": "Refusal in Language Models Is Mediated by a Single Direction",
+      "url": "https://arxiv.org/abs/2406.11717",
+      "description": "",
+      "signals": {
+        "points": 99,
+        "num_comments": 34,
+        "discussion_url": "https://news.ycombinator.com/item?id=47986136"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47950993",
+      "title": "The USB Situation",
+      "url": "https://randsinrepose.com/archives/the-usb-situation/",
+      "description": "",
+      "signals": {
+        "points": 96,
+        "num_comments": 108,
+        "discussion_url": "https://news.ycombinator.com/item?id=47950993"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47991802",
+      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "description": "",
+      "signals": {
+        "points": 76,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=47991802"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47962681",
+      "title": "Little Magazines Are Back",
+      "url": "https://wsjfreeexpression.substack.com/p/little-magazines-are-back",
+      "description": "",
+      "signals": {
+        "points": 74,
+        "num_comments": 22,
+        "discussion_url": "https://news.ycombinator.com/item?id=47962681"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47990675",
+      "title": "The agent harness belongs outside the sandbox",
+      "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+      "description": "",
+      "signals": {
+        "points": 71,
+        "num_comments": 56,
+        "discussion_url": "https://news.ycombinator.com/item?id=47990675"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47990708",
+      "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+      "url": "https://hnup.date/hn-sota",
+      "description": "",
+      "signals": {
+        "points": 61,
+        "num_comments": 31,
+        "discussion_url": "https://news.ycombinator.com/item?id=47990708"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47981979",
+      "title": "A Physics Engine with Incremental Rollback for Multiplayer Games",
+      "url": "https://easel.games/blog/2026-rollback-physics",
+      "description": "",
+      "signals": {
+        "points": 49,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=47981979"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47990789",
+      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+      "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+      "description": "",
+      "signals": {
+        "points": 46,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=47990789"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47992349",
+      "title": "Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores",
+      "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+      "description": "",
+      "signals": {
+        "points": 45,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=47992349"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47991018",
+      "title": "Voice-AI-for-Beginners – A curated learning path for developers",
+      "url": "https://github.com/mahimairaja/voiceai",
+      "description": "",
+      "signals": {
+        "points": 38,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=47991018"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47991995",
+      "title": "Am I the only one who hates delivery robots?",
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban",
+      "description": "",
+      "signals": {
+        "points": 35,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=47991995"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47972114",
+      "title": "A more efficient implementation of Shor's algorithm",
+      "url": "https://lwn.net/Articles/1066156/",
+      "description": "",
+      "signals": {
+        "points": 31,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47972114"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47992338",
+      "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+      "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
+      "description": "",
+      "signals": {
+        "points": 30,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=47992338"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47984589",
+      "title": "Dabbling in Erlang, part 2: A minimal introduction (2013)",
+      "url": "https://agis.io/post/dabbling-in-erlang-a-minimal-introduction/",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=47984589"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47320921",
+      "title": "Making your JITted Code known: Let me count the ways",
+      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47320921"
+      },
+      "category_hint": null
+    }
+  ]
+}

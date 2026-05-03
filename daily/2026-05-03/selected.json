@@ -1,0 +1,16 @@
+[
+  {"url": "https://github.com/ruvnet/ruflo", "title": "ruvnet/ruflo"},
+  {"url": "https://github.com/microsoft/vscode/pull/310226", "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage"},
+  {"url": "https://huggingface.co/papers/2604.26752", "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents"},
+  {"url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox", "title": "The agent harness belongs outside the sandbox"},
+  {"url": "https://huggingface.co/papers/2604.24977", "title": "A Survey on LLM-based Conversational User Simulation"},
+  {"url": "https://huggingface.co/papers/2604.26904", "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents"},
+  {"url": "https://huggingface.co/papers/2604.25135", "title": "FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments"},
+  {"url": "https://github.com/browserbase/skills", "title": "browserbase/skills"},
+  {"url": "https://huggingface.co/papers/2604.27419", "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?"},
+  {"url": "https://huggingface.co/papers/2604.21523", "title": "Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models"},
+  {"url": "https://huggingface.co/papers/2604.25256", "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery"},
+  {"url": "https://huggingface.co/papers/2604.21003", "title": "The Last Harness You'll Ever Build"},
+  {"url": "https://hnup.date/hn-sota", "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters"},
+  {"url": "https://huggingface.co/poolside/Laguna-XS.2", "title": "poolside/Laguna-XS.2"}
+]

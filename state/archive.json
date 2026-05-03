@@ -118,5 +118,25 @@
   "https://github.com/1jehuang/jcode": {
     "archived_on": "2026-05-02",
     "title": "1jehuang/jcode"
+  },
+  "https://github.com/ruvnet/ruflo": {
+    "archived_on": "2026-05-03",
+    "title": "ruvnet/ruflo"
+  },
+  "https://github.com/microsoft/vscode/pull/310226": {
+    "archived_on": "2026-05-03",
+    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage"
+  },
+  "https://huggingface.co/papers/2604.26752": {
+    "archived_on": "2026-05-03",
+    "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents"
+  },
+  "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox": {
+    "archived_on": "2026-05-03",
+    "title": "The agent harness belongs outside the sandbox"
+  },
+  "https://huggingface.co/papers/2604.24977": {
+    "archived_on": "2026-05-03",
+    "title": "A Survey on LLM-based Conversational User Simulation"
   }
 }

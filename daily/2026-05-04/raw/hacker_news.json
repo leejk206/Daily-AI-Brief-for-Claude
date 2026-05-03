@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-04T06:52:38+09:00",
+  "items": [
+    {
+      "id": "hn:47997418",
+      "title": "Mercedes-Benz commits to bringing back physical buttons",
+      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+      "description": "",
+      "signals": {
+        "points": 532,
+        "num_comments": 314,
+        "discussion_url": "https://news.ycombinator.com/item?id=47997418"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47991802",
+      "title": "A couple million lines of Haskell: Production engineering at Mercury",
+      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "description": "",
+      "signals": {
+        "points": 398,
+        "num_comments": 196,
+        "discussion_url": "https://news.ycombinator.com/item?id=47991802"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48000028",
+      "title": "Why TUIs Are Back",
+      "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
+      "description": "",
+      "signals": {
+        "points": 186,
+        "num_comments": 174,
+        "discussion_url": "https://news.ycombinator.com/item?id=48000028"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47940789",
+      "title": "Denuvo has been cracked in all single-player games it previously protected",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks",
+      "description": "",
+      "signals": {
+        "points": 178,
+        "num_comments": 75,
+        "discussion_url": "https://news.ycombinator.com/item?id=47940789"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47998790",
+      "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
+      "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
+      "description": "",
+      "signals": {
+        "points": 175,
+        "num_comments": 71,
+        "discussion_url": "https://news.ycombinator.com/item?id=47998790"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47991981",
+      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "description": "",
+      "signals": {
+        "points": 173,
+        "num_comments": 115,
+        "discussion_url": "https://news.ycombinator.com/item?id=47991981"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47997947",
+      "title": "A desktop made for one",
+      "url": "https://isene.org/2026/05/Audience-of-One.html",
+      "description": "",
+      "signals": {
+        "points": 166,
+        "num_comments": 61,
+        "discussion_url": "https://news.ycombinator.com/item?id=47997947"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999636",
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "description": "",
+      "signals": {
+        "points": 162,
+        "num_comments": 48,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999636"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48000152",
+      "title": "Statue of a man blinded by a flag put up by Banksy in central London",
+      "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+      "description": "",
+      "signals": {
+        "points": 157,
+        "num_comments": 115,
+        "discussion_url": "https://news.ycombinator.com/item?id=48000152"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47995037",
+      "title": "Show HN: Apple's SHARP running in the browser via ONNX runtime web",
+      "url": "https://github.com/bring-shrubbery/ml-sharp-web",
+      "description": "",
+      "signals": {
+        "points": 143,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=47995037"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999006",
+      "title": "How far behind is each major Chromium browser?",
+      "url": "https://chromium-drift.pages.dev/",
+      "description": "",
+      "signals": {
+        "points": 141,
+        "num_comments": 53,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999006"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47998946",
+      "title": "Southwest Headquarters Tour",
+      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+      "description": "",
+      "signals": {
+        "points": 141,
+        "num_comments": 27,
+        "discussion_url": "https://news.ycombinator.com/item?id=47998946"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47943632",
+      "title": "I built my own hair electrolysis machine",
+      "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
+      "description": "",
+      "signals": {
+        "points": 128,
+        "num_comments": 23,
+        "discussion_url": "https://news.ycombinator.com/item?id=47943632"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47995757",
+      "title": "Nuclear receptor 4A1 linked to health effects of coffee: study",
+      "url": "https://sciencex.com/news/2026-04-coffee-doesnt-key-biological-pathway.html",
+      "description": "",
+      "signals": {
+        "points": 97,
+        "num_comments": 74,
+        "discussion_url": "https://news.ycombinator.com/item?id=47995757"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47997486",
+      "title": "Security through obscurity is not bad",
+      "url": "https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/",
+      "description": "",
+      "signals": {
+        "points": 93,
+        "num_comments": 95,
+        "discussion_url": "https://news.ycombinator.com/item?id=47997486"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47997056",
+      "title": "Alert-driven monitoring",
+      "url": "https://simpleobservability.com/docs/alert-driven-monitoring",
+      "description": "",
+      "signals": {
+        "points": 92,
+        "num_comments": 36,
+        "discussion_url": "https://news.ycombinator.com/item?id=47997056"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47972922",
+      "title": "What is Z-Angle Memory and why is Intel developing it?",
+      "url": "https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/",
+      "description": "",
+      "signals": {
+        "points": 72,
+        "num_comments": 28,
+        "discussion_url": "https://news.ycombinator.com/item?id=47972922"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47998449",
+      "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
+      "url": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
+      "description": "",
+      "signals": {
+        "points": 66,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=47998449"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999460",
+      "title": "I recreated the Apple Lisa computer inside an FPGA [video]",
+      "url": "https://www.youtube.com/watch?v=8jNQDcpHc68",
+      "description": "",
+      "signals": {
+        "points": 51,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999460"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47970497",
+      "title": "Text-to-CAD",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "",
+      "signals": {
+        "points": 48,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=47970497"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999656",
+      "title": "Show HN: Ableton Live MCP",
+      "url": "https://github.com/bschoepke/ableton-live-mcp",
+      "description": "",
+      "signals": {
+        "points": 46,
+        "num_comments": 22,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999656"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47974682",
+      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
+      "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
+      "description": "",
+      "signals": {
+        "points": 46,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=47974682"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47985932",
+      "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
+      "url": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
+      "description": "",
+      "signals": {
+        "points": 37,
+        "num_comments": 24,
+        "discussion_url": "https://news.ycombinator.com/item?id=47985932"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47997059",
+      "title": "Modern jet engine turbines: each blade a single crystal (2015)",
+      "url": "https://www.americanscientist.org/article/each-blade-a-single-crystal",
+      "description": "",
+      "signals": {
+        "points": 37,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=47997059"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48000507",
+      "title": "Make Your Own Microforest",
+      "url": "https://ambrook.com/offrange/environment/a-forest-in-your-pocket",
+      "description": "",
+      "signals": {
+        "points": 27,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48000507"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47948338",
+      "title": "Cordouan Lighthouse",
+      "url": "https://en.wikipedia.org/wiki/Cordouan_Lighthouse",
+      "description": "",
+      "signals": {
+        "points": 27,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=47948338"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47998664",
+      "title": "Underwater robot tracks sperm whale conversations in real time",
+      "url": "https://www.reuters.com/business/environment/underwater-robot-tracks-sperm-whale-conversations-real-time-2026-05-01/",
+      "description": "",
+      "signals": {
+        "points": 23,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=47998664"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47972392",
+      "title": "Lost in translation: The linguistic challenges facing N. Korean defectors (2025)",
+      "url": "https://www.dailynk.com/english/lost-in-translation-the-linguistic-challenges-facing-n-korean-defectors/",
+      "description": "",
+      "signals": {
+        "points": 17,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=47972392"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999776",
+      "title": "Talking to Transformers",
+      "url": "https://miraos.org/blog/2026/05/02/talking-to-transformers",
+      "description": "",
+      "signals": {
+        "points": 16,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999776"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47975759",
+      "title": "How did Banksy erect a statue in Central London?",
+      "url": "https://www.bbc.co.uk/news/articles/cn4pvyw82exo",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=47975759"
+      },
+      "category_hint": null
+    }
+  ]
+}

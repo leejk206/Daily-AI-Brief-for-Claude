@@ -138,5 +138,25 @@
   "https://huggingface.co/papers/2604.24977": {
     "archived_on": "2026-05-03",
     "title": "A Survey on LLM-based Conversational User Simulation"
+  },
+  "https://github.com/czlonkowski/n8n-mcp": {
+    "archived_on": "2026-05-04",
+    "title": "czlonkowski/n8n-mcp"
+  },
+  "https://github.com/Hmbown/DeepSeek-TUI": {
+    "archived_on": "2026-05-04",
+    "title": "Hmbown/DeepSeek-TUI"
+  },
+  "https://huggingface.co/papers/2604.24658": {
+    "archived_on": "2026-05-04",
+    "title": "The Last Human-Written Paper: Agent-Native Research Artifacts"
+  },
+  "https://huggingface.co/papers/2604.28181": {
+    "archived_on": "2026-05-04",
+    "title": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation"
+  },
+  "https://github.com/bschoepke/ableton-live-mcp": {
+    "archived_on": "2026-05-04",
+    "title": "Show HN: Ableton Live MCP"
   }
 }

@@ -1,6 +1,6 @@
 {
   "source": "huggingface",
-  "fetched_at": "2026-05-04T07:46:59+09:00",
+  "fetched_at": "2026-05-04T08:19:25+09:00",
   "items": [
     {
       "id": "hf-model:deepseek-ai/DeepSeek-V4-Pro",
@@ -23,7 +23,7 @@
       "signals": {
         "type": "model",
         "downloads": 11055,
-        "likes": 405,
+        "likes": 406,
         "pipeline": "text-generation"
       },
       "category_hint": null
@@ -36,7 +36,7 @@
       "signals": {
         "type": "model",
         "downloads": 104695,
-        "likes": 1230,
+        "likes": 1231,
         "pipeline": "token-classification"
       },
       "category_hint": null
@@ -365,7 +365,7 @@
       "description": "LLM agents are expected to complete end-to-end units of work across software tools, business services, and local workspaces. Yet many agent benchmarks freeze a curated task set at release time and grade mainly the final response, making it difficult to evaluate agents against evolving workflow deman",
       "signals": {
         "type": "paper",
-        "upvotes": 30,
+        "upvotes": 31,
         "arxiv_id": "2604.28139"
       },
       "category_hint": null
@@ -377,7 +377,7 @@
       "description": "Fine-tuning Large Language Models (LLMs) on consumer-grade GPUs is highly cost-effective, yet constrained by limited GPU memory and slow PCIe interconnects. Pipeline parallelism combined with CPU offloading mitigates these hardware bottlenecks by reducing communication overhead. However, existing PP",
       "signals": {
         "type": "paper",
-        "upvotes": 33,
+        "upvotes": 34,
         "arxiv_id": "2604.27085"
       },
       "category_hint": null
@@ -401,7 +401,7 @@
       "description": "While Reinforcement Learning from Human Feedback (RLHF) has become a pivotal paradigm for text-to-image generation, its application to image editing remains largely unexplored. A key bottleneck is the lack of a robust general reward model for all editing tasks. Existing edit reward models usually gi",
       "signals": {
         "type": "paper",
-        "upvotes": 28,
+        "upvotes": 29,
         "arxiv_id": "2604.27505"
       },
       "category_hint": null
@@ -413,7 +413,7 @@
       "description": "Humanoid control systems have made significant progress in recent years, yet modeling fluent interaction-rich behavior between a robot, its surrounding environment, and task-relevant objects remains a fundamental challenge. This difficulty arises from the need to jointly capture spatial context, tem",
       "signals": {
         "type": "paper",
-        "upvotes": 36,
+        "upvotes": 37,
         "arxiv_id": "2604.27711"
       },
       "category_hint": null
@@ -425,7 +425,7 @@
       "description": "RLVR and OPD have become standard paradigms for post-training. We provide a unified analysis of these two paradigms in consolidating multiple expert capabilities into a single model, identifying capability loss in different ways: mixed RLVR suffers from inter-capability divergence cost, while the pi",
       "signals": {
         "type": "paper",
-        "upvotes": 45,
+        "upvotes": 46,
         "arxiv_id": "2604.27083"
       },
       "category_hint": null
@@ -521,7 +521,7 @@
       "description": "Recent visual generation models have made major progress in photorealism, typography, instruction following, and interactive editing, yet they still struggle with spatial reasoning, persistent state, long-horizon consistency, and causal understanding. We argue that the field should move beyond appea",
       "signals": {
         "type": "paper",
-        "upvotes": 81,
+        "upvotes": 82,
         "arxiv_id": "2604.28185"
       },
       "category_hint": null
@@ -533,7 +533,7 @@
       "description": "Agentic large language model systems have demonstrated strong capabilities. However, their reliance on language as the universal interface fundamentally limits their applicability to many real-world problems, especially in scientific domains where domain-specific foundation models have been develope",
       "signals": {
         "type": "paper",
-        "upvotes": 192,
+        "upvotes": 193,
         "arxiv_id": "2604.27351"
       },
       "category_hint": null
@@ -665,7 +665,7 @@
       "description": "Generating diverse responses is crucial for test-time scaling of large language models (LLMs), yet standard stochastic sampling mostly yields surface-level lexical variation, limiting semantic exploration. In this paper, we propose Exploratory Sampling (ESamp), a decoding approach that explicitly en",
       "signals": {
         "type": "paper",
-        "upvotes": 61,
+        "upvotes": 62,
         "arxiv_id": "2604.24927"
       },
       "category_hint": null

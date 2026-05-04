@@ -198,5 +198,25 @@
   "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/": {
     "archived_on": "2026-05-04",
     "title": "Why TUIs Are Back"
+  },
+  "https://github.com/cocoindex-io/cocoindex": {
+    "archived_on": "2026-05-05",
+    "title": "cocoindex-io/cocoindex"
+  },
+  "https://sierra.ai/blog/better-customer-experiences-built-on-sierra": {
+    "archived_on": "2026-05-05",
+    "title": "Sierra Raises $950M at $15B Valuation"
+  },
+  "https://addyosmani.com/blog/agent-skills/": {
+    "archived_on": "2026-05-05",
+    "title": "Agent Skills"
+  },
+  "https://huggingface.co/papers/2604.27221": {
+    "archived_on": "2026-05-05",
+    "title": "Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction"
+  },
+  "https://huggingface.co/papers/2605.00754": {
+    "archived_on": "2026-05-05",
+    "title": "Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring"
   }
 }

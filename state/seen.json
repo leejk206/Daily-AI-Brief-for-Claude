@@ -223,8 +223,8 @@
   },
   "https://huggingface.co/papers/2604.25135": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-04",
-    "days": 4,
+    "last_seen": "2026-05-05",
+    "days": 5,
     "title": "FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments"
   },
   "https://huggingface.co/papers/2604.26904": {
@@ -289,8 +289,8 @@
   },
   "https://huggingface.co/poolside/Laguna-XS.2": {
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-04",
-    "days": 4,
+    "last_seen": "2026-05-05",
+    "days": 5,
     "title": "poolside/Laguna-XS.2"
   },
   "https://huggingface.co/papers/2604.25727": {
@@ -325,8 +325,8 @@
   },
   "https://huggingface.co/papers/2604.27419": {
     "first_seen": "2026-05-02",
-    "last_seen": "2026-05-04",
-    "days": 3,
+    "last_seen": "2026-05-05",
+    "days": 4,
     "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?"
   },
   "https://huggingface.co/papers/2604.24977": {
@@ -472,5 +472,59 @@
     "last_seen": "2026-05-04",
     "days": 1,
     "title": "deepseek-ai/DeepSeek-V4-Flash"
+  },
+  "https://github.com/cocoindex-io/cocoindex": {
+    "first_seen": "2026-05-05",
+    "last_seen": "2026-05-05",
+    "days": 1,
+    "title": "cocoindex-io/cocoindex"
+  },
+  "https://sierra.ai/blog/better-customer-experiences-built-on-sierra": {
+    "first_seen": "2026-05-05",
+    "last_seen": "2026-05-05",
+    "days": 1,
+    "title": "Sierra Raises $950M at $15B Valuation"
+  },
+  "https://addyosmani.com/blog/agent-skills/": {
+    "first_seen": "2026-05-05",
+    "last_seen": "2026-05-05",
+    "days": 1,
+    "title": "Agent Skills"
+  },
+  "https://huggingface.co/papers/2604.27221": {
+    "first_seen": "2026-05-05",
+    "last_seen": "2026-05-05",
+    "days": 1,
+    "title": "Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction"
+  },
+  "https://huggingface.co/papers/2605.00754": {
+    "first_seen": "2026-05-05",
+    "last_seen": "2026-05-05",
+    "days": 1,
+    "title": "Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring"
+  },
+  "https://github.com/virattt/dexter": {
+    "first_seen": "2026-05-05",
+    "last_seen": "2026-05-05",
+    "days": 1,
+    "title": "virattt/dexter"
+  },
+  "https://github.com/msitarzewski/agency-agents": {
+    "first_seen": "2026-05-05",
+    "last_seen": "2026-05-05",
+    "days": 1,
+    "title": "msitarzewski/agency-agents"
+  },
+  "https://huggingface.co/papers/2604.24026": {
+    "first_seen": "2026-05-05",
+    "last_seen": "2026-05-05",
+    "days": 1,
+    "title": "From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills"
+  },
+  "https://huggingface.co/papers/2605.00553": {
+    "first_seen": "2026-05-05",
+    "last_seen": "2026-05-05",
+    "days": 1,
+    "title": "Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance"
   }
 }

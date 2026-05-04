@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-05T08:05:52+09:00",
+  "items": [
+    {
+      "id": "hn:48007438",
+      "title": "Talking to strangers at the gym",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "description": "",
+      "signals": {
+        "points": 1027,
+        "num_comments": 498,
+        "discussion_url": "https://news.ycombinator.com/item?id=48007438"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48006402",
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "description": "",
+      "signals": {
+        "points": 608,
+        "num_comments": 573,
+        "discussion_url": "https://news.ycombinator.com/item?id=48006402"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48011689",
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "description": "",
+      "signals": {
+        "points": 373,
+        "num_comments": 128,
+        "discussion_url": "https://news.ycombinator.com/item?id=48011689"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47977990",
+      "title": "Using “underdrawings” for accurate text and numbers",
+      "url": "https://samcollins.blog/underdrawings/",
+      "description": "",
+      "signals": {
+        "points": 357,
+        "num_comments": 126,
+        "discussion_url": "https://news.ycombinator.com/item?id=47977990"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48011184",
+      "title": "I am worried about Bun",
+      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "description": "",
+      "signals": {
+        "points": 339,
+        "num_comments": 242,
+        "discussion_url": "https://news.ycombinator.com/item?id=48011184"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48012735",
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "description": "",
+      "signals": {
+        "points": 327,
+        "num_comments": 129,
+        "discussion_url": "https://news.ycombinator.com/item?id=48012735"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48009020",
+      "title": "How Monero’s proof of work works",
+      "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+      "description": "",
+      "signals": {
+        "points": 217,
+        "num_comments": 170,
+        "discussion_url": "https://news.ycombinator.com/item?id=48009020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48009172",
+      "title": "Redis array: short story of a long development process",
+      "url": "https://antirez.com/news/164",
+      "description": "",
+      "signals": {
+        "points": 204,
+        "num_comments": 76,
+        "discussion_url": "https://news.ycombinator.com/item?id=48009172"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48011603",
+      "title": "Stop big tech from making users behave in ways they don't want to",
+      "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+      "description": "",
+      "signals": {
+        "points": 193,
+        "num_comments": 131,
+        "discussion_url": "https://news.ycombinator.com/item?id=48011603"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48012003",
+      "title": "Heat pump sales rise across Europe",
+      "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
+      "description": "",
+      "signals": {
+        "points": 184,
+        "num_comments": 98,
+        "discussion_url": "https://news.ycombinator.com/item?id=48012003"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48013919",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "description": "",
+      "signals": {
+        "points": 173,
+        "num_comments": 68,
+        "discussion_url": "https://news.ycombinator.com/item?id=48013919"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48009983",
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
+      "description": "",
+      "signals": {
+        "points": 171,
+        "num_comments": 155,
+        "discussion_url": "https://news.ycombinator.com/item?id=48009983"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48009747",
+      "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
+      "url": "https://www.fuelinsight.co.uk",
+      "description": "",
+      "signals": {
+        "points": 148,
+        "num_comments": 72,
+        "discussion_url": "https://news.ycombinator.com/item?id=48009747"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48012162",
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "description": "",
+      "signals": {
+        "points": 142,
+        "num_comments": 63,
+        "discussion_url": "https://news.ycombinator.com/item?id=48012162"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48008074",
+      "title": "Newton's law of gravity passes its biggest test",
+      "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
+      "description": "",
+      "signals": {
+        "points": 124,
+        "num_comments": 113,
+        "discussion_url": "https://news.ycombinator.com/item?id=48008074"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48011980",
+      "title": "“Kitten Space Agency”, a Spiritual Successor to “Kerbal Space Program” (2025)",
+      "url": "https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview",
+      "description": "",
+      "signals": {
+        "points": 124,
+        "num_comments": 42,
+        "discussion_url": "https://news.ycombinator.com/item?id=48011980"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48011904",
+      "title": "Let's talk about LLMs",
+      "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+      "description": "",
+      "signals": {
+        "points": 102,
+        "num_comments": 66,
+        "discussion_url": "https://news.ycombinator.com/item?id=48011904"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48012477",
+      "title": "Offenders sentenced up to 10 years for spying on TSMC",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358",
+      "description": "",
+      "signals": {
+        "points": 95,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48012477"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48009840",
+      "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
+      "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
+      "description": "",
+      "signals": {
+        "points": 94,
+        "num_comments": 72,
+        "discussion_url": "https://news.ycombinator.com/item?id=48009840"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48009441",
+      "title": "Pomiferous: The most extensive apples (pommes) database",
+      "url": "https://pomiferous.com/",
+      "description": "",
+      "signals": {
+        "points": 92,
+        "num_comments": 41,
+        "discussion_url": "https://news.ycombinator.com/item?id=48009441"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48014325",
+      "title": "Formatting a 25M-line codebase overnight",
+      "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+      "description": "",
+      "signals": {
+        "points": 84,
+        "num_comments": 46,
+        "discussion_url": "https://news.ycombinator.com/item?id=48014325"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48010266",
+      "title": "Sierra Raises $950M at $15B Valuation",
+      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "description": "",
+      "signals": {
+        "points": 69,
+        "num_comments": 95,
+        "discussion_url": "https://news.ycombinator.com/item?id=48010266"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48011440",
+      "title": "The Visible Zorker: Zork 3",
+      "url": "https://eblong.com/infocom/visi/zork3/",
+      "description": "",
+      "signals": {
+        "points": 33,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48011440"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48015097",
+      "title": "Pulitzer Prize Winners 2026",
+      "url": "https://www.pulitzer.org/prize-winners-by-year/2026",
+      "description": "",
+      "signals": {
+        "points": 31,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48015097"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47985958",
+      "title": "Show HN: nfsdiag – A NFS diagnostic application",
+      "url": "https://github.com/lsferreira42/nfsdiag",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=47985958"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48015218",
+      "title": "'Point of no return': New Orleans relocation must start now due to sea level",
+      "url": "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis",
+      "description": "",
+      "signals": {
+        "points": 24,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48015218"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48015397",
+      "title": "Agent Skills",
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48015397"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47998158",
+      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
+      "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+      "description": "",
+      "signals": {
+        "points": 17,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47998158"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48014197",
+      "title": "Transformers Are Inherently Succinct",
+      "url": "https://arxiv.org/abs/2510.19315",
+      "description": "",
+      "signals": {
+        "points": 15,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48014197"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47988130",
+      "title": "A little comparison between R and Kap",
+      "url": "https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47988130"
+      },
+      "category_hint": null
+    }
+  ]
+}

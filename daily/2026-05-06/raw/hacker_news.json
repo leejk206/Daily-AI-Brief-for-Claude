@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-06T07:46:22+09:00",
+  "items": [
+    {
+      "id": "hn:48019219",
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "description": "",
+      "signals": {
+        "points": 1146,
+        "num_comments": 788,
+        "discussion_url": "https://news.ycombinator.com/item?id=48019219"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48027897",
+      "title": ".de TLD offline due to DNSSEC?",
+      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+      "description": "",
+      "signals": {
+        "points": 430,
+        "num_comments": 168,
+        "discussion_url": "https://news.ycombinator.com/item?id=48027897"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48019163",
+      "title": "Async Rust never left the MVP state",
+      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "description": "",
+      "signals": {
+        "points": 415,
+        "num_comments": 223,
+        "discussion_url": "https://news.ycombinator.com/item?id=48019163"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48024540",
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "description": "",
+      "signals": {
+        "points": 391,
+        "num_comments": 173,
+        "discussion_url": "https://news.ycombinator.com/item?id=48024540"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48021561",
+      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+      "description": "",
+      "signals": {
+        "points": 364,
+        "num_comments": 280,
+        "discussion_url": "https://news.ycombinator.com/item?id=48021561"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47962032",
+      "title": "Should I Run Plain Docker Compose in Production in 2026?",
+      "url": "https://distr.sh/blog/running-docker-in-production/",
+      "description": "",
+      "signals": {
+        "points": 327,
+        "num_comments": 249,
+        "discussion_url": "https://news.ycombinator.com/item?id=47962032"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48023861",
+      "title": "Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "description": "",
+      "signals": {
+        "points": 325,
+        "num_comments": 221,
+        "discussion_url": "https://news.ycombinator.com/item?id=48023861"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48020063",
+      "title": "When everyone has AI and the company still learns nothing",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "description": "",
+      "signals": {
+        "points": 293,
+        "num_comments": 204,
+        "discussion_url": "https://news.ycombinator.com/item?id=48020063"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48025687",
+      "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
+      "description": "",
+      "signals": {
+        "points": 268,
+        "num_comments": 157,
+        "discussion_url": "https://news.ycombinator.com/item?id=48025687"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48024859",
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "description": "",
+      "signals": {
+        "points": 243,
+        "num_comments": 127,
+        "discussion_url": "https://news.ycombinator.com/item?id=48024859"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48026349",
+      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+      "description": "",
+      "signals": {
+        "points": 212,
+        "num_comments": 272,
+        "discussion_url": "https://news.ycombinator.com/item?id=48026349"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48021368",
+      "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
+      "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
+      "description": "",
+      "signals": {
+        "points": 203,
+        "num_comments": 216,
+        "discussion_url": "https://news.ycombinator.com/item?id=48021368"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48024129",
+      "title": "EEVblog: The 555 Timer is 55 years old [video]",
+      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+      "description": "",
+      "signals": {
+        "points": 189,
+        "num_comments": 42,
+        "discussion_url": "https://news.ycombinator.com/item?id=48024129"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48023533",
+      "title": "Agents for financial services and insurance",
+      "url": "https://www.anthropic.com/news/finance-agents",
+      "description": "",
+      "signals": {
+        "points": 177,
+        "num_comments": 127,
+        "discussion_url": "https://news.ycombinator.com/item?id=48023533"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48026207",
+      "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
+      "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
+      "description": "",
+      "signals": {
+        "points": 158,
+        "num_comments": 113,
+        "discussion_url": "https://news.ycombinator.com/item?id=48026207"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48024358",
+      "title": "I'm scared about biological computing",
+      "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+      "description": "",
+      "signals": {
+        "points": 113,
+        "num_comments": 102,
+        "discussion_url": "https://news.ycombinator.com/item?id=48024358"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47993240",
+      "title": "Comparing the Z80 and 6502 to Their Relatives",
+      "url": "https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/",
+      "description": "",
+      "signals": {
+        "points": 102,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=47993240"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48026021",
+      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+      "url": "https://arxiv.org/abs/2604.26752",
+      "description": "",
+      "signals": {
+        "points": 88,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48026021"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48023496",
+      "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+      "url": "https://news.ycombinator.com/item?id=48023496",
+      "description": "",
+      "signals": {
+        "points": 83,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48023496"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48026342",
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "url": "https://paletteinspiration.com/",
+      "description": "",
+      "signals": {
+        "points": 73,
+        "num_comments": 28,
+        "discussion_url": "https://news.ycombinator.com/item?id=48026342"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999391",
+      "title": "Collaborative Editing in CodeMirror (2020)",
+      "url": "https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html",
+      "description": "",
+      "signals": {
+        "points": 51,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999391"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48028842",
+      "title": "Write some software, give it away for free",
+      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "description": "",
+      "signals": {
+        "points": 50,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=48028842"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48029114",
+      "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
+      "url": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
+      "description": "",
+      "signals": {
+        "points": 48,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48029114"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47998664",
+      "title": "Underwater robot tracks sperm whale conversations in real time",
+      "url": "https://www.reuters.com/business/environment/underwater-robot-tracks-sperm-whale-conversations-real-time-2026-05-01/",
+      "description": "",
+      "signals": {
+        "points": 45,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=47998664"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48025828",
+      "title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
+      "url": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
+      "description": "",
+      "signals": {
+        "points": 41,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48025828"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47994946",
+      "title": "Researchers print structural colour with an inkjet printer",
+      "url": "https://physicsworld.com/a/researchers-print-structural-colour-with-an-inkjet-printer/",
+      "description": "",
+      "signals": {
+        "points": 35,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=47994946"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48028546",
+      "title": "Why most product tours get skipped",
+      "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48028546"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48029334",
+      "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
+      "url": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48029334"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47996395",
+      "title": "The extended predicative Mahlo universe in Martin-Löf type theory",
+      "url": "https://academic.oup.com/logcom/article/34/6/1032/7158523",
+      "description": "",
+      "signals": {
+        "points": 16,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47996395"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    }
+  ]
+}

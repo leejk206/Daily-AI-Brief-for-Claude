@@ -505,26 +505,86 @@
   },
   "https://github.com/virattt/dexter": {
     "first_seen": "2026-05-05",
-    "last_seen": "2026-05-05",
-    "days": 1,
+    "last_seen": "2026-05-06",
+    "days": 2,
     "title": "virattt/dexter"
   },
   "https://github.com/msitarzewski/agency-agents": {
     "first_seen": "2026-05-05",
-    "last_seen": "2026-05-05",
-    "days": 1,
+    "last_seen": "2026-05-06",
+    "days": 2,
     "title": "msitarzewski/agency-agents"
   },
   "https://huggingface.co/papers/2604.24026": {
     "first_seen": "2026-05-05",
-    "last_seen": "2026-05-05",
-    "days": 1,
+    "last_seen": "2026-05-06",
+    "days": 2,
     "title": "From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills"
   },
   "https://huggingface.co/papers/2605.00553": {
     "first_seen": "2026-05-05",
-    "last_seen": "2026-05-05",
-    "days": 1,
+    "last_seen": "2026-05-06",
+    "days": 2,
     "title": "Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance"
+  },
+  "https://github.com/mksglu/context-mode": {
+    "first_seen": "2026-05-06",
+    "last_seen": "2026-05-06",
+    "days": 1,
+    "title": "mksglu/context-mode"
+  },
+  "https://huggingface.co/papers/2604.27660": {
+    "first_seen": "2026-05-06",
+    "last_seen": "2026-05-06",
+    "days": 1,
+    "title": "From Context to Skills: Can Language Models Learn from Context Skillfully?"
+  },
+  "https://huggingface.co/papers/2604.09408": {
+    "first_seen": "2026-05-06",
+    "last_seen": "2026-05-06",
+    "days": 1,
+    "title": "HiL-Bench (Human-in-Loop Benchmark): Do Agents Know When to Ask for Help?"
+  },
+  "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/": {
+    "first_seen": "2026-05-06",
+    "last_seen": "2026-05-06",
+    "days": 1,
+    "title": "Computer Use is 45x more expensive than structured APIs"
+  },
+  "https://www.anthropic.com/news/finance-agents": {
+    "first_seen": "2026-05-06",
+    "last_seen": "2026-05-06",
+    "days": 1,
+    "title": "Agents for financial services and insurance"
+  },
+  "https://huggingface.co/papers/2605.01214": {
+    "first_seen": "2026-05-06",
+    "last_seen": "2026-05-06",
+    "days": 1,
+    "title": "Agentic AI Systems Should Be Designed as Marginal Token Allocators"
+  },
+  "https://huggingface.co/papers/2605.00691": {
+    "first_seen": "2026-05-06",
+    "last_seen": "2026-05-06",
+    "days": 1,
+    "title": "Learning to Act and Cooperate for Distributed Black-Box Consensus Optimization"
+  },
+  "https://openai.com/index/openai-pwc-finance-collaboration": {
+    "first_seen": "2026-05-06",
+    "last_seen": "2026-05-06",
+    "days": 1,
+    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO"
+  },
+  "https://huggingface.co/papers/2605.02661": {
+    "first_seen": "2026-05-06",
+    "last_seen": "2026-05-06",
+    "days": 1,
+    "title": "AcademiClaw: When Students Set Challenges for AI Agents"
+  },
+  "https://huggingface.co/papers/2605.02240": {
+    "first_seen": "2026-05-06",
+    "last_seen": "2026-05-06",
+    "days": 1,
+    "title": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments"
   }
 }

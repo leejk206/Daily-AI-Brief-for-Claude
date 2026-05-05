@@ -1,0 +1,16 @@
+[
+  {"url": "https://github.com/mksglu/context-mode", "title": "mksglu/context-mode"},
+  {"url": "https://huggingface.co/papers/2604.27660", "title": "From Context to Skills: Can Language Models Learn from Context Skillfully?"},
+  {"url": "https://huggingface.co/papers/2604.09408", "title": "HiL-Bench (Human-in-Loop Benchmark): Do Agents Know When to Ask for Help?"},
+  {"url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/", "title": "Computer Use is 45x more expensive than structured APIs"},
+  {"url": "https://www.anthropic.com/news/finance-agents", "title": "Agents for financial services and insurance"},
+  {"url": "https://github.com/virattt/dexter", "title": "virattt/dexter"},
+  {"url": "https://github.com/msitarzewski/agency-agents", "title": "msitarzewski/agency-agents"},
+  {"url": "https://huggingface.co/papers/2605.01214", "title": "Agentic AI Systems Should Be Designed as Marginal Token Allocators"},
+  {"url": "https://huggingface.co/papers/2605.00691", "title": "Learning to Act and Cooperate for Distributed Black-Box Consensus Optimization"},
+  {"url": "https://openai.com/index/openai-pwc-finance-collaboration", "title": "OpenAI and PwC collaborate to reimagine the office of the CFO"},
+  {"url": "https://huggingface.co/papers/2604.24026", "title": "From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills"},
+  {"url": "https://huggingface.co/papers/2605.02661", "title": "AcademiClaw: When Students Set Challenges for AI Agents"},
+  {"url": "https://huggingface.co/papers/2605.02240", "title": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments"},
+  {"url": "https://huggingface.co/papers/2605.00553", "title": "Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance"}
+]

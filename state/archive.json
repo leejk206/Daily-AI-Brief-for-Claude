@@ -238,5 +238,25 @@
   "https://www.anthropic.com/news/finance-agents": {
     "archived_on": "2026-05-06",
     "title": "Agents for financial services and insurance"
+  },
+  "https://github.com/bytedance/deer-flow": {
+    "archived_on": "2026-05-07",
+    "title": "bytedance/deer-flow"
+  },
+  "https://www.anthropic.com/news/higher-limits-spacex": {
+    "archived_on": "2026-05-07",
+    "title": "Higher usage limits for Claude and a compute deal with SpaceX"
+  },
+  "https://www.thetypicalset.com/blog/thoughts-on-coding-agents": {
+    "archived_on": "2026-05-07",
+    "title": "The bottleneck was never the code"
+  },
+  "https://huggingface.co/papers/2604.27776": {
+    "archived_on": "2026-05-07",
+    "title": "WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments"
+  },
+  "https://huggingface.co/papers/2605.01284": {
+    "archived_on": "2026-05-07",
+    "title": "Chain of Evidence: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation"
   }
 }

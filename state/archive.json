@@ -258,5 +258,25 @@
   "https://huggingface.co/papers/2605.01284": {
     "archived_on": "2026-05-07",
     "title": "Chain of Evidence: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation"
+  },
+  "https://deepmind.google/blog/alphaevolve-impact/": {
+    "archived_on": "2026-05-08",
+    "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields"
+  },
+  "https://github.com/addyosmani/agent-skills": {
+    "archived_on": "2026-05-08",
+    "title": "addyosmani/agent-skills"
+  },
+  "https://github.com/vercel-labs/open-agents": {
+    "archived_on": "2026-05-08",
+    "title": "vercel-labs/open-agents"
+  },
+  "https://huggingface.co/papers/2605.05185": {
+    "archived_on": "2026-05-08",
+    "title": "OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents"
+  },
+  "https://huggingface.co/papers/2605.04018": {
+    "archived_on": "2026-05-08",
+    "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems"
   }
 }

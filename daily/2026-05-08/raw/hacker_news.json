@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-08T09:05:32+09:00",
+  "items": [
+    {
+      "id": "hn:48049653",
+      "title": "The Burning Man MOOP Map",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "description": "",
+      "signals": {
+        "points": 509,
+        "num_comments": 272,
+        "discussion_url": "https://news.ycombinator.com/item?id=48049653"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48050964",
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "description": "",
+      "signals": {
+        "points": 428,
+        "num_comments": 162,
+        "discussion_url": "https://news.ycombinator.com/item?id=48050964"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48053203",
+      "title": "AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "description": "",
+      "signals": {
+        "points": 387,
+        "num_comments": 378,
+        "discussion_url": "https://news.ycombinator.com/item?id=48053203"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48053623",
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "description": "",
+      "signals": {
+        "points": 345,
+        "num_comments": 165,
+        "discussion_url": "https://news.ycombinator.com/item?id=48053623"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48051562",
+      "title": "Agents need control flow, not more prompts",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "description": "",
+      "signals": {
+        "points": 291,
+        "num_comments": 157,
+        "discussion_url": "https://news.ycombinator.com/item?id=48051562"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48050751",
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "url": "https://github.com/antirez/ds4",
+      "description": "",
+      "signals": {
+        "points": 260,
+        "num_comments": 82,
+        "discussion_url": "https://news.ycombinator.com/item?id=48050751"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48050278",
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "description": "",
+      "signals": {
+        "points": 236,
+        "num_comments": 91,
+        "discussion_url": "https://news.ycombinator.com/item?id=48050278"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48050499",
+      "title": "I want to live like Costco people",
+      "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+      "description": "",
+      "signals": {
+        "points": 199,
+        "num_comments": 442,
+        "discussion_url": "https://news.ycombinator.com/item?id=48050499"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48054423",
+      "title": "Building for the Future",
+      "url": "https://blog.cloudflare.com/building-for-the-future/",
+      "description": "",
+      "signals": {
+        "points": 195,
+        "num_comments": 114,
+        "discussion_url": "https://news.ycombinator.com/item?id=48054423"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48014521",
+      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+      "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
+      "description": "",
+      "signals": {
+        "points": 183,
+        "num_comments": 82,
+        "discussion_url": "https://news.ycombinator.com/item?id=48014521"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48052537",
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "description": "",
+      "signals": {
+        "points": 168,
+        "num_comments": 55,
+        "discussion_url": "https://news.ycombinator.com/item?id=48052537"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48010729",
+      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+      "url": "https://ratex.lites.dev/",
+      "description": "",
+      "signals": {
+        "points": 156,
+        "num_comments": 86,
+        "discussion_url": "https://news.ycombinator.com/item?id=48010729"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48049764",
+      "title": "The Self-Cancelling Subscription",
+      "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+      "description": "",
+      "signals": {
+        "points": 139,
+        "num_comments": 60,
+        "discussion_url": "https://news.ycombinator.com/item?id=48049764"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48045939",
+      "title": "Show HN: TRUST – Coding Rust like it's 1989",
+      "url": "https://github.com/wojtczyk/trust",
+      "description": "",
+      "signals": {
+        "points": 114,
+        "num_comments": 72,
+        "discussion_url": "https://news.ycombinator.com/item?id=48045939"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48036190",
+      "title": "OurCar: What I learned making an app for my family",
+      "url": "https://mendelgreenberg.com/posts/ourcar/",
+      "description": "",
+      "signals": {
+        "points": 96,
+        "num_comments": 69,
+        "discussion_url": "https://news.ycombinator.com/item?id=48036190"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48053816",
+      "title": "Mozilla says 271 vulnerabilities found by Mythos and \"almost no false positives\"",
+      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "description": "",
+      "signals": {
+        "points": 84,
+        "num_comments": 43,
+        "discussion_url": "https://news.ycombinator.com/item?id=48053816"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48026412",
+      "title": "PySimpleGUI 6",
+      "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+      "description": "",
+      "signals": {
+        "points": 84,
+        "num_comments": 42,
+        "discussion_url": "https://news.ycombinator.com/item?id=48026412"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48055913",
+      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "description": "",
+      "signals": {
+        "points": 80,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48055913"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48040465",
+      "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
+      "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
+      "description": "",
+      "signals": {
+        "points": 60,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48040465"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48052333",
+      "title": "Principles for agent-native CLIs",
+      "url": "https://twitter.com/trevin/status/2051316002730991795",
+      "description": "",
+      "signals": {
+        "points": 50,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=48052333"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48053842",
+      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "description": "",
+      "signals": {
+        "points": 35,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48053842"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48053435",
+      "title": "Colored Shadow Penumbra",
+      "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
+      "description": "",
+      "signals": {
+        "points": 30,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48053435"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48056227",
+      "title": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "description": "",
+      "signals": {
+        "points": 30,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48056227"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48053770",
+      "title": "Creating for a niche",
+      "url": "https://www.davesnider.com/posts/working-in-a-niche",
+      "description": "",
+      "signals": {
+        "points": 22,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48053770"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48027275",
+      "title": "Tools in the Grass: Raising the next generation of crafts person",
+      "url": "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/",
+      "description": "",
+      "signals": {
+        "points": 20,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48027275"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48056003",
+      "title": "OpenClaw Had a Rough Week",
+      "url": "https://openclaw.ai/blog/openclaw-rough-week",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 22,
+        "discussion_url": "https://news.ycombinator.com/item?id=48056003"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48025374",
+      "title": "Easy Random Trees",
+      "url": "https://blog.wilsonb.com/posts/2026-02-27-easy-random-trees.html",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48025374"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48021240",
+      "title": "Rolling the Root Key",
+      "url": "https://blog.apnic.net/2026/05/05/rolling-the-root-key/",
+      "description": "",
+      "signals": {
+        "points": 10,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48021240"
+      },
+      "category_hint": null
+    }
+  ]
+}

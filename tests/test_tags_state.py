@@ -47,6 +47,14 @@ def test_load_malformed_shape_backs_up(tmp_path):
     assert backup is not None
 
 
+def test_load_missing_version_backs_up(tmp_path):
+    p = tmp_path / "tags.json"
+    p.write_text(json.dumps({"items": {}}))  # missing "version"
+    state, backup = tags_state.load(p)
+    assert state == {"version": 1, "items": {}}
+    assert backup is not None
+
+
 def test_save_creates_parent_dirs(tmp_path):
     p = tmp_path / "deep" / "nested" / "tags.json"
     tags_state.save(p, {"version": 1, "items": {}})
@@ -97,6 +105,43 @@ def test_upsert_existing_merges_tags_and_preserves_brief_date():
     assert item["title"] == "A"  # preserved
     assert item["category"] == "mcp"  # preserved
     assert item["tagged_at"] != "2026-04-15T09:00:00+09:00"  # refreshed
+
+
+def test_upsert_new_item_with_empty_tags():
+    state = {"version": 1, "items": {}}
+    tags_state.upsert_item(
+        state, "https://a.example",
+        title="A", summary="s",
+        category="mcp", source="hacker_news",
+        brief_date="2026-05-09",
+        tags=[],
+    )
+    assert state["items"]["https://a.example"]["tags"] == []
+
+
+def test_upsert_existing_with_empty_tags_preserves_existing():
+    state = {
+        "version": 1,
+        "items": {
+            "https://a.example": {
+                "title": "A", "summary": "s",
+                "category": "mcp", "source": "hacker_news",
+                "brief_date": "2026-04-15",
+                "tags": ["mcp-server", "tool-use"],
+                "tagged_at": "2026-04-15T09:00:00+09:00",
+            }
+        },
+    }
+    tags_state.upsert_item(
+        state, "https://a.example",
+        title="A", summary="s",
+        category="mcp", source="hacker_news",
+        brief_date="2026-04-15",
+        tags=[],
+    )
+    item = state["items"]["https://a.example"]
+    assert sorted(item["tags"]) == ["mcp-server", "tool-use"]  # preserved
+    assert item["tagged_at"] != "2026-04-15T09:00:00+09:00"  # still refreshed
 
 
 def test_get_item():

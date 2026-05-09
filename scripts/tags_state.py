@@ -23,6 +23,7 @@ def load(path: Path) -> tuple[dict[str, Any], str | None]:
         data = json.loads(path.read_text())
         if (
             not isinstance(data, dict)
+            or "version" not in data
             or "items" not in data
             or not isinstance(data["items"], dict)
         ):
@@ -75,4 +76,5 @@ def upsert_item(
 
 
 def get_item(state: dict[str, Any], url: str) -> dict[str, Any] | None:
+    """Returns a live reference into state — do not mutate; use upsert_item to write."""
     return state["items"].get(url)

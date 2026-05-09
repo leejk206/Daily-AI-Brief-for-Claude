@@ -99,6 +99,50 @@ Rules:
 - Skip any empty category section.
 - If no items match interests at all, write a fallback section listing the raw top 3 of each source.
 
+## Step 7.5 — 항목 태깅
+
+`AGENTS.md`와 `tags.md`의 정책에 따라 brief.md의 모든 항목(TOP 5 + 카테고리별 + Still trending)에 태그를 부여한다.
+
+1. 다음 파일을 읽는다:
+   - `AGENTS.md` (태깅 정책)
+   - `tags.md` (현재 어휘)
+   - `state/tags.json` (없으면 빈 인덱스 — `scripts.tags_state.load()` 사용)
+
+2. brief.md의 각 항목에 대해:
+   - `state/tags.json`에 URL이 이미 있으면 → 태그 합집합 갱신 (`scripts.tags_state.upsert_item()`이 알아서 처리)
+   - 없으면 → AGENTS.md 정책 따라 1~5개 태그 선정
+   - 신규 태그(현 tags.md에 없는 것)면:
+     - `state/tags.json`의 모든 기존 항목 tags에서 사용 횟수 카운트
+     - 이번 사용 포함 누적 2회 이상 → `tags.md`의 Canonical 섹션에 추가
+     - 1회 → `tags.md`의 Candidate 섹션에 추가
+
+3. 모든 항목에 대해 `tags_state.upsert_item()` 호출 후 `tags_state.save()` 한 번.
+
+4. 1회 brief에서 신규 태그가 5개 이상이면 Step 11 보고에 WARNING 추가.
+
+운영 코드 예시 (인라인 Python으로 실행):
+
+```python
+from pathlib import Path
+from scripts import tags_state
+
+state, backup = tags_state.load(Path("state/tags.json"))
+if backup:
+    print(f"WARNING: corrupt tags.json backed up to {backup}")
+
+# (Claude가 brief 항목별로 tags 결정한 뒤)
+for item in tagged_items:
+    tags_state.upsert_item(
+        state, item["url"],
+        title=item["title"], summary=item["summary"],
+        category=item["category"], source=item["source"],
+        brief_date=TODAY,
+        tags=item["tags"],
+    )
+
+tags_state.save(Path("state/tags.json"), state)
+```
+
 ## Step 8 — Save selected items
 Write two files:
 - `daily/$TODAY/selected.json` — JSON array of all items in the brief (TOP 5 + carousels), each as `{"url": "...", "title": "..."}`.
@@ -114,9 +158,11 @@ Run both in order:
 ## Step 10 — Commit
 ```
 git add -f daily/$TODAY
-git add state/seen.json state/archive.json
+git add state/seen.json state/archive.json state/tags.json tags.md
 git commit -m "brief: $TODAY"
 ```
 
 ## Step 11 — Report
-Tell the user: "Brief written to daily/$TODAY/brief.md — TOP 5 + N carousel items. Source status: ..."
+Tell the user: "Brief written to daily/$TODAY/brief.md — TOP 5 + N carousel items. Source status: ... Tags: M items tagged, K new (J promoted to canonical)."
+
+신규 태그가 ≥ 5개면 WARNING으로 사용자에게 검토 요청.

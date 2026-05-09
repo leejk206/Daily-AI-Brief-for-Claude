@@ -43,6 +43,9 @@ Claude Code 관련 항목
 ### web-agent
 브라우저·웹 자동화 에이전트
 
+### agent-skill
+에이전트 스킬 설계·학습·진화·큐레이션
+
 ## Candidate
 
 (빈 섹션. /brief 시 신규 태그 자동 추가됨)

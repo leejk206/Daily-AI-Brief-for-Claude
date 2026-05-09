@@ -3,6 +3,8 @@ import subprocess
 import sys
 from pathlib import Path
 
+from scripts.save_item import _parse_tags
+
 
 def _run(*args, cwd=None):
     return subprocess.run(
@@ -179,3 +181,23 @@ def test_save_normalizes_tag_whitespace_and_empty(tmp_path):
     assert data["items"][0]["tags"] == ["rl", "multi-agent"]
     md = (tmp_path / "saved" / "agent-frameworks.md").read_text()
     assert "**태그**: rl, multi-agent" in md
+
+
+def test_parse_tags_empty_string():
+    assert _parse_tags("") == []
+
+
+def test_parse_tags_only_whitespace():
+    assert _parse_tags("  ") == []
+
+
+def test_parse_tags_only_commas():
+    assert _parse_tags(",,,") == []
+
+
+def test_parse_tags_normalizes():
+    assert _parse_tags(" rl , , multi-agent ,") == ["rl", "multi-agent"]
+
+
+def test_parse_tags_preserves_order():
+    assert _parse_tags("zeta,alpha,beta") == ["zeta", "alpha", "beta"]

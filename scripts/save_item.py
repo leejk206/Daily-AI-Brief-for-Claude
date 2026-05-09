@@ -4,7 +4,7 @@ Usage: python -m scripts.save_item \\
     --url URL --title TITLE --summary SUMMARY \\
     --source {github_trending,hacker_news,huggingface,release_blogs} \\
     --category SLUG --brief-date YYYY-MM-DD \\
-    [--state-path state/saved.json] [--saved-dir saved]
+    [--state-path state/saved.json] [--saved-dir saved] [--tags tag1,tag2]
 """
 
 from __future__ import annotations

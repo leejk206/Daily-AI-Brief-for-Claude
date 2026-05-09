@@ -41,6 +41,11 @@ def _build_parser() -> argparse.ArgumentParser:
     p.add_argument("--brief-date", required=True)
     p.add_argument("--state-path", default="state/saved.json")
     p.add_argument("--saved-dir", default="saved")
+    p.add_argument(
+        "--tags",
+        default="",
+        help="Comma-separated tag list (e.g. 'rl,multi-agent'). Empty whitespace and empty tokens are dropped.",
+    )
     return p
 
 
@@ -75,15 +80,24 @@ def _find_existing(state: dict[str, Any], url: str) -> dict[str, Any] | None:
     return None
 
 
+def _parse_tags(raw: str) -> list[str]:
+    return [t.strip() for t in raw.split(",") if t.strip()]
+
+
 def _format_entry(entry: dict[str, Any]) -> str:
-    return (
-        f"### {entry['title']}\n"
-        f"- **요약**: {entry['summary']}\n"
-        f"- **출처**: {entry['source']}\n"
-        f"- **brief 날짜**: {entry['brief_date']}\n"
-        f"- **URL**: {entry['url']}\n\n"
-        f"---\n"
-    )
+    lines = [
+        f"### {entry['title']}\n",
+        f"- **요약**: {entry['summary']}\n",
+    ]
+    if entry.get("tags"):
+        lines.append(f"- **태그**: {', '.join(entry['tags'])}\n")
+    lines.extend([
+        f"- **출처**: {entry['source']}\n",
+        f"- **brief 날짜**: {entry['brief_date']}\n",
+        f"- **URL**: {entry['url']}\n\n",
+        f"---\n",
+    ])
+    return "".join(lines)
 
 
 def _category_header(category: str) -> str:
@@ -165,6 +179,7 @@ def main(argv: list[str] | None = None) -> int:
         "category": args.category,
         "brief_date": args.brief_date,
         "saved_at": now,
+        "tags": _parse_tags(args.tags),
     }
     state["items"].insert(0, entry)
     _save_state(state_path, state)

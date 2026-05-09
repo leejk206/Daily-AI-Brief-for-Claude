@@ -140,3 +140,42 @@ def test_uncategorized_file(tmp_path):
     result = _run(*_save_args(tmp_path, category="uncategorized"))
     assert result.returncode == 0, result.stderr
     assert (tmp_path / "saved" / "uncategorized.md").exists()
+
+
+def test_save_with_tags_writes_to_json(tmp_path):
+    args = _save_args(tmp_path) + ["--tags", "rl,multi-agent"]
+    result = _run(*args)
+    assert result.returncode == 0, result.stderr
+    state_path = tmp_path / "state" / "saved.json"
+    data = json.loads(state_path.read_text())
+    assert data["items"][0]["tags"] == ["rl", "multi-agent"]
+
+
+def test_save_without_tags_arg_writes_empty_list(tmp_path):
+    result = _run(*_save_args(tmp_path))
+    assert result.returncode == 0, result.stderr
+    data = json.loads((tmp_path / "state" / "saved.json").read_text())
+    assert data["items"][0]["tags"] == []
+
+
+def test_save_with_tags_writes_md_tag_line(tmp_path):
+    args = _save_args(tmp_path) + ["--tags", "rl,multi-agent"]
+    _run(*args)
+    md = (tmp_path / "saved" / "agent-frameworks.md").read_text()
+    assert "**태그**: rl, multi-agent" in md
+
+
+def test_save_without_tags_no_md_tag_line(tmp_path):
+    _run(*_save_args(tmp_path))
+    md = (tmp_path / "saved" / "agent-frameworks.md").read_text()
+    assert "**태그**" not in md
+
+
+def test_save_normalizes_tag_whitespace_and_empty(tmp_path):
+    args = _save_args(tmp_path) + ["--tags", " rl , , multi-agent ,"]
+    result = _run(*args)
+    assert result.returncode == 0, result.stderr
+    data = json.loads((tmp_path / "state" / "saved.json").read_text())
+    assert data["items"][0]["tags"] == ["rl", "multi-agent"]
+    md = (tmp_path / "saved" / "agent-frameworks.md").read_text()
+    assert "**태그**: rl, multi-agent" in md

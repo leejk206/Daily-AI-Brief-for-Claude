@@ -46,6 +46,18 @@ Claude Code 관련 항목
 ### agent-skill
 에이전트 스킬 설계·학습·진화·큐레이션
 
+### frontend
+프론트엔드 UI·컴포넌트·디자인 시스템·React/Vue 등 클라이언트 사이드
+
+### backend
+백엔드 API·서버사이드·인프라·DB·메시징
+
+### game
+게임 개발·게임 AI·Unity/Unreal·게임 엔진
+
+### blockchain
+블록체인·온체인·스마트 컨트랙트·crypto 인프라
+
 ## Candidate
 
 (빈 섹션. /brief 시 신규 태그 자동 추가됨)

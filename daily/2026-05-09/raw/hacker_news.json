@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-09T09:47:28+09:00",
+  "items": [
+    {
+      "id": "hn:48037336",
+      "title": "Rumors of my death are slightly exaggerated",
+      "url": "https://news.ycombinator.com/item?id=48037336",
+      "description": "",
+      "signals": {
+        "points": 1496,
+        "num_comments": 232,
+        "discussion_url": "https://news.ycombinator.com/item?id=48037336"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48062117",
+      "title": "Poland is now among the 20 largest economies",
+      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+      "description": "",
+      "signals": {
+        "points": 887,
+        "num_comments": 729,
+        "discussion_url": "https://news.ycombinator.com/item?id=48062117"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48067119",
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "description": "",
+      "signals": {
+        "points": 533,
+        "num_comments": 176,
+        "discussion_url": "https://news.ycombinator.com/item?id=48067119"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48061884",
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "description": "",
+      "signals": {
+        "points": 420,
+        "num_comments": 81,
+        "discussion_url": "https://news.ycombinator.com/item?id=48061884"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48061566",
+      "title": "An Introduction to Meshtastic",
+      "url": "https://meshtastic.org/docs/introduction/",
+      "description": "",
+      "signals": {
+        "points": 366,
+        "num_comments": 141,
+        "discussion_url": "https://news.ycombinator.com/item?id=48061566"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48057901",
+      "title": "Mojo 1.0 Beta",
+      "url": "https://mojolang.org/",
+      "description": "",
+      "signals": {
+        "points": 275,
+        "num_comments": 177,
+        "discussion_url": "https://news.ycombinator.com/item?id=48057901"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48065360",
+      "title": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "description": "",
+      "signals": {
+        "points": 268,
+        "num_comments": 95,
+        "discussion_url": "https://news.ycombinator.com/item?id=48065360"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48061938",
+      "title": "US Government releases first batch of UAP documents and videos",
+      "url": "https://www.war.gov/UFO/",
+      "description": "",
+      "signals": {
+        "points": 226,
+        "num_comments": 333,
+        "discussion_url": "https://news.ycombinator.com/item?id=48061938"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48066524",
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "description": "",
+      "signals": {
+        "points": 215,
+        "num_comments": 94,
+        "discussion_url": "https://news.ycombinator.com/item?id=48066524"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48064312",
+      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+      "url": "https://btxx.org/posts/memory/",
+      "description": "",
+      "signals": {
+        "points": 187,
+        "num_comments": 76,
+        "discussion_url": "https://news.ycombinator.com/item?id=48064312"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48067734",
+      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "url": "https://ze3tar.github.io/post-zcrx.html",
+      "description": "",
+      "signals": {
+        "points": 121,
+        "num_comments": 78,
+        "discussion_url": "https://news.ycombinator.com/item?id=48067734"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48063521",
+      "title": "PC Engine CPU",
+      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+      "description": "",
+      "signals": {
+        "points": 117,
+        "num_comments": 52,
+        "discussion_url": "https://news.ycombinator.com/item?id=48063521"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48069192",
+      "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+      "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
+      "description": "",
+      "signals": {
+        "points": 113,
+        "num_comments": 83,
+        "discussion_url": "https://news.ycombinator.com/item?id=48069192"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48058197",
+      "title": "AWS North Virginia data center outage – recovery to take hours",
+      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "description": "",
+      "signals": {
+        "points": 103,
+        "num_comments": 62,
+        "discussion_url": "https://news.ycombinator.com/item?id=48058197"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48065916",
+      "title": "How do I deal with memory leaks? (2022)",
+      "url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
+      "description": "",
+      "signals": {
+        "points": 75,
+        "num_comments": 63,
+        "discussion_url": "https://news.ycombinator.com/item?id=48065916"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48066592",
+      "title": "Teaching Claude Why",
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "description": "",
+      "signals": {
+        "points": 73,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48066592"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48037760",
+      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+      "url": "https://www.wiisfi.com/",
+      "description": "",
+      "signals": {
+        "points": 50,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=48037760"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48049014",
+      "title": "Looking at the data behind prediction markets",
+      "url": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
+      "description": "",
+      "signals": {
+        "points": 48,
+        "num_comments": 23,
+        "discussion_url": "https://news.ycombinator.com/item?id=48049014"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48068947",
+      "title": "Non-determinism is an issue with patching CVEs",
+      "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
+      "description": "",
+      "signals": {
+        "points": 32,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48068947"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48051951",
+      "title": "OpenAI's WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "description": "",
+      "signals": {
+        "points": 32,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48051951"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48037655",
+      "title": "All means are fair except solving the problem",
+      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
+      "description": "",
+      "signals": {
+        "points": 29,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=48037655"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48070115",
+      "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
+      "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
+      "description": "",
+      "signals": {
+        "points": 24,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48070115"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48067764",
+      "title": "Roadside Attraction",
+      "url": "https://theoffingmag.com/essay/roadside-attraction/",
+      "description": "",
+      "signals": {
+        "points": 17,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48067764"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48069313",
+      "title": "Compound drivers of Antarctic sea ice loss and Southern Ocean destratification",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeb0166",
+      "description": "",
+      "signals": {
+        "points": 17,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48069313"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48065254",
+      "title": "Can LLMs model real-world systems in TLA+?",
+      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+      "description": "",
+      "signals": {
+        "points": 11,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48065254"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47320921",
+      "title": "Making your JITted Code known: Let me count the ways",
+      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47320921"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47544114",
+      "title": "When Coupled Volcanoes Talk, These Researchers Listen",
+      "url": "https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47544114"
+      },
+      "category_hint": null
+    }
+  ]
+}

@@ -278,5 +278,25 @@
   "https://huggingface.co/papers/2605.04018": {
     "archived_on": "2026-05-08",
     "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems"
+  },
+  "https://github.com/anthropics/financial-services": {
+    "archived_on": "2026-05-09",
+    "title": "anthropics/financial-services"
+  },
+  "https://github.com/awslabs/aidlc-workflows": {
+    "archived_on": "2026-05-09",
+    "title": "awslabs/aidlc-workflows"
+  },
+  "https://huggingface.co/papers/2605.06130": {
+    "archived_on": "2026-05-09",
+    "title": "Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning"
+  },
+  "https://huggingface.co/papers/2605.05242": {
+    "archived_on": "2026-05-09",
+    "title": "Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction"
+  },
+  "https://openai.com/index/running-codex-safely": {
+    "archived_on": "2026-05-09",
+    "title": "Running Codex safely at OpenAI"
   }
 }

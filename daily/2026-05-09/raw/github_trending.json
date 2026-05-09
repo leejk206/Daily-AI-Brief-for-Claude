@@ -1,0 +1,150 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-05-09T09:47:29+09:00",
+  "items": [
+    {
+      "id": "github:anthropics/financial-services",
+      "title": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "signals": {
+        "stars": 15152,
+        "stars_today": 3660,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:addyosmani/agent-skills",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "signals": {
+        "stars": 35367,
+        "stars_today": 1893,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Hmbown/DeepSeek-TUI",
+      "title": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "signals": {
+        "stars": 21763,
+        "stars_today": 3731,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:z-lab/dflash",
+      "title": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "signals": {
+        "stars": 3847,
+        "stars_today": 379,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:decolua/9router",
+      "title": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "signals": {
+        "stars": 5564,
+        "stars_today": 1052,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:CloakHQ/CloakBrowser",
+      "title": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "signals": {
+        "stars": 2991,
+        "stars_today": 526,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:awslabs/aidlc-workflows",
+      "title": "awslabs/aidlc-workflows",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+      "signals": {
+        "stars": 1752,
+        "stars_today": 58,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:HKUDS/AI-Trader",
+      "title": "HKUDS/AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "signals": {
+        "stars": 14617,
+        "stars_today": 202,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:LearningCircuit/local-deep-research",
+      "title": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "signals": {
+        "stars": 6733,
+        "stars_today": 559,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "signals": {
+        "stars": 76494,
+        "stars_today": 125,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:datawhalechina/hello-agents",
+      "title": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "signals": {
+        "stars": 44556,
+        "stars_today": 667,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:flutter/skills",
+      "title": "flutter/skills",
+      "url": "https://github.com/flutter/skills",
+      "description": "",
+      "signals": {
+        "stars": 1670,
+        "stars_today": 118,
+        "language": "Dart"
+      },
+      "category_hint": null
+    }
+  ]
+}

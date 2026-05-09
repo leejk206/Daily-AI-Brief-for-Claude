@@ -1,0 +1,23 @@
+[
+  {"url": "https://github.com/anthropics/financial-services", "title": "anthropics/financial-services"},
+  {"url": "https://github.com/awslabs/aidlc-workflows", "title": "awslabs/aidlc-workflows"},
+  {"url": "https://huggingface.co/papers/2605.06130", "title": "Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning"},
+  {"url": "https://huggingface.co/papers/2605.05242", "title": "Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction"},
+  {"url": "https://openai.com/index/running-codex-safely", "title": "Running Codex safely at OpenAI"},
+  {"url": "https://github.com/lobehub/lobehub", "title": "lobehub/lobehub"},
+  {"url": "https://github.com/datawhalechina/hello-agents", "title": "datawhalechina/hello-agents"},
+  {"url": "https://huggingface.co/papers/2605.06614", "title": "SkillOS: Learning Skill Curation for Self-Evolving Agents"},
+  {"url": "https://huggingface.co/papers/2605.06642", "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction"},
+  {"url": "https://huggingface.co/papers/2605.06200", "title": "A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping"},
+  {"url": "https://huggingface.co/papers/2605.05724", "title": "Auto Research with Specialist Agents Develops Effective and Non-Trivial Training Recipes"},
+  {"url": "https://huggingface.co/papers/2605.06651", "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI"},
+  {"url": "https://github.com/decolua/9router", "title": "decolua/9router"},
+  {"url": "https://huggingface.co/papers/2605.06416", "title": "MiA-Signature: Approximating Global Activation for Long-Context Understanding"},
+  {"url": "https://www.anthropic.com/research/teaching-claude-why", "title": "Teaching Claude Why"},
+  {"url": "https://github.com/LearningCircuit/local-deep-research", "title": "LearningCircuit/local-deep-research"},
+  {"url": "https://huggingface.co/papers/2605.04637", "title": "SWE-WebDevBench: Evaluating Coding Agent Application Platforms as Virtual Software Agencies"},
+  {"url": "https://huggingface.co/papers/2605.02910", "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing"},
+  {"url": "https://openai.com/index/simplex", "title": "Simplex rethinks software development with Codex"},
+  {"url": "https://openai.com/index/introducing-b2b-signals", "title": "How frontier firms are pulling ahead"},
+  {"url": "https://huggingface.co/papers/2605.03314", "title": "When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning"}
+]

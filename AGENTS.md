@@ -24,6 +24,7 @@
 1. `state/tags.json`의 모든 기존 항목의 `tags` 배열에서 이 태그 사용 횟수 카운트
 2. **이번 사용 포함 누적 2회 이상**이면 `tags.md`의 Candidate 섹션에서 제거 + Canonical 섹션에 추가 (헤더 + 한 줄 설명)
 3. 1회면 Candidate에 남겨둠
+4. 같은 태그가 Canonical과 Candidate 양쪽에 동시에 있는 게 발견되면 (예: 사람이 수동 편집으로 추가) Candidate에서 제거하고 Canonical 유지
 
 ## 4. 이름 규약
 

@@ -109,7 +109,7 @@ Rules:
    - `state/tags.json` (없으면 빈 인덱스 — `scripts.tags_state.load()` 사용)
 
 2. brief.md의 각 항목에 대해:
-   - `state/tags.json`에 URL이 이미 있으면 → 태그 합집합 갱신 (`scripts.tags_state.upsert_item()`이 알아서 처리)
+   - `state/tags.json`에 URL이 이미 있으면 → 태그 합집합 갱신 (`scripts.tags_state.upsert_item()`이 알아서 처리). Still trending 항목은 거의 항상 이 분기 — title/summary/category/source 등 메타는 첫 등장 시점 값으로 박제되어 있으니 다시 조회 불필요.
    - 없으면 → AGENTS.md 정책 따라 1~5개 태그 선정
    - 신규 태그(현 tags.md에 없는 것)면:
      - `state/tags.json`의 모든 기존 항목 tags에서 사용 횟수 카운트

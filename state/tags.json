@@ -93,9 +93,10 @@
       "brief_date": "2026-04-15",
       "tags": [
         "claude-code",
+        "game",
         "multi-agent"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-09T10:45:43+09:00"
     },
     "https://huggingface.co/papers/2604.11784": {
       "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
@@ -313,10 +314,11 @@
       "brief_date": "2026-04-16",
       "tags": [
         "benchmark",
+        "game",
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-09T10:45:43+09:00"
     },
     "https://huggingface.co/papers/2604.13201": {
       "title": "InfiniteScienceGym: Procedurally-Generated Benchmark for Scientific Analysis",
@@ -1778,9 +1780,10 @@
       "source": "github_trending",
       "brief_date": "2026-05-07",
       "tags": [
+        "backend",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-09T10:45:43+09:00"
     },
     "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/": {
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",

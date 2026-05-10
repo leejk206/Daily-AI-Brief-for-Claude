@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-10T09:22:05+09:00",
+  "items": [
+    {
+      "id": "hn:48071262",
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "description": "",
+      "signals": {
+        "points": 588,
+        "num_comments": 417,
+        "discussion_url": "https://news.ycombinator.com/item?id=48071262"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48074265",
+      "title": "Internet Archive Switzerland",
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "description": "",
+      "signals": {
+        "points": 513,
+        "num_comments": 76,
+        "discussion_url": "https://news.ycombinator.com/item?id=48074265"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48051951",
+      "title": "OpenAI’s WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "description": "",
+      "signals": {
+        "points": 467,
+        "num_comments": 140,
+        "discussion_url": "https://news.ycombinator.com/item?id=48051951"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48071940",
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "description": "",
+      "signals": {
+        "points": 406,
+        "num_comments": 234,
+        "discussion_url": "https://news.ycombinator.com/item?id=48071940"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48072190",
+      "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
+      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+      "description": "",
+      "signals": {
+        "points": 370,
+        "num_comments": 267,
+        "discussion_url": "https://news.ycombinator.com/item?id=48072190"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48073680",
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "description": "",
+      "signals": {
+        "points": 367,
+        "num_comments": 357,
+        "discussion_url": "https://news.ycombinator.com/item?id=48073680"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48046436",
+      "title": "Mythical Man Month",
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "description": "",
+      "signals": {
+        "points": 343,
+        "num_comments": 190,
+        "discussion_url": "https://news.ycombinator.com/item?id=48046436"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48073246",
+      "title": "LLMs corrupt your documents when you delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "description": "",
+      "signals": {
+        "points": 339,
+        "num_comments": 130,
+        "discussion_url": "https://news.ycombinator.com/item?id=48073246"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48074952",
+      "title": "The hypocrisy of cyberlibertarianism",
+      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+      "description": "",
+      "signals": {
+        "points": 245,
+        "num_comments": 199,
+        "discussion_url": "https://news.ycombinator.com/item?id=48074952"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48077126",
+      "title": "Meta's embrace of A.I. is making its employees miserable",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "description": "",
+      "signals": {
+        "points": 241,
+        "num_comments": 215,
+        "discussion_url": "https://news.ycombinator.com/item?id=48077126"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48076173",
+      "title": "I’ve banned query strings",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "description": "",
+      "signals": {
+        "points": 240,
+        "num_comments": 128,
+        "discussion_url": "https://news.ycombinator.com/item?id=48076173"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48075366",
+      "title": "Distributing Mac software is increasing my cortisol levels",
+      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+      "description": "",
+      "signals": {
+        "points": 180,
+        "num_comments": 113,
+        "discussion_url": "https://news.ycombinator.com/item?id=48075366"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48072720",
+      "title": "All my clients wanted a carousel, now it's an AI chatbot",
+      "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
+      "description": "",
+      "signals": {
+        "points": 167,
+        "num_comments": 69,
+        "discussion_url": "https://news.ycombinator.com/item?id=48072720"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48076651",
+      "title": "Zed Editor Theme-Builder",
+      "url": "https://zed.dev/theme-builder",
+      "description": "",
+      "signals": {
+        "points": 143,
+        "num_comments": 43,
+        "discussion_url": "https://news.ycombinator.com/item?id=48076651"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48048679",
+      "title": "How LEDs are made (2014)",
+      "url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
+      "description": "",
+      "signals": {
+        "points": 125,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48048679"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48078647",
+      "title": "Getting arrested in Japan",
+      "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+      "description": "",
+      "signals": {
+        "points": 110,
+        "num_comments": 102,
+        "discussion_url": "https://news.ycombinator.com/item?id=48078647"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48074087",
+      "title": "Forking the Web",
+      "url": "https://dillo-browser.org/lab/web-fork/",
+      "description": "",
+      "signals": {
+        "points": 103,
+        "num_comments": 109,
+        "discussion_url": "https://news.ycombinator.com/item?id=48074087"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48076465",
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "description": "",
+      "signals": {
+        "points": 99,
+        "num_comments": 54,
+        "discussion_url": "https://news.ycombinator.com/item?id=48076465"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48067786",
+      "title": "Production engineering when trading billions of dollars a day [video]",
+      "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
+      "description": "",
+      "signals": {
+        "points": 78,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=48067786"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48075528",
+      "title": "PipeDream on the Acorn Archimedes",
+      "url": "https://stonetools.ghost.io/pipedream-archimedes/",
+      "description": "",
+      "signals": {
+        "points": 73,
+        "num_comments": 36,
+        "discussion_url": "https://news.ycombinator.com/item?id=48075528"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48076815",
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "url": "https://github.com/nooga/let-go",
+      "description": "",
+      "signals": {
+        "points": 73,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=48076815"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48077971",
+      "title": "Local privilege escalation via execve()",
+      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "description": "",
+      "signals": {
+        "points": 63,
+        "num_comments": 52,
+        "discussion_url": "https://news.ycombinator.com/item?id=48077971"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48078575",
+      "title": "Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "description": "",
+      "signals": {
+        "points": 43,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48078575"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48078811",
+      "title": "France Moves to Break Encrypted Messaging",
+      "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+      "description": "",
+      "signals": {
+        "points": 38,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48078811"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48077966",
+      "title": "I caught the car",
+      "url": "https://undecidability.net/senior/",
+      "description": "",
+      "signals": {
+        "points": 34,
+        "num_comments": 30,
+        "discussion_url": "https://news.ycombinator.com/item?id=48077966"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48048902",
+      "title": "Making your own programming language is easier than you think (but also harder)",
+      "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+      "description": "",
+      "signals": {
+        "points": 30,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48048902"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48049890",
+      "title": "The ROKR wooden typewriter: a closer look",
+      "url": "http://writingball.blogspot.com/2026/05/the-rokr-wooden-typewriter-closer-look.html",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48049890"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48049828",
+      "title": "The Serial TTL connector we deserve",
+      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+      "description": "",
+      "signals": {
+        "points": 22,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48049828"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    }
+  ]
+}

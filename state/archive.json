@@ -298,5 +298,25 @@
   "https://openai.com/index/running-codex-safely": {
     "archived_on": "2026-05-09",
     "title": "Running Codex safely at OpenAI"
+  },
+  "https://github.com/bytedance/UI-TARS-desktop": {
+    "archived_on": "2026-05-10",
+    "title": "bytedance/UI-TARS-desktop"
+  },
+  "https://github.com/ChromeDevTools/chrome-devtools-mcp": {
+    "archived_on": "2026-05-10",
+    "title": "ChromeDevTools/chrome-devtools-mcp"
+  },
+  "https://github.com/rohitg00/agentmemory": {
+    "archived_on": "2026-05-10",
+    "title": "rohitg00/agentmemory"
+  },
+  "https://twitter.com/trq212/status/2052809885763747935": {
+    "archived_on": "2026-05-10",
+    "title": "Using Claude Code: The unreasonable effectiveness of HTML"
+  },
+  "https://arxiv.org/abs/2604.15597": {
+    "archived_on": "2026-05-10",
+    "title": "LLMs corrupt your documents when you delegate"
   }
 }

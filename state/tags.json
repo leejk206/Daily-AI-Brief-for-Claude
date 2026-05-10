@@ -1566,7 +1566,7 @@
         "coding-platform",
         "multi-agent"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-10T09:27:01+09:00"
     },
     "https://huggingface.co/papers/2605.02661": {
       "title": "AcademiClaw: When Students Set Challenges for AI Agents",
@@ -1916,7 +1916,7 @@
         "coding-platform",
         "paper"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-10T09:27:01+09:00"
     },
     "https://huggingface.co/papers/2605.02910": {
       "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
@@ -1929,7 +1929,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-10T09:27:01+09:00"
     },
     "https://huggingface.co/papers/2605.02913": {
       "title": "Generate, Filter, Control, Replay: A Comprehensive Survey of Rollout Strategies for LLM Reinforcement Learning",
@@ -1965,7 +1965,7 @@
         "claude-code",
         "local-inference"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-10T09:27:01+09:00"
     },
     "https://openai.com/index/simplex": {
       "title": "Simplex rethinks software development with Codex",
@@ -2010,7 +2010,7 @@
         "paper",
         "prompt-engineering"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-10T09:27:01+09:00"
     },
     "https://github.com/anthropics/financial-services": {
       "title": "anthropics/financial-services",
@@ -2092,7 +2092,7 @@
       "tags": [
         "multi-agent"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-10T09:27:01+09:00"
     },
     "https://huggingface.co/papers/2605.06614": {
       "title": "SkillOS: Learning Skill Curation for Self-Evolving Agents",
@@ -2105,7 +2105,7 @@
         "paper",
         "rl"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-10T09:27:01+09:00"
     },
     "https://huggingface.co/papers/2605.06642": {
       "title": "StraTA: Incentivizing Agentic RL with Strategic Trajectory Abstraction",
@@ -2117,7 +2117,7 @@
         "paper",
         "rl"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-10T09:27:01+09:00"
     },
     "https://huggingface.co/papers/2605.06200": {
       "title": "A^2TGPO: Agentic Turn-Group Policy Optimization",
@@ -2130,7 +2130,7 @@
         "paper",
         "rl"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-10T09:27:01+09:00"
     },
     "https://huggingface.co/papers/2605.05724": {
       "title": "Auto Research with Specialist Agents",
@@ -2142,7 +2142,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-10T09:27:01+09:00"
     },
     "https://huggingface.co/papers/2605.06651": {
       "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
@@ -2154,7 +2154,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-10T09:27:01+09:00"
     },
     "https://huggingface.co/papers/2605.06416": {
       "title": "MiA-Signature: Approximating Global Activation for Long-Context",
@@ -2166,7 +2166,7 @@
         "paper",
         "prompt-engineering"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-10T09:27:01+09:00"
     },
     "https://www.anthropic.com/research/teaching-claude-why": {
       "title": "Teaching Claude Why",
@@ -2191,6 +2191,151 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-05-09T10:21:02+09:00"
+    },
+    "https://github.com/bytedance/UI-TARS-desktop": {
+      "title": "bytedance/UI-TARS-desktop",
+      "summary": "멀티모달 AI 에이전트 스택, 31k 스타 트렌딩",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-05-10",
+      "tags": [
+        "multi-agent",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-10T09:27:01+09:00"
+    },
+    "https://github.com/ChromeDevTools/chrome-devtools-mcp": {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "summary": "코딩 에이전트용 Chrome DevTools MCP 서버",
+      "category": "mcp",
+      "source": "github_trending",
+      "brief_date": "2026-05-10",
+      "tags": [
+        "mcp-server",
+        "web-agent"
+      ],
+      "tagged_at": "2026-05-10T09:27:01+09:00"
+    },
+    "https://github.com/rohitg00/agentmemory": {
+      "title": "rohitg00/agentmemory",
+      "summary": "코딩 에이전트용 영속 메모리, 벤치마크 1위",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-05-10",
+      "tags": [
+        "agent-skill",
+        "cli-agent"
+      ],
+      "tagged_at": "2026-05-10T09:27:01+09:00"
+    },
+    "https://twitter.com/trq212/status/2052809885763747935": {
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "summary": "Claude Code 활용 시 HTML의 비합리적 효과",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-10",
+      "tags": [
+        "claude-code",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-10T09:27:01+09:00"
+    },
+    "https://arxiv.org/abs/2604.15597": {
+      "title": "LLMs corrupt your documents when you delegate",
+      "summary": "위임 시 LLM이 문서를 손상시킨다는 실증 분석",
+      "category": "llm-harness-eval",
+      "source": "hacker_news",
+      "brief_date": "2026-05-10",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-10T09:27:01+09:00"
+    },
+    "https://github.com/rowboatlabs/rowboat": {
+      "title": "rowboatlabs/rowboat",
+      "summary": "메모리 내장 오픈소스 AI 코워커",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-05-10",
+      "tags": [
+        "agent-skill",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-05-10T09:27:01+09:00"
+    },
+    "https://openai.com/index/parloa": {
+      "title": "Parloa builds service agents customers want to talk to",
+      "summary": "OpenAI 기반 보이스 고객서비스 에이전트 사례",
+      "category": "agent-frameworks",
+      "source": "release_blogs",
+      "brief_date": "2026-05-10",
+      "tags": [
+        "multi-agent",
+        "voice-agent"
+      ],
+      "tagged_at": "2026-05-10T09:27:01+09:00"
+    },
+    "https://deepmind.google/blog/ai-co-clinician/": {
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "summary": "DeepMind의 AI 공동 임상의 모델",
+      "category": "agent-frameworks",
+      "source": "release_blogs",
+      "brief_date": "2026-05-10",
+      "tags": [
+        "multi-agent"
+      ],
+      "tagged_at": "2026-05-10T09:27:01+09:00"
+    },
+    "https://huggingface.co/papers/2605.04956": {
+      "title": "KernelBench-X: A Comprehensive Benchmark for Evaluating LLM-Generated GPU Kernels",
+      "summary": "LLM 생성 Triton 커널의 정확성·성능 평가 벤치",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-10",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-10T09:27:01+09:00"
+    },
+    "https://huggingface.co/papers/2605.06652": {
+      "title": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+      "summary": "라벨 없는 비교 안전성 평가 프레임",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-10",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-10T09:27:01+09:00"
+    },
+    "https://huggingface.co/papers/2605.06638": {
+      "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key",
+      "summary": "ScaleLogic으로 RL 추론 학습 한계 분석",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-10",
+      "tags": [
+        "benchmark",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-10T09:27:01+09:00"
+    },
+    "https://huggingface.co/papers/2605.04523": {
+      "title": "RaguTeam at SemEval-2026: Meno and Friends in a Judge-Orchestrated LLM Ensemble for Faithful Multi-Turn Response Generation",
+      "summary": "GPT-4o-mini 심판이 7-LLM 앙상블 후보 선택, 1위",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-10",
+      "tags": [
+        "multi-agent",
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-10T09:27:01+09:00"
     }
   }
 }

@@ -35,41 +35,11 @@
     "days": 4,
     "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery"
   },
-  "https://github.com/1jehuang/jcode": {
-    "first_seen": "2026-05-01",
-    "last_seen": "2026-05-02",
-    "days": 2,
-    "title": "1jehuang/jcode"
-  },
   "https://huggingface.co/poolside/Laguna-XS.2": {
     "first_seen": "2026-05-01",
     "last_seen": "2026-05-05",
     "days": 5,
     "title": "poolside/Laguna-XS.2"
-  },
-  "https://github.com/simstudioai/sim": {
-    "first_seen": "2026-05-02",
-    "last_seen": "2026-05-02",
-    "days": 1,
-    "title": "simstudioai/sim"
-  },
-  "https://huggingface.co/papers/2604.27351": {
-    "first_seen": "2026-05-02",
-    "last_seen": "2026-05-02",
-    "days": 1,
-    "title": "Heterogeneous Scientific Foundation Model Collaboration"
-  },
-  "https://huggingface.co/papers/2604.28139": {
-    "first_seen": "2026-05-02",
-    "last_seen": "2026-05-02",
-    "days": 1,
-    "title": "Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows"
-  },
-  "https://huggingface.co/papers/2604.27151": {
-    "first_seen": "2026-05-02",
-    "last_seen": "2026-05-02",
-    "days": 1,
-    "title": "Step-level Optimization for Efficient Computer-use Agents"
   },
   "https://huggingface.co/papers/2604.27419": {
     "first_seen": "2026-05-02",
@@ -88,12 +58,6 @@
     "last_seen": "2026-05-04",
     "days": 3,
     "title": "Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models"
-  },
-  "https://github.com/lahfir/agent-desktop": {
-    "first_seen": "2026-05-02",
-    "last_seen": "2026-05-02",
-    "days": 1,
-    "title": "I built the Playwright for desktop apps. 80% token savings"
   },
   "https://github.com/ruvnet/ruflo": {
     "first_seen": "2026-05-03",
@@ -318,8 +282,8 @@
     "title": "Learning to Act and Cooperate for Distributed Black-Box Consensus Optimization"
   },
   "https://openai.com/index/openai-pwc-finance-collaboration": {
-    "first_seen": "2026-05-06",
-    "last_seen": "2026-05-06",
+    "first_seen": "2026-05-10",
+    "last_seen": "2026-05-10",
     "days": 1,
     "title": "OpenAI and PwC collaborate to reimagine the office of the CFO"
   },
@@ -499,14 +463,14 @@
   },
   "https://huggingface.co/papers/2605.04637": {
     "first_seen": "2026-05-08",
-    "last_seen": "2026-05-09",
-    "days": 2,
+    "last_seen": "2026-05-10",
+    "days": 3,
     "title": "SWE-WebDevBench: Evaluating Coding Agent Application Platforms as Virtual Software Agencies"
   },
   "https://huggingface.co/papers/2605.02910": {
     "first_seen": "2026-05-08",
-    "last_seen": "2026-05-09",
-    "days": 2,
+    "last_seen": "2026-05-10",
+    "days": 3,
     "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing"
   },
   "https://huggingface.co/papers/2605.02913": {
@@ -523,8 +487,8 @@
   },
   "https://github.com/decolua/9router": {
     "first_seen": "2026-05-08",
-    "last_seen": "2026-05-09",
-    "days": 2,
+    "last_seen": "2026-05-10",
+    "days": 3,
     "title": "decolua/9router"
   },
   "https://openai.com/index/simplex": {
@@ -547,8 +511,8 @@
   },
   "https://huggingface.co/papers/2605.03314": {
     "first_seen": "2026-05-08",
-    "last_seen": "2026-05-09",
-    "days": 2,
+    "last_seen": "2026-05-10",
+    "days": 3,
     "title": "When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning"
   },
   "https://github.com/anthropics/financial-services": {
@@ -589,44 +553,44 @@
   },
   "https://github.com/datawhalechina/hello-agents": {
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-09",
-    "days": 1,
+    "last_seen": "2026-05-10",
+    "days": 2,
     "title": "datawhalechina/hello-agents"
   },
   "https://huggingface.co/papers/2605.06614": {
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-09",
-    "days": 1,
+    "last_seen": "2026-05-10",
+    "days": 2,
     "title": "SkillOS: Learning Skill Curation for Self-Evolving Agents"
   },
   "https://huggingface.co/papers/2605.06642": {
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-09",
-    "days": 1,
+    "last_seen": "2026-05-10",
+    "days": 2,
     "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction"
   },
   "https://huggingface.co/papers/2605.06200": {
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-09",
-    "days": 1,
+    "last_seen": "2026-05-10",
+    "days": 2,
     "title": "A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping"
   },
   "https://huggingface.co/papers/2605.05724": {
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-09",
-    "days": 1,
+    "last_seen": "2026-05-10",
+    "days": 2,
     "title": "Auto Research with Specialist Agents Develops Effective and Non-Trivial Training Recipes"
   },
   "https://huggingface.co/papers/2605.06651": {
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-09",
-    "days": 1,
+    "last_seen": "2026-05-10",
+    "days": 2,
     "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI"
   },
   "https://huggingface.co/papers/2605.06416": {
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-09",
-    "days": 1,
+    "last_seen": "2026-05-10",
+    "days": 2,
     "title": "MiA-Signature: Approximating Global Activation for Long-Context Understanding"
   },
   "https://www.anthropic.com/research/teaching-claude-why": {
@@ -640,5 +604,77 @@
     "last_seen": "2026-05-09",
     "days": 1,
     "title": "LearningCircuit/local-deep-research"
+  },
+  "https://github.com/bytedance/UI-TARS-desktop": {
+    "first_seen": "2026-05-10",
+    "last_seen": "2026-05-10",
+    "days": 1,
+    "title": "bytedance/UI-TARS-desktop"
+  },
+  "https://github.com/ChromeDevTools/chrome-devtools-mcp": {
+    "first_seen": "2026-05-10",
+    "last_seen": "2026-05-10",
+    "days": 1,
+    "title": "ChromeDevTools/chrome-devtools-mcp"
+  },
+  "https://github.com/rohitg00/agentmemory": {
+    "first_seen": "2026-05-10",
+    "last_seen": "2026-05-10",
+    "days": 1,
+    "title": "rohitg00/agentmemory"
+  },
+  "https://twitter.com/trq212/status/2052809885763747935": {
+    "first_seen": "2026-05-10",
+    "last_seen": "2026-05-10",
+    "days": 1,
+    "title": "Using Claude Code: The unreasonable effectiveness of HTML"
+  },
+  "https://arxiv.org/abs/2604.15597": {
+    "first_seen": "2026-05-10",
+    "last_seen": "2026-05-10",
+    "days": 1,
+    "title": "LLMs corrupt your documents when you delegate"
+  },
+  "https://github.com/rowboatlabs/rowboat": {
+    "first_seen": "2026-05-10",
+    "last_seen": "2026-05-10",
+    "days": 1,
+    "title": "rowboatlabs/rowboat"
+  },
+  "https://openai.com/index/parloa": {
+    "first_seen": "2026-05-10",
+    "last_seen": "2026-05-10",
+    "days": 1,
+    "title": "Parloa builds service agents customers want to talk to"
+  },
+  "https://deepmind.google/blog/ai-co-clinician/": {
+    "first_seen": "2026-05-10",
+    "last_seen": "2026-05-10",
+    "days": 1,
+    "title": "Enabling a new model for healthcare with AI co-clinician"
+  },
+  "https://huggingface.co/papers/2605.04956": {
+    "first_seen": "2026-05-10",
+    "last_seen": "2026-05-10",
+    "days": 1,
+    "title": "KernelBench-X: A Comprehensive Benchmark for Evaluating LLM-Generated GPU Kernels"
+  },
+  "https://huggingface.co/papers/2605.06652": {
+    "first_seen": "2026-05-10",
+    "last_seen": "2026-05-10",
+    "days": 1,
+    "title": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels"
+  },
+  "https://huggingface.co/papers/2605.06638": {
+    "first_seen": "2026-05-10",
+    "last_seen": "2026-05-10",
+    "days": 1,
+    "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key"
+  },
+  "https://huggingface.co/papers/2605.04523": {
+    "first_seen": "2026-05-10",
+    "last_seen": "2026-05-10",
+    "days": 1,
+    "title": "RaguTeam at SemEval-2026: Meno and Friends in a Judge-Orchestrated LLM Ensemble for Faithful Multi-Turn Response Generation"
   }
 }

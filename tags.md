@@ -60,4 +60,5 @@ Claude Code 관련 항목
 
 ## Candidate
 
-(빈 섹션. /brief 시 신규 태그 자동 추가됨)
+### voice-agent
+보이스·전화·음성 인터랙션 기반 에이전트

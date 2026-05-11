@@ -17,12 +17,6 @@
     "days": 4,
     "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents"
   },
-  "https://huggingface.co/papers/2604.26752": {
-    "first_seen": "2026-05-03",
-    "last_seen": "2026-05-03",
-    "days": 1,
-    "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents"
-  },
   "https://huggingface.co/papers/2604.21003": {
     "first_seen": "2026-05-01",
     "last_seen": "2026-05-04",
@@ -47,41 +41,11 @@
     "days": 4,
     "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?"
   },
-  "https://huggingface.co/papers/2604.24977": {
-    "first_seen": "2026-05-02",
-    "last_seen": "2026-05-03",
-    "days": 2,
-    "title": "A Survey on LLM-based Conversational User Simulation"
-  },
   "https://huggingface.co/papers/2604.21523": {
     "first_seen": "2026-05-02",
     "last_seen": "2026-05-04",
     "days": 3,
     "title": "Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models"
-  },
-  "https://github.com/ruvnet/ruflo": {
-    "first_seen": "2026-05-03",
-    "last_seen": "2026-05-03",
-    "days": 1,
-    "title": "ruvnet/ruflo"
-  },
-  "https://github.com/microsoft/vscode/pull/310226": {
-    "first_seen": "2026-05-03",
-    "last_seen": "2026-05-03",
-    "days": 1,
-    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage"
-  },
-  "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox": {
-    "first_seen": "2026-05-03",
-    "last_seen": "2026-05-03",
-    "days": 1,
-    "title": "The agent harness belongs outside the sandbox"
-  },
-  "https://hnup.date/hn-sota": {
-    "first_seen": "2026-05-03",
-    "last_seen": "2026-05-03",
-    "days": 1,
-    "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters"
   },
   "https://github.com/czlonkowski/n8n-mcp": {
     "first_seen": "2026-05-04",
@@ -283,8 +247,8 @@
   },
   "https://openai.com/index/openai-pwc-finance-collaboration": {
     "first_seen": "2026-05-10",
-    "last_seen": "2026-05-10",
-    "days": 1,
+    "last_seen": "2026-05-11",
+    "days": 2,
     "title": "OpenAI and PwC collaborate to reimagine the office of the CFO"
   },
   "https://huggingface.co/papers/2605.02661": {
@@ -469,8 +433,8 @@
   },
   "https://huggingface.co/papers/2605.02910": {
     "first_seen": "2026-05-08",
-    "last_seen": "2026-05-10",
-    "days": 3,
+    "last_seen": "2026-05-11",
+    "days": 4,
     "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing"
   },
   "https://huggingface.co/papers/2605.02913": {
@@ -487,14 +451,14 @@
   },
   "https://github.com/decolua/9router": {
     "first_seen": "2026-05-08",
-    "last_seen": "2026-05-10",
-    "days": 3,
+    "last_seen": "2026-05-11",
+    "days": 4,
     "title": "decolua/9router"
   },
   "https://openai.com/index/simplex": {
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-05-09",
-    "days": 2,
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "days": 1,
     "title": "Simplex rethinks software development with Codex"
   },
   "https://github.com/antirez/ds4": {
@@ -553,44 +517,44 @@
   },
   "https://github.com/datawhalechina/hello-agents": {
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-10",
-    "days": 2,
+    "last_seen": "2026-05-11",
+    "days": 3,
     "title": "datawhalechina/hello-agents"
   },
   "https://huggingface.co/papers/2605.06614": {
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-10",
-    "days": 2,
+    "last_seen": "2026-05-11",
+    "days": 3,
     "title": "SkillOS: Learning Skill Curation for Self-Evolving Agents"
   },
   "https://huggingface.co/papers/2605.06642": {
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-10",
-    "days": 2,
+    "last_seen": "2026-05-11",
+    "days": 3,
     "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction"
   },
   "https://huggingface.co/papers/2605.06200": {
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-10",
-    "days": 2,
+    "last_seen": "2026-05-11",
+    "days": 3,
     "title": "A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping"
   },
   "https://huggingface.co/papers/2605.05724": {
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-10",
-    "days": 2,
+    "last_seen": "2026-05-11",
+    "days": 3,
     "title": "Auto Research with Specialist Agents Develops Effective and Non-Trivial Training Recipes"
   },
   "https://huggingface.co/papers/2605.06651": {
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-10",
-    "days": 2,
+    "last_seen": "2026-05-11",
+    "days": 3,
     "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI"
   },
   "https://huggingface.co/papers/2605.06416": {
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-10",
-    "days": 2,
+    "last_seen": "2026-05-11",
+    "days": 3,
     "title": "MiA-Signature: Approximating Global Activation for Long-Context Understanding"
   },
   "https://www.anthropic.com/research/teaching-claude-why": {
@@ -643,38 +607,98 @@
   },
   "https://openai.com/index/parloa": {
     "first_seen": "2026-05-10",
-    "last_seen": "2026-05-10",
-    "days": 1,
+    "last_seen": "2026-05-11",
+    "days": 2,
     "title": "Parloa builds service agents customers want to talk to"
   },
   "https://deepmind.google/blog/ai-co-clinician/": {
     "first_seen": "2026-05-10",
-    "last_seen": "2026-05-10",
-    "days": 1,
+    "last_seen": "2026-05-11",
+    "days": 2,
     "title": "Enabling a new model for healthcare with AI co-clinician"
   },
   "https://huggingface.co/papers/2605.04956": {
     "first_seen": "2026-05-10",
-    "last_seen": "2026-05-10",
-    "days": 1,
+    "last_seen": "2026-05-11",
+    "days": 2,
     "title": "KernelBench-X: A Comprehensive Benchmark for Evaluating LLM-Generated GPU Kernels"
   },
   "https://huggingface.co/papers/2605.06652": {
     "first_seen": "2026-05-10",
-    "last_seen": "2026-05-10",
-    "days": 1,
+    "last_seen": "2026-05-11",
+    "days": 2,
     "title": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels"
   },
   "https://huggingface.co/papers/2605.06638": {
     "first_seen": "2026-05-10",
-    "last_seen": "2026-05-10",
-    "days": 1,
+    "last_seen": "2026-05-11",
+    "days": 2,
     "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key"
   },
   "https://huggingface.co/papers/2605.04523": {
     "first_seen": "2026-05-10",
-    "last_seen": "2026-05-10",
-    "days": 1,
+    "last_seen": "2026-05-11",
+    "days": 2,
     "title": "RaguTeam at SemEval-2026: Meno and Friends in a Judge-Orchestrated LLM Ensemble for Faithful Multi-Turn Response Generation"
+  },
+  "https://github.com/affaan-m/everything-claude-code": {
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "days": 1,
+    "title": "affaan-m/everything-claude-code"
+  },
+  "https://github.com/HKUDS/AI-Trader": {
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "days": 1,
+    "title": "HKUDS/AI-Trader"
+  },
+  "https://huggingface.co/papers/2605.05566": {
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "days": 1,
+    "title": "Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration"
+  },
+  "https://huggingface.co/papers/2605.05662": {
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "days": 1,
+    "title": "XL-SafetyBench: A Country-Grounded Cross-Cultural Benchmark for LLM Safety and Cultural Sensitivity"
+  },
+  "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656": {
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "days": 1,
+    "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs"
+  },
+  "https://huggingface.co/papers/2605.06832": {
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "days": 1,
+    "title": "IntentGrasp: A Comprehensive Benchmark for Intent Understanding"
+  },
+  "https://huggingface.co/papers/2605.06643": {
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "days": 1,
+    "title": "Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study"
+  },
+  "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/": {
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "days": 1,
+    "title": "I'm going back to writing code by hand"
+  },
+  "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs": {
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "days": 1,
+    "title": "You Need AI That Reduces Maintenance Costs"
+  },
+  "https://huggingface.co/papers/2605.07363": {
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "days": 1,
+    "title": "MISA: Mixture of Indexer Sparse Attention for Long-Context LLM Inference"
   }
 }

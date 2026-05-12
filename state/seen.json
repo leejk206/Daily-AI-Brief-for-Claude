@@ -1,33 +1,9 @@
 {
-  "https://github.com/browserbase/skills": {
-    "first_seen": "2026-05-01",
-    "last_seen": "2026-05-04",
-    "days": 4,
-    "title": "browserbase/skills"
-  },
   "https://huggingface.co/papers/2604.25135": {
     "first_seen": "2026-05-01",
     "last_seen": "2026-05-05",
     "days": 5,
     "title": "FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments"
-  },
-  "https://huggingface.co/papers/2604.26904": {
-    "first_seen": "2026-05-01",
-    "last_seen": "2026-05-04",
-    "days": 4,
-    "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents"
-  },
-  "https://huggingface.co/papers/2604.21003": {
-    "first_seen": "2026-05-01",
-    "last_seen": "2026-05-04",
-    "days": 4,
-    "title": "The Last Harness You'll Ever Build"
-  },
-  "https://huggingface.co/papers/2604.25256": {
-    "first_seen": "2026-05-01",
-    "last_seen": "2026-05-04",
-    "days": 4,
-    "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery"
   },
   "https://huggingface.co/poolside/Laguna-XS.2": {
     "first_seen": "2026-05-01",
@@ -40,114 +16,6 @@
     "last_seen": "2026-05-05",
     "days": 4,
     "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?"
-  },
-  "https://huggingface.co/papers/2604.21523": {
-    "first_seen": "2026-05-02",
-    "last_seen": "2026-05-04",
-    "days": 3,
-    "title": "Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models"
-  },
-  "https://github.com/czlonkowski/n8n-mcp": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "czlonkowski/n8n-mcp"
-  },
-  "https://github.com/Hmbown/DeepSeek-TUI": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "Hmbown/DeepSeek-TUI"
-  },
-  "https://huggingface.co/papers/2604.24658": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "The Last Human-Written Paper: Agent-Native Research Artifacts"
-  },
-  "https://huggingface.co/papers/2604.28181": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation"
-  },
-  "https://github.com/bschoepke/ableton-live-mcp": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "Show HN: Ableton Live MCP"
-  },
-  "https://openai.com/index/gpt-5-5-system-card": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "GPT-5.5 System Card"
-  },
-  "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "Measuring progress toward AGI: A cognitive framework"
-  },
-  "https://huggingface.co/papers/2604.23758": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "Agentic Fusion of Large Atomic and Language Models to Accelerate Superconductors Discovery"
-  },
-  "https://huggingface.co/papers/2604.28157": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption"
-  },
-  "https://huggingface.co/papers/2604.24902": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains"
-  },
-  "https://huggingface.co/papers/2604.27251": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "Compliance versus Sensibility: On the Reasoning Controllability in Large Language Models"
-  },
-  "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors"
-  },
-  "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "Why TUIs Are Back"
-  },
-  "https://github.com/aattaran/deepclaude": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper"
-  },
-  "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "deepseek-ai/DeepSeek-V4-Pro"
-  },
-  "https://huggingface.co/papers/2604.24927": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "Large Language Models Explore by Latent Distilling"
-  },
-  "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash": {
-    "first_seen": "2026-05-04",
-    "last_seen": "2026-05-04",
-    "days": 1,
-    "title": "deepseek-ai/DeepSeek-V4-Flash"
   },
   "https://github.com/cocoindex-io/cocoindex": {
     "first_seen": "2026-05-05",
@@ -451,14 +319,14 @@
   },
   "https://github.com/decolua/9router": {
     "first_seen": "2026-05-08",
-    "last_seen": "2026-05-11",
-    "days": 4,
+    "last_seen": "2026-05-12",
+    "days": 5,
     "title": "decolua/9router"
   },
   "https://openai.com/index/simplex": {
     "first_seen": "2026-05-11",
-    "last_seen": "2026-05-11",
-    "days": 1,
+    "last_seen": "2026-05-12",
+    "days": 2,
     "title": "Simplex rethinks software development with Codex"
   },
   "https://github.com/antirez/ds4": {
@@ -607,14 +475,14 @@
   },
   "https://openai.com/index/parloa": {
     "first_seen": "2026-05-10",
-    "last_seen": "2026-05-11",
-    "days": 2,
+    "last_seen": "2026-05-12",
+    "days": 3,
     "title": "Parloa builds service agents customers want to talk to"
   },
   "https://deepmind.google/blog/ai-co-clinician/": {
     "first_seen": "2026-05-10",
-    "last_seen": "2026-05-11",
-    "days": 2,
+    "last_seen": "2026-05-12",
+    "days": 3,
     "title": "Enabling a new model for healthcare with AI co-clinician"
   },
   "https://huggingface.co/papers/2605.04956": {
@@ -697,8 +565,122 @@
   },
   "https://huggingface.co/papers/2605.07363": {
     "first_seen": "2026-05-11",
-    "last_seen": "2026-05-11",
-    "days": 1,
+    "last_seen": "2026-05-12",
+    "days": 2,
     "title": "MISA: Mixture of Indexer Sparse Attention for Long-Context LLM Inference"
+  },
+  "https://github.com/NousResearch/hermes-agent": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "NousResearch/hermes-agent"
+  },
+  "https://claude.com/blog/claude-platform-on-aws": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "Claude Platform on AWS"
+  },
+  "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "If AI writes your code, why use Python?"
+  },
+  "https://huggingface.co/papers/2605.09063": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs"
+  },
+  "https://huggingface.co/papers/2605.10923": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning"
+  },
+  "https://huggingface.co/papers/2605.05765": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction"
+  },
+  "https://huggingface.co/papers/2605.10344": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "TMAS: Scaling Test-Time Compute via Multi-Agent Synergy"
+  },
+  "https://huggingface.co/papers/2605.10813": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation"
+  },
+  "https://huggingface.co/papers/2605.10913": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace"
+  },
+  "https://huggingface.co/papers/2605.08715": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "AgentForesight: Online Auditing for Early Failure Prediction in Multi-Agent Systems"
+  },
+  "https://huggingface.co/papers/2605.08520": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration"
+  },
+  "https://huggingface.co/papers/2605.08678": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI"
+  },
+  "https://huggingface.co/papers/2605.09163": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "FORTIS: Benchmarking Over-Privilege in Agent Skills"
+  },
+  "https://huggingface.co/papers/2605.09708": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "Metal-Sci: A Scientific Compute Benchmark for Evolutionary LLM Kernel Search on Apple Silicon"
+  },
+  "https://huggingface.co/papers/2605.09423": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning"
+  },
+  "https://github.com/millionco/react-doctor": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "millionco/react-doctor"
+  },
+  "https://openai.com/index/singular-bank": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex"
+  },
+  "https://huggingface.co/papers/2605.09649": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction"
+  },
+  "https://huggingface.co/papers/2605.07721": {
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "days": 1,
+    "title": "Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models"
   }
 }

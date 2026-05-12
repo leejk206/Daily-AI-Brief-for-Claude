@@ -1965,7 +1965,7 @@
         "claude-code",
         "local-inference"
       ],
-      "tagged_at": "2026-05-11T11:01:56+09:00"
+      "tagged_at": "2026-05-12T17:21:42+09:00"
     },
     "https://openai.com/index/simplex": {
       "title": "Simplex rethinks software development with Codex",
@@ -1976,7 +1976,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-11T11:01:56+09:00"
+      "tagged_at": "2026-05-12T17:21:42+09:00"
     },
     "https://github.com/antirez/ds4": {
       "title": "DeepSeek 4 Flash local inference engine for Metal",
@@ -2274,7 +2274,7 @@
         "multi-agent",
         "voice-agent"
       ],
-      "tagged_at": "2026-05-11T11:01:56+09:00"
+      "tagged_at": "2026-05-12T17:21:42+09:00"
     },
     "https://deepmind.google/blog/ai-co-clinician/": {
       "title": "Enabling a new model for healthcare with AI co-clinician",
@@ -2285,7 +2285,7 @@
       "tags": [
         "multi-agent"
       ],
-      "tagged_at": "2026-05-11T11:01:56+09:00"
+      "tagged_at": "2026-05-12T17:21:42+09:00"
     },
     "https://huggingface.co/papers/2605.04956": {
       "title": "KernelBench-X: A Comprehensive Benchmark for Evaluating LLM-Generated GPU Kernels",
@@ -2454,7 +2454,241 @@
         "paper",
         "prompt-engineering"
       ],
-      "tagged_at": "2026-05-11T11:01:56+09:00"
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://github.com/NousResearch/hermes-agent": {
+      "title": "NousResearch/hermes-agent",
+      "summary": "The agent that grows with you",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "agent-skill",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://claude.com/blog/claude-platform-on-aws": {
+      "title": "Claude Platform on AWS",
+      "summary": "Anthropic Claude platform comes to AWS",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "claude-code",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055": {
+      "title": "If AI writes your code, why use Python?",
+      "summary": "AI 코딩 시대 언어 선택 논쟁",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.09063": {
+      "title": "Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs",
+      "summary": "수학자가 큐레이션한 연구 난도 수학 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.10923": {
+      "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
+      "summary": "에이전트 스킬 동적 생애주기 관리",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.05765": {
+      "title": "X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction",
+      "summary": "Android 멀티모달 통합 모바일 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "multi-agent",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.10344": {
+      "title": "TMAS: Scaling Test-Time Compute via Multi-Agent Synergy",
+      "summary": "멀티에이전트 시너지로 test-time compute 스케일링",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.10813": {
+      "title": "NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation",
+      "summary": "사용자별 맞춤 연구 자동화 멀티에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "agent-skill",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.10913": {
+      "title": "Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace",
+      "summary": "Lean 형식화 Git-like 트레이스 메타에이전트 런타임",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "multi-agent",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.08715": {
+      "title": "AgentForesight: Online Auditing for Early Failure Prediction in Multi-Agent Systems",
+      "summary": "실시간 멀티에이전트 실패 예측",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "benchmark",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.08520": {
+      "title": "FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration",
+      "summary": "비동기 stage로 에이전트 자기진화 가속",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.08678": {
+      "title": "MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI",
+      "summary": "LLM이 ML 방법 발견 가능한지 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.09163": {
+      "title": "FORTIS: Benchmarking Over-Privilege in Agent Skills",
+      "summary": "에이전트 스킬 권한 침범 벤치",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "agent-skill",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.09708": {
+      "title": "Metal-Sci: A Scientific Compute Benchmark for Evolutionary LLM Kernel Search on Apple Silicon",
+      "summary": "Apple Silicon Metal 커널 진화 탐색 벤치",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "benchmark",
+        "local-inference",
+        "paper"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.09423": {
+      "title": "SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning",
+      "summary": "진화 코딩 에이전트로 3D 환경 자동 생성",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://github.com/millionco/react-doctor": {
+      "title": "millionco/react-doctor",
+      "summary": "AI 에이전트 작성 React 코드 린터",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "coding-platform",
+        "frontend"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://openai.com/index/singular-bank": {
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "summary": "Singularity 어시스턴트로 일 60-90분 절약",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.09649": {
+      "title": "Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction",
+      "summary": "KV 캐시 축출이 full-cache보다 우수할 수 있음",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.07721": {
+      "title": "Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models",
+      "summary": "Ouro 류 순환형 LLM 메모리·연산 분리",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-12",
+      "tags": [
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-12T17:21:42+09:00"
     }
   }
 }

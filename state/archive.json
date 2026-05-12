@@ -338,5 +338,25 @@
   "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656": {
     "archived_on": "2026-05-11",
     "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs"
+  },
+  "https://github.com/NousResearch/hermes-agent": {
+    "archived_on": "2026-05-12",
+    "title": "NousResearch/hermes-agent"
+  },
+  "https://claude.com/blog/claude-platform-on-aws": {
+    "archived_on": "2026-05-12",
+    "title": "Claude Platform on AWS"
+  },
+  "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055": {
+    "archived_on": "2026-05-12",
+    "title": "If AI writes your code, why use Python?"
+  },
+  "https://huggingface.co/papers/2605.09063": {
+    "archived_on": "2026-05-12",
+    "title": "Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs"
+  },
+  "https://huggingface.co/papers/2605.10923": {
+    "archived_on": "2026-05-12",
+    "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning"
   }
 }

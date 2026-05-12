@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-12T17:17:28+09:00",
+  "items": [
+    {
+      "id": "hn:48100706",
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "description": "",
+      "signals": {
+        "points": 789,
+        "num_comments": 298,
+        "discussion_url": "https://news.ycombinator.com/item?id=48100706"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48100500",
+      "title": "GitLab announces workforce reduction and end of their CREDIT values",
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "description": "",
+      "signals": {
+        "points": 480,
+        "num_comments": 477,
+        "discussion_url": "https://news.ycombinator.com/item?id=48100500"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48100433",
+      "title": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "description": "",
+      "signals": {
+        "points": 437,
+        "num_comments": 470,
+        "discussion_url": "https://news.ycombinator.com/item?id=48100433"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48098261",
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "description": "",
+      "signals": {
+        "points": 318,
+        "num_comments": 65,
+        "discussion_url": "https://news.ycombinator.com/item?id=48098261"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48060077",
+      "title": "Nullsoft, 1997-2004 (2004)",
+      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+      "description": "",
+      "signals": {
+        "points": 272,
+        "num_comments": 78,
+        "discussion_url": "https://news.ycombinator.com/item?id=48060077"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48085685",
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "description": "",
+      "signals": {
+        "points": 233,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48085685"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48100524",
+      "title": "Interaction Models",
+      "url": "https://thinkingmachines.ai/blog/interaction-models/",
+      "description": "",
+      "signals": {
+        "points": 198,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=48100524"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48102700",
+      "title": "They Live (1988) inspired Adblocker",
+      "url": "https://github.com/davmlaw/they_live_adblocker",
+      "description": "",
+      "signals": {
+        "points": 187,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=48102700"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48094641",
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "description": "",
+      "signals": {
+        "points": 173,
+        "num_comments": 130,
+        "discussion_url": "https://news.ycombinator.com/item?id=48094641"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48100662",
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "description": "",
+      "signals": {
+        "points": 163,
+        "num_comments": 166,
+        "discussion_url": "https://news.ycombinator.com/item?id=48100662"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48097078",
+      "title": "Interfaze: A new model architecture built for high accuracy at scale",
+      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+      "description": "",
+      "signals": {
+        "points": 138,
+        "num_comments": 34,
+        "discussion_url": "https://news.ycombinator.com/item?id=48097078"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48099616",
+      "title": "Library for fast mapping of Java records to native memory",
+      "url": "https://github.com/mamba-studio/TypedMemory",
+      "description": "",
+      "signals": {
+        "points": 137,
+        "num_comments": 30,
+        "discussion_url": "https://news.ycombinator.com/item?id=48099616"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48065429",
+      "title": "AMÁLIA and the future of European Portuguese LLMs",
+      "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+      "description": "",
+      "signals": {
+        "points": 134,
+        "num_comments": 63,
+        "discussion_url": "https://news.ycombinator.com/item?id=48065429"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48103042",
+      "title": "Claude Platform on AWS",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "description": "",
+      "signals": {
+        "points": 123,
+        "num_comments": 56,
+        "discussion_url": "https://news.ycombinator.com/item?id=48103042"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48096842",
+      "title": "Show HN: TikTok but for scientific papers",
+      "url": "https://andreaturchet.github.io/website/index.html",
+      "description": "",
+      "signals": {
+        "points": 114,
+        "num_comments": 55,
+        "discussion_url": "https://news.ycombinator.com/item?id=48096842"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48059831",
+      "title": "I hate soldering",
+      "url": "https://user8.bearblog.dev/rant/",
+      "description": "",
+      "signals": {
+        "points": 94,
+        "num_comments": 79,
+        "discussion_url": "https://news.ycombinator.com/item?id=48059831"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48104428",
+      "title": "Screenshots of Old Desktop OSes",
+      "url": "http://www.typewritten.org/Media/",
+      "description": "",
+      "signals": {
+        "points": 92,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=48104428"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48103511",
+      "title": "Software Internals Book Club",
+      "url": "https://eatonphil.com/bookclub.html",
+      "description": "",
+      "signals": {
+        "points": 82,
+        "num_comments": 13,
+        "discussion_url": "https://news.ycombinator.com/item?id=48103511"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48100970",
+      "title": "Griffin PowerMate driver for modern macOS",
+      "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+      "description": "",
+      "signals": {
+        "points": 73,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48100970"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48074668",
+      "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+      "url": "https://github.com/tsirysndr/rockbox-zig",
+      "description": "",
+      "signals": {
+        "points": 72,
+        "num_comments": 13,
+        "discussion_url": "https://news.ycombinator.com/item?id=48074668"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48051555",
+      "title": "The rise and fall of snake oil",
+      "url": "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil",
+      "description": "",
+      "signals": {
+        "points": 64,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48051555"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48052710",
+      "title": "A lost ancient script reveals how writing as we know it began",
+      "url": "https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/",
+      "description": "",
+      "signals": {
+        "points": 60,
+        "num_comments": 28,
+        "discussion_url": "https://news.ycombinator.com/item?id=48052710"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48080316",
+      "title": "Silverback Imfura took a chance, and ended up alone",
+      "url": "https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/",
+      "description": "",
+      "signals": {
+        "points": 57,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48080316"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48104041",
+      "title": "Extremely Low Frequencies",
+      "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
+      "description": "",
+      "signals": {
+        "points": 55,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48104041"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48076798",
+      "title": "VGA Memory Access Is Complicated",
+      "url": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xxi-vga-memory-access-is-complicated/",
+      "description": "",
+      "signals": {
+        "points": 49,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48076798"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48080201",
+      "title": "Abstract Machines for Logic Programs",
+      "url": "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/",
+      "description": "",
+      "signals": {
+        "points": 42,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48080201"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48074589",
+      "title": "Boriel BASIC",
+      "url": "https://zxbasic.readthedocs.io/en/docs/",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48074589"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48081634",
+      "title": "High-precision HDC reference instrument for the Sol Star System",
+      "url": "https://pypi.org/project/ephemerides-spectral/",
+      "description": "",
+      "signals": {
+        "points": 10,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48081634"
+      },
+      "category_hint": null
+    }
+  ]
+}

@@ -1,52 +1,4 @@
 {
-  "https://huggingface.co/papers/2604.25135": {
-    "first_seen": "2026-05-01",
-    "last_seen": "2026-05-05",
-    "days": 5,
-    "title": "FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments"
-  },
-  "https://huggingface.co/poolside/Laguna-XS.2": {
-    "first_seen": "2026-05-01",
-    "last_seen": "2026-05-05",
-    "days": 5,
-    "title": "poolside/Laguna-XS.2"
-  },
-  "https://huggingface.co/papers/2604.27419": {
-    "first_seen": "2026-05-02",
-    "last_seen": "2026-05-05",
-    "days": 4,
-    "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?"
-  },
-  "https://github.com/cocoindex-io/cocoindex": {
-    "first_seen": "2026-05-05",
-    "last_seen": "2026-05-05",
-    "days": 1,
-    "title": "cocoindex-io/cocoindex"
-  },
-  "https://sierra.ai/blog/better-customer-experiences-built-on-sierra": {
-    "first_seen": "2026-05-05",
-    "last_seen": "2026-05-05",
-    "days": 1,
-    "title": "Sierra Raises $950M at $15B Valuation"
-  },
-  "https://addyosmani.com/blog/agent-skills/": {
-    "first_seen": "2026-05-05",
-    "last_seen": "2026-05-05",
-    "days": 1,
-    "title": "Agent Skills"
-  },
-  "https://huggingface.co/papers/2604.27221": {
-    "first_seen": "2026-05-05",
-    "last_seen": "2026-05-05",
-    "days": 1,
-    "title": "Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction"
-  },
-  "https://huggingface.co/papers/2605.00754": {
-    "first_seen": "2026-05-05",
-    "last_seen": "2026-05-05",
-    "days": 1,
-    "title": "Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring"
-  },
   "https://github.com/virattt/dexter": {
     "first_seen": "2026-05-05",
     "last_seen": "2026-05-07",
@@ -234,10 +186,10 @@
     "title": "Vibe coding and agentic engineering are getting closer than I'd like"
   },
   "https://openai.com/index/introducing-b2b-signals": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-09",
-    "days": 3,
-    "title": "How frontier enterprises are building an AI advantage"
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "How frontier firms are pulling ahead"
   },
   "https://huggingface.co/papers/2605.00932": {
     "first_seen": "2026-05-07",
@@ -325,8 +277,8 @@
   },
   "https://openai.com/index/simplex": {
     "first_seen": "2026-05-11",
-    "last_seen": "2026-05-12",
-    "days": 2,
+    "last_seen": "2026-05-13",
+    "days": 3,
     "title": "Simplex rethinks software development with Codex"
   },
   "https://github.com/antirez/ds4": {
@@ -384,9 +336,9 @@
     "title": "lobehub/lobehub"
   },
   "https://github.com/datawhalechina/hello-agents": {
-    "first_seen": "2026-05-09",
-    "last_seen": "2026-05-11",
-    "days": 3,
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
     "title": "datawhalechina/hello-agents"
   },
   "https://huggingface.co/papers/2605.06614": {
@@ -475,14 +427,14 @@
   },
   "https://openai.com/index/parloa": {
     "first_seen": "2026-05-10",
-    "last_seen": "2026-05-12",
-    "days": 3,
+    "last_seen": "2026-05-13",
+    "days": 4,
     "title": "Parloa builds service agents customers want to talk to"
   },
   "https://deepmind.google/blog/ai-co-clinician/": {
     "first_seen": "2026-05-10",
-    "last_seen": "2026-05-12",
-    "days": 3,
+    "last_seen": "2026-05-13",
+    "days": 4,
     "title": "Enabling a new model for healthcare with AI co-clinician"
   },
   "https://huggingface.co/papers/2605.04956": {
@@ -661,8 +613,8 @@
   },
   "https://github.com/millionco/react-doctor": {
     "first_seen": "2026-05-12",
-    "last_seen": "2026-05-12",
-    "days": 1,
+    "last_seen": "2026-05-13",
+    "days": 2,
     "title": "millionco/react-doctor"
   },
   "https://openai.com/index/singular-bank": {
@@ -682,5 +634,131 @@
     "last_seen": "2026-05-12",
     "days": 1,
     "title": "Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models"
+  },
+  "https://openai.com/index/nvidia": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "How NVIDIA engineers and researchers build with Codex"
+  },
+  "https://huggingface.co/papers/2605.09131": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments"
+  },
+  "https://huggingface.co/papers/2605.12357": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "δ-mem: Efficient Online Memory for Large Language Models"
+  },
+  "https://huggingface.co/papers/2605.12481": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents"
+  },
+  "https://huggingface.co/papers/2605.12477": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "MEME: Multi-entity & Evolving Memory Evaluation"
+  },
+  "https://huggingface.co/papers/2605.09998": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents"
+  },
+  "https://github.com/statewright/statewright": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "Show HN: Statewright – Visual state machines that make AI agents reliable"
+  },
+  "https://www.hypercubic.ai/hopper": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "Show HN: Agentic interface for mainframes and COBOL"
+  },
+  "https://voker.ai": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents"
+  },
+  "https://github.com/cactus-compute/needle": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model"
+  },
+  "https://huggingface.co/papers/2605.09530": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents"
+  },
+  "https://huggingface.co/papers/2605.10899": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards"
+  },
+  "https://huggingface.co/papers/2605.10488": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "DeepRefine: Agent-Compiled Knowledge Refinement via Reinforcement Learning"
+  },
+  "https://huggingface.co/papers/2605.06788": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "Conformal Agent Error Attribution"
+  },
+  "https://huggingface.co/papers/2605.10365": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "Agent-ValueBench: A Comprehensive Benchmark for Evaluating Agent Values"
+  },
+  "https://huggingface.co/papers/2605.12493": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues"
+  },
+  "https://huggingface.co/papers/2605.07630": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "Safe, or Simply Incapable? Rethinking Safety Evaluation for Phone-Use Agents"
+  },
+  "https://openai.com/academy/how-finance-teams-use-codex": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "How finance teams use Codex"
+  },
+  "https://openai.com/index/what-parameter-golf-taught-us": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "What Parameter Golf taught us about AI-assisted research"
+  },
+  "https://openai.com/index/autoscout24": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "AutoScout24 scales engineering with AI-powered workflows"
+  },
+  "https://huggingface.co/papers/2605.09932": {
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "days": 1,
+    "title": "FocuSFT: Bilevel Optimization for Dilution-Aware Long-Context Fine-Tuning"
   }
 }

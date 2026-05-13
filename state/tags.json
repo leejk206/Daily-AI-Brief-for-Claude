@@ -1806,7 +1806,7 @@
         "coding-platform",
         "multi-agent"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-05-13T13:59:48+09:00"
     },
     "https://huggingface.co/papers/2605.00932": {
       "title": "Code World Model Preparedness Report",
@@ -1976,7 +1976,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-12T17:21:42+09:00"
+      "tagged_at": "2026-05-13T13:59:48+09:00"
     },
     "https://github.com/antirez/ds4": {
       "title": "DeepSeek 4 Flash local inference engine for Metal",
@@ -2092,7 +2092,7 @@
       "tags": [
         "multi-agent"
       ],
-      "tagged_at": "2026-05-11T11:01:56+09:00"
+      "tagged_at": "2026-05-13T13:59:48+09:00"
     },
     "https://huggingface.co/papers/2605.06614": {
       "title": "SkillOS: Learning Skill Curation for Self-Evolving Agents",
@@ -2274,7 +2274,7 @@
         "multi-agent",
         "voice-agent"
       ],
-      "tagged_at": "2026-05-12T17:21:42+09:00"
+      "tagged_at": "2026-05-13T13:59:48+09:00"
     },
     "https://deepmind.google/blog/ai-co-clinician/": {
       "title": "Enabling a new model for healthcare with AI co-clinician",
@@ -2285,7 +2285,7 @@
       "tags": [
         "multi-agent"
       ],
-      "tagged_at": "2026-05-12T17:21:42+09:00"
+      "tagged_at": "2026-05-13T13:59:48+09:00"
     },
     "https://huggingface.co/papers/2605.04956": {
       "title": "KernelBench-X: A Comprehensive Benchmark for Evaluating LLM-Generated GPU Kernels",
@@ -2653,7 +2653,7 @@
         "coding-platform",
         "frontend"
       ],
-      "tagged_at": "2026-05-12T17:21:42+09:00"
+      "tagged_at": "2026-05-13T13:59:48+09:00"
     },
     "https://openai.com/index/singular-bank": {
       "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
@@ -2689,6 +2689,263 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-05-12T17:21:42+09:00"
+    },
+    "https://openai.com/index/nvidia": {
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "summary": "NVIDIA가 GPT-5.5 Codex로 프로덕션·연구 워크플로 가속",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://huggingface.co/papers/2605.09131": {
+      "title": "MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments",
+      "summary": "MCP 환경에 월드 모델을 결합한 에이전트 실행 프레임워크",
+      "category": "mcp",
+      "source": "huggingface",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "mcp-server",
+        "paper"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://huggingface.co/papers/2605.12357": {
+      "title": "δ-mem: Efficient Online Memory for Large Language Models",
+      "summary": "컨텍스트 확장 없이 LLM에 붙이는 경량 외부 메모리, 52 upvotes",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "agent-memory",
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://huggingface.co/papers/2605.12481": {
+      "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents",
+      "summary": "컴퓨터 사용 에이전트의 GUI/툴 액션 경로 최적화 학습",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "computer-use",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://huggingface.co/papers/2605.12477": {
+      "title": "MEME: Multi-entity & Evolving Memory Evaluation",
+      "summary": "다중 엔티티·진화 메모리에 대한 에이전트 평가 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "agent-memory",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://huggingface.co/papers/2605.09998": {
+      "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents",
+      "summary": "Claude Code·OpenHands류 코딩 하네스를 임바디드 에이전트로 확장",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "agent-skill",
+        "claude-code",
+        "paper"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://github.com/statewright/statewright": {
+      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+      "summary": "시각 상태머신으로 AI 에이전트 신뢰성 확보",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "multi-agent",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://www.hypercubic.ai/hopper": {
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "summary": "메인프레임·COBOL용 에이전트 인터페이스 Hopper",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://voker.ai": {
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "summary": "AI 에이전트 운영용 분석 플랫폼",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "multi-agent",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://github.com/cactus-compute/needle": {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "summary": "Gemini 툴 호출을 26M 모델로 증류",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "local-inference",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://huggingface.co/papers/2605.09530": {
+      "title": "MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents",
+      "summary": "엣지·클라우드 에이전트용 프라이버시 보존 메모리, 40 upvotes",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://huggingface.co/papers/2605.10899": {
+      "title": "RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards",
+      "summary": "검증 불가능 보상 환경의 딥리서치 에이전트 메타-RL",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "multi-agent",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://huggingface.co/papers/2605.10488": {
+      "title": "DeepRefine: Agent-Compiled Knowledge Refinement via Reinforcement Learning",
+      "summary": "에이전트가 누적한 지식 베이스의 RL 기반 정제",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://huggingface.co/papers/2605.06788": {
+      "title": "Conformal Agent Error Attribution",
+      "summary": "멀티에이전트 실패에서 결정적 에러 지점 컨포멀 귀인",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://huggingface.co/papers/2605.10365": {
+      "title": "Agent-ValueBench: A Comprehensive Benchmark for Evaluating Agent Values",
+      "summary": "에이전트 행동 뒤의 가치 평가 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "benchmark",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://huggingface.co/papers/2605.12493": {
+      "title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues",
+      "summary": "웹 환경 장기 메모리·워크플로 회상 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "agent-memory",
+        "benchmark",
+        "paper",
+        "web-agent"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://huggingface.co/papers/2605.07630": {
+      "title": "Safe, or Simply Incapable? Rethinking Safety Evaluation for Phone-Use Agents",
+      "summary": "폰 에이전트 안전성을 능력과 분리 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "benchmark",
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://openai.com/academy/how-finance-teams-use-codex": {
+      "title": "How finance teams use Codex",
+      "summary": "재무팀이 Codex로 MBR·리포트·변동 분석 자동화",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://openai.com/index/what-parameter-golf-taught-us": {
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "summary": "1000명+ 참가 AI 보조 ML 연구 대회 회고",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://openai.com/index/autoscout24": {
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "summary": "AutoScout24가 Codex·ChatGPT로 개발 사이클 가속",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://huggingface.co/papers/2605.09932": {
+      "title": "FocuSFT: Bilevel Optimization for Dilution-Aware Long-Context Fine-Tuning",
+      "summary": "긴 컨텍스트 SFT의 어텐션 예산 희석 문제 해결",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-13",
+      "tags": [
+        "long-context",
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-13T13:59:48+09:00"
     }
   }
 }

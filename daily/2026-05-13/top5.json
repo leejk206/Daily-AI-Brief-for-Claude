@@ -1,0 +1,7 @@
+[
+  {"url": "https://openai.com/index/nvidia", "title": "How NVIDIA engineers and researchers build with Codex"},
+  {"url": "https://huggingface.co/papers/2605.09131", "title": "MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments"},
+  {"url": "https://huggingface.co/papers/2605.12357", "title": "δ-mem: Efficient Online Memory for Large Language Models"},
+  {"url": "https://huggingface.co/papers/2605.12481", "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents"},
+  {"url": "https://huggingface.co/papers/2605.12477", "title": "MEME: Multi-entity & Evolving Memory Evaluation"}
+]

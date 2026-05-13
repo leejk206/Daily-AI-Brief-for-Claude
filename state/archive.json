@@ -358,5 +358,25 @@
   "https://huggingface.co/papers/2605.10923": {
     "archived_on": "2026-05-12",
     "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning"
+  },
+  "https://openai.com/index/nvidia": {
+    "archived_on": "2026-05-13",
+    "title": "How NVIDIA engineers and researchers build with Codex"
+  },
+  "https://huggingface.co/papers/2605.09131": {
+    "archived_on": "2026-05-13",
+    "title": "MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments"
+  },
+  "https://huggingface.co/papers/2605.12357": {
+    "archived_on": "2026-05-13",
+    "title": "δ-mem: Efficient Online Memory for Large Language Models"
+  },
+  "https://huggingface.co/papers/2605.12481": {
+    "archived_on": "2026-05-13",
+    "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents"
+  },
+  "https://huggingface.co/papers/2605.12477": {
+    "archived_on": "2026-05-13",
+    "title": "MEME: Multi-entity & Evolving Memory Evaluation"
   }
 }

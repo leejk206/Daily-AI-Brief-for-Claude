@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-13T13:56:08+09:00",
+  "items": [
+    {
+      "id": "hn:48109224",
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "description": "",
+      "signals": {
+        "points": 1159,
+        "num_comments": 374,
+        "discussion_url": "https://news.ycombinator.com/item?id=48109224"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48111545",
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
+      "description": "",
+      "signals": {
+        "points": 675,
+        "num_comments": 1146,
+        "discussion_url": "https://news.ycombinator.com/item?id=48111545"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48109460",
+      "title": "Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "description": "",
+      "signals": {
+        "points": 454,
+        "num_comments": 201,
+        "discussion_url": "https://news.ycombinator.com/item?id=48109460"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48107997",
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "description": "",
+      "signals": {
+        "points": 433,
+        "num_comments": 38,
+        "discussion_url": "https://news.ycombinator.com/item?id=48107997"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48111896",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "",
+      "signals": {
+        "points": 343,
+        "num_comments": 122,
+        "discussion_url": "https://news.ycombinator.com/item?id=48111896"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48109970",
+      "title": "The Future of Obsidian Plugins",
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "description": "",
+      "signals": {
+        "points": 334,
+        "num_comments": 133,
+        "discussion_url": "https://news.ycombinator.com/item?id=48109970"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48115127",
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "description": "",
+      "signals": {
+        "points": 277,
+        "num_comments": 118,
+        "discussion_url": "https://news.ycombinator.com/item?id=48115127"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48112042",
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "description": "",
+      "signals": {
+        "points": 271,
+        "num_comments": 124,
+        "discussion_url": "https://news.ycombinator.com/item?id=48112042"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48113895",
+      "title": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "description": "",
+      "signals": {
+        "points": 266,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48113895"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48115807",
+      "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+      "url": "https://www.savethearchive.com/newsleaders/",
+      "description": "",
+      "signals": {
+        "points": 242,
+        "num_comments": 58,
+        "discussion_url": "https://news.ycombinator.com/item?id=48115807"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48111765",
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "description": "",
+      "signals": {
+        "points": 227,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=48111765"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48111581",
+      "title": "Reimagining the mouse pointer for the AI era",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "description": "",
+      "signals": {
+        "points": 172,
+        "num_comments": 142,
+        "discussion_url": "https://news.ycombinator.com/item?id=48111581"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48116781",
+      "title": "Starship V3",
+      "url": "https://www.spacex.com/updates#starship-v3",
+      "description": "",
+      "signals": {
+        "points": 164,
+        "num_comments": 145,
+        "discussion_url": "https://news.ycombinator.com/item?id=48116781"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48115059",
+      "title": "EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
+      "url": "https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant",
+      "description": "",
+      "signals": {
+        "points": 154,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=48115059"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48069032",
+      "title": "When life gives you lemons, write better error messages",
+      "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
+      "description": "",
+      "signals": {
+        "points": 125,
+        "num_comments": 45,
+        "discussion_url": "https://news.ycombinator.com/item?id=48069032"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48116207",
+      "title": "My graduation cap runs Rust",
+      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+      "description": "",
+      "signals": {
+        "points": 110,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=48116207"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48115823",
+      "title": "Kraftwerk's radical 1976 track",
+      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "description": "",
+      "signals": {
+        "points": 98,
+        "num_comments": 35,
+        "discussion_url": "https://news.ycombinator.com/item?id=48115823"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48108778",
+      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+      "url": "https://github.com/statewright/statewright",
+      "description": "",
+      "signals": {
+        "points": 85,
+        "num_comments": 27,
+        "discussion_url": "https://news.ycombinator.com/item?id=48108778"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48114356",
+      "title": "Scrcpy v4.0",
+      "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
+      "description": "",
+      "signals": {
+        "points": 77,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48114356"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48111143",
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "url": "https://www.hypercubic.ai/hopper",
+      "description": "",
+      "signals": {
+        "points": 65,
+        "num_comments": 38,
+        "discussion_url": "https://news.ycombinator.com/item?id=48111143"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48077291",
+      "title": "Lanzaboote – NixOS Secure Boot",
+      "url": "https://x86.lol/generic/2022/11/26/lanzaboote.html",
+      "description": "",
+      "signals": {
+        "points": 62,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48077291"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48109962",
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "description": "",
+      "signals": {
+        "points": 47,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=48109962"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48033483",
+      "title": "The vi family",
+      "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
+      "description": "",
+      "signals": {
+        "points": 45,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48033483"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48110593",
+      "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
+      "url": "https://news.ycombinator.com/item?id=48110593",
+      "description": "",
+      "signals": {
+        "points": 44,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=48110593"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48116064",
+      "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+      "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+      "description": "",
+      "signals": {
+        "points": 43,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48116064"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48091898",
+      "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
+      "url": "https://github.com/tracewayapp/traceway",
+      "description": "",
+      "signals": {
+        "points": 37,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48091898"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48082586",
+      "title": "Fc, a lossless compressor for floating-point streams",
+      "url": "https://github.com/xtellect/fc",
+      "description": "",
+      "signals": {
+        "points": 35,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48082586"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48100364",
+      "title": "Foucault's Order of Things Explained with Trading Cards [video]",
+      "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+      "description": "",
+      "signals": {
+        "points": 26,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=48100364"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48087643",
+      "title": "Referer Reality",
+      "url": "https://www.robinsloan.com/lab/referer/",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48087643"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

@@ -2653,7 +2653,7 @@
         "coding-platform",
         "frontend"
       ],
-      "tagged_at": "2026-05-13T13:59:48+09:00"
+      "tagged_at": "2026-05-14T13:40:42+09:00"
     },
     "https://openai.com/index/singular-bank": {
       "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
@@ -2810,7 +2810,7 @@
         "local-inference",
         "tool-use"
       ],
-      "tagged_at": "2026-05-13T13:59:48+09:00"
+      "tagged_at": "2026-05-14T13:40:42+09:00"
     },
     "https://huggingface.co/papers/2605.09530": {
       "title": "MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents",
@@ -2910,7 +2910,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-13T13:59:48+09:00"
+      "tagged_at": "2026-05-14T13:40:42+09:00"
     },
     "https://openai.com/index/what-parameter-golf-taught-us": {
       "title": "What Parameter Golf taught us about AI-assisted research",
@@ -2921,7 +2921,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-13T13:59:48+09:00"
+      "tagged_at": "2026-05-14T13:40:42+09:00"
     },
     "https://openai.com/index/autoscout24": {
       "title": "AutoScout24 scales engineering with AI-powered workflows",
@@ -2932,7 +2932,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-13T13:59:48+09:00"
+      "tagged_at": "2026-05-14T13:40:42+09:00"
     },
     "https://huggingface.co/papers/2605.09932": {
       "title": "FocuSFT: Bilevel Optimization for Dilution-Aware Long-Context Fine-Tuning",
@@ -2946,6 +2946,230 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-05-13T13:59:48+09:00"
+    },
+    "https://openai.com/index/building-codex-windows-sandbox": {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "summary": "OpenAI Codex 윈도우 샌드박스 출시, 코딩 에이전트 운영 환경 확장",
+      "category": "coding-agents",
+      "source": "openai",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://github.com/K-Dense-AI/scientific-agent-skills": {
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "summary": "연구·과학·금융·작문용 Agent Skills 모음, 21k 스타로 급상승",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "agent-skill"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.12925": {
+      "title": "AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation",
+      "summary": "SWE-Agent 평가가 패스/실패 이분법만으로 운빨 통과를 못 거른다는 분석",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.09942": {
+      "title": "HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution",
+      "summary": "가중치 그래프 진화로 에이전트 메모리 검색을 RL로 학습",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "agent-memory",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.13511": {
+      "title": "Many-Shot CoT-ICL: Making In-Context Learning Truly Learn",
+      "summary": "롱컨텍스트 다샷 CoT-ICL이 파인튜닝에 근접하는 학습을 가능케 함",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "long-context",
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://github.com/danielmiessler/Personal_AI_Infrastructure": {
+      "title": "danielmiessler/Personal_AI_Infrastructure",
+      "summary": "개인용 Agentic AI 인프라 프레임워크, 13k 스타 급상승",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "agent-skill"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.13037": {
+      "title": "MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning",
+      "summary": "사전 환경 매핑 후 행동하는 장기 추론 패러다임",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.12913": {
+      "title": "Revisiting DAgger in the Era of LLM-Agents",
+      "summary": "LLM 에이전트 다중 턴 학습에 DAgger 재조명",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.11363": {
+      "title": "PresentAgent-2: Towards Generalist Multimodal Presentation Agents",
+      "summary": "사용자 쿼리에서 발표 영상까지 만드는 멀티모달 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.11136": {
+      "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
+      "summary": "개인·팀·집단 3단계 멀티 에이전트 진화 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.09252": {
+      "title": "LLM Agents Already Know When to Call Tools -- Even Without Reasoning",
+      "summary": "추론 없이도 도구 호출 필요성을 판단하는 능력 벤치마크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "benchmark",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.09539": {
+      "title": "TacoMAS: Test-Time Co-Evolution of Topology and Capability in LLM-based Multi-Agent Systems",
+      "summary": "토폴로지와 능력을 동시 진화시키는 MAS 기법",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.12460": {
+      "title": "Multi-Stream LLMs: Unblocking Language Models with Parallel Streams of Thoughts, Inputs and Outputs",
+      "summary": "사고·입력·출력 병렬 스트림으로 에이전트 코어 재설계",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.12978": {
+      "title": "Useful Memories Become Faulty When Continuously Updated by LLMs",
+      "summary": "LLM이 메모리를 계속 갱신하면 유용한 기억도 손상된다는 분석",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.11436": {
+      "title": "Agent-BRACE: Decoupling Beliefs from Actions in Long-Horizon Tasks via Verbalized State Uncertainty",
+      "summary": "신념·행동 분리와 언어화된 상태 불확실성으로 장기 작업 안정화",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://github.com/github/spec-kit": {
+      "title": "github/spec-kit",
+      "summary": "Spec-Driven Development 툴킷, 98k 스타로 안정적 트렌딩",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.13050": {
+      "title": "Context Training with Active Information Seeking",
+      "summary": "LLM이 능동적으로 정보를 탐색하며 컨텍스트를 학습하는 기법",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2605.13831": {
+      "title": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context",
+      "summary": "128K 컨텍스트 너머로 일반화되는 VLM 학습 레시피",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://huggingface.co/papers/2604.27695": {
+      "title": "EviMem: Evidence-Gap-Driven Iterative Retrieval for Long-Term Conversational Memory",
+      "summary": "증거 격차 기반 반복 검색으로 장기 대화 메모리 처리",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-14",
+      "tags": [
+        "agent-memory",
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-05-14T13:40:42+09:00"
     }
   }
 }

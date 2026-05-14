@@ -5,65 +5,17 @@
     "days": 3,
     "title": "virattt/dexter"
   },
-  "https://github.com/msitarzewski/agency-agents": {
-    "first_seen": "2026-05-05",
-    "last_seen": "2026-05-06",
-    "days": 2,
-    "title": "msitarzewski/agency-agents"
-  },
-  "https://huggingface.co/papers/2604.24026": {
-    "first_seen": "2026-05-05",
-    "last_seen": "2026-05-06",
-    "days": 2,
-    "title": "From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills"
-  },
   "https://huggingface.co/papers/2605.00553": {
     "first_seen": "2026-05-05",
     "last_seen": "2026-05-07",
     "days": 3,
     "title": "Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance"
   },
-  "https://github.com/mksglu/context-mode": {
-    "first_seen": "2026-05-06",
-    "last_seen": "2026-05-06",
-    "days": 1,
-    "title": "mksglu/context-mode"
-  },
-  "https://huggingface.co/papers/2604.27660": {
-    "first_seen": "2026-05-06",
-    "last_seen": "2026-05-06",
-    "days": 1,
-    "title": "From Context to Skills: Can Language Models Learn from Context Skillfully?"
-  },
-  "https://huggingface.co/papers/2604.09408": {
-    "first_seen": "2026-05-06",
-    "last_seen": "2026-05-06",
-    "days": 1,
-    "title": "HiL-Bench (Human-in-Loop Benchmark): Do Agents Know When to Ask for Help?"
-  },
-  "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/": {
-    "first_seen": "2026-05-06",
-    "last_seen": "2026-05-06",
-    "days": 1,
-    "title": "Computer Use is 45x more expensive than structured APIs"
-  },
-  "https://www.anthropic.com/news/finance-agents": {
-    "first_seen": "2026-05-06",
-    "last_seen": "2026-05-06",
-    "days": 1,
-    "title": "Agents for financial services and insurance"
-  },
   "https://huggingface.co/papers/2605.01214": {
     "first_seen": "2026-05-06",
     "last_seen": "2026-05-08",
     "days": 3,
     "title": "Agentic AI Systems Should Be Designed as Marginal Token Allocators"
-  },
-  "https://huggingface.co/papers/2605.00691": {
-    "first_seen": "2026-05-06",
-    "last_seen": "2026-05-06",
-    "days": 1,
-    "title": "Learning to Act and Cooperate for Distributed Black-Box Consensus Optimization"
   },
   "https://openai.com/index/openai-pwc-finance-collaboration": {
     "first_seen": "2026-05-10",
@@ -613,8 +565,8 @@
   },
   "https://github.com/millionco/react-doctor": {
     "first_seen": "2026-05-12",
-    "last_seen": "2026-05-13",
-    "days": 2,
+    "last_seen": "2026-05-14",
+    "days": 3,
     "title": "millionco/react-doctor"
   },
   "https://openai.com/index/singular-bank": {
@@ -691,8 +643,8 @@
   },
   "https://github.com/cactus-compute/needle": {
     "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
+    "last_seen": "2026-05-14",
+    "days": 2,
     "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model"
   },
   "https://huggingface.co/papers/2605.09530": {
@@ -739,20 +691,20 @@
   },
   "https://openai.com/academy/how-finance-teams-use-codex": {
     "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
+    "last_seen": "2026-05-14",
+    "days": 2,
     "title": "How finance teams use Codex"
   },
   "https://openai.com/index/what-parameter-golf-taught-us": {
     "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
+    "last_seen": "2026-05-14",
+    "days": 2,
     "title": "What Parameter Golf taught us about AI-assisted research"
   },
   "https://openai.com/index/autoscout24": {
     "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
+    "last_seen": "2026-05-14",
+    "days": 2,
     "title": "AutoScout24 scales engineering with AI-powered workflows"
   },
   "https://huggingface.co/papers/2605.09932": {
@@ -760,5 +712,119 @@
     "last_seen": "2026-05-13",
     "days": 1,
     "title": "FocuSFT: Bilevel Optimization for Dilution-Aware Long-Context Fine-Tuning"
+  },
+  "https://openai.com/index/building-codex-windows-sandbox": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "Building a safe, effective sandbox to enable Codex on Windows"
+  },
+  "https://github.com/K-Dense-AI/scientific-agent-skills": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "K-Dense-AI/scientific-agent-skills"
+  },
+  "https://huggingface.co/papers/2605.12925": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation"
+  },
+  "https://huggingface.co/papers/2605.09942": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution"
+  },
+  "https://huggingface.co/papers/2605.13511": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "Many-Shot CoT-ICL: Making In-Context Learning Truly Learn"
+  },
+  "https://github.com/danielmiessler/Personal_AI_Infrastructure": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "danielmiessler/Personal_AI_Infrastructure"
+  },
+  "https://huggingface.co/papers/2605.13037": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning"
+  },
+  "https://huggingface.co/papers/2605.12913": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "Revisiting DAgger in the Era of LLM-Agents"
+  },
+  "https://huggingface.co/papers/2605.11363": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "PresentAgent-2: Towards Generalist Multimodal Presentation Agents"
+  },
+  "https://huggingface.co/papers/2605.11136": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales"
+  },
+  "https://huggingface.co/papers/2605.09252": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "LLM Agents Already Know When to Call Tools -- Even Without Reasoning"
+  },
+  "https://huggingface.co/papers/2605.09539": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "TacoMAS: Test-Time Co-Evolution of Topology and Capability in LLM-based Multi-Agent Systems"
+  },
+  "https://huggingface.co/papers/2605.12460": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "Multi-Stream LLMs: Unblocking Language Models with Parallel Streams of Thoughts, Inputs and Outputs"
+  },
+  "https://huggingface.co/papers/2605.12978": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "Useful Memories Become Faulty When Continuously Updated by LLMs"
+  },
+  "https://huggingface.co/papers/2605.11436": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "Agent-BRACE: Decoupling Beliefs from Actions in Long-Horizon Tasks via Verbalized State Uncertainty"
+  },
+  "https://github.com/github/spec-kit": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "github/spec-kit"
+  },
+  "https://huggingface.co/papers/2605.13050": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "Context Training with Active Information Seeking"
+  },
+  "https://huggingface.co/papers/2605.13831": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context"
+  },
+  "https://huggingface.co/papers/2604.27695": {
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "days": 1,
+    "title": "EviMem: Evidence-Gap-Driven Iterative Retrieval for Long-Term Conversational Memory"
   }
 }

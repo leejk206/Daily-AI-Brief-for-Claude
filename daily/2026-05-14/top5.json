@@ -1,0 +1,7 @@
+[
+  {"url": "https://openai.com/index/building-codex-windows-sandbox", "title": "Building a safe, effective sandbox to enable Codex on Windows"},
+  {"url": "https://github.com/K-Dense-AI/scientific-agent-skills", "title": "K-Dense-AI/scientific-agent-skills"},
+  {"url": "https://huggingface.co/papers/2605.12925", "title": "AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation"},
+  {"url": "https://huggingface.co/papers/2605.09942", "title": "HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution"},
+  {"url": "https://huggingface.co/papers/2605.13511", "title": "Many-Shot CoT-ICL: Making In-Context Learning Truly Learn"}
+]

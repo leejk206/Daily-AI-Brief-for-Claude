@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-14T13:37:01+09:00",
+  "items": [
+    {
+      "id": "hn:48120629",
+      "title": "I moved my digital stack to Europe",
+      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+      "description": "",
+      "signals": {
+        "points": 908,
+        "num_comments": 540,
+        "discussion_url": "https://news.ycombinator.com/item?id=48120629"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48111896",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "",
+      "signals": {
+        "points": 654,
+        "num_comments": 184,
+        "discussion_url": "https://news.ycombinator.com/item?id=48111896"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48087887",
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "description": "",
+      "signals": {
+        "points": 591,
+        "num_comments": 396,
+        "discussion_url": "https://news.ycombinator.com/item?id=48087887"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48121266",
+      "title": "Leaving GitHub for Forgejo",
+      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+      "description": "",
+      "signals": {
+        "points": 554,
+        "num_comments": 289,
+        "discussion_url": "https://news.ycombinator.com/item?id=48121266"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48122635",
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "description": "",
+      "signals": {
+        "points": 530,
+        "num_comments": 165,
+        "discussion_url": "https://news.ycombinator.com/item?id=48122635"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48115438",
+      "title": "Twin brothers wipe 96 government databases minutes after being fired",
+      "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+      "description": "",
+      "signals": {
+        "points": 356,
+        "num_comments": 260,
+        "discussion_url": "https://news.ycombinator.com/item?id=48115438"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48073979",
+      "title": "A History of IDEs at Google",
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "description": "",
+      "signals": {
+        "points": 315,
+        "num_comments": 223,
+        "discussion_url": "https://news.ycombinator.com/item?id=48073979"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48126848",
+      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+      "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
+      "description": "",
+      "signals": {
+        "points": 288,
+        "num_comments": 402,
+        "discussion_url": "https://news.ycombinator.com/item?id=48126848"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48118727",
+      "title": "The Emacsification of Software",
+      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+      "description": "",
+      "signals": {
+        "points": 234,
+        "num_comments": 162,
+        "discussion_url": "https://news.ycombinator.com/item?id=48118727"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48128003",
+      "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+      "url": "https://news.ycombinator.com/item?id=48128003",
+      "description": "",
+      "signals": {
+        "points": 228,
+        "num_comments": 66,
+        "discussion_url": "https://news.ycombinator.com/item?id=48128003"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48091812",
+      "title": "Preserving Fisher-Price Pixter",
+      "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
+      "description": "",
+      "signals": {
+        "points": 217,
+        "num_comments": 45,
+        "discussion_url": "https://news.ycombinator.com/item?id=48091812"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48077924",
+      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+      "description": "",
+      "signals": {
+        "points": 209,
+        "num_comments": 81,
+        "discussion_url": "https://news.ycombinator.com/item?id=48077924"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48121929",
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "description": "",
+      "signals": {
+        "points": 174,
+        "num_comments": 493,
+        "discussion_url": "https://news.ycombinator.com/item?id=48121929"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48080755",
+      "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
+      "url": "https://github.com/nooga/xsofy",
+      "description": "",
+      "signals": {
+        "points": 169,
+        "num_comments": 73,
+        "discussion_url": "https://news.ycombinator.com/item?id=48080755"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48129694",
+      "title": "Scorched Earth 2000 – Web",
+      "url": "http://www.scorch2000.com/web/",
+      "description": "",
+      "signals": {
+        "points": 167,
+        "num_comments": 64,
+        "discussion_url": "https://news.ycombinator.com/item?id=48129694"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48126981",
+      "title": "Meta won't let you block its AI account on Threads",
+      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "description": "",
+      "signals": {
+        "points": 143,
+        "num_comments": 71,
+        "discussion_url": "https://news.ycombinator.com/item?id=48126981"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48096760",
+      "title": "Chess puzzle I found in my dad's old book",
+      "url": "https://ardoedo.it/kempelen/",
+      "description": "",
+      "signals": {
+        "points": 126,
+        "num_comments": 34,
+        "discussion_url": "https://news.ycombinator.com/item?id=48096760"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48123546",
+      "title": "S-100 Virtual Workbench",
+      "url": "https://grantmestrength.github.io/S100/",
+      "description": "",
+      "signals": {
+        "points": 111,
+        "num_comments": 22,
+        "discussion_url": "https://news.ycombinator.com/item?id=48123546"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48130123",
+      "title": "Cisco Workforce Reductions",
+      "url": "https://blogs.cisco.com/news/our-path-forward",
+      "description": "",
+      "signals": {
+        "points": 85,
+        "num_comments": 51,
+        "discussion_url": "https://news.ycombinator.com/item?id=48130123"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48129789",
+      "title": "Mystery Microsoft bug leaker keeps the zero-days coming",
+      "url": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
+      "description": "",
+      "signals": {
+        "points": 83,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=48129789"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48124436",
+      "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+      "url": "https://www.tryardent.com/",
+      "description": "",
+      "signals": {
+        "points": 80,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48124436"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48125557",
+      "title": "A sentimental tour of late 1990s and early 2000s hacking tools",
+      "url": "https://andreafortuna.org/2026/05/13/amarcord/",
+      "description": "",
+      "signals": {
+        "points": 56,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48125557"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48095782",
+      "title": "Marco Polo: Finding a friend with only distance and motion",
+      "url": "https://www.jackhogan.me/blog/marco-polo",
+      "description": "",
+      "signals": {
+        "points": 50,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48095782"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48130519",
+      "title": "Microsoft BitLocker – YellowKey zero-day exploit",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
+      "description": "",
+      "signals": {
+        "points": 36,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48130519"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48130950",
+      "title": "Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "description": "",
+      "signals": {
+        "points": 25,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48130950"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48130186",
+      "title": "Show HN: Nibble",
+      "url": "https://github.com/glouw/nibble",
+      "description": "",
+      "signals": {
+        "points": 16,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48130186"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48105385",
+      "title": "Can a Language Model Paint?",
+      "url": "https://www.etive-mor.com/blog/can-a-language-model-paint/",
+      "description": "",
+      "signals": {
+        "points": 15,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48105385"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48129934",
+      "title": "Avoiding and reducing microplastic false positives from dry glove contact",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48129934"
+      },
+      "category_hint": null
+    }
+  ]
+}

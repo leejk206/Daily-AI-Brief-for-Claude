@@ -378,5 +378,25 @@
   "https://huggingface.co/papers/2605.12477": {
     "archived_on": "2026-05-13",
     "title": "MEME: Multi-entity & Evolving Memory Evaluation"
+  },
+  "https://openai.com/index/building-codex-windows-sandbox": {
+    "archived_on": "2026-05-14",
+    "title": "Building a safe, effective sandbox to enable Codex on Windows"
+  },
+  "https://github.com/K-Dense-AI/scientific-agent-skills": {
+    "archived_on": "2026-05-14",
+    "title": "K-Dense-AI/scientific-agent-skills"
+  },
+  "https://huggingface.co/papers/2605.12925": {
+    "archived_on": "2026-05-14",
+    "title": "AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation"
+  },
+  "https://huggingface.co/papers/2605.09942": {
+    "archived_on": "2026-05-14",
+    "title": "HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution"
+  },
+  "https://huggingface.co/papers/2605.13511": {
+    "archived_on": "2026-05-14",
+    "title": "Many-Shot CoT-ICL: Making In-Context Learning Truly Learn"
   }
 }

@@ -66,6 +66,9 @@ Claude Code 관련 항목
 
 ## Candidate
 
+### ai-code-policy
+AI 생성 코드 기여·OSS 정책·거버넌스
+
 ### voice-agent
 보이스·전화·음성 인터랙션 기반 에이전트
 

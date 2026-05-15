@@ -398,5 +398,25 @@
   "https://huggingface.co/papers/2605.13511": {
     "archived_on": "2026-05-14",
     "title": "Many-Shot CoT-ICL: Making In-Context Learning Truly Learn"
+  },
+  "https://openai.com/index/work-with-codex-from-anywhere": {
+    "archived_on": "2026-05-15",
+    "title": "Work with Codex from anywhere"
+  },
+  "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start": {
+    "archived_on": "2026-05-15",
+    "title": "How Claude Code works in large codebases"
+  },
+  "https://huggingface.co/papers/2605.14906": {
+    "archived_on": "2026-05-15",
+    "title": "MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models"
+  },
+  "https://huggingface.co/papers/2605.15155": {
+    "archived_on": "2026-05-15",
+    "title": "Self-Distilled Agentic Reinforcement Learning"
+  },
+  "https://huggingface.co/papers/2605.14892": {
+    "archived_on": "2026-05-15",
+    "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems"
   }
 }

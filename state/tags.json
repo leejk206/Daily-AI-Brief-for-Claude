@@ -2910,7 +2910,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-14T13:40:42+09:00"
+      "tagged_at": "2026-05-15T19:41:02+09:00"
     },
     "https://openai.com/index/what-parameter-golf-taught-us": {
       "title": "What Parameter Golf taught us about AI-assisted research",
@@ -2921,7 +2921,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-14T13:40:42+09:00"
+      "tagged_at": "2026-05-15T19:41:02+09:00"
     },
     "https://openai.com/index/autoscout24": {
       "title": "AutoScout24 scales engineering with AI-powered workflows",
@@ -2932,7 +2932,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-14T13:40:42+09:00"
+      "tagged_at": "2026-05-15T19:41:02+09:00"
     },
     "https://huggingface.co/papers/2605.09932": {
       "title": "FocuSFT: Bilevel Optimization for Dilution-Aware Long-Context Fine-Tuning",
@@ -3132,7 +3132,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-14T13:40:42+09:00"
+      "tagged_at": "2026-05-15T19:41:02+09:00"
     },
     "https://huggingface.co/papers/2605.13050": {
       "title": "Context Training with Active Information Seeking",
@@ -3170,6 +3170,200 @@
         "paper"
       ],
       "tagged_at": "2026-05-14T13:40:42+09:00"
+    },
+    "https://openai.com/index/work-with-codex-from-anywhere": {
+      "title": "Work with Codex from anywhere",
+      "summary": "Codex를 ChatGPT 모바일 앱에서 실시간 감시·승인",
+      "category": "coding-agents",
+      "source": "hacker_news, openai",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start": {
+      "title": "How Claude Code works in large codebases",
+      "summary": "대규모 코드베이스에서 Claude Code 활용 베스트 프랙티스 공식 가이드",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "claude-code",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.14906": {
+      "title": "MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models",
+      "summary": "롱컨텍스트 vs 메모리 에이전트를 한 벤치마크로 비교",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "agent-memory",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.15155": {
+      "title": "Self-Distilled Agentic Reinforcement Learning",
+      "summary": "자기증류로 에이전트 RL에 토큰 단위 밀집 보상을 더하는 포스트트레이닝",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.14892": {
+      "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems",
+      "summary": "멀티에이전트 협업·실패원인·자기진화 종합 서베이",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.15040": {
+      "title": "Orchard: An Open-Source Agentic Modeling Framework",
+      "summary": "계획·추론·도구사용·멀티턴을 갖춘 오픈소스 에이전트 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.13880": {
+      "title": "PREPING: Building Agent Memory without Tasks",
+      "summary": "태스크 없이 콜드스타트 갭을 메우는 에이전트 메모리 구축법",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.13941": {
+      "title": "EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents",
+      "summary": "검색 인프라까지 진화시키는 자기진화 메모리 아키텍처",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.14169": {
+      "title": "BOOKMARKS: Efficient Active Storyline Memory for Role-playing",
+      "summary": "요약 압축 손실을 줄이는 검색 기반 롤플레이 메모리",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.15128": {
+      "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory",
+      "summary": "캡션이 아닌 시각 증거 보존을 검증하는 멀티모달 메모리 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "agent-memory",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.06527": {
+      "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?",
+      "summary": "새 증거가 올 때 저장 신념을 수정하는지 평가하는 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "agent-memory",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.10912": {
+      "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",
+      "summary": "합성 샌드박스 대신 실세계 장기 CLI 에이전트 작업 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "benchmark",
+        "cli-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.14445": {
+      "title": "FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale",
+      "summary": "LLM의 약점인 개방형 코딩 문제를 대규모 합성",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://github.com/garrytan/gstack": {
+      "title": "garrytan/gstack",
+      "summary": "Garry Tan의 Claude Code 셋업, 23개 도구",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "agent-skill",
+        "claude-code"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://openai.com/index/sea-david-chen": {
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "summary": "Sea Limited CPO가 말하는 Codex 기반 AI 네이티브 개발",
+      "category": "coding-agents",
+      "source": "openai",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://github.com/rust-lang/rust-forge/pull/1040": {
+      "title": "LLM Policy for Rust Compiler",
+      "summary": "Rust 컴파일러가 LLM 생성 코드 기여에 대한 정책 도입",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-15",
+      "tags": [
+        "ai-code-policy"
+      ],
+      "tagged_at": "2026-05-15T19:41:02+09:00"
     }
   }
 }

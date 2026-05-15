@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-15T19:32:56+09:00",
+  "items": [
+    {
+      "id": "hn:48138136",
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "description": "",
+      "signals": {
+        "points": 882,
+        "num_comments": 457,
+        "discussion_url": "https://news.ycombinator.com/item?id=48138136"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48137145",
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "description": "",
+      "signals": {
+        "points": 599,
+        "num_comments": 145,
+        "discussion_url": "https://news.ycombinator.com/item?id=48137145"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48140922",
+      "title": "New arXiv policy: 1-year ban for hallucinated references",
+      "url": "https://twitter.com/tdietterich/status/2055000956144935055",
+      "description": "",
+      "signals": {
+        "points": 507,
+        "num_comments": 173,
+        "discussion_url": "https://news.ycombinator.com/item?id=48140922"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48143880",
+      "title": "Mullvad exit IPs are surprisingly identifying",
+      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+      "description": "",
+      "signals": {
+        "points": 391,
+        "num_comments": 232,
+        "discussion_url": "https://news.ycombinator.com/item?id=48143880"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48138268",
+      "title": "New Nginx Exploit",
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "description": "",
+      "signals": {
+        "points": 384,
+        "num_comments": 87,
+        "discussion_url": "https://news.ycombinator.com/item?id=48138268"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48139219",
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "description": "",
+      "signals": {
+        "points": 369,
+        "num_comments": 85,
+        "discussion_url": "https://news.ycombinator.com/item?id=48139219"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48140529",
+      "title": "Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "description": "",
+      "signals": {
+        "points": 339,
+        "num_comments": 169,
+        "discussion_url": "https://news.ycombinator.com/item?id=48140529"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48142108",
+      "title": "A few words on DS4",
+      "url": "https://antirez.com/news/165",
+      "description": "",
+      "signals": {
+        "points": 320,
+        "num_comments": 129,
+        "discussion_url": "https://news.ycombinator.com/item?id=48142108"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48142251",
+      "title": "UK government replaces Palantir software with internally-built refugee system",
+      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
+      "description": "",
+      "signals": {
+        "points": 226,
+        "num_comments": 79,
+        "discussion_url": "https://news.ycombinator.com/item?id=48142251"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48142193",
+      "title": "More than sixty percent of the United States is experiencing drought conditions",
+      "url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+      "description": "",
+      "signals": {
+        "points": 203,
+        "num_comments": 76,
+        "discussion_url": "https://news.ycombinator.com/item?id=48142193"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48137553",
+      "title": "HDD Firmware Hacking",
+      "url": "https://icode4.coffee/?p=1465",
+      "description": "",
+      "signals": {
+        "points": 190,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48137553"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48144494",
+      "title": "How Claude Code works in large codebases",
+      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "description": "",
+      "signals": {
+        "points": 168,
+        "num_comments": 122,
+        "discussion_url": "https://news.ycombinator.com/item?id=48144494"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48143284",
+      "title": "Access to frontier AI will soon be limited by economic and security constraints",
+      "url": "https://writing.antonleicht.me/p/cut-off",
+      "description": "",
+      "signals": {
+        "points": 159,
+        "num_comments": 150,
+        "discussion_url": "https://news.ycombinator.com/item?id=48143284"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48138332",
+      "title": "What's in a GGUF, besides the weights – and what's still missing?",
+      "url": "https://nobodywho.ooo/posts/whats-in-a-gguf/",
+      "description": "",
+      "signals": {
+        "points": 152,
+        "num_comments": 45,
+        "discussion_url": "https://news.ycombinator.com/item?id=48138332"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48144380",
+      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "description": "",
+      "signals": {
+        "points": 148,
+        "num_comments": 41,
+        "discussion_url": "https://news.ycombinator.com/item?id=48144380"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48097786",
+      "title": "Porting 3D Movie Maker to Linux",
+      "url": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
+      "description": "",
+      "signals": {
+        "points": 127,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48097786"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48140541",
+      "title": "RISC-V Router",
+      "url": "https://router.start9.com/",
+      "description": "",
+      "signals": {
+        "points": 124,
+        "num_comments": 66,
+        "discussion_url": "https://news.ycombinator.com/item?id=48140541"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48140953",
+      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+      "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+      "description": "",
+      "signals": {
+        "points": 98,
+        "num_comments": 45,
+        "discussion_url": "https://news.ycombinator.com/item?id=48140953"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48141234",
+      "title": "Claude for Legal",
+      "url": "https://github.com/anthropics/claude-for-legal",
+      "description": "",
+      "signals": {
+        "points": 96,
+        "num_comments": 90,
+        "discussion_url": "https://news.ycombinator.com/item?id=48141234"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48107766",
+      "title": "Gyroflow: Video stabilization using gyroscope data",
+      "url": "https://github.com/gyroflow/gyroflow",
+      "description": "",
+      "signals": {
+        "points": 92,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=48107766"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48142650",
+      "title": "LLM Policy for Rust Compiler",
+      "url": "https://github.com/rust-lang/rust-forge/pull/1040",
+      "description": "",
+      "signals": {
+        "points": 84,
+        "num_comments": 47,
+        "discussion_url": "https://news.ycombinator.com/item?id=48142650"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48141732",
+      "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+      "url": "https://www.openvehicles.com/home",
+      "description": "",
+      "signals": {
+        "points": 80,
+        "num_comments": 13,
+        "discussion_url": "https://news.ycombinator.com/item?id=48141732"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48144490",
+      "title": "Solar-based sleep patterns compared to modern norms",
+      "url": "https://dylan.gr/1775146616",
+      "description": "",
+      "signals": {
+        "points": 71,
+        "num_comments": 60,
+        "discussion_url": "https://news.ycombinator.com/item?id=48144490"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48146129",
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "url": "https://explorer.samismith.com/",
+      "description": "",
+      "signals": {
+        "points": 55,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48146129"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48146424",
+      "title": "RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI/Claude",
+      "url": "https://relax.ai/docs",
+      "description": "",
+      "signals": {
+        "points": 43,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48146424"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48137629",
+      "title": "Building ML framework with Rust and Category Theory",
+      "url": "https://hghalebi.github.io/category_theory_transformer_rs/",
+      "description": "",
+      "signals": {
+        "points": 35,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48137629"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48144670",
+      "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+      "url": "https://github.com/GlycemicGPT/GlycemicGPT",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48144670"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48143256",
+      "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
+      "url": "https://www.theembeddedrustacean.com/uferris",
+      "description": "",
+      "signals": {
+        "points": 20,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48143256"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48144410",
+      "title": "Coldkey – Post-quantum age key generation and paper backup tool",
+      "url": "https://github.com/pike00/coldkey",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48144410"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

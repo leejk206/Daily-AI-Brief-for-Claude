@@ -1,0 +1,22 @@
+[
+  {"url": "https://openai.com/index/work-with-codex-from-anywhere", "title": "Work with Codex from anywhere"},
+  {"url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start", "title": "How Claude Code works in large codebases"},
+  {"url": "https://huggingface.co/papers/2605.14906", "title": "MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models"},
+  {"url": "https://huggingface.co/papers/2605.15155", "title": "Self-Distilled Agentic Reinforcement Learning"},
+  {"url": "https://huggingface.co/papers/2605.14892", "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems"},
+  {"url": "https://huggingface.co/papers/2605.15040", "title": "Orchard: An Open-Source Agentic Modeling Framework"},
+  {"url": "https://huggingface.co/papers/2605.13880", "title": "PREPING: Building Agent Memory without Tasks"},
+  {"url": "https://huggingface.co/papers/2605.13941", "title": "EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents"},
+  {"url": "https://huggingface.co/papers/2605.14169", "title": "BOOKMARKS: Efficient Active Storyline Memory for Role-playing"},
+  {"url": "https://huggingface.co/papers/2605.15128", "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory"},
+  {"url": "https://huggingface.co/papers/2605.06527", "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?"},
+  {"url": "https://huggingface.co/papers/2605.10912", "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation"},
+  {"url": "https://huggingface.co/papers/2605.14445", "title": "FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale"},
+  {"url": "https://github.com/garrytan/gstack", "title": "garrytan/gstack"},
+  {"url": "https://openai.com/index/sea-david-chen", "title": "Sea's View on the Future of Agentic Software Development with Codex"},
+  {"url": "https://github.com/rust-lang/rust-forge/pull/1040", "title": "LLM Policy for Rust Compiler"},
+  {"url": "https://github.com/github/spec-kit", "title": "github/spec-kit"},
+  {"url": "https://openai.com/academy/how-finance-teams-use-codex", "title": "How finance teams use Codex"},
+  {"url": "https://openai.com/index/what-parameter-golf-taught-us", "title": "What Parameter Golf taught us about AI-assisted research"},
+  {"url": "https://openai.com/index/autoscout24", "title": "AutoScout24 scales engineering with AI-powered workflows"}
+]

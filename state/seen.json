@@ -1,16 +1,4 @@
 {
-  "https://github.com/virattt/dexter": {
-    "first_seen": "2026-05-05",
-    "last_seen": "2026-05-07",
-    "days": 3,
-    "title": "virattt/dexter"
-  },
-  "https://huggingface.co/papers/2605.00553": {
-    "first_seen": "2026-05-05",
-    "last_seen": "2026-05-07",
-    "days": 3,
-    "title": "Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance"
-  },
   "https://huggingface.co/papers/2605.01214": {
     "first_seen": "2026-05-06",
     "last_seen": "2026-05-08",
@@ -23,48 +11,6 @@
     "days": 2,
     "title": "OpenAI and PwC collaborate to reimagine the office of the CFO"
   },
-  "https://huggingface.co/papers/2605.02661": {
-    "first_seen": "2026-05-06",
-    "last_seen": "2026-05-07",
-    "days": 2,
-    "title": "AcademiClaw: When Students Set Challenges for AI Agents"
-  },
-  "https://huggingface.co/papers/2605.02240": {
-    "first_seen": "2026-05-06",
-    "last_seen": "2026-05-07",
-    "days": 2,
-    "title": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments"
-  },
-  "https://github.com/bytedance/deer-flow": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-07",
-    "days": 1,
-    "title": "bytedance/deer-flow"
-  },
-  "https://www.anthropic.com/news/higher-limits-spacex": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-07",
-    "days": 1,
-    "title": "Higher usage limits for Claude and a compute deal with SpaceX"
-  },
-  "https://www.thetypicalset.com/blog/thoughts-on-coding-agents": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-07",
-    "days": 1,
-    "title": "The bottleneck was never the code"
-  },
-  "https://huggingface.co/papers/2604.27776": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-07",
-    "days": 1,
-    "title": "WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments"
-  },
-  "https://huggingface.co/papers/2605.01284": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-07",
-    "days": 1,
-    "title": "Chain of Evidence: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation"
-  },
   "https://huggingface.co/papers/2605.03042": {
     "first_seen": "2026-05-07",
     "last_seen": "2026-05-08",
@@ -76,12 +22,6 @@
     "last_seen": "2026-05-08",
     "days": 2,
     "title": "HeavySkill: Heavy Thinking as the Inner Skill in Agentic Harness"
-  },
-  "https://huggingface.co/papers/2605.02178": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-07",
-    "days": 1,
-    "title": "T^2PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning"
   },
   "https://huggingface.co/papers/2605.04036": {
     "first_seen": "2026-05-07",
@@ -100,12 +40,6 @@
     "last_seen": "2026-05-08",
     "days": 2,
     "title": "Skills-Coach: A Self-Evolving Skill Optimizer via Training-Free GRPO"
-  },
-  "https://tilde.run/": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-07",
-    "days": 1,
-    "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem"
   },
   "https://huggingface.co/papers/2605.03596": {
     "first_seen": "2026-05-07",
@@ -131,29 +65,11 @@
     "days": 2,
     "title": "InsForge/InsForge"
   },
-  "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-07",
-    "days": 1,
-    "title": "Vibe coding and agentic engineering are getting closer than I'd like"
-  },
   "https://openai.com/index/introducing-b2b-signals": {
     "first_seen": "2026-05-13",
     "last_seen": "2026-05-13",
     "days": 1,
     "title": "How frontier firms are pulling ahead"
-  },
-  "https://huggingface.co/papers/2605.00932": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-07",
-    "days": 1,
-    "title": "Code World Model Preparedness Report"
-  },
-  "https://huggingface.co/papers/2605.00632": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-07",
-    "days": 1,
-    "title": "BlenderRAG: High-Fidelity 3D Object Generation via Retrieval-Augmented Code Synthesis"
   },
   "https://deepmind.google/blog/alphaevolve-impact/": {
     "first_seen": "2026-05-08",
@@ -691,20 +607,20 @@
   },
   "https://openai.com/academy/how-finance-teams-use-codex": {
     "first_seen": "2026-05-13",
-    "last_seen": "2026-05-14",
-    "days": 2,
+    "last_seen": "2026-05-15",
+    "days": 3,
     "title": "How finance teams use Codex"
   },
   "https://openai.com/index/what-parameter-golf-taught-us": {
     "first_seen": "2026-05-13",
-    "last_seen": "2026-05-14",
-    "days": 2,
+    "last_seen": "2026-05-15",
+    "days": 3,
     "title": "What Parameter Golf taught us about AI-assisted research"
   },
   "https://openai.com/index/autoscout24": {
     "first_seen": "2026-05-13",
-    "last_seen": "2026-05-14",
-    "days": 2,
+    "last_seen": "2026-05-15",
+    "days": 3,
     "title": "AutoScout24 scales engineering with AI-powered workflows"
   },
   "https://huggingface.co/papers/2605.09932": {
@@ -805,8 +721,8 @@
   },
   "https://github.com/github/spec-kit": {
     "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
+    "last_seen": "2026-05-15",
+    "days": 2,
     "title": "github/spec-kit"
   },
   "https://huggingface.co/papers/2605.13050": {
@@ -826,5 +742,101 @@
     "last_seen": "2026-05-14",
     "days": 1,
     "title": "EviMem: Evidence-Gap-Driven Iterative Retrieval for Long-Term Conversational Memory"
+  },
+  "https://openai.com/index/work-with-codex-from-anywhere": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "Work with Codex from anywhere"
+  },
+  "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "How Claude Code works in large codebases"
+  },
+  "https://huggingface.co/papers/2605.14906": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models"
+  },
+  "https://huggingface.co/papers/2605.15155": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "Self-Distilled Agentic Reinforcement Learning"
+  },
+  "https://huggingface.co/papers/2605.14892": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems"
+  },
+  "https://huggingface.co/papers/2605.15040": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "Orchard: An Open-Source Agentic Modeling Framework"
+  },
+  "https://huggingface.co/papers/2605.13880": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "PREPING: Building Agent Memory without Tasks"
+  },
+  "https://huggingface.co/papers/2605.13941": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents"
+  },
+  "https://huggingface.co/papers/2605.14169": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "BOOKMARKS: Efficient Active Storyline Memory for Role-playing"
+  },
+  "https://huggingface.co/papers/2605.15128": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory"
+  },
+  "https://huggingface.co/papers/2605.06527": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?"
+  },
+  "https://huggingface.co/papers/2605.10912": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation"
+  },
+  "https://huggingface.co/papers/2605.14445": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale"
+  },
+  "https://github.com/garrytan/gstack": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "garrytan/gstack"
+  },
+  "https://openai.com/index/sea-david-chen": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "Sea's View on the Future of Agentic Software Development with Codex"
+  },
+  "https://github.com/rust-lang/rust-forge/pull/1040": {
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "days": 1,
+    "title": "LLM Policy for Rust Compiler"
   }
 }

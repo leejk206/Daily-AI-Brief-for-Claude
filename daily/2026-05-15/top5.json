@@ -1,0 +1,7 @@
+[
+  {"url": "https://openai.com/index/work-with-codex-from-anywhere", "title": "Work with Codex from anywhere"},
+  {"url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start", "title": "How Claude Code works in large codebases"},
+  {"url": "https://huggingface.co/papers/2605.14906", "title": "MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models"},
+  {"url": "https://huggingface.co/papers/2605.15155", "title": "Self-Distilled Agentic Reinforcement Learning"},
+  {"url": "https://huggingface.co/papers/2605.14892", "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems"}
+]

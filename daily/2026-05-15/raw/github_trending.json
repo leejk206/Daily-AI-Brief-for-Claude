@@ -1,0 +1,186 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-05-15T19:32:56+09:00",
+  "items": [
+    {
+      "id": "github:ruvnet/RuView",
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "signals": {
+        "stars": 56795,
+        "stars_today": 1715,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:tinyhumansai/openhuman",
+      "title": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "signals": {
+        "stars": 8324,
+        "stars_today": 3329,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:rohitg00/agentmemory",
+      "title": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "signals": {
+        "stars": 9347,
+        "stars_today": 1879,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:obra/superpowers",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "signals": {
+        "stars": 192071,
+        "stars_today": 1780,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:K-Dense-AI/scientific-agent-skills",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "signals": {
+        "stars": 22077,
+        "stars_today": 654,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:shiyu-coder/Kronos",
+      "title": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "signals": {
+        "stars": 24999,
+        "stars_today": 363,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:roboflow/supervision",
+      "title": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "signals": {
+        "stars": 39079,
+        "stars_today": 83,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:influxdata/telegraf",
+      "title": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "signals": {
+        "stars": 17301,
+        "stars_today": 215,
+        "language": "Go"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:supertone-inc/supertonic",
+      "title": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "signals": {
+        "stars": 5609,
+        "stars_today": 1128,
+        "language": "Swift"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Genymobile/scrcpy",
+      "title": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "signals": {
+        "stars": 141595,
+        "stars_today": 851,
+        "language": "C"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "title": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+      "signals": {
+        "stars": 974,
+        "stars_today": 62,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:CloakHQ/CloakBrowser",
+      "title": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "signals": {
+        "stars": 11463,
+        "stars_today": 1354,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:mattpocock/skills",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "signals": {
+        "stars": 83738,
+        "stars_today": 2987,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:github/spec-kit",
+      "title": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "signals": {
+        "stars": 99886,
+        "stars_today": 1232,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:garrytan/gstack",
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "signals": {
+        "stars": 97259,
+        "stars_today": 915,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    }
+  ]
+}

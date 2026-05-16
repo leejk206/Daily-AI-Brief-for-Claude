@@ -438,5 +438,25 @@
   "https://openai.com/index/databricks": {
     "archived_on": "2026-05-16",
     "title": "Databricks brings GPT-5.5 to enterprise agent workflows"
+  },
+  "https://github.com/colbymchenry/codegraph": {
+    "archived_on": "2026-05-17",
+    "title": "colbymchenry/codegraph"
+  },
+  "https://huggingface.co/papers/2605.14389": {
+    "archived_on": "2026-05-17",
+    "title": "Nexus: An Agentic Framework for Time Series Forecasting"
+  },
+  "https://huggingface.co/papers/2605.15188": {
+    "archived_on": "2026-05-17",
+    "title": "FutureSim: Replaying World Events to Evaluate Adaptive Agents"
+  },
+  "https://huggingface.co/papers/2605.14051": {
+    "archived_on": "2026-05-17",
+    "title": "SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks"
+  },
+  "https://openai.com/index/what-parameter-golf-taught-us": {
+    "archived_on": "2026-05-17",
+    "title": "What Parameter Golf taught us about AI-assisted research"
   }
 }

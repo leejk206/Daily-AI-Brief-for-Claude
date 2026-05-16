@@ -1,0 +1,102 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-05-17T07:18:09+09:00",
+  "items": [
+    {
+      "id": "github:oven-sh/bun",
+      "title": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "signals": {
+        "stars": 91152,
+        "stars_today": 414,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:K-Dense-AI/scientific-agent-skills",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "signals": {
+        "stars": 23091,
+        "stars_today": 669,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:obra/superpowers",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "signals": {
+        "stars": 193935,
+        "stars_today": 1281,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Anil-matcha/Open-Generative-AI",
+      "title": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "signals": {
+        "stars": 14383,
+        "stars_today": 393,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:supertone-inc/supertonic",
+      "title": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "signals": {
+        "stars": 6796,
+        "stars_today": 745,
+        "language": "Swift"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:tinyhumansai/openhuman",
+      "title": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "signals": {
+        "stars": 10615,
+        "stars_today": 1601,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ruvnet/RuView",
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "signals": {
+        "stars": 58275,
+        "stars_today": 990,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:colbymchenry/codegraph",
+      "title": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "signals": {
+        "stars": 2457,
+        "stars_today": 397,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    }
+  ]
+}

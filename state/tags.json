@@ -2910,7 +2910,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-15T19:41:02+09:00"
+      "tagged_at": "2026-05-17T07:23:16+09:00"
     },
     "https://openai.com/index/what-parameter-golf-taught-us": {
       "title": "What Parameter Golf taught us about AI-assisted research",
@@ -2921,7 +2921,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-15T19:41:02+09:00"
+      "tagged_at": "2026-05-17T07:23:16+09:00"
     },
     "https://openai.com/index/autoscout24": {
       "title": "AutoScout24 scales engineering with AI-powered workflows",
@@ -2932,7 +2932,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-15T19:41:02+09:00"
+      "tagged_at": "2026-05-17T07:23:16+09:00"
     },
     "https://huggingface.co/papers/2605.09932": {
       "title": "FocuSFT: Bilevel Optimization for Dilution-Aware Long-Context Fine-Tuning",
@@ -3242,7 +3242,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-16T14:50:13+09:00"
+      "tagged_at": "2026-05-17T07:23:16+09:00"
     },
     "https://huggingface.co/papers/2605.13880": {
       "title": "PREPING: Building Agent Memory without Tasks",
@@ -3254,7 +3254,7 @@
         "agent-memory",
         "paper"
       ],
-      "tagged_at": "2026-05-16T14:50:13+09:00"
+      "tagged_at": "2026-05-17T07:23:16+09:00"
     },
     "https://huggingface.co/papers/2605.13941": {
       "title": "EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents",
@@ -3266,7 +3266,7 @@
         "agent-memory",
         "paper"
       ],
-      "tagged_at": "2026-05-16T14:50:13+09:00"
+      "tagged_at": "2026-05-17T07:23:16+09:00"
     },
     "https://huggingface.co/papers/2605.14169": {
       "title": "BOOKMARKS: Efficient Active Storyline Memory for Role-playing",
@@ -3304,7 +3304,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-16T14:50:13+09:00"
+      "tagged_at": "2026-05-17T07:23:16+09:00"
     },
     "https://huggingface.co/papers/2605.10912": {
       "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",
@@ -3317,7 +3317,7 @@
         "cli-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-16T14:50:13+09:00"
+      "tagged_at": "2026-05-17T07:23:16+09:00"
     },
     "https://huggingface.co/papers/2605.14445": {
       "title": "FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale",
@@ -3352,7 +3352,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-16T14:50:13+09:00"
+      "tagged_at": "2026-05-17T07:23:16+09:00"
     },
     "https://github.com/rust-lang/rust-forge/pull/1040": {
       "title": "LLM Policy for Rust Compiler",
@@ -3411,7 +3411,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-16T14:50:13+09:00"
+      "tagged_at": "2026-05-17T07:23:16+09:00"
     },
     "https://huggingface.co/papers/2605.14051": {
       "title": "SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks",
@@ -3423,7 +3423,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-16T14:50:13+09:00"
+      "tagged_at": "2026-05-17T07:23:16+09:00"
     },
     "https://huggingface.co/papers/2605.15188": {
       "title": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
@@ -3435,7 +3435,52 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-16T14:50:13+09:00"
+      "tagged_at": "2026-05-17T07:23:16+09:00"
+    },
+    "https://github.com/colbymchenry/codegraph": {
+      "title": "colbymchenry/codegraph",
+      "summary": "Claude Code용 사전 인덱싱 코드 지식 그래프, 토큰·툴콜 절감 100% 로컬",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-17",
+      "tags": [
+        "claude-code",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-17T07:23:16+09:00"
+    },
+    "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex": {
+      "title": "How business operations teams use Codex",
+      "summary": "Codex로 운영팀 이니셔티브 브리프·전략 업데이트·의사결정 패킷 생성",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-17",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-17T07:23:16+09:00"
+    },
+    "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
+      "title": "How data science teams use Codex",
+      "summary": "Codex로 RCA 브리프·KPI 메모·스코프드 분석·대시보드 스펙 작성",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-17",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-17T07:23:16+09:00"
+    },
+    "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
+      "title": "How sales teams use Codex",
+      "summary": "Codex로 영업 파이프라인 브리프·예측 리뷰·계정 플랜·정체 딜 진단",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-17",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-17T07:23:16+09:00"
     }
   }
 }

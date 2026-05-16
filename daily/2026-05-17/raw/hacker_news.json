@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-17T07:18:10+09:00",
+  "items": [
+    {
+      "id": "hn:48153379",
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "description": "",
+      "signals": {
+        "points": 1814,
+        "num_comments": 1016,
+        "discussion_url": "https://news.ycombinator.com/item?id=48153379"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48150431",
+      "title": "Project Gutenberg – keeps getting better",
+      "url": "https://www.gutenberg.org/",
+      "description": "",
+      "signals": {
+        "points": 1133,
+        "num_comments": 266,
+        "discussion_url": "https://news.ycombinator.com/item?id=48150431"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48158400",
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "description": "",
+      "signals": {
+        "points": 365,
+        "num_comments": 237,
+        "discussion_url": "https://news.ycombinator.com/item?id=48158400"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48157559",
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "description": "",
+      "signals": {
+        "points": 317,
+        "num_comments": 283,
+        "discussion_url": "https://news.ycombinator.com/item?id=48157559"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48158494",
+      "title": "Fecal transplants for autism deliver success in clinical trials (2019)",
+      "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
+      "description": "",
+      "signals": {
+        "points": 277,
+        "num_comments": 191,
+        "discussion_url": "https://news.ycombinator.com/item?id=48158494"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48159445",
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "description": "",
+      "signals": {
+        "points": 276,
+        "num_comments": 110,
+        "discussion_url": "https://news.ycombinator.com/item?id=48159445"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48161861",
+      "title": "HTML Lists",
+      "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+      "description": "",
+      "signals": {
+        "points": 264,
+        "num_comments": 53,
+        "discussion_url": "https://news.ycombinator.com/item?id=48161861"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48159241",
+      "title": "Accelerando (2005)",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "description": "",
+      "signals": {
+        "points": 224,
+        "num_comments": 124,
+        "discussion_url": "https://news.ycombinator.com/item?id=48159241"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48154865",
+      "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
+      "url": "https://github.com/chiennv2000/orthrus",
+      "description": "",
+      "signals": {
+        "points": 212,
+        "num_comments": 43,
+        "discussion_url": "https://news.ycombinator.com/item?id=48154865"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48132106",
+      "title": "The bird eye was pushed to an evolutionary extreme",
+      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+      "description": "",
+      "signals": {
+        "points": 203,
+        "num_comments": 68,
+        "discussion_url": "https://news.ycombinator.com/item?id=48132106"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48160807",
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "description": "",
+      "signals": {
+        "points": 182,
+        "num_comments": 64,
+        "discussion_url": "https://news.ycombinator.com/item?id=48160807"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48158506",
+      "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "description": "",
+      "signals": {
+        "points": 180,
+        "num_comments": 47,
+        "discussion_url": "https://news.ycombinator.com/item?id=48158506"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48120162",
+      "title": "Windows 9x Subsystem for Linux",
+      "url": "https://codeberg.org/hails/wsl9x",
+      "description": "",
+      "signals": {
+        "points": 176,
+        "num_comments": 73,
+        "discussion_url": "https://news.ycombinator.com/item?id=48120162"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48158065",
+      "title": "We've made the world too complicated",
+      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+      "description": "",
+      "signals": {
+        "points": 127,
+        "num_comments": 124,
+        "discussion_url": "https://news.ycombinator.com/item?id=48158065"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48158606",
+      "title": "Futhark by example",
+      "url": "https://futhark-lang.org/examples.html",
+      "description": "",
+      "signals": {
+        "points": 104,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48158606"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48160914",
+      "title": "PART Telescopes – Bringing radio astronomy within reach of rural schools",
+      "url": "https://parttelescopes.web.app/",
+      "description": "",
+      "signals": {
+        "points": 100,
+        "num_comments": 27,
+        "discussion_url": "https://news.ycombinator.com/item?id=48160914"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48110804",
+      "title": "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
+      "url": "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html",
+      "description": "",
+      "signals": {
+        "points": 89,
+        "num_comments": 54,
+        "discussion_url": "https://news.ycombinator.com/item?id=48110804"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48161997",
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "description": "",
+      "signals": {
+        "points": 87,
+        "num_comments": 58,
+        "discussion_url": "https://news.ycombinator.com/item?id=48161997"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48159354",
+      "title": "Greek Alphabet Cards",
+      "url": "https://labs.randomquark.com/alphabet_cards/",
+      "description": "",
+      "signals": {
+        "points": 87,
+        "num_comments": 35,
+        "discussion_url": "https://news.ycombinator.com/item?id=48159354"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48160211",
+      "title": "Accelerate – Embedded language for high-performance array computations",
+      "url": "https://github.com/AccelerateHS/accelerate",
+      "description": "",
+      "signals": {
+        "points": 69,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48160211"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48134472",
+      "title": "Points are a weird and inconsistent unit of measure",
+      "url": "https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/",
+      "description": "",
+      "signals": {
+        "points": 66,
+        "num_comments": 61,
+        "discussion_url": "https://news.ycombinator.com/item?id=48134472"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48132232",
+      "title": "After 8 years, I rewrote my open-source PyTorch curvature library",
+      "url": "https://github.com/noahgolmant/pytorch-hessian-eigenthings",
+      "description": "",
+      "signals": {
+        "points": 56,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48132232"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48162882",
+      "title": "Japan’s robot wolf sells out as record bear attacks drive demand",
+      "url": "https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html",
+      "description": "",
+      "signals": {
+        "points": 55,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=48162882"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48161881",
+      "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
+      "url": "https://tangled.org/rocksky.app/rocksky",
+      "description": "",
+      "signals": {
+        "points": 40,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48161881"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48109756",
+      "title": "A molecule with half-Möbius topology",
+      "url": "https://www.science.org/doi/10.1126/science.aea3321",
+      "description": "",
+      "signals": {
+        "points": 30,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48109756"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48129593",
+      "title": "Fame! A Misunderstanding: A new translation of Albert Camus's complete notebooks",
+      "url": "https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48129593"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48162468",
+      "title": "Halt and Catch Fire",
+      "url": "https://unstack.io/halt-and-catch-fire",
+      "description": "",
+      "signals": {
+        "points": 24,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48162468"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48126431",
+      "title": "3D Gaussian Splatting in a Weekend",
+      "url": "https://bfeldman.me/3dgs-weekend/",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48126431"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48116935",
+      "title": "Recreation of the 1956 IPL-I version of the Logic Theorist theorem prover",
+      "url": "https://github.com/dmoews/logic-theorist",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48116935"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

@@ -3242,7 +3242,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-15T19:41:02+09:00"
+      "tagged_at": "2026-05-16T14:50:13+09:00"
     },
     "https://huggingface.co/papers/2605.13880": {
       "title": "PREPING: Building Agent Memory without Tasks",
@@ -3254,7 +3254,7 @@
         "agent-memory",
         "paper"
       ],
-      "tagged_at": "2026-05-15T19:41:02+09:00"
+      "tagged_at": "2026-05-16T14:50:13+09:00"
     },
     "https://huggingface.co/papers/2605.13941": {
       "title": "EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents",
@@ -3266,7 +3266,7 @@
         "agent-memory",
         "paper"
       ],
-      "tagged_at": "2026-05-15T19:41:02+09:00"
+      "tagged_at": "2026-05-16T14:50:13+09:00"
     },
     "https://huggingface.co/papers/2605.14169": {
       "title": "BOOKMARKS: Efficient Active Storyline Memory for Role-playing",
@@ -3291,7 +3291,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-15T19:41:02+09:00"
+      "tagged_at": "2026-05-16T14:50:13+09:00"
     },
     "https://huggingface.co/papers/2605.06527": {
       "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?",
@@ -3304,7 +3304,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-15T19:41:02+09:00"
+      "tagged_at": "2026-05-16T14:50:13+09:00"
     },
     "https://huggingface.co/papers/2605.10912": {
       "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",
@@ -3317,7 +3317,7 @@
         "cli-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-15T19:41:02+09:00"
+      "tagged_at": "2026-05-16T14:50:13+09:00"
     },
     "https://huggingface.co/papers/2605.14445": {
       "title": "FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale",
@@ -3329,7 +3329,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-15T19:41:02+09:00"
+      "tagged_at": "2026-05-16T14:50:13+09:00"
     },
     "https://github.com/garrytan/gstack": {
       "title": "garrytan/gstack",
@@ -3352,7 +3352,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-15T19:41:02+09:00"
+      "tagged_at": "2026-05-16T14:50:13+09:00"
     },
     "https://github.com/rust-lang/rust-forge/pull/1040": {
       "title": "LLM Policy for Rust Compiler",
@@ -3364,6 +3364,78 @@
         "ai-code-policy"
       ],
       "tagged_at": "2026-05-15T19:41:02+09:00"
+    },
+    "https://github.com/anthropics/skills": {
+      "title": "anthropics/skills",
+      "summary": "Public repository for Agent Skills",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-05-16",
+      "tags": [
+        "agent-skill",
+        "claude-code"
+      ],
+      "tagged_at": "2026-05-16T14:50:13+09:00"
+    },
+    "https://huggingface.co/papers/2605.06554": {
+      "title": "Long Context Pre-Training with Lighthouse Attention",
+      "summary": "학습 전용 계층 어텐션으로 초장문 사전학습의 2차 비용 병목 해소",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-16",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-05-16T14:50:13+09:00"
+    },
+    "https://openai.com/index/databricks": {
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "summary": "GPT-5.5로 엔터프라이즈 에이전트 워크플로, OfficeQA Pro SOTA",
+      "category": "agent-frameworks",
+      "source": "release_blogs",
+      "brief_date": "2026-05-16",
+      "tags": [
+        "benchmark",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-16T14:50:13+09:00"
+    },
+    "https://huggingface.co/papers/2605.14389": {
+      "title": "Nexus : An Agentic Framework for Time Series Forecasting",
+      "summary": "뉴스·이벤트 등 비정형 신호까지 추론하는 시계열 예측 에이전트 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-16",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-16T14:50:13+09:00"
+    },
+    "https://huggingface.co/papers/2605.14051": {
+      "title": "SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks",
+      "summary": "검증된 DAG 계획 래퍼로 산업용 LLM 에이전트의 취약 실패·툴 비용 절감",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-16",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-16T14:50:13+09:00"
+    },
+    "https://huggingface.co/papers/2605.15188": {
+      "title": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
+      "summary": "실세계 사건을 발생 순서대로 재생해 적응형 에이전트를 평가하는 시뮬레이션",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-16",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-16T14:50:13+09:00"
     }
   }
 }

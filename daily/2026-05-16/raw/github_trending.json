@@ -1,0 +1,150 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-05-16T14:44:54+09:00",
+  "items": [
+    {
+      "id": "github:tinyhumansai/openhuman",
+      "title": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "signals": {
+        "stars": 9286,
+        "stars_today": 1271,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:obra/superpowers",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "signals": {
+        "stars": 193062,
+        "stars_today": 1648,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:K-Dense-AI/scientific-agent-skills",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "signals": {
+        "stars": 22599,
+        "stars_today": 646,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:supertone-inc/supertonic",
+      "title": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "signals": {
+        "stars": 6173,
+        "stars_today": 719,
+        "language": "Swift"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ruvnet/RuView",
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "signals": {
+        "stars": 57647,
+        "stars_today": 1859,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:influxdata/telegraf",
+      "title": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "signals": {
+        "stars": 17452,
+        "stars_today": 212,
+        "language": "Go"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:anthropics/skills",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "signals": {
+        "stars": 135339,
+        "stars_today": 689,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:czlonkowski/n8n-mcp",
+      "title": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "signals": {
+        "stars": 20944,
+        "stars_today": 68,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "title": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+      "signals": {
+        "stars": 1223,
+        "stars_today": 308,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:oven-sh/bun",
+      "title": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "signals": {
+        "stars": 90667,
+        "stars_today": 448,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:mattpocock/skills",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "signals": {
+        "stars": 85350,
+        "stars_today": 3132,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:joeseesun/qiaomu-anything-to-notebooklm",
+      "title": "joeseesun/qiaomu-anything-to-notebooklm",
+      "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+      "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
+      "signals": {
+        "stars": 2815,
+        "stars_today": 438,
+        "language": "Python"
+      },
+      "category_hint": null
+    }
+  ]
+}

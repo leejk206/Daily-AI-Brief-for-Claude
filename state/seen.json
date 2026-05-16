@@ -1,117 +1,15 @@
 {
-  "https://huggingface.co/papers/2605.01214": {
-    "first_seen": "2026-05-06",
-    "last_seen": "2026-05-08",
-    "days": 3,
-    "title": "Agentic AI Systems Should Be Designed as Marginal Token Allocators"
-  },
   "https://openai.com/index/openai-pwc-finance-collaboration": {
     "first_seen": "2026-05-10",
     "last_seen": "2026-05-11",
     "days": 2,
     "title": "OpenAI and PwC collaborate to reimagine the office of the CFO"
   },
-  "https://huggingface.co/papers/2605.03042": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-08",
-    "days": 2,
-    "title": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration"
-  },
-  "https://huggingface.co/papers/2605.02396": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-08",
-    "days": 2,
-    "title": "HeavySkill: Heavy Thinking as the Inner Skill in Agentic Harness"
-  },
-  "https://huggingface.co/papers/2605.04036": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-08",
-    "days": 2,
-    "title": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories"
-  },
-  "https://huggingface.co/papers/2605.02801": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-08",
-    "days": 2,
-    "title": "Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces"
-  },
-  "https://huggingface.co/papers/2604.27488": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-08",
-    "days": 2,
-    "title": "Skills-Coach: A Self-Evolving Skill Optimizer via Training-Free GRPO"
-  },
-  "https://huggingface.co/papers/2605.03596": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-08",
-    "days": 2,
-    "title": "Workspace-Bench 1.0: Benchmarking AI Agents on Workspace Tasks with Large-Scale File Dependencies"
-  },
-  "https://huggingface.co/papers/2605.02943": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-08",
-    "days": 2,
-    "title": "Healthcare AI GYM for Medical Agents"
-  },
-  "https://github.com/addyosmani/agent-skills": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-08",
-    "days": 2,
-    "title": "addyosmani/agent-skills"
-  },
-  "https://github.com/InsForge/InsForge": {
-    "first_seen": "2026-05-07",
-    "last_seen": "2026-05-08",
-    "days": 2,
-    "title": "InsForge/InsForge"
-  },
   "https://openai.com/index/introducing-b2b-signals": {
     "first_seen": "2026-05-13",
     "last_seen": "2026-05-13",
     "days": 1,
     "title": "How frontier firms are pulling ahead"
-  },
-  "https://deepmind.google/blog/alphaevolve-impact/": {
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-05-08",
-    "days": 1,
-    "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields"
-  },
-  "https://github.com/vercel-labs/open-agents": {
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-05-08",
-    "days": 1,
-    "title": "vercel-labs/open-agents"
-  },
-  "https://huggingface.co/papers/2605.05185": {
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-05-08",
-    "days": 1,
-    "title": "OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents"
-  },
-  "https://huggingface.co/papers/2605.04018": {
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-05-08",
-    "days": 1,
-    "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems"
-  },
-  "https://bsuh.bearblog.dev/agents-need-control-flow/": {
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-05-08",
-    "days": 1,
-    "title": "Agents need control flow, not more prompts"
-  },
-  "https://twitter.com/trevin/status/2051316002730991795": {
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-05-08",
-    "days": 1,
-    "title": "Principles for agent-native CLIs"
-  },
-  "https://huggingface.co/papers/2604.20441": {
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-05-08",
-    "days": 1,
-    "title": "MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills"
   },
   "https://huggingface.co/papers/2605.04637": {
     "first_seen": "2026-05-08",
@@ -125,18 +23,6 @@
     "days": 4,
     "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing"
   },
-  "https://huggingface.co/papers/2605.02913": {
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-05-08",
-    "days": 1,
-    "title": "Generate, Filter, Control, Replay: A Comprehensive Survey of Rollout Strategies for LLM Reinforcement Learning"
-  },
-  "https://github.com/aaif-goose/goose": {
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-05-08",
-    "days": 1,
-    "title": "aaif-goose/goose"
-  },
   "https://github.com/decolua/9router": {
     "first_seen": "2026-05-08",
     "last_seen": "2026-05-12",
@@ -148,18 +34,6 @@
     "last_seen": "2026-05-13",
     "days": 3,
     "title": "Simplex rethinks software development with Codex"
-  },
-  "https://github.com/antirez/ds4": {
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-05-08",
-    "days": 1,
-    "title": "DeepSeek 4 Flash local inference engine for Metal"
-  },
-  "https://openclaw.ai/blog/openclaw-rough-week": {
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-05-08",
-    "days": 1,
-    "title": "OpenClaw Had a Rough Week"
   },
   "https://huggingface.co/papers/2605.03314": {
     "first_seen": "2026-05-08",
@@ -775,20 +649,20 @@
   },
   "https://huggingface.co/papers/2605.15040": {
     "first_seen": "2026-05-15",
-    "last_seen": "2026-05-15",
-    "days": 1,
+    "last_seen": "2026-05-16",
+    "days": 2,
     "title": "Orchard: An Open-Source Agentic Modeling Framework"
   },
   "https://huggingface.co/papers/2605.13880": {
     "first_seen": "2026-05-15",
-    "last_seen": "2026-05-15",
-    "days": 1,
+    "last_seen": "2026-05-16",
+    "days": 2,
     "title": "PREPING: Building Agent Memory without Tasks"
   },
   "https://huggingface.co/papers/2605.13941": {
     "first_seen": "2026-05-15",
-    "last_seen": "2026-05-15",
-    "days": 1,
+    "last_seen": "2026-05-16",
+    "days": 2,
     "title": "EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents"
   },
   "https://huggingface.co/papers/2605.14169": {
@@ -799,26 +673,26 @@
   },
   "https://huggingface.co/papers/2605.15128": {
     "first_seen": "2026-05-15",
-    "last_seen": "2026-05-15",
-    "days": 1,
+    "last_seen": "2026-05-16",
+    "days": 2,
     "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory"
   },
   "https://huggingface.co/papers/2605.06527": {
     "first_seen": "2026-05-15",
-    "last_seen": "2026-05-15",
-    "days": 1,
+    "last_seen": "2026-05-16",
+    "days": 2,
     "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?"
   },
   "https://huggingface.co/papers/2605.10912": {
     "first_seen": "2026-05-15",
-    "last_seen": "2026-05-15",
-    "days": 1,
+    "last_seen": "2026-05-16",
+    "days": 2,
     "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation"
   },
   "https://huggingface.co/papers/2605.14445": {
     "first_seen": "2026-05-15",
-    "last_seen": "2026-05-15",
-    "days": 1,
+    "last_seen": "2026-05-16",
+    "days": 2,
     "title": "FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale"
   },
   "https://github.com/garrytan/gstack": {
@@ -829,8 +703,8 @@
   },
   "https://openai.com/index/sea-david-chen": {
     "first_seen": "2026-05-15",
-    "last_seen": "2026-05-15",
-    "days": 1,
+    "last_seen": "2026-05-16",
+    "days": 2,
     "title": "Sea's View on the Future of Agentic Software Development with Codex"
   },
   "https://github.com/rust-lang/rust-forge/pull/1040": {
@@ -838,5 +712,41 @@
     "last_seen": "2026-05-15",
     "days": 1,
     "title": "LLM Policy for Rust Compiler"
+  },
+  "https://github.com/anthropics/skills": {
+    "first_seen": "2026-05-16",
+    "last_seen": "2026-05-16",
+    "days": 1,
+    "title": "anthropics/skills"
+  },
+  "https://huggingface.co/papers/2605.06554": {
+    "first_seen": "2026-05-16",
+    "last_seen": "2026-05-16",
+    "days": 1,
+    "title": "Long Context Pre-Training with Lighthouse Attention"
+  },
+  "https://openai.com/index/databricks": {
+    "first_seen": "2026-05-16",
+    "last_seen": "2026-05-16",
+    "days": 1,
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows"
+  },
+  "https://huggingface.co/papers/2605.14389": {
+    "first_seen": "2026-05-16",
+    "last_seen": "2026-05-16",
+    "days": 1,
+    "title": "Nexus : An Agentic Framework for Time Series Forecasting"
+  },
+  "https://huggingface.co/papers/2605.14051": {
+    "first_seen": "2026-05-16",
+    "last_seen": "2026-05-16",
+    "days": 1,
+    "title": "SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks"
+  },
+  "https://huggingface.co/papers/2605.15188": {
+    "first_seen": "2026-05-16",
+    "last_seen": "2026-05-16",
+    "days": 1,
+    "title": "FutureSim: Replaying World Events to Evaluate Adaptive Agents"
   }
 }

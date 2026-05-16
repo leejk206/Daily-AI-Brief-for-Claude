@@ -418,5 +418,25 @@
   "https://huggingface.co/papers/2605.14892": {
     "archived_on": "2026-05-15",
     "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems"
+  },
+  "https://github.com/anthropics/skills": {
+    "archived_on": "2026-05-16",
+    "title": "anthropics/skills"
+  },
+  "https://huggingface.co/papers/2605.06554": {
+    "archived_on": "2026-05-16",
+    "title": "Long Context Pre-Training with Lighthouse Attention"
+  },
+  "https://huggingface.co/papers/2605.15128": {
+    "archived_on": "2026-05-16",
+    "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory"
+  },
+  "https://huggingface.co/papers/2605.14445": {
+    "archived_on": "2026-05-16",
+    "title": "FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale"
+  },
+  "https://openai.com/index/databricks": {
+    "archived_on": "2026-05-16",
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows"
   }
 }

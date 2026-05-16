@@ -64,6 +64,9 @@ Claude Code 관련 항목
 ### computer-use
 컴퓨터·폰 등 화면 기반 GUI 사용 에이전트
 
+### long-context
+긴 컨텍스트 학습·추론·평가
+
 ## Candidate
 
 ### ai-code-policy
@@ -71,6 +74,3 @@ AI 생성 코드 기여·OSS 정책·거버넌스
 
 ### voice-agent
 보이스·전화·음성 인터랙션 기반 에이전트
-
-### long-context
-긴 컨텍스트 학습·추론·평가

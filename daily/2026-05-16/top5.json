@@ -1,0 +1,7 @@
+[
+  {"url": "https://github.com/anthropics/skills", "title": "anthropics/skills"},
+  {"url": "https://huggingface.co/papers/2605.06554", "title": "Long Context Pre-Training with Lighthouse Attention"},
+  {"url": "https://huggingface.co/papers/2605.15128", "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory"},
+  {"url": "https://huggingface.co/papers/2605.14445", "title": "FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale"},
+  {"url": "https://openai.com/index/databricks", "title": "Databricks brings GPT-5.5 to enterprise agent workflows"}
+]

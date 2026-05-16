@@ -1,0 +1,16 @@
+[
+  {"url": "https://github.com/anthropics/skills", "title": "anthropics/skills"},
+  {"url": "https://huggingface.co/papers/2605.06554", "title": "Long Context Pre-Training with Lighthouse Attention"},
+  {"url": "https://huggingface.co/papers/2605.15128", "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory"},
+  {"url": "https://huggingface.co/papers/2605.14445", "title": "FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale"},
+  {"url": "https://openai.com/index/databricks", "title": "Databricks brings GPT-5.5 to enterprise agent workflows"},
+  {"url": "https://huggingface.co/papers/2605.14389", "title": "Nexus : An Agentic Framework for Time Series Forecasting"},
+  {"url": "https://huggingface.co/papers/2605.14051", "title": "SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks"},
+  {"url": "https://huggingface.co/papers/2605.15188", "title": "FutureSim: Replaying World Events to Evaluate Adaptive Agents"},
+  {"url": "https://huggingface.co/papers/2605.15040", "title": "Orchard: An Open-Source Agentic Modeling Framework"},
+  {"url": "https://huggingface.co/papers/2605.13880", "title": "PREPING: Building Agent Memory without Tasks"},
+  {"url": "https://huggingface.co/papers/2605.13941", "title": "EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents"},
+  {"url": "https://huggingface.co/papers/2605.06527", "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?"},
+  {"url": "https://huggingface.co/papers/2605.10912", "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation"},
+  {"url": "https://openai.com/index/sea-david-chen", "title": "Sea's View on the Future of Agentic Software Development with Codex"}
+]

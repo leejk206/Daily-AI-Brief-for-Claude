@@ -67,6 +67,9 @@ Claude Code 관련 항목
 ### long-context
 긴 컨텍스트 학습·추론·평가
 
+### tutorial
+에이전트·AI 구축 학습 자료·튜토리얼·강의
+
 ## Candidate
 
 ### ai-code-policy

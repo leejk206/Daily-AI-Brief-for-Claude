@@ -3304,7 +3304,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-17T07:23:16+09:00"
+      "tagged_at": "2026-05-18T16:23:46+09:00"
     },
     "https://huggingface.co/papers/2605.10912": {
       "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",
@@ -3317,7 +3317,7 @@
         "cli-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-17T07:23:16+09:00"
+      "tagged_at": "2026-05-18T16:23:46+09:00"
     },
     "https://huggingface.co/papers/2605.14445": {
       "title": "FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale",
@@ -3481,6 +3481,103 @@
         "coding-platform"
       ],
       "tagged_at": "2026-05-17T07:23:16+09:00"
+    },
+    "https://github.com/microsoft/ai-agents-for-beginners": {
+      "title": "microsoft/ai-agents-for-beginners",
+      "summary": "AI 에이전트 입문 12강, 하루 +485스타로 급부상",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-05-18",
+      "tags": [
+        "multi-agent",
+        "tutorial"
+      ],
+      "tagged_at": "2026-05-18T16:23:46+09:00"
+    },
+    "https://github.com/HKUDS/CLI-Anything": {
+      "title": "HKUDS/CLI-Anything",
+      "summary": "모든 소프트웨어를 CLI로 에이전트-네이티브화하는 허브",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-05-18",
+      "tags": [
+        "cli-agent",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-18T16:23:46+09:00"
+    },
+    "https://github.com/tech-leads-club/agent-skills": {
+      "title": "tech-leads-club/agent-skills",
+      "summary": "Claude Code·Cursor·Copilot용 검증된 스킬 레지스트리",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-18",
+      "tags": [
+        "agent-skill",
+        "claude-code",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-18T16:23:46+09:00"
+    },
+    "https://huggingface.co/papers/2605.13527": {
+      "title": "MMSkills: Towards Multimodal Skills for General Visual Agents",
+      "summary": "비주얼 에이전트용 멀티모달 스킬, HF 66업보트 최상위",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-18",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-05-18T16:23:46+09:00"
+    },
+    "https://github.com/MinishLab/semble": {
+      "title": "Semble – Code search for agents",
+      "summary": "grep 대비 토큰 98% 절감한 에이전트용 코드 검색",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-18",
+      "tags": [
+        "cli-agent",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-18T16:23:46+09:00"
+    },
+    "https://github.com/NirDiamant/agents-towards-production": {
+      "title": "NirDiamant/agents-towards-production",
+      "summary": "프로덕션급 GenAI 에이전트 구축 코드-퍼스트 튜토리얼",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-05-18",
+      "tags": [
+        "multi-agent",
+        "tutorial"
+      ],
+      "tagged_at": "2026-05-18T16:23:46+09:00"
+    },
+    "https://huggingface.co/papers/2605.08614": {
+      "title": "DiagnosticIQ: LLM-Based Industrial Maintenance Action Recommendation",
+      "summary": "심볼릭 규칙 기반 산업 유지보수 LLM 추천 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-18",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-18T16:23:46+09:00"
+    },
+    "https://huggingface.co/papers/2605.15301": {
+      "title": "Solvita: Enhancing LLMs for Competitive Programming via Agentic Evolution",
+      "summary": "에이전틱 진화로 경쟁 프로그래밍 푸는 상태유지 멀티에이전트",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-05-18",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-18T16:23:46+09:00"
     }
   }
 }

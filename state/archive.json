@@ -458,5 +458,25 @@
   "https://openai.com/index/what-parameter-golf-taught-us": {
     "archived_on": "2026-05-17",
     "title": "What Parameter Golf taught us about AI-assisted research"
+  },
+  "https://github.com/microsoft/ai-agents-for-beginners": {
+    "archived_on": "2026-05-18",
+    "title": "microsoft/ai-agents-for-beginners"
+  },
+  "https://github.com/HKUDS/CLI-Anything": {
+    "archived_on": "2026-05-18",
+    "title": "HKUDS/CLI-Anything"
+  },
+  "https://github.com/tech-leads-club/agent-skills": {
+    "archived_on": "2026-05-18",
+    "title": "tech-leads-club/agent-skills"
+  },
+  "https://huggingface.co/papers/2605.13527": {
+    "archived_on": "2026-05-18",
+    "title": "MMSkills: Towards Multimodal Skills for General Visual Agents"
+  },
+  "https://github.com/MinishLab/semble": {
+    "archived_on": "2026-05-18",
+    "title": "Semble – Code search for agents"
   }
 }

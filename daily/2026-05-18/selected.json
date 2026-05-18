@@ -1,0 +1,12 @@
+[
+  {"url": "https://github.com/microsoft/ai-agents-for-beginners", "title": "microsoft/ai-agents-for-beginners"},
+  {"url": "https://github.com/HKUDS/CLI-Anything", "title": "HKUDS/CLI-Anything"},
+  {"url": "https://github.com/tech-leads-club/agent-skills", "title": "tech-leads-club/agent-skills"},
+  {"url": "https://huggingface.co/papers/2605.13527", "title": "MMSkills: Towards Multimodal Skills for General Visual Agents"},
+  {"url": "https://github.com/MinishLab/semble", "title": "Semble – Code search for agents"},
+  {"url": "https://github.com/NirDiamant/agents-towards-production", "title": "NirDiamant/agents-towards-production"},
+  {"url": "https://huggingface.co/papers/2605.08614", "title": "DiagnosticIQ: LLM-Based Industrial Maintenance Action Recommendation"},
+  {"url": "https://huggingface.co/papers/2605.15301", "title": "Solvita: Enhancing LLMs for Competitive Programming via Agentic Evolution"},
+  {"url": "https://huggingface.co/papers/2605.06527", "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?"},
+  {"url": "https://huggingface.co/papers/2605.10912", "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation"}
+]

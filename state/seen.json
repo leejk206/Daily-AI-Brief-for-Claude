@@ -11,12 +11,6 @@
     "days": 1,
     "title": "How frontier firms are pulling ahead"
   },
-  "https://huggingface.co/papers/2605.04637": {
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-05-10",
-    "days": 3,
-    "title": "SWE-WebDevBench: Evaluating Coding Agent Application Platforms as Virtual Software Agencies"
-  },
   "https://huggingface.co/papers/2605.02910": {
     "first_seen": "2026-05-08",
     "last_seen": "2026-05-11",
@@ -34,12 +28,6 @@
     "last_seen": "2026-05-13",
     "days": 3,
     "title": "Simplex rethinks software development with Codex"
-  },
-  "https://huggingface.co/papers/2605.03314": {
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-05-10",
-    "days": 3,
-    "title": "When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning"
   },
   "https://github.com/datawhalechina/hello-agents": {
     "first_seen": "2026-05-13",
@@ -82,42 +70,6 @@
     "last_seen": "2026-05-11",
     "days": 3,
     "title": "MiA-Signature: Approximating Global Activation for Long-Context Understanding"
-  },
-  "https://github.com/bytedance/UI-TARS-desktop": {
-    "first_seen": "2026-05-10",
-    "last_seen": "2026-05-10",
-    "days": 1,
-    "title": "bytedance/UI-TARS-desktop"
-  },
-  "https://github.com/ChromeDevTools/chrome-devtools-mcp": {
-    "first_seen": "2026-05-10",
-    "last_seen": "2026-05-10",
-    "days": 1,
-    "title": "ChromeDevTools/chrome-devtools-mcp"
-  },
-  "https://github.com/rohitg00/agentmemory": {
-    "first_seen": "2026-05-10",
-    "last_seen": "2026-05-10",
-    "days": 1,
-    "title": "rohitg00/agentmemory"
-  },
-  "https://twitter.com/trq212/status/2052809885763747935": {
-    "first_seen": "2026-05-10",
-    "last_seen": "2026-05-10",
-    "days": 1,
-    "title": "Using Claude Code: The unreasonable effectiveness of HTML"
-  },
-  "https://arxiv.org/abs/2604.15597": {
-    "first_seen": "2026-05-10",
-    "last_seen": "2026-05-10",
-    "days": 1,
-    "title": "LLMs corrupt your documents when you delegate"
-  },
-  "https://github.com/rowboatlabs/rowboat": {
-    "first_seen": "2026-05-10",
-    "last_seen": "2026-05-10",
-    "days": 1,
-    "title": "rowboatlabs/rowboat"
   },
   "https://openai.com/index/parloa": {
     "first_seen": "2026-05-10",
@@ -631,14 +583,14 @@
   },
   "https://huggingface.co/papers/2605.06527": {
     "first_seen": "2026-05-15",
-    "last_seen": "2026-05-17",
-    "days": 3,
+    "last_seen": "2026-05-18",
+    "days": 4,
     "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?"
   },
   "https://huggingface.co/papers/2605.10912": {
     "first_seen": "2026-05-15",
-    "last_seen": "2026-05-17",
-    "days": 3,
+    "last_seen": "2026-05-18",
+    "days": 4,
     "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation"
   },
   "https://huggingface.co/papers/2605.14445": {
@@ -724,5 +676,53 @@
     "last_seen": "2026-05-17",
     "days": 1,
     "title": "How sales teams use Codex"
+  },
+  "https://github.com/microsoft/ai-agents-for-beginners": {
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "days": 1,
+    "title": "microsoft/ai-agents-for-beginners"
+  },
+  "https://github.com/HKUDS/CLI-Anything": {
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "days": 1,
+    "title": "HKUDS/CLI-Anything"
+  },
+  "https://github.com/tech-leads-club/agent-skills": {
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "days": 1,
+    "title": "tech-leads-club/agent-skills"
+  },
+  "https://huggingface.co/papers/2605.13527": {
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "days": 1,
+    "title": "MMSkills: Towards Multimodal Skills for General Visual Agents"
+  },
+  "https://github.com/MinishLab/semble": {
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "days": 1,
+    "title": "Semble – Code search for agents"
+  },
+  "https://github.com/NirDiamant/agents-towards-production": {
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "days": 1,
+    "title": "NirDiamant/agents-towards-production"
+  },
+  "https://huggingface.co/papers/2605.08614": {
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "days": 1,
+    "title": "DiagnosticIQ: LLM-Based Industrial Maintenance Action Recommendation"
+  },
+  "https://huggingface.co/papers/2605.15301": {
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "days": 1,
+    "title": "Solvita: Enhancing LLMs for Competitive Programming via Agentic Evolution"
   }
 }

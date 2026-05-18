@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-18T16:18:36+09:00",
+  "items": [
+    {
+      "id": "hn:48166459",
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "description": "",
+      "signals": {
+        "points": 708,
+        "num_comments": 300,
+        "discussion_url": "https://news.ycombinator.com/item?id=48166459"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48168221",
+      "title": "I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "description": "",
+      "signals": {
+        "points": 560,
+        "num_comments": 386,
+        "discussion_url": "https://news.ycombinator.com/item?id=48168221"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48164432",
+      "title": "A nicer voltmeter clock",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "description": "",
+      "signals": {
+        "points": 333,
+        "num_comments": 44,
+        "discussion_url": "https://news.ycombinator.com/item?id=48164432"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48168668",
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "url": "https://github.com/tech4bot/rk3562deb",
+      "description": "",
+      "signals": {
+        "points": 322,
+        "num_comments": 144,
+        "discussion_url": "https://news.ycombinator.com/item?id=48168668"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48169874",
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "url": "https://github.com/MinishLab/semble",
+      "description": "",
+      "signals": {
+        "points": 285,
+        "num_comments": 98,
+        "discussion_url": "https://news.ycombinator.com/item?id=48169874"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48173429",
+      "title": "GenCAD",
+      "url": "https://gencad.github.io/",
+      "description": "",
+      "signals": {
+        "points": 255,
+        "num_comments": 59,
+        "discussion_url": "https://news.ycombinator.com/item?id=48173429"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48147091",
+      "title": "Prolog Basics Explained with Pokémon",
+      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+      "description": "",
+      "signals": {
+        "points": 248,
+        "num_comments": 38,
+        "discussion_url": "https://news.ycombinator.com/item?id=48147091"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48165980",
+      "title": "Tesla Solar Roof is on life support as it pivot to panels",
+      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+      "description": "",
+      "signals": {
+        "points": 237,
+        "num_comments": 226,
+        "discussion_url": "https://news.ycombinator.com/item?id=48165980"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48142115",
+      "title": "Colossus: The Forbin Project",
+      "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+      "description": "",
+      "signals": {
+        "points": 229,
+        "num_comments": 91,
+        "discussion_url": "https://news.ycombinator.com/item?id=48142115"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48140556",
+      "title": "Hindenburg’s Smoking Room",
+      "url": "https://www.airships.net/hindenburg-smoking-room/",
+      "description": "",
+      "signals": {
+        "points": 193,
+        "num_comments": 153,
+        "discussion_url": "https://news.ycombinator.com/item?id=48140556"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48147351",
+      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+      "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+      "description": "",
+      "signals": {
+        "points": 186,
+        "num_comments": 189,
+        "discussion_url": "https://news.ycombinator.com/item?id=48147351"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48173468",
+      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "description": "",
+      "signals": {
+        "points": 180,
+        "num_comments": 161,
+        "discussion_url": "https://news.ycombinator.com/item?id=48173468"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48168485",
+      "title": "CUDA Books",
+      "url": "https://github.com/alternbits/awesome-cuda-books",
+      "description": "",
+      "signals": {
+        "points": 175,
+        "num_comments": 36,
+        "discussion_url": "https://news.ycombinator.com/item?id=48168485"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48172505",
+      "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
+      "url": "https://spectrum.ieee.org/payphone-voip",
+      "description": "",
+      "signals": {
+        "points": 147,
+        "num_comments": 44,
+        "discussion_url": "https://news.ycombinator.com/item?id=48172505"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48133293",
+      "title": "High-Entropy Alloy",
+      "url": "https://en.wikipedia.org/wiki/High-entropy_alloy",
+      "description": "",
+      "signals": {
+        "points": 131,
+        "num_comments": 23,
+        "discussion_url": "https://news.ycombinator.com/item?id=48133293"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48152754",
+      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+      "url": "https://askanastronaut.issinrealtime.org/",
+      "description": "",
+      "signals": {
+        "points": 114,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48152754"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48173268",
+      "title": "Prolog Coding Horror",
+      "url": "https://www.metalevel.at/prolog/horror",
+      "description": "",
+      "signals": {
+        "points": 113,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=48173268"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48151251",
+      "title": "Jank now has its own custom IR",
+      "url": "https://jank-lang.org/blog/2026-05-08-optimization/",
+      "description": "",
+      "signals": {
+        "points": 106,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48151251"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48155936",
+      "title": "Magical Realism: “Northern Exposure” 25 Years Later (2015)",
+      "url": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
+      "description": "",
+      "signals": {
+        "points": 101,
+        "num_comments": 43,
+        "discussion_url": "https://news.ycombinator.com/item?id=48155936"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48173962",
+      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+      "description": "",
+      "signals": {
+        "points": 100,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48173962"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48173547",
+      "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+      "description": "",
+      "signals": {
+        "points": 94,
+        "num_comments": 43,
+        "discussion_url": "https://news.ycombinator.com/item?id=48173547"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48168159",
+      "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+      "description": "",
+      "signals": {
+        "points": 92,
+        "num_comments": 96,
+        "discussion_url": "https://news.ycombinator.com/item?id=48168159"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48141960",
+      "title": "Cannibalistic attacks between gray seals leave telltale “corkscrew” injuries",
+      "url": "https://www.science.org/content/article/scientists-id-corkscrew-killer-behind-gruesome-seal-deaths",
+      "description": "",
+      "signals": {
+        "points": 60,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48141960"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48157229",
+      "title": "A Good Lemma Is Worth a Thousand Theorems (2007)",
+      "url": "https://sites.math.rutgers.edu/~zeilberg/Opinion82.html",
+      "description": "",
+      "signals": {
+        "points": 44,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48157229"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48175820",
+      "title": "Why bambu_networking violates the AGPL in Bambu Studio",
+      "url": "https://github.com/jarczakpawel/OrcaSlicer-bambulab/blob/main/bambu_agpl.md",
+      "description": "",
+      "signals": {
+        "points": 41,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48175820"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48155450",
+      "title": "Crystals found inside wreckage from the first nuclear bomb test",
+      "url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
+      "description": "",
+      "signals": {
+        "points": 30,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48155450"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48148766",
+      "title": "The SGI Buyer's Guide (2003)",
+      "url": "https://hardware.majix.org/computers/sgi/buyers-guide.shtml",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48148766"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48149461",
+      "title": "Show HN: Mezz, a curl-able WiFi sandbox for IoT pentesting",
+      "url": "https://github.com/ABGEO/mezz",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48149461"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48175637",
+      "title": "Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
+      "url": "https://www.youtube.com/watch?v=1OIxzewWilc",
+      "description": "",
+      "signals": {
+        "points": 17,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48175637"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

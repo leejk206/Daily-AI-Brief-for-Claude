@@ -3578,6 +3578,207 @@
         "paper"
       ],
       "tagged_at": "2026-05-18T16:23:46+09:00"
+    },
+    "https://cursor.com/blog/composer-2-5": {
+      "title": "Cursor Introduces Composer 2.5",
+      "summary": "Cursor가 새 코딩 에이전트 모델 공개, 코딩 에이전트 경쟁 가속",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://openai.com/index/dell-codex-enterprise-partnership": {
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "summary": "Codex를 온프레미스·하이브리드 기업 환경으로 확장하는 대형 제휴",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://huggingface.co/papers/2605.18661": {
+      "title": "AI for Auto-Research: Roadmap & User Guide",
+      "summary": "자동 연구 에이전트의 현주소와 무결성 리스크를 정리한 로드맵",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "auto-research",
+        "paper"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://huggingface.co/papers/2605.14271": {
+      "title": "Auditing Agent Harness Safety",
+      "summary": "에이전트 하네스의 권한 남용·컨텍스트 유출을 감사하는 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://huggingface.co/papers/2605.16839": {
+      "title": "CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection",
+      "summary": "롱컨텍스트 청크 프리필 어텐션을 가속하는 KV 선택 기법",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://github.com/humanlayer/12-factor-agents": {
+      "title": "humanlayer/12-factor-agents",
+      "summary": "프로덕션 수준 LLM 에이전트 구축 12원칙",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "tutorial"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://huggingface.co/papers/2605.18401": {
+      "title": "SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution",
+      "summary": "에이전트 스킬 수집·추천·진화의 수명주기 거버넌스",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://huggingface.co/papers/2605.17283": {
+      "title": "OProver: A Unified Framework for Agentic Formal Theorem Proving",
+      "summary": "Lean 4 기반 에이전틱 정리 증명 통합 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://huggingface.co/papers/2605.14038": {
+      "title": "Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use",
+      "summary": "LLM의 도구 호출 판단에서 드러나는 知-行 격차",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://huggingface.co/papers/2605.14212": {
+      "title": "MetaAgent-X: Breaking the Ceiling of Automatic Multi-Agent Systems via End-to-End Reinforcement Learning",
+      "summary": "종단 RL로 자동 멀티에이전트 시스템 한계 돌파",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "multi-agent",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://huggingface.co/papers/2605.17698": {
+      "title": "Agent Bazaar: Enabling Economic Alignment in Multi-Agent Marketplaces",
+      "summary": "멀티에이전트 마켓플레이스의 경제적 정렬 문제",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://huggingface.co/papers/2605.18747": {
+      "title": "Code as Agent Harness",
+      "summary": "코드가 에이전트의 운영 기질(harness)로 기능하는 패러다임",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://huggingface.co/papers/2605.12524": {
+      "title": "Stress-Testing the Reasoning Competence of LLMs With Proofs Under Minimal Formalism",
+      "summary": "기계 검증 가능한 증명으로 LLM 추론을 평가하는 벤치마크 (ProofGrid)",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://github.com/Imbad0202/academic-research-skills": {
+      "title": "Imbad0202/academic-research-skills",
+      "summary": "Claude Code용 학술 연구 스킬셋(연구→작성→리뷰→완성)",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "agent-skill",
+        "claude-code"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://jxnl.co/writing/2026/05/10/codex-maxxing/": {
+      "title": "Codex-maxxing",
+      "summary": "Codex 활용을 극대화하는 실전 워크플로 정리",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "coding-platform",
+        "tutorial"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://huggingface.co/papers/2605.17242": {
+      "title": "From Runnable to Shippable: Multi-Agent Test-Driven Development for Generating Full-Stack Web Applications from Requirements",
+      "summary": "멀티에이전트 TDD로 풀스택 웹앱 생성",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
+    },
+    "https://huggingface.co/papers/2605.14589": {
+      "title": "EndPrompt: Efficient Long-Context Extension via Terminal Anchoring",
+      "summary": "터미널 앵커링으로 저비용 롱컨텍스트 확장",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-19",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-05-19T17:55:08+09:00"
     }
   }
 }

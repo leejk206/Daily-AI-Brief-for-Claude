@@ -1,0 +1,19 @@
+[
+  {"url": "https://cursor.com/blog/composer-2-5", "title": "Cursor Introduces Composer 2.5"},
+  {"url": "https://openai.com/index/dell-codex-enterprise-partnership", "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments"},
+  {"url": "https://huggingface.co/papers/2605.18661", "title": "AI for Auto-Research: Roadmap & User Guide"},
+  {"url": "https://huggingface.co/papers/2605.14271", "title": "Auditing Agent Harness Safety"},
+  {"url": "https://huggingface.co/papers/2605.16839", "title": "CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection"},
+  {"url": "https://github.com/humanlayer/12-factor-agents", "title": "humanlayer/12-factor-agents"},
+  {"url": "https://huggingface.co/papers/2605.18401", "title": "SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution"},
+  {"url": "https://huggingface.co/papers/2605.17283", "title": "OProver: A Unified Framework for Agentic Formal Theorem Proving"},
+  {"url": "https://huggingface.co/papers/2605.14038", "title": "Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use"},
+  {"url": "https://huggingface.co/papers/2605.14212", "title": "MetaAgent-X: Breaking the Ceiling of Automatic Multi-Agent Systems via End-to-End Reinforcement Learning"},
+  {"url": "https://huggingface.co/papers/2605.17698", "title": "Agent Bazaar: Enabling Economic Alignment in Multi-Agent Marketplaces"},
+  {"url": "https://huggingface.co/papers/2605.18747", "title": "Code as Agent Harness"},
+  {"url": "https://huggingface.co/papers/2605.12524", "title": "Stress-Testing the Reasoning Competence of LLMs With Proofs Under Minimal Formalism"},
+  {"url": "https://github.com/Imbad0202/academic-research-skills", "title": "Imbad0202/academic-research-skills"},
+  {"url": "https://jxnl.co/writing/2026/05/10/codex-maxxing/", "title": "Codex-maxxing"},
+  {"url": "https://huggingface.co/papers/2605.17242", "title": "From Runnable to Shippable: Multi-Agent Test-Driven Development for Generating Full-Stack Web Applications from Requirements"},
+  {"url": "https://huggingface.co/papers/2605.14589", "title": "EndPrompt: Efficient Long-Context Extension via Terminal Anchoring"}
+]

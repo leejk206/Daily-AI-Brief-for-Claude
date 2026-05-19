@@ -478,5 +478,25 @@
   "https://github.com/MinishLab/semble": {
     "archived_on": "2026-05-18",
     "title": "Semble – Code search for agents"
+  },
+  "https://cursor.com/blog/composer-2-5": {
+    "archived_on": "2026-05-19",
+    "title": "Cursor Introduces Composer 2.5"
+  },
+  "https://openai.com/index/dell-codex-enterprise-partnership": {
+    "archived_on": "2026-05-19",
+    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments"
+  },
+  "https://huggingface.co/papers/2605.18661": {
+    "archived_on": "2026-05-19",
+    "title": "AI for Auto-Research: Roadmap & User Guide"
+  },
+  "https://huggingface.co/papers/2605.14271": {
+    "archived_on": "2026-05-19",
+    "title": "Auditing Agent Harness Safety"
+  },
+  "https://huggingface.co/papers/2605.16839": {
+    "archived_on": "2026-05-19",
+    "title": "CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection"
   }
 }

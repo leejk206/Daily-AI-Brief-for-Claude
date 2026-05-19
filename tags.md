@@ -46,6 +46,9 @@ Claude Code 관련 항목
 ### agent-skill
 에이전트 스킬 설계·학습·진화·큐레이션
 
+### agent-harness
+에이전트 실행 하네스·툴 디스패치·운영 기질 및 그 안전성
+
 ### frontend
 프론트엔드 UI·컴포넌트·디자인 시스템·React/Vue 등 클라이언트 사이드
 
@@ -74,6 +77,9 @@ Claude Code 관련 항목
 
 ### ai-code-policy
 AI 생성 코드 기여·OSS 정책·거버넌스
+
+### auto-research
+자동·에이전틱 연구 자동화 (실험 실행·논문 작성·연구 무결성)
 
 ### voice-agent
 보이스·전화·음성 인터랙션 기반 에이전트

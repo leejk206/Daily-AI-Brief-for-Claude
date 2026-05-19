@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-19T17:49:05+09:00",
+  "items": [
+    {
+      "id": "hn:48182754",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "description": "",
+      "signals": {
+        "points": 935,
+        "num_comments": 463,
+        "discussion_url": "https://news.ycombinator.com/item?id=48182754"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48182281",
+      "title": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "description": "",
+      "signals": {
+        "points": 442,
+        "num_comments": 296,
+        "discussion_url": "https://news.ycombinator.com/item?id=48182281"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48188183",
+      "title": "The last six months in LLMs in five minutes",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "description": "",
+      "signals": {
+        "points": 370,
+        "num_comments": 239,
+        "discussion_url": "https://news.ycombinator.com/item?id=48188183"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48187054",
+      "title": "Click (2016)",
+      "url": "https://clickclickclick.click/",
+      "description": "",
+      "signals": {
+        "points": 293,
+        "num_comments": 70,
+        "discussion_url": "https://news.ycombinator.com/item?id=48187054"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48183301",
+      "title": "We let AIs run radio stations",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "description": "",
+      "signals": {
+        "points": 248,
+        "num_comments": 199,
+        "discussion_url": "https://news.ycombinator.com/item?id=48183301"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48179021",
+      "title": "AI eats the world (Spring 26) [pdf]",
+      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+      "description": "",
+      "signals": {
+        "points": 216,
+        "num_comments": 116,
+        "discussion_url": "https://news.ycombinator.com/item?id=48179021"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48187201",
+      "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "description": "",
+      "signals": {
+        "points": 213,
+        "num_comments": 120,
+        "discussion_url": "https://news.ycombinator.com/item?id=48187201"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48156186",
+      "title": "Two computers, one monitor, zero fiddling (2025)",
+      "url": "https://alexplescan.com/posts/2025/08/16/kvm/",
+      "description": "",
+      "signals": {
+        "points": 210,
+        "num_comments": 126,
+        "discussion_url": "https://news.ycombinator.com/item?id=48156186"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48184322",
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "url": "https://hyperpolyglot.org/lisp",
+      "description": "",
+      "signals": {
+        "points": 157,
+        "num_comments": 35,
+        "discussion_url": "https://news.ycombinator.com/item?id=48184322"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48123359",
+      "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
+      "url": "https://isabisabel.com/gacha/",
+      "description": "",
+      "signals": {
+        "points": 145,
+        "num_comments": 59,
+        "discussion_url": "https://news.ycombinator.com/item?id=48123359"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48180204",
+      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+      "url": "https://github.com/2b2tplace/1m_release",
+      "description": "",
+      "signals": {
+        "points": 139,
+        "num_comments": 83,
+        "discussion_url": "https://news.ycombinator.com/item?id=48180204"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48182516",
+      "title": "Cursor Introduces Composer 2.5",
+      "url": "https://cursor.com/blog/composer-2-5",
+      "description": "",
+      "signals": {
+        "points": 135,
+        "num_comments": 86,
+        "discussion_url": "https://news.ycombinator.com/item?id=48182516"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48188665",
+      "title": "Peter Salus has died",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+      "description": "",
+      "signals": {
+        "points": 125,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48188665"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48136909",
+      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+      "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
+      "description": "",
+      "signals": {
+        "points": 113,
+        "num_comments": 23,
+        "discussion_url": "https://news.ycombinator.com/item?id=48136909"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48165944",
+      "title": "Anyone on the Internet Can Ring Your Doorbell",
+      "url": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
+      "description": "",
+      "signals": {
+        "points": 96,
+        "num_comments": 60,
+        "discussion_url": "https://news.ycombinator.com/item?id=48165944"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48161772",
+      "title": "Turn your Android phone into a ham radio transceiver",
+      "url": "https://www.kv4p.com/",
+      "description": "",
+      "signals": {
+        "points": 78,
+        "num_comments": 27,
+        "discussion_url": "https://news.ycombinator.com/item?id=48161772"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48188787",
+      "title": "Peter Neumann has died",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+      "description": "",
+      "signals": {
+        "points": 76,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48188787"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48189156",
+      "title": "Codex-maxxing",
+      "url": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
+      "description": "",
+      "signals": {
+        "points": 71,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=48189156"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48167187",
+      "title": "When can the C++ compiler devirtualize a call?",
+      "url": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/",
+      "description": "",
+      "signals": {
+        "points": 55,
+        "num_comments": 30,
+        "discussion_url": "https://news.ycombinator.com/item?id=48167187"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48185938",
+      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+      "url": "https://arxiv.org/abs/2601.10160",
+      "description": "",
+      "signals": {
+        "points": 52,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48185938"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48189368",
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "description": "",
+      "signals": {
+        "points": 46,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48189368"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48166744",
+      "title": "Polypad",
+      "url": "https://polypad.amplify.com/",
+      "description": "",
+      "signals": {
+        "points": 34,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48166744"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48189178",
+      "title": "PyTorch Landscape",
+      "url": "https://pytorch.landscape2.io",
+      "description": "",
+      "signals": {
+        "points": 30,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48189178"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48158780",
+      "title": "Why is it called Kent House?",
+      "url": "https://diamondgeezer.blogspot.com/2026/05/kent-house.html",
+      "description": "",
+      "signals": {
+        "points": 26,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48158780"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48189044",
+      "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+      "url": "https://github.com/harmont-dev/hsrs",
+      "description": "",
+      "signals": {
+        "points": 24,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48189044"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48165030",
+      "title": "Make ZIP files smaller with ZIP Shrinker",
+      "url": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48165030"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48190348",
+      "title": "My domain got abused on GitHub Pages",
+      "url": "https://meertens.dev/blog/github-enables-domain-abuse/",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48190348"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48165283",
+      "title": "The lasting influence of Netscape Time",
+      "url": "https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48165283"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    }
+  ]
+}

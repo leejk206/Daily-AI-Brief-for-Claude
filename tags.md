@@ -73,13 +73,13 @@ Claude Code 관련 항목
 ### tutorial
 에이전트·AI 구축 학습 자료·튜토리얼·강의
 
+### auto-research
+자동·에이전틱 연구 자동화 (실험 실행·논문 작성·연구 무결성)
+
 ## Candidate
 
 ### ai-code-policy
 AI 생성 코드 기여·OSS 정책·거버넌스
-
-### auto-research
-자동·에이전틱 연구 자동화 (실험 실행·논문 작성·연구 무결성)
 
 ### voice-agent
 보이스·전화·음성 인터랙션 기반 에이전트

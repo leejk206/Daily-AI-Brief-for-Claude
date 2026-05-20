@@ -498,5 +498,25 @@
   "https://huggingface.co/papers/2605.16839": {
     "archived_on": "2026-05-19",
     "title": "CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection"
+  },
+  "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/": {
+    "archived_on": "2026-05-20",
+    "title": "Gemini 3.5: frontier intelligence with action"
+  },
+  "https://deepmind.google/blog/introducing-google-antigravity-2-0/": {
+    "archived_on": "2026-05-20",
+    "title": "Introducing Google Antigravity 2.0"
+  },
+  "https://github.com/anthropics/claude-plugins-official": {
+    "archived_on": "2026-05-20",
+    "title": "anthropics/claude-plugins-official"
+  },
+  "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/": {
+    "archived_on": "2026-05-20",
+    "title": "Co-Scientist: A multi-agent AI partner to accelerate research"
+  },
+  "https://huggingface.co/papers/2605.16679": {
+    "archived_on": "2026-05-20",
+    "title": "CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?"
   }
 }

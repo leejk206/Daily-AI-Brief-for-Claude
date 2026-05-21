@@ -1,0 +1,210 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-05-21T14:14:47+09:00",
+  "items": [
+    {
+      "id": "github:colbymchenry/codegraph",
+      "title": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "signals": {
+        "stars": 10496,
+        "stars_today": 2123,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Imbad0202/academic-research-skills",
+      "title": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "signals": {
+        "stars": 16701,
+        "stars_today": 1667,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:tinyhumansai/openhuman",
+      "title": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "signals": {
+        "stars": 23954,
+        "stars_today": 3394,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:multica-ai/andrej-karpathy-skills",
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "signals": {
+        "stars": 141399,
+        "stars_today": 2679,
+        "language": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:rohitg00/ai-engineering-from-scratch",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "signals": {
+        "stars": 9855,
+        "stars_today": 765,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:HKUDS/CLI-Anything",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "signals": {
+        "stars": 38659,
+        "stars_today": 890,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:can1357/oh-my-pi",
+      "title": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "signals": {
+        "stars": 5529,
+        "stars_today": 270,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:obra/superpowers",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "signals": {
+        "stars": 200348,
+        "stars_today": 1743,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:anthropics/claude-plugins-official",
+      "title": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "signals": {
+        "stars": 20908,
+        "stars_today": 674,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:msitarzewski/agency-agents",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "signals": {
+        "stars": 103038,
+        "stars_today": 1636,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:rmyndharis/OpenWA",
+      "title": "rmyndharis/OpenWA",
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "signals": {
+        "stars": 4971,
+        "stars_today": 741,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:truelockmc/streambert",
+      "title": "truelockmc/streambert",
+      "url": "https://github.com/truelockmc/streambert",
+      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+      "signals": {
+        "stars": 3239,
+        "stars_today": 582,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:opentoonz/opentoonz",
+      "title": "opentoonz/opentoonz",
+      "url": "https://github.com/opentoonz/opentoonz",
+      "description": "OpenToonz - An open-source full-featured 2D animation creation software",
+      "signals": {
+        "stars": 6439,
+        "stars_today": 236,
+        "language": "C++"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:zakirullin/files.md",
+      "title": "zakirullin/files.md",
+      "url": "https://github.com/zakirullin/files.md",
+      "description": "🌱 Private, quiet space for thinking. A simple app for your .md files.",
+      "signals": {
+        "stars": 2308,
+        "stars_today": 429,
+        "language": "Go"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:rohitg00/agentmemory",
+      "title": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "signals": {
+        "stars": 15291,
+        "stars_today": 1080,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "signals": {
+        "stars": 111926,
+        "stars_today": 309,
+        "language": "C++"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:HKUDS/ViMax",
+      "title": "HKUDS/ViMax",
+      "url": "https://github.com/HKUDS/ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "signals": {
+        "stars": 6193,
+        "stars_today": 674,
+        "language": "Python"
+      },
+      "category_hint": null
+    }
+  ]
+}

@@ -518,5 +518,25 @@
   "https://huggingface.co/papers/2605.16679": {
     "archived_on": "2026-05-20",
     "title": "CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?"
+  },
+  "https://huggingface.co/papers/2605.14236": {
+    "archived_on": "2026-05-21",
+    "title": "Active Learners as Efficient PRP Rerankers"
+  },
+  "https://huggingface.co/papers/2605.17734": {
+    "archived_on": "2026-05-21",
+    "title": "Harnessing LLM Agents with Skill Programs"
+  },
+  "https://openai.com/index/ramp": {
+    "archived_on": "2026-05-21",
+    "title": "How Ramp engineers accelerate code review with Codex"
+  },
+  "https://huggingface.co/papers/2605.17829": {
+    "archived_on": "2026-05-21",
+    "title": "Interactive Evaluation Requires a Design Science"
+  },
+  "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html": {
+    "archived_on": "2026-05-21",
+    "title": "Learnings from 100K lines of Rust with AI"
   }
 }

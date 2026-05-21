@@ -1,0 +1,23 @@
+[
+  {"url": "https://huggingface.co/papers/2605.14236", "title": "Active Learners as Efficient PRP Rerankers"},
+  {"url": "https://huggingface.co/papers/2605.17734", "title": "Harnessing LLM Agents with Skill Programs"},
+  {"url": "https://openai.com/index/ramp", "title": "How Ramp engineers accelerate code review with Codex"},
+  {"url": "https://huggingface.co/papers/2605.17829", "title": "Interactive Evaluation Requires a Design Science"},
+  {"url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html", "title": "Learnings from 100K lines of Rust with AI"},
+  {"url": "https://huggingface.co/papers/2605.21463", "title": "Mem-π: Adaptive Memory through Learning When and What to Generate"},
+  {"url": "https://huggingface.co/papers/2605.17076", "title": "S-Bus: Automatic Read-Set Reconstruction for Multi-Agent LLM State Coordination"},
+  {"url": "https://huggingface.co/papers/2605.20630", "title": "Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines"},
+  {"url": "https://huggingface.co/papers/2605.17909", "title": "Ethical Hyper-Velocity (EHV)"},
+  {"url": "https://huggingface.co/papers/2605.20873", "title": "PlanningBench"},
+  {"url": "https://huggingface.co/papers/2605.21384", "title": "SpecBench: Measuring Reward Hacking in Long-Horizon Coding Agents"},
+  {"url": "https://huggingface.co/papers/2605.18565", "title": "LongMINT: Evaluating Memory under Multi-Target Interference"},
+  {"url": "https://github.com/can1357/oh-my-pi", "title": "can1357/oh-my-pi"},
+  {"url": "https://github.com/rohitg00/ai-engineering-from-scratch", "title": "rohitg00/ai-engineering-from-scratch"},
+  {"url": "https://huggingface.co/papers/2605.19660", "title": "OScaR: The Occam's Razor for Extreme KV Cache Quantization"},
+  {"url": "https://huggingface.co/papers/2605.20258", "title": "It Takes Two: Complementary Self-Distillation for Contextual Integrity"},
+  {"url": "https://huggingface.co/papers/2605.18226", "title": "Context Memorization for Efficient Long Context Generation"},
+  {"url": "https://github.com/Imbad0202/academic-research-skills", "title": "Imbad0202/academic-research-skills"},
+  {"url": "https://github.com/multica-ai/andrej-karpathy-skills", "title": "multica-ai/andrej-karpathy-skills"},
+  {"url": "https://github.com/msitarzewski/agency-agents", "title": "msitarzewski/agency-agents"},
+  {"url": "https://github.com/HKUDS/ViMax", "title": "HKUDS/ViMax"}
+]

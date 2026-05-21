@@ -1,141 +1,15 @@
 {
-  "https://openai.com/index/introducing-b2b-signals": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "How frontier firms are pulling ahead"
-  },
-  "https://openai.com/index/simplex": {
-    "first_seen": "2026-05-11",
-    "last_seen": "2026-05-13",
-    "days": 3,
-    "title": "Simplex rethinks software development with Codex"
-  },
-  "https://github.com/datawhalechina/hello-agents": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "datawhalechina/hello-agents"
-  },
-  "https://openai.com/index/parloa": {
-    "first_seen": "2026-05-10",
-    "last_seen": "2026-05-13",
-    "days": 4,
-    "title": "Parloa builds service agents customers want to talk to"
-  },
-  "https://deepmind.google/blog/ai-co-clinician/": {
-    "first_seen": "2026-05-10",
-    "last_seen": "2026-05-13",
-    "days": 4,
-    "title": "Enabling a new model for healthcare with AI co-clinician"
-  },
   "https://github.com/millionco/react-doctor": {
     "first_seen": "2026-05-12",
     "last_seen": "2026-05-14",
     "days": 3,
     "title": "millionco/react-doctor"
   },
-  "https://openai.com/index/nvidia": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "How NVIDIA engineers and researchers build with Codex"
-  },
-  "https://huggingface.co/papers/2605.09131": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments"
-  },
-  "https://huggingface.co/papers/2605.12357": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "δ-mem: Efficient Online Memory for Large Language Models"
-  },
-  "https://huggingface.co/papers/2605.12481": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents"
-  },
-  "https://huggingface.co/papers/2605.12477": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "MEME: Multi-entity & Evolving Memory Evaluation"
-  },
-  "https://huggingface.co/papers/2605.09998": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents"
-  },
-  "https://github.com/statewright/statewright": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "Show HN: Statewright – Visual state machines that make AI agents reliable"
-  },
-  "https://www.hypercubic.ai/hopper": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "Show HN: Agentic interface for mainframes and COBOL"
-  },
-  "https://voker.ai": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents"
-  },
   "https://github.com/cactus-compute/needle": {
     "first_seen": "2026-05-13",
     "last_seen": "2026-05-14",
     "days": 2,
     "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model"
-  },
-  "https://huggingface.co/papers/2605.09530": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents"
-  },
-  "https://huggingface.co/papers/2605.10899": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards"
-  },
-  "https://huggingface.co/papers/2605.10488": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "DeepRefine: Agent-Compiled Knowledge Refinement via Reinforcement Learning"
-  },
-  "https://huggingface.co/papers/2605.06788": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "Conformal Agent Error Attribution"
-  },
-  "https://huggingface.co/papers/2605.10365": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "Agent-ValueBench: A Comprehensive Benchmark for Evaluating Agent Values"
-  },
-  "https://huggingface.co/papers/2605.12493": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues"
-  },
-  "https://huggingface.co/papers/2605.07630": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "Safe, or Simply Incapable? Rethinking Safety Evaluation for Phone-Use Agents"
   },
   "https://openai.com/academy/how-finance-teams-use-codex": {
     "first_seen": "2026-05-17",
@@ -154,12 +28,6 @@
     "last_seen": "2026-05-17",
     "days": 1,
     "title": "AutoScout24 scales engineering with AI-powered workflows"
-  },
-  "https://huggingface.co/papers/2605.09932": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "days": 1,
-    "title": "FocuSFT: Bilevel Optimization for Dilution-Aware Long-Context Fine-Tuning"
   },
   "https://openai.com/index/building-codex-windows-sandbox": {
     "first_seen": "2026-05-14",
@@ -559,8 +427,8 @@
   },
   "https://github.com/Imbad0202/academic-research-skills": {
     "first_seen": "2026-05-19",
-    "last_seen": "2026-05-20",
-    "days": 2,
+    "last_seen": "2026-05-21",
+    "days": 3,
     "title": "Imbad0202/academic-research-skills"
   },
   "https://jxnl.co/writing/2026/05/10/codex-maxxing/": {
@@ -613,8 +481,8 @@
   },
   "https://github.com/HKUDS/ViMax": {
     "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
+    "last_seen": "2026-05-21",
+    "days": 2,
     "title": "HKUDS/ViMax"
   },
   "https://github.com/antoinezambelli/forge": {
@@ -625,8 +493,8 @@
   },
   "https://github.com/msitarzewski/agency-agents": {
     "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
+    "last_seen": "2026-05-21",
+    "days": 2,
     "title": "msitarzewski/agency-agents"
   },
   "https://huggingface.co/papers/2605.15565": {
@@ -661,8 +529,8 @@
   },
   "https://github.com/multica-ai/andrej-karpathy-skills": {
     "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
+    "last_seen": "2026-05-21",
+    "days": 2,
     "title": "multica-ai/andrej-karpathy-skills"
   },
   "https://twitter.com/karpathy/status/2056753169888334312": {
@@ -700,5 +568,107 @@
     "last_seen": "2026-05-20",
     "days": 1,
     "title": "GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment"
+  },
+  "https://huggingface.co/papers/2605.14236": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "Active Learners as Efficient PRP Rerankers"
+  },
+  "https://huggingface.co/papers/2605.17734": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "Harnessing LLM Agents with Skill Programs"
+  },
+  "https://openai.com/index/ramp": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "How Ramp engineers accelerate code review with Codex"
+  },
+  "https://huggingface.co/papers/2605.17829": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "Interactive Evaluation Requires a Design Science"
+  },
+  "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "Learnings from 100K lines of Rust with AI"
+  },
+  "https://huggingface.co/papers/2605.21463": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "Mem-π: Adaptive Memory through Learning When and What to Generate"
+  },
+  "https://huggingface.co/papers/2605.17076": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "S-Bus: Automatic Read-Set Reconstruction for Multi-Agent LLM State Coordination"
+  },
+  "https://huggingface.co/papers/2605.20630": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines"
+  },
+  "https://huggingface.co/papers/2605.17909": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "Ethical Hyper-Velocity (EHV)"
+  },
+  "https://huggingface.co/papers/2605.20873": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "PlanningBench"
+  },
+  "https://huggingface.co/papers/2605.21384": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "SpecBench: Measuring Reward Hacking in Long-Horizon Coding Agents"
+  },
+  "https://huggingface.co/papers/2605.18565": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "LongMINT: Evaluating Memory under Multi-Target Interference"
+  },
+  "https://github.com/can1357/oh-my-pi": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "can1357/oh-my-pi"
+  },
+  "https://github.com/rohitg00/ai-engineering-from-scratch": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "rohitg00/ai-engineering-from-scratch"
+  },
+  "https://huggingface.co/papers/2605.19660": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "OScaR: The Occam's Razor for Extreme KV Cache Quantization"
+  },
+  "https://huggingface.co/papers/2605.20258": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "It Takes Two: Complementary Self-Distillation for Contextual Integrity"
+  },
+  "https://huggingface.co/papers/2605.18226": {
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "days": 1,
+    "title": "Context Memorization for Efficient Long Context Generation"
   }
 }

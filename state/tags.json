@@ -1442,7 +1442,7 @@
         "agent-skill",
         "multi-agent"
       ],
-      "tagged_at": "2026-05-20T16:05:46+09:00"
+      "tagged_at": "2026-05-21T14:17:49+09:00"
     },
     "https://huggingface.co/papers/2604.24026": {
       "title": "From Skill Text to Skill Structure",
@@ -3746,7 +3746,7 @@
         "agent-skill",
         "claude-code"
       ],
-      "tagged_at": "2026-05-20T16:05:46+09:00"
+      "tagged_at": "2026-05-21T14:17:49+09:00"
     },
     "https://jxnl.co/writing/2026/05/10/codex-maxxing/": {
       "title": "Codex-maxxing",
@@ -3853,7 +3853,7 @@
       "tags": [
         "multi-agent"
       ],
-      "tagged_at": "2026-05-20T16:05:46+09:00"
+      "tagged_at": "2026-05-21T14:17:49+09:00"
     },
     "https://github.com/antoinezambelli/forge": {
       "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
@@ -3939,7 +3939,7 @@
         "agent-skill",
         "claude-code"
       ],
-      "tagged_at": "2026-05-20T16:05:46+09:00"
+      "tagged_at": "2026-05-21T14:17:49+09:00"
     },
     "https://twitter.com/karpathy/status/2056753169888334312": {
       "title": "I've joined Anthropic",
@@ -3999,6 +3999,210 @@
         "rl"
       ],
       "tagged_at": "2026-05-20T16:05:46+09:00"
+    },
+    "https://huggingface.co/papers/2605.14236": {
+      "title": "Active Learners as Efficient PRP Rerankers",
+      "summary": "PRP 재랭킹을 능동학습으로 효율화 (86 upvotes)",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://huggingface.co/papers/2605.17734": {
+      "title": "Harnessing LLM Agents with Skill Programs",
+      "summary": "텍스트 스킬을 실행 가능한 프로그램으로 컴파일",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://openai.com/index/ramp": {
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "summary": "Ramp의 Codex+GPT-5.5 코드리뷰 사례",
+      "category": "coding-agents",
+      "source": "openai",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://huggingface.co/papers/2605.17829": {
+      "title": "Interactive Evaluation Requires a Design Science",
+      "summary": "에이전트 평가의 설계과학적 재정립 제안",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html": {
+      "title": "Learnings from 100K lines of Rust with AI",
+      "summary": "Claude Code·Codex로 Rust 10만 줄 작성 회고",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "claude-code",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://huggingface.co/papers/2605.21463": {
+      "title": "Mem-π: Adaptive Memory through Learning When and What to Generate",
+      "summary": "검색이 아닌 생성형 적응 메모리 프레임",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://huggingface.co/papers/2605.17076": {
+      "title": "S-Bus: Automatic Read-Set Reconstruction for Multi-Agent LLM State Coordination",
+      "summary": "LangGraph·CrewAI·AutoGen의 SRC 경쟁상태 해결",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://huggingface.co/papers/2605.20630": {
+      "title": "Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines",
+      "summary": "AssetOpsBench으로 측정한 플랜-실행 캐싱",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://huggingface.co/papers/2605.17909": {
+      "title": "Ethical Hyper-Velocity (EHV)",
+      "summary": "에이전틱 시스템용 거버넌스 인식 JIT 컴파일러",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://huggingface.co/papers/2605.20873": {
+      "title": "PlanningBench",
+      "summary": "LLM 계획 능력을 위한 확장·검증가능 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://huggingface.co/papers/2605.21384": {
+      "title": "SpecBench: Measuring Reward Hacking in Long-Horizon Coding Agents",
+      "summary": "장기 코딩 에이전트의 테스트-해킹 측정",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "benchmark",
+        "coding-platform",
+        "paper"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://huggingface.co/papers/2605.18565": {
+      "title": "LongMINT: Evaluating Memory under Multi-Target Interference",
+      "summary": "다중 타깃 간섭 환경의 에이전트 메모리 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "agent-memory",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://github.com/can1357/oh-my-pi": {
+      "title": "can1357/oh-my-pi",
+      "summary": "터미널용 AI 코딩 에이전트, 해시 앵커 편집·LSP 통합",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://github.com/rohitg00/ai-engineering-from-scratch": {
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "summary": "AI 엔지니어링 처음부터 빌드하는 학습 자료",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "tutorial"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://huggingface.co/papers/2605.19660": {
+      "title": "OScaR: The Occam's Razor for Extreme KV Cache Quantization",
+      "summary": "장기 컨텍스트 KV 캐시 극한 양자화",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://huggingface.co/papers/2605.20258": {
+      "title": "It Takes Two: Complementary Self-Distillation for Contextual Integrity",
+      "summary": "컨텍스트 무결성을 위한 자기증류",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://huggingface.co/papers/2605.18226": {
+      "title": "Context Memorization for Efficient Long Context Generation",
+      "summary": "prefix 영향력 감쇠를 해결하는 컨텍스트 기억화",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-21",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-05-21T14:17:49+09:00"
     }
   }
 }

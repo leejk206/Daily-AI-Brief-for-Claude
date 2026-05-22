@@ -1,16 +1,4 @@
 {
-  "https://github.com/millionco/react-doctor": {
-    "first_seen": "2026-05-12",
-    "last_seen": "2026-05-14",
-    "days": 3,
-    "title": "millionco/react-doctor"
-  },
-  "https://github.com/cactus-compute/needle": {
-    "first_seen": "2026-05-13",
-    "last_seen": "2026-05-14",
-    "days": 2,
-    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model"
-  },
   "https://openai.com/academy/how-finance-teams-use-codex": {
     "first_seen": "2026-05-17",
     "last_seen": "2026-05-17",
@@ -29,119 +17,11 @@
     "days": 1,
     "title": "AutoScout24 scales engineering with AI-powered workflows"
   },
-  "https://openai.com/index/building-codex-windows-sandbox": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "Building a safe, effective sandbox to enable Codex on Windows"
-  },
-  "https://github.com/K-Dense-AI/scientific-agent-skills": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "K-Dense-AI/scientific-agent-skills"
-  },
-  "https://huggingface.co/papers/2605.12925": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation"
-  },
-  "https://huggingface.co/papers/2605.09942": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution"
-  },
-  "https://huggingface.co/papers/2605.13511": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "Many-Shot CoT-ICL: Making In-Context Learning Truly Learn"
-  },
-  "https://github.com/danielmiessler/Personal_AI_Infrastructure": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "danielmiessler/Personal_AI_Infrastructure"
-  },
-  "https://huggingface.co/papers/2605.13037": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning"
-  },
-  "https://huggingface.co/papers/2605.12913": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "Revisiting DAgger in the Era of LLM-Agents"
-  },
-  "https://huggingface.co/papers/2605.11363": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "PresentAgent-2: Towards Generalist Multimodal Presentation Agents"
-  },
-  "https://huggingface.co/papers/2605.11136": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales"
-  },
-  "https://huggingface.co/papers/2605.09252": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "LLM Agents Already Know When to Call Tools -- Even Without Reasoning"
-  },
-  "https://huggingface.co/papers/2605.09539": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "TacoMAS: Test-Time Co-Evolution of Topology and Capability in LLM-based Multi-Agent Systems"
-  },
-  "https://huggingface.co/papers/2605.12460": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "Multi-Stream LLMs: Unblocking Language Models with Parallel Streams of Thoughts, Inputs and Outputs"
-  },
-  "https://huggingface.co/papers/2605.12978": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "Useful Memories Become Faulty When Continuously Updated by LLMs"
-  },
-  "https://huggingface.co/papers/2605.11436": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "Agent-BRACE: Decoupling Beliefs from Actions in Long-Horizon Tasks via Verbalized State Uncertainty"
-  },
   "https://github.com/github/spec-kit": {
     "first_seen": "2026-05-14",
     "last_seen": "2026-05-15",
     "days": 2,
     "title": "github/spec-kit"
-  },
-  "https://huggingface.co/papers/2605.13050": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "Context Training with Active Information Seeking"
-  },
-  "https://huggingface.co/papers/2605.13831": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context"
-  },
-  "https://huggingface.co/papers/2604.27695": {
-    "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "days": 1,
-    "title": "EviMem: Evidence-Gap-Driven Iterative Retrieval for Long-Term Conversational Memory"
   },
   "https://openai.com/index/work-with-codex-from-anywhere": {
     "first_seen": "2026-05-15",
@@ -228,9 +108,9 @@
     "title": "garrytan/gstack"
   },
   "https://openai.com/index/sea-david-chen": {
-    "first_seen": "2026-05-15",
-    "last_seen": "2026-05-17",
-    "days": 3,
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
     "title": "Sea's View on the Future of Agentic Software Development with Codex"
   },
   "https://github.com/rust-lang/rust-forge/pull/1040": {
@@ -427,8 +307,8 @@
   },
   "https://github.com/Imbad0202/academic-research-skills": {
     "first_seen": "2026-05-19",
-    "last_seen": "2026-05-21",
-    "days": 3,
+    "last_seen": "2026-05-22",
+    "days": 4,
     "title": "Imbad0202/academic-research-skills"
   },
   "https://jxnl.co/writing/2026/05/10/codex-maxxing/": {
@@ -486,10 +366,10 @@
     "title": "HKUDS/ViMax"
   },
   "https://github.com/antoinezambelli/forge": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
     "days": 1,
-    "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks"
+    "title": "antoinezambelli/forge"
   },
   "https://github.com/msitarzewski/agency-agents": {
     "first_seen": "2026-05-20",
@@ -529,8 +409,8 @@
   },
   "https://github.com/multica-ai/andrej-karpathy-skills": {
     "first_seen": "2026-05-20",
-    "last_seen": "2026-05-21",
-    "days": 2,
+    "last_seen": "2026-05-22",
+    "days": 3,
     "title": "multica-ai/andrej-karpathy-skills"
   },
   "https://twitter.com/karpathy/status/2056753169888334312": {
@@ -643,8 +523,8 @@
   },
   "https://github.com/can1357/oh-my-pi": {
     "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
+    "last_seen": "2026-05-22",
+    "days": 2,
     "title": "can1357/oh-my-pi"
   },
   "https://github.com/rohitg00/ai-engineering-from-scratch": {
@@ -670,5 +550,119 @@
     "last_seen": "2026-05-21",
     "days": 1,
     "title": "Context Memorization for Efficient Long Context Generation"
+  },
+  "https://github.com/multica-ai/multica": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "multica-ai/multica"
+  },
+  "https://huggingface.co/papers/2605.14747": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining"
+  },
+  "https://huggingface.co/papers/2605.14678": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows"
+  },
+  "https://www.0xsid.com/blog/antigravity-bait-n-switch": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "Google's Antigravity bait and switch"
+  },
+  "https://huggingface.co/papers/2605.21850": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "ACC: Compiling Agent Trajectories for Long-Context Training"
+  },
+  "https://huggingface.co/papers/2605.22177": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles"
+  },
+  "https://huggingface.co/papers/2605.22642": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning"
+  },
+  "https://huggingface.co/papers/2605.20682": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools"
+  },
+  "https://huggingface.co/papers/2605.20315": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "Mix-Quant: Quantized Prefilling, Precise Decoding for Agentic LLMs"
+  },
+  "https://huggingface.co/papers/2605.17526": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "SaaSBench: Exploring the Boundaries of Coding Agents in Long-Horizon Enterprise SaaS Engineering"
+  },
+  "https://huggingface.co/papers/2605.22535": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks"
+  },
+  "https://huggingface.co/papers/2605.19484": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing"
+  },
+  "https://github.com/dotnet/skills": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "dotnet/skills"
+  },
+  "https://github.com/Lum1104/Understand-Anything": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "Lum1104/Understand-Anything"
+  },
+  "https://github.com/teng-lin/notebooklm-py": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "teng-lin/notebooklm-py"
+  },
+  "https://www.runtm.com/": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team"
+  },
+  "https://news.ycombinator.com/item?id=48231575": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "Show HN: Spec-Driven Development Workflow for Claude Code"
+  },
+  "https://arxiv.org/abs/2605.12460": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O"
+  },
+  "https://huggingface.co/papers/2605.19330": {
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "days": 1,
+    "title": "MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimization"
   }
 }

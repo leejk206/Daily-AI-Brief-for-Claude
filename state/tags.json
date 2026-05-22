@@ -3353,7 +3353,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-17T07:23:16+09:00"
+      "tagged_at": "2026-05-22T14:47:57+09:00"
     },
     "https://github.com/rust-lang/rust-forge/pull/1040": {
       "title": "LLM Policy for Rust Compiler",
@@ -3746,7 +3746,7 @@
         "agent-skill",
         "claude-code"
       ],
-      "tagged_at": "2026-05-21T14:17:49+09:00"
+      "tagged_at": "2026-05-22T14:47:57+09:00"
     },
     "https://jxnl.co/writing/2026/05/10/codex-maxxing/": {
       "title": "Codex-maxxing",
@@ -3863,9 +3863,10 @@
       "brief_date": "2026-05-20",
       "tags": [
         "agent-harness",
+        "multi-agent",
         "tool-use"
       ],
-      "tagged_at": "2026-05-20T16:05:46+09:00"
+      "tagged_at": "2026-05-22T14:47:57+09:00"
     },
     "https://huggingface.co/papers/2605.15565": {
       "title": "AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs",
@@ -3939,7 +3940,7 @@
         "agent-skill",
         "claude-code"
       ],
-      "tagged_at": "2026-05-21T14:17:49+09:00"
+      "tagged_at": "2026-05-22T14:47:57+09:00"
     },
     "https://twitter.com/karpathy/status/2056753169888334312": {
       "title": "I've joined Anthropic",
@@ -4155,7 +4156,7 @@
         "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-21T14:17:49+09:00"
+      "tagged_at": "2026-05-22T14:47:57+09:00"
     },
     "https://github.com/rohitg00/ai-engineering-from-scratch": {
       "title": "rohitg00/ai-engineering-from-scratch",
@@ -4203,6 +4204,241 @@
         "paper"
       ],
       "tagged_at": "2026-05-21T14:17:49+09:00"
+    },
+    "https://github.com/multica-ai/multica": {
+      "title": "multica-ai/multica",
+      "summary": "코딩 에이전트를 '팀원'으로 다루는 오픈소스 관리 플랫폼.",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "agent-skill",
+        "coding-platform",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://huggingface.co/papers/2605.14747": {
+      "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
+      "summary": "영상에서 GUI 조작 trajectory를 추출해 일반화된 GUI 에이전트 학습(139 upvotes).",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "computer-use",
+        "paper",
+        "web-agent"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://huggingface.co/papers/2605.14678": {
+      "title": "π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows",
+      "summary": "장기 워크플로에서 미명시 요구를 선제 추론하는 비서 평가(55 upvotes).",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "agent-harness",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://www.0xsid.com/blog/antigravity-bait-n-switch": {
+      "title": "Google's Antigravity bait and switch",
+      "summary": "DeepMind Antigravity 2.0의 제품 변경 비판 포스트, HN 614점 격렬 토론.",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://huggingface.co/papers/2605.21850": {
+      "title": "ACC: Compiling Agent Trajectories for Long-Context Training",
+      "summary": "에이전트가 생성한 대량 trajectory를 long-context 훈련에 재활용(43 upvotes).",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "agent-harness",
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://huggingface.co/papers/2605.22177": {
+      "title": "Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles",
+      "summary": "LLM·스킬을 다단계로 라우팅하는 모듈러 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "agent-skill",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://huggingface.co/papers/2605.22642": {
+      "title": "Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning",
+      "summary": "Excel·Sheets 자동화 에이전트를 RL로",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "paper",
+        "rl",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://huggingface.co/papers/2605.20682": {
+      "title": "IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools",
+      "summary": "도메인 툴 사용으로 zero-shot 이상 탐지 개선",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://huggingface.co/papers/2605.20315": {
+      "title": "Mix-Quant: Quantized Prefilling, Precise Decoding for Agentic LLMs",
+      "summary": "에이전트 워크로드의 prefill 병목 해결",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://huggingface.co/papers/2605.17526": {
+      "title": "SaaSBench: Exploring the Boundaries of Coding Agents in Long-Horizon Enterprise SaaS Engineering",
+      "summary": "처음부터 끝까지 SW 개발 가능성을 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://huggingface.co/papers/2605.22535": {
+      "title": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks",
+      "summary": "80,870개 터미널 녹화에서 1,530개 평가 태스크 자동 생성",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "benchmark",
+        "cli-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://huggingface.co/papers/2605.19484": {
+      "title": "CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing",
+      "summary": "영상 편집 워크플로 자율 에이전트 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "benchmark",
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://github.com/dotnet/skills": {
+      "title": "dotnet/skills",
+      "summary": "Microsoft 공식 .NET·C# AI 코딩 에이전트 스킬 저장소",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "agent-skill",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://github.com/Lum1104/Understand-Anything": {
+      "title": "Lum1104/Understand-Anything",
+      "summary": "코드를 인터랙티브 지식 그래프로 변환, Claude Code·Codex·Cursor 호환",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "claude-code",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://github.com/teng-lin/notebooklm-py": {
+      "title": "teng-lin/notebooklm-py",
+      "summary": "NotebookLM 비공식 Python API + Claude Code/Codex 에이전트 스킬",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "agent-skill",
+        "claude-code"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://www.runtm.com/": {
+      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "summary": "팀 전원이 코딩 에이전트를 안전하게 돌리는 SaaS",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://news.ycombinator.com/item?id=48231575": {
+      "title": "Show HN: Spec-Driven Development Workflow for Claude Code",
+      "summary": "스펙 우선 개발 워크플로 템플릿",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "claude-code",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://arxiv.org/abs/2605.12460": {
+      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "summary": "단일 모델 내 다중 스트림 추론 분리",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://huggingface.co/papers/2605.19330": {
+      "title": "MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimization",
+      "summary": "description/instructions 필드 제약 하 스킬 최적화",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-22",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-22T14:47:57+09:00"
     }
   }
 }

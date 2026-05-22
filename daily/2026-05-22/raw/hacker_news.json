@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-22T14:43:59+09:00",
+  "items": [
+    {
+      "id": "hn:48220647",
+      "title": "Flipper One – we need your help",
+      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+      "description": "",
+      "signals": {
+        "points": 1108,
+        "num_comments": 432,
+        "discussion_url": "https://news.ycombinator.com/item?id=48220647"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48225297",
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "description": "",
+      "signals": {
+        "points": 753,
+        "num_comments": 169,
+        "discussion_url": "https://news.ycombinator.com/item?id=48225297"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48222529",
+      "title": "Google's Antigravity bait and switch",
+      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+      "description": "",
+      "signals": {
+        "points": 614,
+        "num_comments": 283,
+        "discussion_url": "https://news.ycombinator.com/item?id=48222529"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48220105",
+      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "description": "",
+      "signals": {
+        "points": 584,
+        "num_comments": 525,
+        "discussion_url": "https://news.ycombinator.com/item?id=48220105"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48219992",
+      "title": "Throwing AI-generated walls of text into conversations",
+      "url": "https://noslopgrenade.com/",
+      "description": "",
+      "signals": {
+        "points": 551,
+        "num_comments": 326,
+        "discussion_url": "https://news.ycombinator.com/item?id=48219992"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48226588",
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "description": "",
+      "signals": {
+        "points": 443,
+        "num_comments": 175,
+        "discussion_url": "https://news.ycombinator.com/item?id=48226588"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48184402",
+      "title": "Was my $48K GPU server worth it?",
+      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "description": "",
+      "signals": {
+        "points": 367,
+        "num_comments": 263,
+        "discussion_url": "https://news.ycombinator.com/item?id=48184402"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48220696",
+      "title": "Python 3.15: features that didn't make the headlines",
+      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+      "description": "",
+      "signals": {
+        "points": 353,
+        "num_comments": 171,
+        "discussion_url": "https://news.ycombinator.com/item?id=48220696"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48222733",
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "description": "",
+      "signals": {
+        "points": 336,
+        "num_comments": 100,
+        "discussion_url": "https://news.ycombinator.com/item?id=48222733"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48220639",
+      "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+      "url": "https://spectrum.ieee.org/trinity-nuclear-test",
+      "description": "",
+      "signals": {
+        "points": 320,
+        "num_comments": 98,
+        "discussion_url": "https://news.ycombinator.com/item?id=48220639"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48226944",
+      "title": "BBEdit 16",
+      "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+      "description": "",
+      "signals": {
+        "points": 296,
+        "num_comments": 87,
+        "discussion_url": "https://news.ycombinator.com/item?id=48226944"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48225426",
+      "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+      "description": "",
+      "signals": {
+        "points": 287,
+        "num_comments": 361,
+        "discussion_url": "https://news.ycombinator.com/item?id=48225426"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48225838",
+      "title": "News outlets are limiting the Internet Archive’s access to their journalism",
+      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+      "description": "",
+      "signals": {
+        "points": 253,
+        "num_comments": 88,
+        "discussion_url": "https://news.ycombinator.com/item?id=48225838"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48223362",
+      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "url": "https://freenet.org/",
+      "description": "",
+      "signals": {
+        "points": 249,
+        "num_comments": 138,
+        "discussion_url": "https://news.ycombinator.com/item?id=48223362"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48227397",
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "description": "",
+      "signals": {
+        "points": 222,
+        "num_comments": 118,
+        "discussion_url": "https://news.ycombinator.com/item?id=48227397"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48230892",
+      "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+      "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+      "description": "",
+      "signals": {
+        "points": 186,
+        "num_comments": 119,
+        "discussion_url": "https://news.ycombinator.com/item?id=48230892"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48227860",
+      "title": "Using Kagi Search with Low Vision",
+      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "description": "",
+      "signals": {
+        "points": 173,
+        "num_comments": 46,
+        "discussion_url": "https://news.ycombinator.com/item?id=48227860"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48228788",
+      "title": "Uv is fantastic, but its package management UX is a mess",
+      "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+      "description": "",
+      "signals": {
+        "points": 143,
+        "num_comments": 85,
+        "discussion_url": "https://news.ycombinator.com/item?id=48228788"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48225357",
+      "title": "Spotify will start reserving concert tickets for fans",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
+      "description": "",
+      "signals": {
+        "points": 129,
+        "num_comments": 257,
+        "discussion_url": "https://news.ycombinator.com/item?id=48225357"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48190373",
+      "title": "Mounting git commits as folders with NFS (2023)",
+      "url": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
+      "description": "",
+      "signals": {
+        "points": 97,
+        "num_comments": 46,
+        "discussion_url": "https://news.ycombinator.com/item?id=48190373"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48227923",
+      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "url": "https://arxiv.org/abs/2605.12460",
+      "description": "",
+      "signals": {
+        "points": 85,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48227923"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48225040",
+      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "url": "https://www.runtm.com/",
+      "description": "",
+      "signals": {
+        "points": 78,
+        "num_comments": 22,
+        "discussion_url": "https://news.ycombinator.com/item?id=48225040"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48225596",
+      "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+      "url": "https://news.ycombinator.com/item?id=48225596",
+      "description": "",
+      "signals": {
+        "points": 71,
+        "num_comments": 79,
+        "discussion_url": "https://news.ycombinator.com/item?id=48225596"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48209905",
+      "title": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
+      "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
+      "description": "",
+      "signals": {
+        "points": 69,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48209905"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48196897",
+      "title": "Deciphering the Hashihara Castle Town Map",
+      "url": "https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html",
+      "description": "",
+      "signals": {
+        "points": 36,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48196897"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48193932",
+      "title": "Tristan Davey's Punch Card Archive",
+      "url": "https://punchcards.tristandavey.com/",
+      "description": "",
+      "signals": {
+        "points": 16,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48193932"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48231319",
+      "title": "Cleve Moler (Matlab, MathWorks) passed away on May 20, 2026",
+      "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48231319"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48231575",
+      "title": "Show HN: Spec-Driven Development Workflow for Claude Code",
+      "url": "https://news.ycombinator.com/item?id=48231575",
+      "description": "",
+      "signals": {
+        "points": 11,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48231575"
+      },
+      "category_hint": null
+    }
+  ]
+}

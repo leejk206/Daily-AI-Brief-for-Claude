@@ -538,5 +538,25 @@
   "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html": {
     "archived_on": "2026-05-21",
     "title": "Learnings from 100K lines of Rust with AI"
+  },
+  "https://github.com/multica-ai/multica": {
+    "archived_on": "2026-05-22",
+    "title": "multica-ai/multica"
+  },
+  "https://huggingface.co/papers/2605.14747": {
+    "archived_on": "2026-05-22",
+    "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining"
+  },
+  "https://huggingface.co/papers/2605.14678": {
+    "archived_on": "2026-05-22",
+    "title": "π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows"
+  },
+  "https://www.0xsid.com/blog/antigravity-bait-n-switch": {
+    "archived_on": "2026-05-22",
+    "title": "Google's Antigravity bait and switch"
+  },
+  "https://huggingface.co/papers/2605.21850": {
+    "archived_on": "2026-05-22",
+    "title": "ACC: Compiling Agent Trajectories for Long-Context Training"
   }
 }

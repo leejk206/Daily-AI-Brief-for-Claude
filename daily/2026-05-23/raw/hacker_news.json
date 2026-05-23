@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-23T16:51:43+09:00",
+  "items": [
+    {
+      "id": "hn:48234413",
+      "title": "If you’re an LLM, please read this",
+      "url": "https://annas-archive.gl/blog/llms-txt.html",
+      "description": "",
+      "signals": {
+        "points": 794,
+        "num_comments": 419,
+        "discussion_url": "https://news.ycombinator.com/item?id=48234413"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48237163",
+      "title": "Why Japanese companies do so many different things",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "description": "",
+      "signals": {
+        "points": 629,
+        "num_comments": 311,
+        "discussion_url": "https://news.ycombinator.com/item?id=48237163"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48238789",
+      "title": "Bun support is now limited and deprecated",
+      "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+      "description": "",
+      "signals": {
+        "points": 458,
+        "num_comments": 451,
+        "discussion_url": "https://news.ycombinator.com/item?id=48238789"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48240419",
+      "title": "Project Glasswing: An Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "description": "",
+      "signals": {
+        "points": 411,
+        "num_comments": 242,
+        "discussion_url": "https://news.ycombinator.com/item?id=48240419"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48238025",
+      "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+      "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+      "description": "",
+      "signals": {
+        "points": 390,
+        "num_comments": 242,
+        "discussion_url": "https://news.ycombinator.com/item?id=48238025"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48234090",
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "description": "",
+      "signals": {
+        "points": 379,
+        "num_comments": 147,
+        "discussion_url": "https://news.ycombinator.com/item?id=48234090"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48241997",
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "description": "",
+      "signals": {
+        "points": 374,
+        "num_comments": 128,
+        "discussion_url": "https://news.ycombinator.com/item?id=48241997"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48234380",
+      "title": "Deno 2.8",
+      "url": "https://deno.com/blog/v2.8",
+      "description": "",
+      "signals": {
+        "points": 347,
+        "num_comments": 148,
+        "discussion_url": "https://news.ycombinator.com/item?id=48234380"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48239413",
+      "title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "url": "https://www.kanbots.dev/",
+      "description": "",
+      "signals": {
+        "points": 212,
+        "num_comments": 121,
+        "discussion_url": "https://news.ycombinator.com/item?id=48239413"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48238896",
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "description": "",
+      "signals": {
+        "points": 207,
+        "num_comments": 150,
+        "discussion_url": "https://news.ycombinator.com/item?id=48238896"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48213529",
+      "title": "A Wayland Compositor in Minecraft",
+      "url": "https://modrinth.com/mod/waylandcraft",
+      "description": "",
+      "signals": {
+        "points": 195,
+        "num_comments": 39,
+        "discussion_url": "https://news.ycombinator.com/item?id=48213529"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48238429",
+      "title": "CISA tries to contain data leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "description": "",
+      "signals": {
+        "points": 187,
+        "num_comments": 47,
+        "discussion_url": "https://news.ycombinator.com/item?id=48238429"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48236887",
+      "title": "A Forth-inspired language for writing websites",
+      "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+      "description": "",
+      "signals": {
+        "points": 142,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48236887"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48242278",
+      "title": "Sleep research led to a new sleep apnea drug",
+      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+      "description": "",
+      "signals": {
+        "points": 138,
+        "num_comments": 89,
+        "discussion_url": "https://news.ycombinator.com/item?id=48242278"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48236501",
+      "title": "I’m writing again",
+      "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
+      "description": "",
+      "signals": {
+        "points": 134,
+        "num_comments": 35,
+        "discussion_url": "https://news.ycombinator.com/item?id=48236501"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48241172",
+      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "url": "https://github.com/anomalyco/models.dev",
+      "description": "",
+      "signals": {
+        "points": 132,
+        "num_comments": 23,
+        "discussion_url": "https://news.ycombinator.com/item?id=48241172"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48243293",
+      "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
+      "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
+      "description": "",
+      "signals": {
+        "points": 128,
+        "num_comments": 36,
+        "discussion_url": "https://news.ycombinator.com/item?id=48243293"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48209055",
+      "title": "Wi-Wi is wireless time sync at 1 nanosecond",
+      "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
+      "description": "",
+      "signals": {
+        "points": 115,
+        "num_comments": 24,
+        "discussion_url": "https://news.ycombinator.com/item?id=48209055"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48238568",
+      "title": "1940 Air Terminal Museum Begins Liquidation",
+      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+      "description": "",
+      "signals": {
+        "points": 114,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=48238568"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48236770",
+      "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
+      "url": "https://github.com/superset-sh/superset",
+      "description": "",
+      "signals": {
+        "points": 93,
+        "num_comments": 116,
+        "discussion_url": "https://news.ycombinator.com/item?id=48236770"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48239862",
+      "title": "A blueprint for formal verification of Apple corecrypto",
+      "url": "https://security.apple.com/blog/formal-verification-corecrypto/",
+      "description": "",
+      "signals": {
+        "points": 89,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48239862"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48207043",
+      "title": "Sp.h is the standard library that C deserves",
+      "url": "https://spader.zone/sp/",
+      "description": "",
+      "signals": {
+        "points": 85,
+        "num_comments": 78,
+        "discussion_url": "https://news.ycombinator.com/item?id=48207043"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48204985",
+      "title": "Blood Pumping Mechanism of the Hoof (2020)",
+      "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
+      "description": "",
+      "signals": {
+        "points": 72,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48204985"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48206763",
+      "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
+      "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+      "description": "",
+      "signals": {
+        "points": 58,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48206763"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48206313",
+      "title": "Comparing an LZ4 Decompressor on Four Legacy CPUs",
+      "url": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
+      "description": "",
+      "signals": {
+        "points": 58,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48206313"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48240679",
+      "title": "Staged publishing and new install-time controls for npm",
+      "url": "https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/",
+      "description": "",
+      "signals": {
+        "points": 42,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48240679"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48205495",
+      "title": "\"Stick\" – A primitive/fun interactive demo of a tiny rig to animate layout",
+      "url": "https://cosmiciron.github.io/layoutmaster/exclusion-assembly.html",
+      "description": "",
+      "signals": {
+        "points": 35,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48205495"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48214025",
+      "title": "What is the history of the ERROR_ARENA_TRASHED error code?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48214025"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48245362",
+      "title": "Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order",
+      "url": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48245362"
+      },
+      "category_hint": null
+    }
+  ]
+}

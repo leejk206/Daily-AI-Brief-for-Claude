@@ -3448,7 +3448,7 @@
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-17T07:23:16+09:00"
+      "tagged_at": "2026-05-23T16:55:25+09:00"
     },
     "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex": {
       "title": "How business operations teams use Codex",
@@ -4156,7 +4156,7 @@
         "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-22T14:47:57+09:00"
+      "tagged_at": "2026-05-23T16:55:25+09:00"
     },
     "https://github.com/rohitg00/ai-engineering-from-scratch": {
       "title": "rohitg00/ai-engineering-from-scratch",
@@ -4279,7 +4279,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-22T14:47:57+09:00"
+      "tagged_at": "2026-05-23T16:55:25+09:00"
     },
     "https://huggingface.co/papers/2605.22642": {
       "title": "Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning",
@@ -4292,7 +4292,7 @@
         "rl",
         "tool-use"
       ],
-      "tagged_at": "2026-05-22T14:47:57+09:00"
+      "tagged_at": "2026-05-23T16:55:25+09:00"
     },
     "https://huggingface.co/papers/2605.20682": {
       "title": "IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools",
@@ -4341,7 +4341,7 @@
         "cli-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-22T14:47:57+09:00"
+      "tagged_at": "2026-05-23T16:55:25+09:00"
     },
     "https://huggingface.co/papers/2605.19484": {
       "title": "CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing",
@@ -4366,7 +4366,7 @@
         "agent-skill",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-22T14:47:57+09:00"
+      "tagged_at": "2026-05-23T16:55:25+09:00"
     },
     "https://github.com/Lum1104/Understand-Anything": {
       "title": "Lum1104/Understand-Anything",
@@ -4378,7 +4378,7 @@
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-22T14:47:57+09:00"
+      "tagged_at": "2026-05-23T16:55:25+09:00"
     },
     "https://github.com/teng-lin/notebooklm-py": {
       "title": "teng-lin/notebooklm-py",
@@ -4439,6 +4439,135 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-05-22T14:47:57+09:00"
+    },
+    "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad": {
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "summary": "MS, 자체 Copilot 밀기 위해 사내 Claude Code 해지 시작",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-23",
+      "tags": [
+        "claude-code",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-23T16:55:25+09:00"
+    },
+    "https://modelrift.com/blog/openscad-llm-benchmark/": {
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "summary": "Antigravity 2.0이 3D 건축 코딩 벤치 1위 차지",
+      "category": "llm-harness-eval",
+      "source": "hacker_news",
+      "brief_date": "2026-05-23",
+      "tags": [
+        "benchmark",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-23T16:55:25+09:00"
+    },
+    "https://huggingface.co/papers/2605.16928": {
+      "title": "Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps",
+      "summary": "100스텝 학습만으로 풀어텐션→희소 전이, long-context 비용 절감",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-23",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-05-23T16:55:25+09:00"
+    },
+    "https://www.kanbots.dev/": {
+      "title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "summary": "칸반 카드마다 병렬 에이전트 실행하는 데스크톱 앱",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-05-23",
+      "tags": [
+        "coding-platform",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-05-23T16:55:25+09:00"
+    },
+    "https://huggingface.co/papers/2605.22138": {
+      "title": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning",
+      "summary": "에이전트가 언제·어떻게 계획할지 자율 조절하는 시뮬레이션 플래닝",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-23",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-23T16:55:25+09:00"
+    },
+    "https://huggingface.co/papers/2605.20244": {
+      "title": "Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search",
+      "summary": "Lean 증명 자동 리팩토링용 RAG·에이전틱 전략 탐색 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-23",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-23T16:55:25+09:00"
+    },
+    "https://huggingface.co/papers/2605.18607": {
+      "title": "Forecasting Downstream Performance of LLMs With Proxy Metrics",
+      "summary": "사전학습 결정 위한 신뢰성 있는 LLM 성능 예측 지표 제안",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-23",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-23T16:55:25+09:00"
+    },
+    "https://openai.com/index/gartner-2026-agentic-coding-leader": {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "summary": "Codex가 Gartner 2026 매직 쿼드런트 리더 등재",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-23",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-23T16:55:25+09:00"
+    },
+    "https://openai.com/index/virgin-atlantic": {
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "summary": "Virgin Atlantic이 Codex로 모바일 앱 리뉴얼 단축",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-23",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-23T16:55:25+09:00"
+    },
+    "https://github.com/superset-sh/superset": {
+      "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
+      "summary": "에이전트 시대용 IDE를 표방한 YC 신규 런치",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-23",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-23T16:55:25+09:00"
+    },
+    "https://huggingface.co/papers/2605.22791": {
+      "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+      "summary": "선형 어텐션의 erase·write 분리로 메모리 편집 안정화",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-23",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-05-23T16:55:25+09:00"
     }
   }
 }

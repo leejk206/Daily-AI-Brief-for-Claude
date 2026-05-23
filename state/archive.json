@@ -558,5 +558,21 @@
   "https://huggingface.co/papers/2605.21850": {
     "archived_on": "2026-05-22",
     "title": "ACC: Compiling Agent Trajectories for Long-Context Training"
+  },
+  "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad": {
+    "archived_on": "2026-05-23",
+    "title": "Microsoft starts canceling Claude Code licenses"
+  },
+  "https://modelrift.com/blog/openscad-llm-benchmark/": {
+    "archived_on": "2026-05-23",
+    "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark"
+  },
+  "https://huggingface.co/papers/2605.16928": {
+    "archived_on": "2026-05-23",
+    "title": "Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps"
+  },
+  "https://www.kanbots.dev/": {
+    "archived_on": "2026-05-23",
+    "title": "Open source Kanban desktop app that runs parallel agents on every card"
   }
 }

@@ -3353,7 +3353,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-22T14:47:57+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://github.com/rust-lang/rust-forge/pull/1040": {
       "title": "LLM Policy for Rust Compiler",
@@ -3457,9 +3457,10 @@
       "source": "release_blogs",
       "brief_date": "2026-05-17",
       "tags": [
-        "coding-platform"
+        "coding-platform",
+        "tutorial"
       ],
-      "tagged_at": "2026-05-17T07:23:16+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
       "title": "How data science teams use Codex",
@@ -3468,9 +3469,10 @@
       "source": "release_blogs",
       "brief_date": "2026-05-17",
       "tags": [
-        "coding-platform"
+        "coding-platform",
+        "tutorial"
       ],
-      "tagged_at": "2026-05-17T07:23:16+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
       "title": "How sales teams use Codex",
@@ -3479,9 +3481,10 @@
       "source": "release_blogs",
       "brief_date": "2026-05-17",
       "tags": [
-        "coding-platform"
+        "coding-platform",
+        "tutorial"
       ],
-      "tagged_at": "2026-05-17T07:23:16+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://github.com/microsoft/ai-agents-for-beginners": {
       "title": "microsoft/ai-agents-for-beginners",
@@ -3938,9 +3941,10 @@
       "brief_date": "2026-05-20",
       "tags": [
         "agent-skill",
-        "claude-code"
+        "claude-code",
+        "tutorial"
       ],
-      "tagged_at": "2026-05-22T14:47:57+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://twitter.com/karpathy/status/2056753169888334312": {
       "title": "I've joined Anthropic",
@@ -4279,7 +4283,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-23T16:55:25+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://huggingface.co/papers/2605.22642": {
       "title": "Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning",
@@ -4292,7 +4296,7 @@
         "rl",
         "tool-use"
       ],
-      "tagged_at": "2026-05-23T16:55:25+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://huggingface.co/papers/2605.20682": {
       "title": "IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools",
@@ -4341,7 +4345,7 @@
         "cli-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-23T16:55:25+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://huggingface.co/papers/2605.19484": {
       "title": "CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing",
@@ -4366,7 +4370,7 @@
         "agent-skill",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-23T16:55:25+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://github.com/Lum1104/Understand-Anything": {
       "title": "Lum1104/Understand-Anything",
@@ -4378,7 +4382,7 @@
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-23T16:55:25+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://github.com/teng-lin/notebooklm-py": {
       "title": "teng-lin/notebooklm-py",
@@ -4498,7 +4502,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-23T16:55:25+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://huggingface.co/papers/2605.20244": {
       "title": "Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search",
@@ -4510,7 +4514,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-23T16:55:25+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://huggingface.co/papers/2605.18607": {
       "title": "Forecasting Downstream Performance of LLMs With Proxy Metrics",
@@ -4522,7 +4526,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-23T16:55:25+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://openai.com/index/gartner-2026-agentic-coding-leader": {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
@@ -4533,7 +4537,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-23T16:55:25+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://openai.com/index/virgin-atlantic": {
       "title": "How Virgin Atlantic ships faster with Codex",
@@ -4544,7 +4548,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-23T16:55:25+09:00"
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     },
     "https://github.com/superset-sh/superset": {
       "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
@@ -4568,6 +4572,92 @@
         "paper"
       ],
       "tagged_at": "2026-05-23T16:55:25+09:00"
+    },
+    "https://huggingface.co/papers/2605.22144": {
+      "title": "One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems",
+      "summary": "멀티에이전트로 한 문장에서 개인화 단편 드라마를 생성",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-24T17:48:28+09:00"
+    },
+    "https://huggingface.co/papers/2605.22681": {
+      "title": "Forecasting Scientific Progress with Artificial Intelligence",
+      "summary": "AI가 과학적 진보를 예측 가능한지 평가하는 시간 grounding 데이터셋",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "auto-research",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-24T17:48:28+09:00"
+    },
+    "https://huggingface.co/papers/2605.13734": {
+      "title": "KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving",
+      "summary": "분리형 LLM 서빙용 서비스 인지 KV 캐시 압축 기법",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-05-24T17:48:28+09:00"
+    },
+    "https://github.com/mukul975/Anthropic-Cybersecurity-Skills": {
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "summary": "MITRE ATT&CK·NIST AI RMF 등 5개 프레임워크 매핑된 754개 사이버보안 agent skill 모음",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "agent-skill",
+        "claude-code"
+      ],
+      "tagged_at": "2026-05-24T17:48:28+09:00"
+    },
+    "https://huggingface.co/papers/2605.20176": {
+      "title": "ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning",
+      "summary": "멀티모달 증거 수집 자동화하는 임상 추론 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-24T17:48:28+09:00"
+    },
+    "https://huggingface.co/papers/2605.10158": {
+      "title": "Unsupervised Process Reward Models",
+      "summary": "라벨 없이 학습되는 프로세스 보상 모델",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-24T17:48:28+09:00"
+    },
+    "https://huggingface.co/papers/2605.15669": {
+      "title": "Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation",
+      "summary": "칩 설계 DRC 스크립트 합성 LLM 에이전트 벤치",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "benchmark",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-24T17:48:28+09:00"
     }
   }
 }

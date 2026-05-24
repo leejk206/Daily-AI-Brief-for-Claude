@@ -574,5 +574,25 @@
   "https://www.kanbots.dev/": {
     "archived_on": "2026-05-23",
     "title": "Open source Kanban desktop app that runs parallel agents on every card"
+  },
+  "https://github.com/multica-ai/andrej-karpathy-skills": {
+    "archived_on": "2026-05-24",
+    "title": "multica-ai/andrej-karpathy-skills"
+  },
+  "https://huggingface.co/papers/2605.22144": {
+    "archived_on": "2026-05-24",
+    "title": "One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems"
+  },
+  "https://huggingface.co/papers/2605.22681": {
+    "archived_on": "2026-05-24",
+    "title": "Forecasting Scientific Progress with Artificial Intelligence"
+  },
+  "https://huggingface.co/papers/2605.13734": {
+    "archived_on": "2026-05-24",
+    "title": "KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving"
+  },
+  "https://github.com/mukul975/Anthropic-Cybersecurity-Skills": {
+    "archived_on": "2026-05-24",
+    "title": "mukul975/Anthropic-Cybersecurity-Skills"
   }
 }

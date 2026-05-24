@@ -1,7 +1,4 @@
 [
-  {"url": "https://github.com/earendil-works/pi", "title": "earendil-works/pi"},
-  {"url": "https://github.com/manaflow-ai/cmux", "title": "manaflow-ai/cmux"},
-  {"url": "https://github.com/Alishahryar1/free-claude-code", "title": "Alishahryar1/free-claude-code"},
-  {"url": "https://github.com/colbymchenry/codegraph", "title": "colbymchenry/codegraph"},
-  {"url": "https://huggingface.co/papers/2605.22177", "title": "Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles"}
+  {"url": "https://github.com/anthropics/knowledge-work-plugins", "title": "anthropics/knowledge-work-plugins"},
+  {"url": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates", "title": "froggeric/Qwen-Fixed-Chat-Templates"}
 ]

@@ -4296,7 +4296,7 @@
         "rl",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T20:12:38+09:00"
+      "tagged_at": "2026-05-24T20:27:08+09:00"
     },
     "https://huggingface.co/papers/2605.20682": {
       "title": "IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools",
@@ -4345,7 +4345,7 @@
         "cli-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-24T20:12:38+09:00"
+      "tagged_at": "2026-05-24T20:27:08+09:00"
     },
     "https://huggingface.co/papers/2605.19484": {
       "title": "CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing",
@@ -4370,7 +4370,7 @@
         "agent-skill",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T20:12:38+09:00"
+      "tagged_at": "2026-05-24T20:27:08+09:00"
     },
     "https://github.com/Lum1104/Understand-Anything": {
       "title": "Lum1104/Understand-Anything",
@@ -4382,7 +4382,7 @@
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T20:12:38+09:00"
+      "tagged_at": "2026-05-24T20:27:08+09:00"
     },
     "https://github.com/teng-lin/notebooklm-py": {
       "title": "teng-lin/notebooklm-py",
@@ -4527,7 +4527,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-24T18:30:22+09:00"
+      "tagged_at": "2026-05-24T20:27:08+09:00"
     },
     "https://openai.com/index/gartner-2026-agentic-coding-leader": {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
@@ -4781,6 +4781,31 @@
         "coding-platform"
       ],
       "tagged_at": "2026-05-24T20:12:38+09:00"
+    },
+    "https://github.com/anthropics/knowledge-work-plugins": {
+      "title": "anthropics/knowledge-work-plugins",
+      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "agent-skill",
+        "claude-code",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-24T20:27:08+09:00"
+    },
+    "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates": {
+      "title": "froggeric/Qwen-Fixed-Chat-Templates",
+      "summary": "로컬 Qwen 모델 채팅 템플릿 버그 수정본",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "local-inference",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-24T20:27:08+09:00"
     }
   }
 }

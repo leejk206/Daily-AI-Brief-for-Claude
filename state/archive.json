@@ -690,5 +690,13 @@
   "https://huggingface.co/papers/2605.22177": {
     "archived_on": "2026-05-24",
     "title": "Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles"
+  },
+  "https://github.com/anthropics/knowledge-work-plugins": {
+    "archived_on": "2026-05-24",
+    "title": "anthropics/knowledge-work-plugins"
+  },
+  "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates": {
+    "archived_on": "2026-05-24",
+    "title": "froggeric/Qwen-Fixed-Chat-Templates"
   }
 }

@@ -748,5 +748,17 @@
     "last_seen": "2026-05-24",
     "days": 1,
     "title": "manaflow-ai/cmux"
+  },
+  "https://github.com/anthropics/knowledge-work-plugins": {
+    "first_seen": "2026-05-24",
+    "last_seen": "2026-05-24",
+    "days": 1,
+    "title": "anthropics/knowledge-work-plugins"
+  },
+  "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates": {
+    "first_seen": "2026-05-24",
+    "last_seen": "2026-05-24",
+    "days": 1,
+    "title": "froggeric/Qwen-Fixed-Chat-Templates"
   }
 }

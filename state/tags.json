@@ -3353,7 +3353,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:20:48+09:00"
     },
     "https://github.com/rust-lang/rust-forge/pull/1040": {
       "title": "LLM Policy for Rust Compiler",
@@ -3460,7 +3460,7 @@
         "coding-platform",
         "tutorial"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:20:48+09:00"
     },
     "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
       "title": "How data science teams use Codex",
@@ -3472,7 +3472,7 @@
         "coding-platform",
         "tutorial"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:20:48+09:00"
     },
     "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
       "title": "How sales teams use Codex",
@@ -3484,7 +3484,7 @@
         "coding-platform",
         "tutorial"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:20:48+09:00"
     },
     "https://github.com/microsoft/ai-agents-for-beginners": {
       "title": "microsoft/ai-agents-for-beginners",
@@ -4283,7 +4283,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:20:48+09:00"
     },
     "https://huggingface.co/papers/2605.22642": {
       "title": "Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning",
@@ -4296,7 +4296,7 @@
         "rl",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:20:48+09:00"
     },
     "https://huggingface.co/papers/2605.20682": {
       "title": "IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools",
@@ -4345,7 +4345,7 @@
         "cli-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:20:48+09:00"
     },
     "https://huggingface.co/papers/2605.19484": {
       "title": "CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing",
@@ -4370,7 +4370,7 @@
         "agent-skill",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:20:48+09:00"
     },
     "https://github.com/Lum1104/Understand-Anything": {
       "title": "Lum1104/Understand-Anything",
@@ -4382,7 +4382,7 @@
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:20:48+09:00"
     },
     "https://github.com/teng-lin/notebooklm-py": {
       "title": "teng-lin/notebooklm-py",
@@ -4502,7 +4502,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:20:48+09:00"
     },
     "https://huggingface.co/papers/2605.20244": {
       "title": "Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search",
@@ -4537,7 +4537,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:20:48+09:00"
     },
     "https://openai.com/index/virgin-atlantic": {
       "title": "How Virgin Atlantic ships faster with Codex",
@@ -4548,7 +4548,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:20:48+09:00"
     },
     "https://github.com/superset-sh/superset": {
       "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
@@ -4658,6 +4658,18 @@
         "tool-use"
       ],
       "tagged_at": "2026-05-24T17:48:28+09:00"
+    },
+    "https://olano.dev/blog/dangerously-skip/": {
+      "title": "--dangerously-skip-reading-code",
+      "summary": "Critique of coding agents that skip reading source before editing.",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "agent-harness",
+        "claude-code"
+      ],
+      "tagged_at": "2026-05-24T18:20:48+09:00"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "source": "huggingface",
-  "fetched_at": "2026-05-24T17:37:59+09:00",
+  "fetched_at": "2026-05-24T18:16:34+09:00",
   "items": [
     {
       "id": "hf-model:bytedance-research/Lance",
@@ -23,7 +23,7 @@
       "signals": {
         "type": "model",
         "downloads": 4534,
-        "likes": 483,
+        "likes": 487,
         "pipeline": "translation"
       },
       "category_hint": null
@@ -62,7 +62,7 @@
       "signals": {
         "type": "model",
         "downloads": 6032,
-        "likes": 281,
+        "likes": 282,
         "pipeline": "video-text-to-text"
       },
       "category_hint": null
@@ -75,7 +75,7 @@
       "signals": {
         "type": "model",
         "downloads": 84346,
-        "likes": 264,
+        "likes": 265,
         "pipeline": "text-generation"
       },
       "category_hint": null
@@ -101,7 +101,7 @@
       "signals": {
         "type": "model",
         "downloads": 1331058,
-        "likes": 1311,
+        "likes": 1312,
         "pipeline": "text-to-video"
       },
       "category_hint": null
@@ -192,7 +192,7 @@
       "signals": {
         "type": "model",
         "downloads": 2407,
-        "likes": 145,
+        "likes": 146,
         "pipeline": "translation"
       },
       "category_hint": null
@@ -244,7 +244,7 @@
       "signals": {
         "type": "model",
         "downloads": 10998,
-        "likes": 100,
+        "likes": 101,
         "pipeline": "image-to-text"
       },
       "category_hint": null
@@ -257,7 +257,7 @@
       "signals": {
         "type": "model",
         "downloads": 8300,
-        "likes": 102,
+        "likes": 103,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -713,7 +713,7 @@
       "description": "Robust training and validation of Autonomous Driving Systems (ADS) require massive, diverse datasets. Proprietary data collected by Autonomous Vehicle (AV) fleets, while high-fidelity, are limited in scale, diversity of sensor configurations, as well as geographic and long-tail-behavioral coverage. ",
       "signals": {
         "type": "paper",
-        "upvotes": 23,
+        "upvotes": 24,
         "arxiv_id": "2605.22809"
       },
       "category_hint": null

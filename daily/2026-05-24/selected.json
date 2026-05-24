@@ -1,63 +1,23 @@
 [
   {
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "title": "multica-ai/andrej-karpathy-skills"
-  },
-  {
-    "url": "https://huggingface.co/papers/2605.22144",
-    "title": "One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems"
-  },
-  {
-    "url": "https://huggingface.co/papers/2605.22681",
-    "title": "Forecasting Scientific Progress with Artificial Intelligence"
-  },
-  {
-    "url": "https://huggingface.co/papers/2605.13734",
-    "title": "KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving"
-  },
-  {
-    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-    "title": "mukul975/Anthropic-Cybersecurity-Skills"
-  },
-  {
-    "url": "https://openai.com/index/sea-david-chen",
-    "title": "Sea's View on the Future of Agentic Software Development with Codex"
-  },
-  {
-    "url": "https://huggingface.co/papers/2605.20176",
-    "title": "ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning"
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner"
   },
   {
     "url": "https://huggingface.co/papers/2605.22138",
     "title": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning"
   },
   {
-    "url": "https://huggingface.co/papers/2605.20244",
-    "title": "Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search"
+    "url": "https://olano.dev/blog/dangerously-skip/",
+    "title": "--dangerously-skip-reading-code"
   },
   {
-    "url": "https://huggingface.co/papers/2605.22177",
-    "title": "Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles"
+    "url": "https://openai.com/index/virgin-atlantic",
+    "title": "How Virgin Atlantic ships faster with Codex"
   },
   {
-    "url": "https://huggingface.co/papers/2605.22642",
-    "title": "Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning"
-  },
-  {
-    "url": "https://huggingface.co/papers/2605.10158",
-    "title": "Unsupervised Process Reward Models"
-  },
-  {
-    "url": "https://huggingface.co/papers/2605.15669",
-    "title": "Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation"
-  },
-  {
-    "url": "https://huggingface.co/papers/2605.18607",
-    "title": "Forecasting Downstream Performance of LLMs With Proxy Metrics"
-  },
-  {
-    "url": "https://huggingface.co/papers/2605.22535",
-    "title": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks"
+    "url": "https://openai.com/index/sea-david-chen",
+    "title": "Sea's View on the Future of Agentic Software Development with Codex"
   },
   {
     "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
@@ -72,19 +32,23 @@
     "title": "How data science teams use Codex"
   },
   {
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner"
-  },
-  {
-    "url": "https://openai.com/index/virgin-atlantic",
-    "title": "How Virgin Atlantic ships faster with Codex"
-  },
-  {
     "url": "https://github.com/Lum1104/Understand-Anything",
     "title": "Lum1104/Understand-Anything"
   },
   {
     "url": "https://github.com/dotnet/skills",
     "title": "dotnet/skills"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.22177",
+    "title": "Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.22535",
+    "title": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.22642",
+    "title": "Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning"
   }
 ]

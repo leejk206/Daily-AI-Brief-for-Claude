@@ -594,5 +594,25 @@
   "https://github.com/mukul975/Anthropic-Cybersecurity-Skills": {
     "archived_on": "2026-05-24",
     "title": "mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  "https://openai.com/index/gartner-2026-agentic-coding-leader": {
+    "archived_on": "2026-05-24",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner"
+  },
+  "https://huggingface.co/papers/2605.22138": {
+    "archived_on": "2026-05-24",
+    "title": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning"
+  },
+  "https://olano.dev/blog/dangerously-skip/": {
+    "archived_on": "2026-05-24",
+    "title": "--dangerously-skip-reading-code"
+  },
+  "https://openai.com/index/virgin-atlantic": {
+    "archived_on": "2026-05-24",
+    "title": "How Virgin Atlantic ships faster with Codex"
+  },
+  "https://openai.com/index/sea-david-chen": {
+    "archived_on": "2026-05-24",
+    "title": "Sea's View on the Future of Agentic Software Development with Codex"
   }
 }

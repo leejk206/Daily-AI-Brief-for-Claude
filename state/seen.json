@@ -688,5 +688,11 @@
     "last_seen": "2026-05-24",
     "days": 1,
     "title": "Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation"
+  },
+  "https://olano.dev/blog/dangerously-skip/": {
+    "first_seen": "2026-05-24",
+    "last_seen": "2026-05-24",
+    "days": 1,
+    "title": "--dangerously-skip-reading-code"
   }
 }

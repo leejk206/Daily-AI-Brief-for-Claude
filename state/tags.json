@@ -4296,7 +4296,7 @@
         "rl",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T20:27:08+09:00"
+      "tagged_at": "2026-05-24T20:38:34+09:00"
     },
     "https://huggingface.co/papers/2605.20682": {
       "title": "IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools",
@@ -4345,7 +4345,7 @@
         "cli-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-24T20:27:08+09:00"
+      "tagged_at": "2026-05-24T20:38:34+09:00"
     },
     "https://huggingface.co/papers/2605.19484": {
       "title": "CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing",
@@ -4370,7 +4370,7 @@
         "agent-skill",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T20:27:08+09:00"
+      "tagged_at": "2026-05-24T20:38:34+09:00"
     },
     "https://github.com/Lum1104/Understand-Anything": {
       "title": "Lum1104/Understand-Anything",
@@ -4382,7 +4382,7 @@
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T20:27:08+09:00"
+      "tagged_at": "2026-05-24T20:38:34+09:00"
     },
     "https://github.com/teng-lin/notebooklm-py": {
       "title": "teng-lin/notebooklm-py",
@@ -4806,6 +4806,65 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-05-24T20:27:08+09:00"
+    },
+    "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack": {
+      "title": "Our response to the TanStack npm supply chain attack",
+      "summary": "Codex·OpenAI 데스크톱 앱 사용자 보안 영향, macOS 6/12까지 업데이트 필수",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-24T20:38:34+09:00"
+    },
+    "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/": {
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "summary": "Google DeepMind, 과학 발견 가속용 AI 도구·실험 모음 공개",
+      "category": "agent-frameworks",
+      "source": "release_blogs",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "auto-research",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-24T20:38:34+09:00"
+    },
+    "https://huggingface.co/papers/2605.21467": {
+      "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards",
+      "summary": "RLVR 토큰 단위 신호 분석으로 LLM 추론 학습 효율 개선",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-24T20:38:34+09:00"
+    },
+    "https://huggingface.co/papers/2605.22074": {
+      "title": "From Reasoning Chains to Verifiable Subproblems: Curriculum Reinforcement Learning Enables Credit Assignment for LLM Reasoning",
+      "summary": "Curriculum RL로 어려운 문제에서도 LLM 추론 credit assignment 가능",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-24T20:38:34+09:00"
+    },
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture": {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary": "AI가 이산기하 미해결 문제 해결, 수학적 발견 마일스톤",
+      "category": "llm-harness-eval",
+      "source": "release_blogs",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "auto-research"
+      ],
+      "tagged_at": "2026-05-24T20:38:34+09:00"
     }
   }
 }

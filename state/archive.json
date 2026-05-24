@@ -698,5 +698,25 @@
   "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates": {
     "archived_on": "2026-05-24",
     "title": "froggeric/Qwen-Fixed-Chat-Templates"
+  },
+  "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack": {
+    "archived_on": "2026-05-24",
+    "title": "Our response to the TanStack npm supply chain attack"
+  },
+  "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/": {
+    "archived_on": "2026-05-24",
+    "title": "Gemini for Science: AI experiments and tools for a new era of discovery"
+  },
+  "https://huggingface.co/papers/2605.21467": {
+    "archived_on": "2026-05-24",
+    "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards"
+  },
+  "https://huggingface.co/papers/2605.22074": {
+    "archived_on": "2026-05-24",
+    "title": "From Reasoning Chains to Verifiable Subproblems"
+  },
+  "https://openai.com/index/model-disproves-discrete-geometry-conjecture": {
+    "archived_on": "2026-05-24",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry"
   }
 }

@@ -1,4 +1,7 @@
 [
-  {"url": "https://github.com/anthropics/knowledge-work-plugins", "title": "anthropics/knowledge-work-plugins"},
-  {"url": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates", "title": "froggeric/Qwen-Fixed-Chat-Templates"}
+  {"url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack", "title": "Our response to the TanStack npm supply chain attack"},
+  {"url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/", "title": "Gemini for Science: AI experiments and tools for a new era of discovery"},
+  {"url": "https://huggingface.co/papers/2605.21467", "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards"},
+  {"url": "https://huggingface.co/papers/2605.22074", "title": "From Reasoning Chains to Verifiable Subproblems"},
+  {"url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture", "title": "An OpenAI model has disproved a central conjecture in discrete geometry"}
 ]

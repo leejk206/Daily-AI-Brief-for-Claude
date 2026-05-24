@@ -1,22 +1,7 @@
 [
-  {
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner"
-  },
-  {
-    "url": "https://huggingface.co/papers/2605.22138",
-    "title": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning"
-  },
-  {
-    "url": "https://olano.dev/blog/dangerously-skip/",
-    "title": "--dangerously-skip-reading-code"
-  },
-  {
-    "url": "https://openai.com/index/virgin-atlantic",
-    "title": "How Virgin Atlantic ships faster with Codex"
-  },
-  {
-    "url": "https://openai.com/index/sea-david-chen",
-    "title": "Sea's View on the Future of Agentic Software Development with Codex"
-  }
+  {"url": "https://huggingface.co/papers/2605.21605", "title": "GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation"},
+  {"url": "https://huggingface.co/papers/2605.20176", "title": "ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning"},
+  {"url": "https://huggingface.co/papers/2605.15669", "title": "Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation"},
+  {"url": "https://huggingface.co/papers/2605.18607", "title": "Forecasting Downstream Performance of LLMs With Proxy Metrics"},
+  {"url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex", "title": "How sales teams use Codex"}
 ]

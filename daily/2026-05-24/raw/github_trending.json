@@ -1,6 +1,6 @@
 {
   "source": "github_trending",
-  "fetched_at": "2026-05-24T18:16:35+09:00",
+  "fetched_at": "2026-05-24T18:25:00+09:00",
   "items": [
     {
       "id": "github:Lum1104/Understand-Anything",
@@ -8,7 +8,7 @@
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "signals": {
-        "stars": 23095,
+        "stars": 23122,
         "stars_today": 2299,
         "language": "TypeScript"
       },
@@ -20,7 +20,7 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "signals": {
-        "stars": 26894,
+        "stars": 26905,
         "stars_today": 2193,
         "language": "Python"
       },
@@ -32,7 +32,7 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "signals": {
-        "stars": 20604,
+        "stars": 20626,
         "stars_today": 2456,
         "language": "TypeScript"
       },
@@ -44,7 +44,7 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "signals": {
-        "stars": 14318,
+        "stars": 14329,
         "stars_today": 1521,
         "language": "Python"
       },
@@ -56,7 +56,7 @@
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "signals": {
-        "stars": 23299,
+        "stars": 23306,
         "stars_today": 545,
         "language": "Python"
       },
@@ -68,7 +68,7 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "signals": {
-        "stars": 150507,
+        "stars": 150518,
         "stars_today": 3507,
         "language": ""
       },
@@ -80,7 +80,7 @@
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "signals": {
-        "stars": 2809,
+        "stars": 2812,
         "stars_today": 266,
         "language": "C#"
       },
@@ -92,7 +92,7 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "signals": {
-        "stars": 41444,
+        "stars": 41448,
         "stars_today": 435,
         "language": "TypeScript"
       },
@@ -104,7 +104,7 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "signals": {
-        "stars": 7731,
+        "stars": 7737,
         "stars_today": 281,
         "language": "Python"
       },
@@ -116,7 +116,7 @@
       "url": "https://github.com/presenton/presenton",
       "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
       "signals": {
-        "stars": 6603,
+        "stars": 6605,
         "stars_today": 241,
         "language": "TypeScript"
       },
@@ -128,7 +128,7 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "signals": {
-        "stars": 32132,
+        "stars": 32140,
         "stars_today": 410,
         "language": "TypeScript"
       },
@@ -140,7 +140,7 @@
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
       "signals": {
-        "stars": 224049,
+        "stars": 224052,
         "stars_today": 628,
         "language": ""
       },
@@ -152,7 +152,7 @@
       "url": "https://github.com/odoo/odoo",
       "description": "Odoo. Open Source Apps To Grow Your Business.",
       "signals": {
-        "stars": 51585,
+        "stars": 51589,
         "stars_today": 386,
         "language": "Python"
       },
@@ -164,7 +164,7 @@
       "url": "https://github.com/NVlabs/LongLive",
       "description": "LongLive 2.0: Infra - Long Video Gen",
       "signals": {
-        "stars": 1924,
+        "stars": 1925,
         "stars_today": 94,
         "language": "Python"
       },
@@ -176,7 +176,7 @@
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "signals": {
-        "stars": 165155,
+        "stars": 165159,
         "stars_today": 759,
         "language": "Python"
       },
@@ -188,7 +188,7 @@
       "url": "https://github.com/janestreet/magic-trace",
       "description": "magic-trace collects and displays high-resolution traces of what a process is doing",
       "signals": {
-        "stars": 5994,
+        "stars": 5996,
         "stars_today": 68,
         "language": "OCaml"
       },

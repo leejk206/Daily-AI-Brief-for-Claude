@@ -1,6 +1,6 @@
 {
   "source": "huggingface",
-  "fetched_at": "2026-05-24T18:16:34+09:00",
+  "fetched_at": "2026-05-24T18:25:03+09:00",
   "items": [
     {
       "id": "hf-model:bytedance-research/Lance",
@@ -23,7 +23,7 @@
       "signals": {
         "type": "model",
         "downloads": 4534,
-        "likes": 487,
+        "likes": 488,
         "pipeline": "translation"
       },
       "category_hint": null
@@ -62,7 +62,7 @@
       "signals": {
         "type": "model",
         "downloads": 6032,
-        "likes": 282,
+        "likes": 283,
         "pipeline": "video-text-to-text"
       },
       "category_hint": null
@@ -114,7 +114,7 @@
       "signals": {
         "type": "model",
         "downloads": 660321,
-        "likes": 443,
+        "likes": 445,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null

@@ -614,5 +614,25 @@
   "https://openai.com/index/sea-david-chen": {
     "archived_on": "2026-05-24",
     "title": "Sea's View on the Future of Agentic Software Development with Codex"
+  },
+  "https://huggingface.co/papers/2605.21605": {
+    "archived_on": "2026-05-24",
+    "title": "GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation"
+  },
+  "https://huggingface.co/papers/2605.20176": {
+    "archived_on": "2026-05-24",
+    "title": "ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning"
+  },
+  "https://huggingface.co/papers/2605.15669": {
+    "archived_on": "2026-05-24",
+    "title": "Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation"
+  },
+  "https://huggingface.co/papers/2605.18607": {
+    "archived_on": "2026-05-24",
+    "title": "Forecasting Downstream Performance of LLMs With Proxy Metrics"
+  },
+  "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
+    "archived_on": "2026-05-24",
+    "title": "How sales teams use Codex"
   }
 }

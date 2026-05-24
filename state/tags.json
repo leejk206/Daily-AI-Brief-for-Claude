@@ -3460,7 +3460,7 @@
         "coding-platform",
         "tutorial"
       ],
-      "tagged_at": "2026-05-24T18:20:48+09:00"
+      "tagged_at": "2026-05-24T18:30:22+09:00"
     },
     "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
       "title": "How data science teams use Codex",
@@ -3472,7 +3472,7 @@
         "coding-platform",
         "tutorial"
       ],
-      "tagged_at": "2026-05-24T18:20:48+09:00"
+      "tagged_at": "2026-05-24T18:30:22+09:00"
     },
     "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
       "title": "How sales teams use Codex",
@@ -3484,7 +3484,7 @@
         "coding-platform",
         "tutorial"
       ],
-      "tagged_at": "2026-05-24T18:20:48+09:00"
+      "tagged_at": "2026-05-24T18:30:22+09:00"
     },
     "https://github.com/microsoft/ai-agents-for-beginners": {
       "title": "microsoft/ai-agents-for-beginners",
@@ -4370,7 +4370,7 @@
         "agent-skill",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T18:20:48+09:00"
+      "tagged_at": "2026-05-24T18:30:22+09:00"
     },
     "https://github.com/Lum1104/Understand-Anything": {
       "title": "Lum1104/Understand-Anything",
@@ -4382,7 +4382,7 @@
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T18:20:48+09:00"
+      "tagged_at": "2026-05-24T18:30:22+09:00"
     },
     "https://github.com/teng-lin/notebooklm-py": {
       "title": "teng-lin/notebooklm-py",
@@ -4514,7 +4514,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:30:22+09:00"
     },
     "https://huggingface.co/papers/2605.18607": {
       "title": "Forecasting Downstream Performance of LLMs With Proxy Metrics",
@@ -4526,7 +4526,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:30:22+09:00"
     },
     "https://openai.com/index/gartner-2026-agentic-coding-leader": {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
@@ -4632,7 +4632,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:30:22+09:00"
     },
     "https://huggingface.co/papers/2605.10158": {
       "title": "Unsupervised Process Reward Models",
@@ -4657,7 +4657,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T18:30:22+09:00"
     },
     "https://olano.dev/blog/dangerously-skip/": {
       "title": "--dangerously-skip-reading-code",
@@ -4670,6 +4670,19 @@
         "claude-code"
       ],
       "tagged_at": "2026-05-24T18:20:48+09:00"
+    },
+    "https://huggingface.co/papers/2605.21605": {
+      "title": "GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation",
+      "summary": "도구 호출 경험을 증류해 스스로 진화하는 비주얼 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-24T18:30:22+09:00"
     }
   }
 }

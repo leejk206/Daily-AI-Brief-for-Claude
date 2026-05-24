@@ -3460,7 +3460,7 @@
         "coding-platform",
         "tutorial"
       ],
-      "tagged_at": "2026-05-24T18:30:22+09:00"
+      "tagged_at": "2026-05-24T18:44:53+09:00"
     },
     "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
       "title": "How data science teams use Codex",
@@ -3472,7 +3472,7 @@
         "coding-platform",
         "tutorial"
       ],
-      "tagged_at": "2026-05-24T18:30:22+09:00"
+      "tagged_at": "2026-05-24T18:44:53+09:00"
     },
     "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
       "title": "How sales teams use Codex",
@@ -4345,7 +4345,7 @@
         "cli-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-24T18:20:48+09:00"
+      "tagged_at": "2026-05-24T18:44:53+09:00"
     },
     "https://huggingface.co/papers/2605.19484": {
       "title": "CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing",
@@ -4370,7 +4370,7 @@
         "agent-skill",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T18:30:22+09:00"
+      "tagged_at": "2026-05-24T18:44:53+09:00"
     },
     "https://github.com/Lum1104/Understand-Anything": {
       "title": "Lum1104/Understand-Anything",
@@ -4382,7 +4382,7 @@
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T18:30:22+09:00"
+      "tagged_at": "2026-05-24T18:44:53+09:00"
     },
     "https://github.com/teng-lin/notebooklm-py": {
       "title": "teng-lin/notebooklm-py",
@@ -4514,7 +4514,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T18:30:22+09:00"
+      "tagged_at": "2026-05-24T18:44:53+09:00"
     },
     "https://huggingface.co/papers/2605.18607": {
       "title": "Forecasting Downstream Performance of LLMs With Proxy Metrics",
@@ -4683,6 +4683,54 @@
         "tool-use"
       ],
       "tagged_at": "2026-05-24T18:30:22+09:00"
+    },
+    "https://huggingface.co/papers/2605.22536": {
+      "title": "SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation",
+      "summary": "시각 열화 환경에서 MLLM 공간 추론 평가 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-24T18:44:53+09:00"
+    },
+    "https://huggingface.co/papers/2605.22109": {
+      "title": "Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?",
+      "summary": "MLLM의 성격 인지·첫인상 편향 평가 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-24T18:44:53+09:00"
+    },
+    "https://huggingface.co/papers/2605.18577": {
+      "title": "OmniPro: A Comprehensive Benchmark for Omni-Proactive Streaming Video Understanding",
+      "summary": "음성·영상 스트림에서 언제·무엇을 말할지 자율 결정하는 옴니모달 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-24T18:44:53+09:00"
+    },
+    "https://huggingface.co/papers/2605.22355": {
+      "title": "TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation",
+      "summary": "맵 없이 LLM이 대중교통 노선을 생성하는 대규모 데이터셋·벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-24T18:44:53+09:00"
     }
   }
 }

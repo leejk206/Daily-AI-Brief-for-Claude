@@ -1,7 +1,7 @@
 [
-  {"url": "https://huggingface.co/papers/2605.21605", "title": "GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation"},
-  {"url": "https://huggingface.co/papers/2605.20176", "title": "ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning"},
-  {"url": "https://huggingface.co/papers/2605.15669", "title": "Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation"},
-  {"url": "https://huggingface.co/papers/2605.18607", "title": "Forecasting Downstream Performance of LLMs With Proxy Metrics"},
-  {"url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex", "title": "How sales teams use Codex"}
+  {"url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex", "title": "How business operations teams use Codex"},
+  {"url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex", "title": "How data science teams use Codex"},
+  {"url": "https://huggingface.co/papers/2605.22536", "title": "SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation"},
+  {"url": "https://huggingface.co/papers/2605.22109", "title": "Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?"},
+  {"url": "https://huggingface.co/papers/2605.18577", "title": "OmniPro: A Comprehensive Benchmark for Omni-Proactive Streaming Video Understanding"}
 ]

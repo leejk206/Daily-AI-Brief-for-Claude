@@ -1,6 +1,6 @@
 {
   "source": "huggingface",
-  "fetched_at": "2026-05-24T18:25:03+09:00",
+  "fetched_at": "2026-05-24T18:40:34+09:00",
   "items": [
     {
       "id": "hf-model:bytedance-research/Lance",
@@ -10,7 +10,7 @@
       "signals": {
         "type": "model",
         "downloads": 1474,
-        "likes": 724,
+        "likes": 725,
         "pipeline": "any-to-any"
       },
       "category_hint": null
@@ -23,7 +23,7 @@
       "signals": {
         "type": "model",
         "downloads": 4534,
-        "likes": 488,
+        "likes": 491,
         "pipeline": "translation"
       },
       "category_hint": null
@@ -140,7 +140,7 @@
       "signals": {
         "type": "model",
         "downloads": 547827,
-        "likes": 351,
+        "likes": 352,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -179,7 +179,7 @@
       "signals": {
         "type": "model",
         "downloads": 4666078,
-        "likes": 4199,
+        "likes": 4200,
         "pipeline": "text-generation"
       },
       "category_hint": null
@@ -257,7 +257,7 @@
       "signals": {
         "type": "model",
         "downloads": 8300,
-        "likes": 103,
+        "likes": 104,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -281,7 +281,7 @@
       "description": "Aligning Text-to-Image (T2I) generation models with human preferences increasingly relies on image reward models that score or rank generated images according to prompt alignment and perceptual quality. Existing reward models are commonly trained as Bradley-Terry (BT) preference models on large-scal",
       "signals": {
         "type": "paper",
-        "upvotes": 14,
+        "upvotes": 15,
         "arxiv_id": "2605.17602"
       },
       "category_hint": null

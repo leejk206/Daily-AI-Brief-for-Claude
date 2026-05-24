@@ -2,44 +2,54 @@
 
 ## 🔥 오늘의 TOP 5
 
-1. **Codex for Work — 비즈니스 운영팀 활용 가이드** — 이니셔티브 브리프·리더십 의사결정 패키지 자동화 실전 사례
-   sources: release_blogs
-   https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex
-
-2. **Codex for Work — 데이터 사이언스팀 활용 가이드** — root-cause 분석·KPI 메모·대시보드 스펙 작성 자동화
-   sources: release_blogs
-   https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
-
-3. **SpaceDG: 시각 열화 환경의 공간 지능 벤치마크** — 흐림·노이즈 등 열화된 입력에서 MLLM 공간 추론 평가
+1. **Unsupervised Process Reward Models** — 전문가 라벨 없이 단계별 보상 학습 제시
    sources: huggingface
-   https://huggingface.co/papers/2605.22536
+   https://huggingface.co/papers/2605.10158
 
-4. **Perception or Prejudice: MLLM 성격 인지 벤치마크** — MLLM의 첫인상 편향과 성격 판단 한계를 평가
+2. **Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention** — 선형 어텐션의 메모리 편집 분리 설계
    sources: huggingface
-   https://huggingface.co/papers/2605.22109
+   https://huggingface.co/papers/2605.22791
 
-5. **OmniPro: 옴니 프로액티브 스트리밍 비디오 이해 벤치마크** — 음성·영상 스트림에서 언제·무엇을 말할지 자율 결정
+3. **Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search** — Lean 증명을 다목적으로 리팩토링하는 에이전트
    sources: huggingface
-   https://huggingface.co/papers/2605.18577
+   https://huggingface.co/papers/2605.20244
+
+4. **Jackrong/Qwopus3.5-9B-Coder-GGUF** — Qwen×Opus 결합 9B 코더의 로컬 양자화 배포
+   sources: huggingface
+   https://huggingface.co/Jackrong/Qwopus3.5-9B-Coder-GGUF
+
+5. **"I didn't Make the Micro Decisions": Measuring Goal-Level AI Contributions in Collaboration** — 인간-AI 협업의 목표 수준 기여도 측정 프레임
+   sources: huggingface
+   https://huggingface.co/papers/2605.21363
 
 ## 📋 카테고리별 나머지
 
-### LLM 하네스·평가
-- **TransitLM: 맵 없는 대중교통 노선 생성 벤치마크** [huggingface] — 지도·라우팅 엔진 의존 없이 LLM이 노선 합성 (new)
-  https://huggingface.co/papers/2605.22355
+### 에이전트 프레임워크
+- **Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles** [huggingface] — 모델·스킬 계층을 RL로 오케스트레이션하는 에이전트 (day 3)
+  https://huggingface.co/papers/2605.22177
+- **Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning** [huggingface] — 실전 스프레드시트 작업용 LLM 에이전트 RL 학습 (day 3)
+  https://huggingface.co/papers/2605.22642
 
-## 📌 Still trending (day 2+)
-- **Lean Refactor: 에이전틱 전략 탐색 기반 Lean 증명 리팩토링** [day 3] — RAG + 다목적·버전 견고 자동 리팩토링 에이전트
-  https://huggingface.co/papers/2605.20244
-- **Lum1104/Understand-Anything** [day 4] — 코드를 대화형 지식 그래프로 변환 (Claude Code/Codex/Cursor 연동)
-  https://github.com/Lum1104/Understand-Anything
-- **dotnet/skills** [day 4] — .NET/C# 코딩 에이전트 스킬 공식 리포지토리
-  https://github.com/dotnet/skills
-- **TerminalWorld: 실세계 터미널 작업 에이전트 벤치마크** [day 4] — 8만 건의 터미널 기록에서 1530개 검증 태스크 자동 생성
+### LLM 하네스·평가
+- **TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks** [huggingface] — 실 터미널 녹화에서 자동 생성한 1,530개 평가 과제 (day 3)
   https://huggingface.co/papers/2605.22535
 
+### 코딩 에이전트
+- **dotnet/skills** [github] — .NET·C# AI 코딩 에이전트용 스킬 저장소 (day 3)
+  https://github.com/dotnet/skills
+
+## 📌 Still trending (day 2+)
+- **Maestro** [day 3] — 모델·스킬 계층 오케스트레이션
+  https://huggingface.co/papers/2605.22177
+- **Spreadsheet-RL** [day 3] — 스프레드시트 작업 LLM RL
+  https://huggingface.co/papers/2605.22642
+- **TerminalWorld** [day 3] — 터미널 작업 벤치마크
+  https://huggingface.co/papers/2605.22535
+- **dotnet/skills** [day 3] — .NET 코딩 에이전트 스킬
+  https://github.com/dotnet/skills
+
 ## ⚠️ 소스 상태
-- github_trending: ok (16 items / 2 matched, all day 4+ archived dedup)
+- github_trending: ok (16 items / 1 matched after archive dedup)
 - hacker_news: ok (30 items / 0 matched)
-- huggingface: ok (70 items / 6 matched after archive dedup)
-- release_blogs: ok (40 items / 2 matched after archive dedup)
+- huggingface: ok (65 items / 8 matched after archive dedup)
+- release_blogs: ok (40 items / 0 matched after archive dedup)

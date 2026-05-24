@@ -1,6 +1,6 @@
 {
   "source": "huggingface",
-  "fetched_at": "2026-05-24T18:40:34+09:00",
+  "fetched_at": "2026-05-24T19:14:37+09:00",
   "items": [
     {
       "id": "hf-model:bytedance-research/Lance",
@@ -23,7 +23,7 @@
       "signals": {
         "type": "model",
         "downloads": 4534,
-        "likes": 491,
+        "likes": 496,
         "pipeline": "translation"
       },
       "category_hint": null
@@ -36,7 +36,7 @@
       "signals": {
         "type": "model",
         "downloads": 43119,
-        "likes": 627,
+        "likes": 628,
         "pipeline": "text-to-speech"
       },
       "category_hint": null
@@ -101,7 +101,7 @@
       "signals": {
         "type": "model",
         "downloads": 1331058,
-        "likes": 1312,
+        "likes": 1313,
         "pipeline": "text-to-video"
       },
       "category_hint": null
@@ -114,7 +114,7 @@
       "signals": {
         "type": "model",
         "downloads": 660321,
-        "likes": 445,
+        "likes": 446,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -127,7 +127,7 @@
       "signals": {
         "type": "model",
         "downloads": 5627,
-        "likes": 187,
+        "likes": 188,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -237,6 +237,19 @@
       "category_hint": null
     },
     {
+      "id": "hf-model:Jackrong/Qwopus3.6-27B-v2-GGUF",
+      "title": "Jackrong/Qwopus3.6-27B-v2-GGUF",
+      "url": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-GGUF",
+      "description": "image-text-to-text",
+      "signals": {
+        "type": "model",
+        "downloads": 8300,
+        "likes": 107,
+        "pipeline": "image-text-to-text"
+      },
+      "category_hint": null
+    },
+    {
       "id": "hf-model:numind/NuExtract3",
       "title": "numind/NuExtract3",
       "url": "https://huggingface.co/numind/NuExtract3",
@@ -246,19 +259,6 @@
         "downloads": 10998,
         "likes": 101,
         "pipeline": "image-to-text"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hf-model:Jackrong/Qwopus3.6-27B-v2-GGUF",
-      "title": "Jackrong/Qwopus3.6-27B-v2-GGUF",
-      "url": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-GGUF",
-      "description": "image-text-to-text",
-      "signals": {
-        "type": "model",
-        "downloads": 8300,
-        "likes": 104,
-        "pipeline": "image-text-to-text"
       },
       "category_hint": null
     },
@@ -281,7 +281,7 @@
       "description": "Aligning Text-to-Image (T2I) generation models with human preferences increasingly relies on image reward models that score or rank generated images according to prompt alignment and perceptual quality. Existing reward models are commonly trained as Bradley-Terry (BT) preference models on large-scal",
       "signals": {
         "type": "paper",
-        "upvotes": 15,
+        "upvotes": 16,
         "arxiv_id": "2605.17602"
       },
       "category_hint": null
@@ -629,7 +629,7 @@
       "description": "Reinforcement learning from verifiable rewards (RLVR) has emerged as a central technique for improving the reasoning capabilities of large language models. Despite its effectiveness, how response-level rewards translate into token-level probability changes remains poorly understood. We introduce a d",
       "signals": {
         "type": "paper",
-        "upvotes": 191,
+        "upvotes": 192,
         "arxiv_id": "2605.21467"
       },
       "category_hint": null

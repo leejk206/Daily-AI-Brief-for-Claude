@@ -1,12 +1,11 @@
 [
-  {"url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex", "title": "How business operations teams use Codex"},
-  {"url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex", "title": "How data science teams use Codex"},
-  {"url": "https://huggingface.co/papers/2605.22536", "title": "SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation"},
-  {"url": "https://huggingface.co/papers/2605.22109", "title": "Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?"},
-  {"url": "https://huggingface.co/papers/2605.18577", "title": "OmniPro: A Comprehensive Benchmark for Omni-Proactive Streaming Video Understanding"},
-  {"url": "https://huggingface.co/papers/2605.22355", "title": "TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation"},
+  {"url": "https://huggingface.co/papers/2605.10158", "title": "Unsupervised Process Reward Models"},
+  {"url": "https://huggingface.co/papers/2605.22791", "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention"},
   {"url": "https://huggingface.co/papers/2605.20244", "title": "Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search"},
-  {"url": "https://github.com/Lum1104/Understand-Anything", "title": "Lum1104/Understand-Anything"},
-  {"url": "https://github.com/dotnet/skills", "title": "dotnet/skills"},
-  {"url": "https://huggingface.co/papers/2605.22535", "title": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks"}
+  {"url": "https://huggingface.co/Jackrong/Qwopus3.5-9B-Coder-GGUF", "title": "Jackrong/Qwopus3.5-9B-Coder-GGUF"},
+  {"url": "https://huggingface.co/papers/2605.21363", "title": "\"I didn't Make the Micro Decisions\": Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration"},
+  {"url": "https://huggingface.co/papers/2605.22177", "title": "Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles"},
+  {"url": "https://huggingface.co/papers/2605.22642", "title": "Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning"},
+  {"url": "https://huggingface.co/papers/2605.22535", "title": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks"},
+  {"url": "https://github.com/dotnet/skills", "title": "dotnet/skills"}
 ]

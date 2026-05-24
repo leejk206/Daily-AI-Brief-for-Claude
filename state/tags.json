@@ -4283,7 +4283,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-24T18:20:48+09:00"
+      "tagged_at": "2026-05-24T19:20:27+09:00"
     },
     "https://huggingface.co/papers/2605.22642": {
       "title": "Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning",
@@ -4296,7 +4296,7 @@
         "rl",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T18:20:48+09:00"
+      "tagged_at": "2026-05-24T19:20:27+09:00"
     },
     "https://huggingface.co/papers/2605.20682": {
       "title": "IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools",
@@ -4345,7 +4345,7 @@
         "cli-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-24T18:44:53+09:00"
+      "tagged_at": "2026-05-24T19:20:27+09:00"
     },
     "https://huggingface.co/papers/2605.19484": {
       "title": "CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing",
@@ -4370,7 +4370,7 @@
         "agent-skill",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T18:44:53+09:00"
+      "tagged_at": "2026-05-24T19:20:27+09:00"
     },
     "https://github.com/Lum1104/Understand-Anything": {
       "title": "Lum1104/Understand-Anything",
@@ -4511,10 +4511,11 @@
       "source": "huggingface",
       "brief_date": "2026-05-23",
       "tags": [
+        "agent-skill",
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T18:44:53+09:00"
+      "tagged_at": "2026-05-24T19:20:27+09:00"
     },
     "https://huggingface.co/papers/2605.18607": {
       "title": "Forecasting Downstream Performance of LLMs With Proxy Metrics",
@@ -4571,7 +4572,7 @@
         "long-context",
         "paper"
       ],
-      "tagged_at": "2026-05-23T16:55:25+09:00"
+      "tagged_at": "2026-05-24T19:20:27+09:00"
     },
     "https://huggingface.co/papers/2605.22144": {
       "title": "One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems",
@@ -4641,10 +4642,11 @@
       "source": "huggingface",
       "brief_date": "2026-05-24",
       "tags": [
+        "benchmark",
         "paper",
         "rl"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-24T19:20:27+09:00"
     },
     "https://huggingface.co/papers/2605.15669": {
       "title": "Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation",
@@ -4731,6 +4733,29 @@
         "paper"
       ],
       "tagged_at": "2026-05-24T18:44:53+09:00"
+    },
+    "https://huggingface.co/Jackrong/Qwopus3.5-9B-Coder-GGUF": {
+      "title": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+      "summary": "Qwen×Opus 결합 9B 코더의 로컬 양자화 배포",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "local-inference"
+      ],
+      "tagged_at": "2026-05-24T19:20:27+09:00"
+    },
+    "https://huggingface.co/papers/2605.21363": {
+      "title": "\"I didn't Make the Micro Decisions\": Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration",
+      "summary": "인간-AI 협업의 목표 수준 기여도 측정 프레임",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-24T19:20:27+09:00"
     }
   }
 }

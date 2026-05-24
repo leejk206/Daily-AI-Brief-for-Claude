@@ -73,8 +73,8 @@
   },
   "https://github.com/colbymchenry/codegraph": {
     "first_seen": "2026-05-23",
-    "last_seen": "2026-05-23",
-    "days": 1,
+    "last_seen": "2026-05-24",
+    "days": 2,
     "title": "colbymchenry/codegraph"
   },
   "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex": {
@@ -342,8 +342,8 @@
     "title": "rtk-ai/rtk"
   },
   "https://github.com/Alishahryar1/free-claude-code": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
+    "first_seen": "2026-05-24",
+    "last_seen": "2026-05-24",
     "days": 1,
     "title": "Alishahryar1/free-claude-code"
   },
@@ -736,5 +736,17 @@
     "last_seen": "2026-05-24",
     "days": 1,
     "title": "\"I didn't Make the Micro Decisions\": Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration"
+  },
+  "https://github.com/earendil-works/pi": {
+    "first_seen": "2026-05-24",
+    "last_seen": "2026-05-24",
+    "days": 1,
+    "title": "earendil-works/pi"
+  },
+  "https://github.com/manaflow-ai/cmux": {
+    "first_seen": "2026-05-24",
+    "last_seen": "2026-05-24",
+    "days": 1,
+    "title": "manaflow-ai/cmux"
   }
 }

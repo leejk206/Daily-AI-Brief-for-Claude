@@ -1,6 +1,6 @@
 {
   "source": "huggingface",
-  "fetched_at": "2026-05-24T19:14:37+09:00",
+  "fetched_at": "2026-05-24T20:07:46+09:00",
   "items": [
     {
       "id": "hf-model:bytedance-research/Lance",
@@ -10,7 +10,7 @@
       "signals": {
         "type": "model",
         "downloads": 1474,
-        "likes": 725,
+        "likes": 727,
         "pipeline": "any-to-any"
       },
       "category_hint": null
@@ -23,7 +23,7 @@
       "signals": {
         "type": "model",
         "downloads": 4534,
-        "likes": 496,
+        "likes": 504,
         "pipeline": "translation"
       },
       "category_hint": null
@@ -36,7 +36,7 @@
       "signals": {
         "type": "model",
         "downloads": 43119,
-        "likes": 628,
+        "likes": 631,
         "pipeline": "text-to-speech"
       },
       "category_hint": null
@@ -62,7 +62,7 @@
       "signals": {
         "type": "model",
         "downloads": 6032,
-        "likes": 283,
+        "likes": 286,
         "pipeline": "video-text-to-text"
       },
       "category_hint": null
@@ -75,7 +75,7 @@
       "signals": {
         "type": "model",
         "downloads": 84346,
-        "likes": 265,
+        "likes": 266,
         "pipeline": "text-generation"
       },
       "category_hint": null
@@ -101,7 +101,7 @@
       "signals": {
         "type": "model",
         "downloads": 1331058,
-        "likes": 1313,
+        "likes": 1314,
         "pipeline": "text-to-video"
       },
       "category_hint": null
@@ -114,7 +114,7 @@
       "signals": {
         "type": "model",
         "downloads": 660321,
-        "likes": 446,
+        "likes": 447,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -140,7 +140,7 @@
       "signals": {
         "type": "model",
         "downloads": 547827,
-        "likes": 352,
+        "likes": 353,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -153,7 +153,7 @@
       "signals": {
         "type": "model",
         "downloads": 637329,
-        "likes": 1522,
+        "likes": 1523,
         "pipeline": ""
       },
       "category_hint": null
@@ -166,7 +166,7 @@
       "signals": {
         "type": "model",
         "downloads": 38937,
-        "likes": 175,
+        "likes": 176,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -179,7 +179,7 @@
       "signals": {
         "type": "model",
         "downloads": 4666078,
-        "likes": 4200,
+        "likes": 4202,
         "pipeline": "text-generation"
       },
       "category_hint": null
@@ -761,7 +761,7 @@
       "description": "Autoregressive video diffusion models have enabled real-time, action-conditioned world generation. However, sustaining a persistent world, where revisiting a previously seen viewpoint yields consistent content, remains an open problem. Full KV-cache attention preserves this consistency but breaks re",
       "signals": {
         "type": "paper",
-        "upvotes": 32,
+        "upvotes": 33,
         "arxiv_id": "2605.22718"
       },
       "category_hint": null

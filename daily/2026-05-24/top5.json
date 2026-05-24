@@ -1,7 +1,7 @@
 [
-  {"url": "https://huggingface.co/papers/2605.10158", "title": "Unsupervised Process Reward Models"},
-  {"url": "https://huggingface.co/papers/2605.22791", "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention"},
-  {"url": "https://huggingface.co/papers/2605.20244", "title": "Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search"},
-  {"url": "https://huggingface.co/Jackrong/Qwopus3.5-9B-Coder-GGUF", "title": "Jackrong/Qwopus3.5-9B-Coder-GGUF"},
-  {"url": "https://huggingface.co/papers/2605.21363", "title": "\"I didn't Make the Micro Decisions\": Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration"}
+  {"url": "https://github.com/earendil-works/pi", "title": "earendil-works/pi"},
+  {"url": "https://github.com/manaflow-ai/cmux", "title": "manaflow-ai/cmux"},
+  {"url": "https://github.com/Alishahryar1/free-claude-code", "title": "Alishahryar1/free-claude-code"},
+  {"url": "https://github.com/colbymchenry/codegraph", "title": "colbymchenry/codegraph"},
+  {"url": "https://huggingface.co/papers/2605.22177", "title": "Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles"}
 ]

@@ -488,7 +488,7 @@
         "claude-code",
         "cli-agent"
       ],
-      "tagged_at": "2026-05-20T16:05:46+09:00"
+      "tagged_at": "2026-05-24T20:12:38+09:00"
     },
     "https://github.com/gastownhall/beads": {
       "title": "gastownhall/beads",
@@ -3448,7 +3448,7 @@
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-23T16:55:25+09:00"
+      "tagged_at": "2026-05-24T20:12:38+09:00"
     },
     "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex": {
       "title": "How business operations teams use Codex",
@@ -4283,7 +4283,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-24T19:20:27+09:00"
+      "tagged_at": "2026-05-24T20:12:38+09:00"
     },
     "https://huggingface.co/papers/2605.22642": {
       "title": "Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning",
@@ -4296,7 +4296,7 @@
         "rl",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T19:20:27+09:00"
+      "tagged_at": "2026-05-24T20:12:38+09:00"
     },
     "https://huggingface.co/papers/2605.20682": {
       "title": "IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools",
@@ -4345,7 +4345,7 @@
         "cli-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-24T19:20:27+09:00"
+      "tagged_at": "2026-05-24T20:12:38+09:00"
     },
     "https://huggingface.co/papers/2605.19484": {
       "title": "CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing",
@@ -4370,7 +4370,7 @@
         "agent-skill",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T19:20:27+09:00"
+      "tagged_at": "2026-05-24T20:12:38+09:00"
     },
     "https://github.com/Lum1104/Understand-Anything": {
       "title": "Lum1104/Understand-Anything",
@@ -4382,7 +4382,7 @@
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T18:44:53+09:00"
+      "tagged_at": "2026-05-24T20:12:38+09:00"
     },
     "https://github.com/teng-lin/notebooklm-py": {
       "title": "teng-lin/notebooklm-py",
@@ -4756,6 +4756,31 @@
         "paper"
       ],
       "tagged_at": "2026-05-24T19:20:27+09:00"
+    },
+    "https://github.com/earendil-works/pi": {
+      "title": "earendil-works/pi",
+      "summary": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "agent-harness",
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-24T20:12:38+09:00"
+    },
+    "https://github.com/manaflow-ai/cmux": {
+      "title": "manaflow-ai/cmux",
+      "summary": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-24",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-24T20:12:38+09:00"
     }
   }
 }

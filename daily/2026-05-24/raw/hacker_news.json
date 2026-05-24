@@ -1,6 +1,6 @@
 {
   "source": "hacker_news",
-  "fetched_at": "2026-05-24T19:14:35+09:00",
+  "fetched_at": "2026-05-24T20:07:46+09:00",
   "items": [
     {
       "id": "hn:48241890",
@@ -8,8 +8,8 @@
       "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
       "description": "",
       "signals": {
-        "points": 880,
-        "num_comments": 1478,
+        "points": 893,
+        "num_comments": 1495,
         "discussion_url": "https://news.ycombinator.com/item?id=48241890"
       },
       "category_hint": null
@@ -20,8 +20,8 @@
       "url": "https://benmyers.dev/blog/on-the-dl/",
       "description": "",
       "signals": {
-        "points": 398,
-        "num_comments": 113,
+        "points": 400,
+        "num_comments": 115,
         "discussion_url": "https://news.ycombinator.com/item?id=48247325"
       },
       "category_hint": null
@@ -32,8 +32,8 @@
       "url": "https://veronicaexplains.net/my-first-writerdeck/",
       "description": "",
       "signals": {
-        "points": 374,
-        "num_comments": 218,
+        "points": 378,
+        "num_comments": 228,
         "discussion_url": "https://news.ycombinator.com/item?id=48250144"
       },
       "category_hint": null
@@ -44,8 +44,8 @@
       "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
       "description": "",
       "signals": {
-        "points": 289,
-        "num_comments": 152,
+        "points": 301,
+        "num_comments": 157,
         "discussion_url": "https://news.ycombinator.com/item?id=48247208"
       },
       "category_hint": null
@@ -56,8 +56,8 @@
       "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
       "description": "",
       "signals": {
-        "points": 288,
-        "num_comments": 159,
+        "points": 297,
+        "num_comments": 164,
         "discussion_url": "https://news.ycombinator.com/item?id=48214311"
       },
       "category_hint": null
@@ -68,21 +68,9 @@
       "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
       "description": "",
       "signals": {
-        "points": 255,
-        "num_comments": 66,
+        "points": 272,
+        "num_comments": 83,
         "discussion_url": "https://news.ycombinator.com/item?id=48253386"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:48247004",
-      "title": "80386 microcode disassembled",
-      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "description": "",
-      "signals": {
-        "points": 251,
-        "num_comments": 49,
-        "discussion_url": "https://news.ycombinator.com/item?id=48247004"
       },
       "category_hint": null
     },
@@ -92,9 +80,21 @@
       "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
       "description": "",
       "signals": {
-        "points": 238,
-        "num_comments": 14,
+        "points": 263,
+        "num_comments": 16,
         "discussion_url": "https://news.ycombinator.com/item?id=48253060"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48247004",
+      "title": "80386 microcode disassembled",
+      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "description": "",
+      "signals": {
+        "points": 253,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=48247004"
       },
       "category_hint": null
     },
@@ -104,33 +104,9 @@
       "url": "https://www.adventuresinoss.com/aws-four-years/",
       "description": "",
       "signals": {
-        "points": 204,
-        "num_comments": 64,
+        "points": 215,
+        "num_comments": 72,
         "discussion_url": "https://news.ycombinator.com/item?id=48254475"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:48234954",
-      "title": ".NET (OK, C#) finally gets union types",
-      "url": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
-      "description": "",
-      "signals": {
-        "points": 202,
-        "num_comments": 206,
-        "discussion_url": "https://news.ycombinator.com/item?id=48234954"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:48194645",
-      "title": "Kindle loyalists scramble as Amazon turns page on old e-readers",
-      "url": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
-      "description": "",
-      "signals": {
-        "points": 167,
-        "num_comments": 190,
-        "discussion_url": "https://news.ycombinator.com/item?id=48194645"
       },
       "category_hint": null
     },
@@ -140,9 +116,21 @@
       "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
       "description": "",
       "signals": {
-        "points": 159,
-        "num_comments": 55,
+        "points": 181,
+        "num_comments": 69,
         "discussion_url": "https://news.ycombinator.com/item?id=48254309"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48194645",
+      "title": "Kindle loyalists scramble as Amazon turns page on old e-readers",
+      "url": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
+      "description": "",
+      "signals": {
+        "points": 171,
+        "num_comments": 201,
+        "discussion_url": "https://news.ycombinator.com/item?id=48194645"
       },
       "category_hint": null
     },
@@ -152,8 +140,8 @@
       "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
       "description": "",
       "signals": {
-        "points": 150,
-        "num_comments": 66,
+        "points": 160,
+        "num_comments": 73,
         "discussion_url": "https://news.ycombinator.com/item?id=48253186"
       },
       "category_hint": null
@@ -164,8 +152,8 @@
       "url": "https://olano.dev/blog/dangerously-skip/",
       "description": "",
       "signals": {
-        "points": 146,
-        "num_comments": 144,
+        "points": 152,
+        "num_comments": 147,
         "discussion_url": "https://news.ycombinator.com/item?id=48246232"
       },
       "category_hint": null
@@ -176,21 +164,9 @@
       "url": "https://victoriaritvo.com/blog/hengefinder/",
       "description": "",
       "signals": {
-        "points": 143,
-        "num_comments": 34,
+        "points": 147,
+        "num_comments": 35,
         "discussion_url": "https://news.ycombinator.com/item?id=48241335"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:48248954",
-      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
-      "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-      "description": "",
-      "signals": {
-        "points": 102,
-        "num_comments": 21,
-        "discussion_url": "https://news.ycombinator.com/item?id=48248954"
       },
       "category_hint": null
     },
@@ -200,21 +176,21 @@
       "url": "https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html",
       "description": "",
       "signals": {
-        "points": 100,
-        "num_comments": 4,
+        "points": 105,
+        "num_comments": 5,
         "discussion_url": "https://news.ycombinator.com/item?id=48246993"
       },
       "category_hint": null
     },
     {
-      "id": "hn:48250980",
-      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+      "id": "hn:48248954",
+      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
       "description": "",
       "signals": {
-        "points": 94,
-        "num_comments": 66,
-        "discussion_url": "https://news.ycombinator.com/item?id=48250980"
+        "points": 103,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48248954"
       },
       "category_hint": null
     },
@@ -224,8 +200,8 @@
       "url": "https://sales-and-dungeons.app/",
       "description": "",
       "signals": {
-        "points": 93,
-        "num_comments": 30,
+        "points": 99,
+        "num_comments": 32,
         "discussion_url": "https://news.ycombinator.com/item?id=48232721"
       },
       "category_hint": null
@@ -236,8 +212,8 @@
       "url": "https://khz.ac/software/i3-integration.html",
       "description": "",
       "signals": {
-        "points": 74,
-        "num_comments": 19,
+        "points": 78,
+        "num_comments": 22,
         "discussion_url": "https://news.ycombinator.com/item?id=48252535"
       },
       "category_hint": null
@@ -248,8 +224,8 @@
       "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
       "description": "",
       "signals": {
-        "points": 62,
-        "num_comments": 11,
+        "points": 72,
+        "num_comments": 12,
         "discussion_url": "https://news.ycombinator.com/item?id=48254020"
       },
       "category_hint": null
@@ -260,21 +236,45 @@
       "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
       "description": "",
       "signals": {
-        "points": 48,
-        "num_comments": 5,
+        "points": 51,
+        "num_comments": 6,
         "discussion_url": "https://news.ycombinator.com/item?id=48254236"
       },
       "category_hint": null
     },
     {
-      "id": "hn:48252146",
-      "title": "Byrne's Euclid",
-      "url": "https://www.c82.net/euclid/",
+      "id": "hn:48223997",
+      "title": "I spent 50 hours drawing a line graph",
+      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
       "description": "",
       "signals": {
-        "points": 47,
-        "num_comments": 14,
-        "discussion_url": "https://news.ycombinator.com/item?id=48252146"
+        "points": 42,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48223997"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48194857",
+      "title": "Converting an Integer to a Decimal String in Under Two Nanoseconds",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/spe.70079",
+      "description": "",
+      "signals": {
+        "points": 40,
+        "num_comments": 13,
+        "discussion_url": "https://news.ycombinator.com/item?id=48194857"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48210937",
+      "title": "Silk: Open-source cooperative fiber scheduler",
+      "url": "https://github.com/ClickHouse/silk",
+      "description": "",
+      "signals": {
+        "points": 38,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48210937"
       },
       "category_hint": null
     },
@@ -291,24 +291,12 @@
       "category_hint": null
     },
     {
-      "id": "hn:48194857",
-      "title": "Converting an Integer to a Decimal String in Under Two Nanoseconds",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1002/spe.70079",
-      "description": "",
-      "signals": {
-        "points": 36,
-        "num_comments": 13,
-        "discussion_url": "https://news.ycombinator.com/item?id=48194857"
-      },
-      "category_hint": null
-    },
-    {
       "id": "hn:48227864",
       "title": "Schlitz Is Gone, but First It's Getting One Last Hurrah",
       "url": "https://www.milwaukeemag.com/schlitz-is-gone/",
       "description": "",
       "signals": {
-        "points": 30,
+        "points": 32,
         "num_comments": 15,
         "discussion_url": "https://news.ycombinator.com/item?id=48227864"
       },
@@ -320,21 +308,21 @@
       "url": "https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/",
       "description": "",
       "signals": {
-        "points": 26,
-        "num_comments": 5,
+        "points": 30,
+        "num_comments": 9,
         "discussion_url": "https://news.ycombinator.com/item?id=48236057"
       },
       "category_hint": null
     },
     {
-      "id": "hn:48210937",
-      "title": "Silk: Open-source cooperative fiber scheduler",
-      "url": "https://github.com/ClickHouse/silk",
+      "id": "hn:48255593",
+      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
       "description": "",
       "signals": {
-        "points": 23,
-        "num_comments": 2,
-        "discussion_url": "https://news.ycombinator.com/item?id=48210937"
+        "points": 26,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48255593"
       },
       "category_hint": null
     },
@@ -344,9 +332,21 @@
       "url": "https://mitander.xyz/posts/buildcraft-is-a-compiler-problem/",
       "description": "",
       "signals": {
-        "points": 17,
-        "num_comments": 4,
+        "points": 19,
+        "num_comments": 5,
         "discussion_url": "https://news.ycombinator.com/item?id=48233829"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48202129",
+      "title": "Key, in sight – A guide, of sorts, to keyboard customization",
+      "url": "https://aresluna.org/key-in-sight/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48202129"
       },
       "category_hint": null
     },

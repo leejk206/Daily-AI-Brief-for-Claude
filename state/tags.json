@@ -3339,10 +3339,11 @@
       "source": "github_trending",
       "brief_date": "2026-05-15",
       "tags": [
+        "agent-harness",
         "agent-skill",
         "claude-code"
       ],
-      "tagged_at": "2026-05-15T19:41:02+09:00"
+      "tagged_at": "2026-05-25T21:10:28+09:00"
     },
     "https://openai.com/index/sea-david-chen": {
       "title": "Sea's View on the Future of Agentic Software Development with Codex",
@@ -4382,7 +4383,7 @@
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T20:38:34+09:00"
+      "tagged_at": "2026-05-25T21:10:28+09:00"
     },
     "https://github.com/teng-lin/notebooklm-py": {
       "title": "teng-lin/notebooklm-py",
@@ -4478,7 +4479,7 @@
         "long-context",
         "paper"
       ],
-      "tagged_at": "2026-05-23T16:55:25+09:00"
+      "tagged_at": "2026-05-25T21:10:28+09:00"
     },
     "https://www.kanbots.dev/": {
       "title": "Open source Kanban desktop app that runs parallel agents on every card",
@@ -4499,10 +4500,11 @@
       "source": "huggingface",
       "brief_date": "2026-05-23",
       "tags": [
+        "agent-harness",
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T18:20:48+09:00"
+      "tagged_at": "2026-05-25T21:10:28+09:00"
     },
     "https://huggingface.co/papers/2605.20244": {
       "title": "Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search",
@@ -4512,10 +4514,11 @@
       "brief_date": "2026-05-23",
       "tags": [
         "agent-skill",
+        "auto-research",
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T19:20:27+09:00"
+      "tagged_at": "2026-05-25T21:10:28+09:00"
     },
     "https://huggingface.co/papers/2605.18607": {
       "title": "Forecasting Downstream Performance of LLMs With Proxy Metrics",
@@ -4527,7 +4530,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-24T20:27:08+09:00"
+      "tagged_at": "2026-05-25T21:10:28+09:00"
     },
     "https://openai.com/index/gartner-2026-agentic-coding-leader": {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
@@ -4584,7 +4587,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-24T17:48:28+09:00"
+      "tagged_at": "2026-05-25T21:10:28+09:00"
     },
     "https://huggingface.co/papers/2605.22681": {
       "title": "Forecasting Scientific Progress with Artificial Intelligence",
@@ -4633,7 +4636,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T18:30:22+09:00"
+      "tagged_at": "2026-05-25T21:10:28+09:00"
     },
     "https://huggingface.co/papers/2605.10158": {
       "title": "Unsupervised Process Reward Models",
@@ -4659,7 +4662,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T18:30:22+09:00"
+      "tagged_at": "2026-05-25T21:10:28+09:00"
     },
     "https://olano.dev/blog/dangerously-skip/": {
       "title": "--dangerously-skip-reading-code",
@@ -4684,7 +4687,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-24T18:30:22+09:00"
+      "tagged_at": "2026-05-25T21:10:28+09:00"
     },
     "https://huggingface.co/papers/2605.22536": {
       "title": "SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation",
@@ -4696,7 +4699,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-24T18:44:53+09:00"
+      "tagged_at": "2026-05-25T21:10:28+09:00"
     },
     "https://huggingface.co/papers/2605.22109": {
       "title": "Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?",
@@ -4720,7 +4723,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-24T18:44:53+09:00"
+      "tagged_at": "2026-05-25T21:10:28+09:00"
     },
     "https://huggingface.co/papers/2605.22355": {
       "title": "TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation",
@@ -4865,6 +4868,153 @@
         "auto-research"
       ],
       "tagged_at": "2026-05-24T20:38:34+09:00"
+    },
+    "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate": {
+      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+      "summary": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
+      "category": "agent-frameworks",
+      "source": "release_blogs",
+      "brief_date": "2026-05-25",
+      "tags": [
+        "auto-research",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-05-25T21:10:28+09:00"
+    },
+    "https://esengine.github.io/DeepSeek-Reasonix/": {
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "summary": "DeepSeek native coding agent with high caching and low cost",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-25",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-25T21:10:28+09:00"
+    },
+    "https://github.com/anthropics/claude-cookbooks": {
+      "title": "anthropics/claude-cookbooks",
+      "summary": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-25",
+      "tags": [
+        "claude-code",
+        "prompt-engineering",
+        "tutorial"
+      ],
+      "tagged_at": "2026-05-25T21:10:28+09:00"
+    },
+    "https://arxiv.org/abs/2605.06445": {
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "summary": "Constraint decay analysis showing LLM agent fragility in backend code generation under accumulating constraints.",
+      "category": "llm-harness-eval",
+      "source": "hacker_news",
+      "brief_date": "2026-05-25",
+      "tags": [
+        "agent-harness",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-25T21:10:28+09:00"
+    },
+    "https://huggingface.co/papers/2605.23899": {
+      "title": "From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills",
+      "summary": "Language agents increasingly improve by reusing skills — structured procedural artifacts distilled from past experience.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-25",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-05-25T21:10:28+09:00"
+    },
+    "https://huggingface.co/papers/2605.23904": {
+      "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+      "summary": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-25",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-05-25T21:10:28+09:00"
+    },
+    "https://huggingface.co/papers/2605.17873": {
+      "title": "HINT-SD: Targeted Hindsight Self-Distillation for Long-Horizon Agents",
+      "summary": "Training long-horizon LLM agents with reinforcement learning is challenging because sparse outcome rewards reveal whether a task succeeds.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-25",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-25T21:10:28+09:00"
+    },
+    "https://huggingface.co/papers/2605.23771": {
+      "title": "PhotoFlow: Agentic 3D Virtual Photography Missions",
+      "summary": "Virtual photography asks an agent to enter a prepared 3D scene with no preselected camera pose or reference image.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-25",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-25T21:10:28+09:00"
+    },
+    "https://huggingface.co/papers/2605.22570": {
+      "title": "VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis",
+      "summary": "Spatio-temporal reasoning is a core capability for Multimodal Large Language Models (MLLMs) operating in the real world.",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-25",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-25T21:10:28+09:00"
+    },
+    "https://huggingface.co/papers/2605.23901": {
+      "title": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
+      "summary": "Existing scaling laws for Large Language Models (LLMs), predominantly monotonic power laws, fail to explain emerging non-monotonic phenomena.",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-25",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-05-25T21:10:28+09:00"
+    },
+    "https://github.com/affaan-m/ECC": {
+      "title": "affaan-m/ECC",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development.",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-25",
+      "tags": [
+        "agent-harness",
+        "agent-memory",
+        "agent-skill"
+      ],
+      "tagged_at": "2026-05-25T21:10:28+09:00"
+    },
+    "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-code": {
+      "title": "How business operations teams use Codex",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets.",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-25",
+      "tags": [
+        "coding-platform",
+        "tutorial"
+      ],
+      "tagged_at": "2026-05-25T21:10:28+09:00"
     }
   }
 }

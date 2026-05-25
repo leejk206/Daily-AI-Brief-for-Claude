@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-25T21:05:14+09:00",
+  "items": [
+    {
+      "id": "hn:48256953",
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "description": "",
+      "signals": {
+        "points": 586,
+        "num_comments": 244,
+        "discussion_url": "https://news.ycombinator.com/item?id=48256953"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48223997",
+      "title": "I spent 50 hours drawing a line graph",
+      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+      "description": "",
+      "signals": {
+        "points": 568,
+        "num_comments": 94,
+        "discussion_url": "https://news.ycombinator.com/item?id=48223997"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48253386",
+      "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "description": "",
+      "signals": {
+        "points": 484,
+        "num_comments": 170,
+        "discussion_url": "https://news.ycombinator.com/item?id=48253386"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48258684",
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "description": "",
+      "signals": {
+        "points": 400,
+        "num_comments": 422,
+        "discussion_url": "https://news.ycombinator.com/item?id=48258684"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48258015",
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "description": "",
+      "signals": {
+        "points": 395,
+        "num_comments": 87,
+        "discussion_url": "https://news.ycombinator.com/item?id=48258015"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48259808",
+      "title": "Migrating from Go to Rust",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "description": "",
+      "signals": {
+        "points": 316,
+        "num_comments": 311,
+        "discussion_url": "https://news.ycombinator.com/item?id=48259808"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48253186",
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "description": "",
+      "signals": {
+        "points": 291,
+        "num_comments": 168,
+        "discussion_url": "https://news.ycombinator.com/item?id=48253186"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48256912",
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "description": "",
+      "signals": {
+        "points": 247,
+        "num_comments": 143,
+        "discussion_url": "https://news.ycombinator.com/item?id=48256912"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48256597",
+      "title": "Childhood Computing",
+      "url": "https://susam.net/childhood-computing.html",
+      "description": "",
+      "signals": {
+        "points": 219,
+        "num_comments": 102,
+        "discussion_url": "https://news.ycombinator.com/item?id=48256597"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48255593",
+      "title": "Greg Brockman interview [video]",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "description": "",
+      "signals": {
+        "points": 203,
+        "num_comments": 219,
+        "discussion_url": "https://news.ycombinator.com/item?id=48255593"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48263253",
+      "title": "Jira Is Turing-Complete",
+      "url": "https://seriot.ch/computation/jira.html",
+      "description": "",
+      "signals": {
+        "points": 197,
+        "num_comments": 85,
+        "discussion_url": "https://news.ycombinator.com/item?id=48263253"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48260117",
+      "title": "A fundamental principle of aeronautical engineering has been overturned",
+      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "description": "",
+      "signals": {
+        "points": 180,
+        "num_comments": 85,
+        "discussion_url": "https://news.ycombinator.com/item?id=48260117"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48231547",
+      "title": "Build Adafruit projects right from Firefox",
+      "url": "https://www.firefox.com/en-US/landing/adafruit/",
+      "description": "",
+      "signals": {
+        "points": 173,
+        "num_comments": 62,
+        "discussion_url": "https://news.ycombinator.com/item?id=48231547"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48243666",
+      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+      "description": "",
+      "signals": {
+        "points": 166,
+        "num_comments": 67,
+        "discussion_url": "https://news.ycombinator.com/item?id=48243666"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48256475",
+      "title": "Mastering Dyalog APL",
+      "url": "https://mastering.dyalog.com/README.html",
+      "description": "",
+      "signals": {
+        "points": 146,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=48256475"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48265206",
+      "title": "Magnifica Humanitas (Encyclical Letter)",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "description": "",
+      "signals": {
+        "points": 141,
+        "num_comments": 30,
+        "discussion_url": "https://news.ycombinator.com/item?id=48265206"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48259861",
+      "title": "Defeating Git Rigour Fatigue with Jujutsu",
+      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "description": "",
+      "signals": {
+        "points": 136,
+        "num_comments": 139,
+        "discussion_url": "https://news.ycombinator.com/item?id=48259861"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48245916",
+      "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+      "url": "https://ohwr.org/projects/white-rabbit/",
+      "description": "",
+      "signals": {
+        "points": 119,
+        "num_comments": 28,
+        "discussion_url": "https://news.ycombinator.com/item?id=48245916"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48259192",
+      "title": "Building Pi with Pi",
+      "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+      "description": "",
+      "signals": {
+        "points": 116,
+        "num_comments": 87,
+        "discussion_url": "https://news.ycombinator.com/item?id=48259192"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48242546",
+      "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+      "url": "https://phabricator.services.mozilla.com/D301917",
+      "description": "",
+      "signals": {
+        "points": 113,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=48242546"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48240025",
+      "title": "I love my Bluetooth keyboard",
+      "url": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
+      "description": "",
+      "signals": {
+        "points": 96,
+        "num_comments": 100,
+        "discussion_url": "https://news.ycombinator.com/item?id=48240025"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48234831",
+      "title": "Scientists solve 200-year-old puzzle of how tobacco plants make nicotine",
+      "url": "https://www.york.ac.uk/news-and-events/news/2026/research/200-year-old-puzzle-tobacco-plants-nicotine/",
+      "description": "",
+      "signals": {
+        "points": 94,
+        "num_comments": 36,
+        "discussion_url": "https://news.ycombinator.com/item?id=48234831"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48195698",
+      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
+      "url": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
+      "description": "",
+      "signals": {
+        "points": 93,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48195698"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48228608",
+      "title": "C constructs that still don't work in C++",
+      "url": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
+      "description": "",
+      "signals": {
+        "points": 88,
+        "num_comments": 82,
+        "discussion_url": "https://news.ycombinator.com/item?id=48228608"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48236122",
+      "title": "Bytecode VMs in surprising places (2024)",
+      "url": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
+      "description": "",
+      "signals": {
+        "points": 42,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=48236122"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48264635",
+      "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+      "url": "https://www.tinyvolt.com/geomatic",
+      "description": "",
+      "signals": {
+        "points": 26,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48264635"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48204632",
+      "title": "Notes about reading messages with the Python email packages",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes",
+      "description": "",
+      "signals": {
+        "points": 24,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48204632"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48213750",
+      "title": "Gorilla: A fast, scalable, in-memory time series database (2016)",
+      "url": "https://blog.acolyer.org/2016/05/03/gorilla-a-fast-scalable-in-memory-time-series-database/",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48213750"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48265056",
+      "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+      "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+      "description": "",
+      "signals": {
+        "points": 15,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48265056"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

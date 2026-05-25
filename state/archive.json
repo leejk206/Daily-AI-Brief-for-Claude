@@ -718,5 +718,25 @@
   "https://openai.com/index/model-disproves-discrete-geometry-conjecture": {
     "archived_on": "2026-05-24",
     "title": "An OpenAI model has disproved a central conjecture in discrete geometry"
+  },
+  "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate": {
+    "archived_on": "2026-05-25",
+    "title": "Co-Scientist: A multi-agent AI partner to accelerate research"
+  },
+  "https://esengine.github.io/DeepSeek-Reasonix/": {
+    "archived_on": "2026-05-25",
+    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost"
+  },
+  "https://github.com/anthropics/claude-cookbooks": {
+    "archived_on": "2026-05-25",
+    "title": "anthropics/claude-cookbooks"
+  },
+  "https://arxiv.org/abs/2605.06445": {
+    "archived_on": "2026-05-25",
+    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation"
+  },
+  "https://github.com/garrytan/gstack": {
+    "archived_on": "2026-05-25",
+    "title": "garrytan/gstack"
   }
 }

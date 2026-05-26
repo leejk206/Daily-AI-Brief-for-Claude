@@ -738,5 +738,25 @@
   "https://github.com/garrytan/gstack": {
     "archived_on": "2026-05-25",
     "title": "garrytan/gstack"
+  },
+  "https://huggingface.co/papers/2605.23218": {
+    "archived_on": "2026-05-26",
+    "title": "Foundation Protocol: A Coordination Layer for Agentic Society"
+  },
+  "https://huggingface.co/papers/2605.25874": {
+    "archived_on": "2026-05-26",
+    "title": "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation"
+  },
+  "https://github.com/affaan-m/ECC": {
+    "archived_on": "2026-05-26",
+    "title": "affaan-m/ECC"
+  },
+  "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/": {
+    "archived_on": "2026-05-26",
+    "title": "Using AI to write better code more slowly"
+  },
+  "https://huggingface.co/papers/2605.24830": {
+    "archived_on": "2026-05-26",
+    "title": "Macaron-A2UI: A Model for Generative UI in Personal Agents"
   }
 }

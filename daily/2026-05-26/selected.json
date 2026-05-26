@@ -1,0 +1,22 @@
+[
+  {"url": "https://huggingface.co/papers/2605.23218", "title": "Foundation Protocol: A Coordination Layer for Agentic Society"},
+  {"url": "https://huggingface.co/papers/2605.25874", "title": "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation"},
+  {"url": "https://github.com/affaan-m/ECC", "title": "affaan-m/ECC"},
+  {"url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/", "title": "Using AI to write better code more slowly"},
+  {"url": "https://huggingface.co/papers/2605.24830", "title": "Macaron-A2UI: A Model for Generative UI in Personal Agents"},
+  {"url": "https://huggingface.co/papers/2605.24218", "title": "QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks"},
+  {"url": "https://huggingface.co/papers/2605.23204", "title": "AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery"},
+  {"url": "https://huggingface.co/papers/2605.23986", "title": "MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing"},
+  {"url": "https://huggingface.co/papers/2605.26086", "title": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World"},
+  {"url": "https://huggingface.co/papers/2605.25971", "title": "Anticipate and Learn: Unleashing Idle-Time Compute in Proactive Agents"},
+  {"url": "https://huggingface.co/papers/2605.24426", "title": "SEAL: Synergistic Co-Evolution of Agents and Learning Environments"},
+  {"url": "https://huggingface.co/papers/2605.20342", "title": "ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning"},
+  {"url": "https://huggingface.co/papers/2605.23771", "title": "PhotoFlow: Agentic 3D Virtual Photography Missions"},
+  {"url": "https://huggingface.co/papers/2605.24117", "title": "SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills"},
+  {"url": "https://huggingface.co/papers/2605.25160", "title": "SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking"},
+  {"url": "https://huggingface.co/papers/2605.25052", "title": "Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth"},
+  {"url": "https://github.com/Lum1104/Understand-Anything", "title": "Lum1104/Understand-Anything"},
+  {"url": "https://github.com/Leonxlnx/taste-skill", "title": "Leonxlnx/taste-skill"},
+  {"url": "https://github.com/hardikpandya/stop-slop", "title": "hardikpandya/stop-slop"},
+  {"url": "https://jry.io/writing/use-boring-languages-with-llms/", "title": "Use Boring Languages with LLMs"}
+]

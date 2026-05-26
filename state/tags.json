@@ -4383,7 +4383,7 @@
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-25T21:10:28+09:00"
+      "tagged_at": "2026-05-26T17:53:40+09:00"
     },
     "https://github.com/teng-lin/notebooklm-py": {
       "title": "teng-lin/notebooklm-py",
@@ -4966,7 +4966,7 @@
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-05-25T21:10:28+09:00"
+      "tagged_at": "2026-05-26T17:53:40+09:00"
     },
     "https://huggingface.co/papers/2605.22570": {
       "title": "VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis",
@@ -5002,7 +5002,7 @@
         "agent-memory",
         "agent-skill"
       ],
-      "tagged_at": "2026-05-25T21:10:28+09:00"
+      "tagged_at": "2026-05-26T17:53:40+09:00"
     },
     "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-code": {
       "title": "How business operations teams use Codex",
@@ -5015,6 +5015,213 @@
         "tutorial"
       ],
       "tagged_at": "2026-05-25T21:10:28+09:00"
+    },
+    "https://huggingface.co/papers/2605.23218": {
+      "title": "Foundation Protocol: A Coordination Layer for Agentic Society",
+      "summary": "Autonomous agents are moving from tools into a layer of social infrastructure; the bottleneck shifts toward coordination. Proposes a foundation protocol for agentic society.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://huggingface.co/papers/2605.25874": {
+      "title": "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation",
+      "summary": "WBench is a comprehensive multi-turn benchmark for interactive world model evaluation along five dimensions.",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/": {
+      "title": "Using AI to write better code more slowly",
+      "summary": "AI 코딩 도구를 빠른 산출보다 신중한 코드 작성에 활용한다는 관점.",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "coding-platform",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://huggingface.co/papers/2605.24830": {
+      "title": "Macaron-A2UI: A Model for Generative UI in Personal Agents",
+      "summary": "As personal agents handle complex tasks, static text chat becomes a bottleneck. Generative UI dynamically synthesizes controls, options, and state from interaction context.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "frontend",
+        "paper"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://huggingface.co/papers/2605.24218": {
+      "title": "QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks",
+      "summary": "Deep research agents extend search engines toward knowledge synthesis. Trains frontier deep research agents with fully synthetic tasks.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "auto-research",
+        "paper"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://huggingface.co/papers/2605.23204": {
+      "title": "AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery",
+      "summary": "AI systems move beyond isolated assistance toward longer-horizon workflows spanning literature grounding, hypothesis generation, experimentation, validation, reporting.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "auto-research",
+        "paper"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://huggingface.co/papers/2605.23986": {
+      "title": "MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing",
+      "summary": "Memory is a fundamental component for enabling long-context LLM agents. MemForest provides hierarchical temporal indexing for agent memory.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://huggingface.co/papers/2605.26086": {
+      "title": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World",
+      "summary": "LLM agents as always-on personal assistants with access to anything relevant in the user's digital world.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "benchmark",
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://huggingface.co/papers/2605.25971": {
+      "title": "Anticipate and Learn: Unleashing Idle-Time Compute in Proactive Agents",
+      "summary": "AI agents remain fundamentally reactive. The idle time between interactions is largely wasted; this paper proactively uses it.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://huggingface.co/papers/2605.24426": {
+      "title": "SEAL: Synergistic Co-Evolution of Agents and Learning Environments",
+      "summary": "Most self-evolution methods adapt either the policy or the learning environment in isolation. SEAL co-evolves both to address agent-environment misalignment.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://huggingface.co/papers/2605.20342": {
+      "title": "ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning",
+      "summary": "Training LMMs via RL to natively invoke video-processing tools. Solves the tool prior paradox for parallel tool calls.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "paper",
+        "rl",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://huggingface.co/papers/2605.24117": {
+      "title": "SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills",
+      "summary": "LLM agents accumulate rich episodic trajectories. SkillEvolBench evaluates whether they can be distilled into reusable procedural skills.",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "agent-skill",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://huggingface.co/papers/2605.25160": {
+      "title": "SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking",
+      "summary": "Mobile GUI agents need realistic evaluation. SimuWoB simulates real-world mobile apps for fast and faithful benchmarking.",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "benchmark",
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://huggingface.co/papers/2605.25052": {
+      "title": "Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth",
+      "summary": "Chains of thought have become central in interpreting LLMs. This paper meta-evaluates whether faithfulness metrics actually measure faithfulness.",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://github.com/Leonxlnx/taste-skill": {
+      "title": "Leonxlnx/taste-skill",
+      "summary": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop.",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "agent-skill",
+        "claude-code"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://github.com/hardikpandya/stop-slop": {
+      "title": "hardikpandya/stop-slop",
+      "summary": "A skill file for removing AI tells from prose.",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "agent-skill",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
+    },
+    "https://jry.io/writing/use-boring-languages-with-llms/": {
+      "title": "Use Boring Languages with LLMs",
+      "summary": "LLM과는 검증된 평범한 언어를 쓰는 게 안전하다는 주장.",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-26",
+      "tags": [
+        "coding-platform",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-26T17:53:40+09:00"
     }
   }
 }

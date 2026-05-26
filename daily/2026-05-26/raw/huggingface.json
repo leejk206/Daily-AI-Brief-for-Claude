@@ -1,0 +1,866 @@
+{
+  "source": "huggingface",
+  "fetched_at": "2026-05-26T17:49:51+09:00",
+  "items": [
+    {
+      "id": "hf-model:tencent/Hy-MT2-1.8B",
+      "title": "tencent/Hy-MT2-1.8B",
+      "url": "https://huggingface.co/tencent/Hy-MT2-1.8B",
+      "description": "translation",
+      "signals": {
+        "type": "model",
+        "downloads": 7471,
+        "likes": 958,
+        "pipeline": "translation"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:bytedance-research/Lance",
+      "title": "bytedance-research/Lance",
+      "url": "https://huggingface.co/bytedance-research/Lance",
+      "description": "any-to-any",
+      "signals": {
+        "type": "model",
+        "downloads": 1908,
+        "likes": 836,
+        "pipeline": "any-to-any"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:tencent/Hy-MT2-30B-A3B",
+      "title": "tencent/Hy-MT2-30B-A3B",
+      "url": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
+      "description": "translation",
+      "signals": {
+        "type": "model",
+        "downloads": 2091,
+        "likes": 383,
+        "pipeline": "translation"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:NemoStation/Marlin-2B",
+      "title": "NemoStation/Marlin-2B",
+      "url": "https://huggingface.co/NemoStation/Marlin-2B",
+      "description": "video-text-to-text",
+      "signals": {
+        "type": "model",
+        "downloads": 9144,
+        "likes": 351,
+        "pipeline": "video-text-to-text"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:sapientinc/HRM-Text-1B",
+      "title": "sapientinc/HRM-Text-1B",
+      "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
+      "description": "text-generation",
+      "signals": {
+        "type": "model",
+        "downloads": 103033,
+        "likes": 349,
+        "pipeline": "text-generation"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:meituan-longcat/LongCat-Video-Avatar-1.5",
+      "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+      "description": "",
+      "signals": {
+        "type": "model",
+        "downloads": 0,
+        "likes": 252,
+        "pipeline": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:Supertone/supertonic-3",
+      "title": "Supertone/supertonic-3",
+      "url": "https://huggingface.co/Supertone/supertonic-3",
+      "description": "text-to-speech",
+      "signals": {
+        "type": "model",
+        "downloads": 48112,
+        "likes": 681,
+        "pipeline": "text-to-speech"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:openbmb/MiniCPM5-1B",
+      "title": "openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "description": "text-generation",
+      "signals": {
+        "type": "model",
+        "downloads": 2409,
+        "likes": 235,
+        "pipeline": "text-generation"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:CohereLabs/command-a-plus-05-2026-w4a4",
+      "title": "CohereLabs/command-a-plus-05-2026-w4a4",
+      "url": "https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4",
+      "description": "image-text-to-text",
+      "signals": {
+        "type": "model",
+        "downloads": 7769,
+        "likes": 203,
+        "pipeline": "image-text-to-text"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "description": "image-text-to-text",
+      "signals": {
+        "type": "model",
+        "downloads": 1598473,
+        "likes": 881,
+        "pipeline": "image-text-to-text"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:SulphurAI/Sulphur-2-base",
+      "title": "SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "description": "text-to-video",
+      "signals": {
+        "type": "model",
+        "downloads": 1376847,
+        "likes": 1358,
+        "pipeline": "text-to-video"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:openbmb/MiniCPM-V-4.6",
+      "title": "openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "description": "image-text-to-text",
+      "signals": {
+        "type": "model",
+        "downloads": 314347,
+        "likes": 978,
+        "pipeline": "image-text-to-text"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:unsloth/Qwen3.6-27B-MTP-GGUF",
+      "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
+      "description": "image-text-to-text",
+      "signals": {
+        "type": "model",
+        "downloads": 735349,
+        "likes": 490,
+        "pipeline": "image-text-to-text"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:tencent/Hy-MT2-7B",
+      "title": "tencent/Hy-MT2-7B",
+      "url": "https://huggingface.co/tencent/Hy-MT2-7B",
+      "description": "translation",
+      "signals": {
+        "type": "model",
+        "downloads": 3600,
+        "likes": 166,
+        "pipeline": "translation"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:deepseek-ai/DeepSeek-V4-Pro",
+      "title": "deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "description": "text-generation",
+      "signals": {
+        "type": "model",
+        "downloads": 5019884,
+        "likes": 4287,
+        "pipeline": "text-generation"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:numind/NuExtract3",
+      "title": "numind/NuExtract3",
+      "url": "https://huggingface.co/numind/NuExtract3",
+      "description": "image-to-text",
+      "signals": {
+        "type": "model",
+        "downloads": 20350,
+        "likes": 148,
+        "pipeline": "image-to-text"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:circlestone-labs/Anima",
+      "title": "circlestone-labs/Anima",
+      "url": "https://huggingface.co/circlestone-labs/Anima",
+      "description": "",
+      "signals": {
+        "type": "model",
+        "downloads": 676447,
+        "likes": 1551,
+        "pipeline": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:CohereLabs/command-a-plus-05-2026-bf16",
+      "title": "CohereLabs/command-a-plus-05-2026-bf16",
+      "url": "https://huggingface.co/CohereLabs/command-a-plus-05-2026-bf16",
+      "description": "image-text-to-text",
+      "signals": {
+        "type": "model",
+        "downloads": 13869,
+        "likes": 125,
+        "pipeline": "image-text-to-text"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:Jackrong/Qwopus3.6-27B-v2-GGUF",
+      "title": "Jackrong/Qwopus3.6-27B-v2-GGUF",
+      "url": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-GGUF",
+      "description": "image-text-to-text",
+      "signals": {
+        "type": "model",
+        "downloads": 16379,
+        "likes": 131,
+        "pipeline": "image-text-to-text"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-model:unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "title": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "description": "image-text-to-text",
+      "signals": {
+        "type": "model",
+        "downloads": 627535,
+        "likes": 378,
+        "pipeline": "image-text-to-text"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.23699",
+      "title": "CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models",
+      "url": "https://huggingface.co/papers/2605.23699",
+      "description": "Video prediction is increasingly viewed as a path toward generalizable world models, yet it remains unclear whether these systems learn underlying causal structure or merely exploit superficial visual correlations for future prediction. We introduce CRONOS, an intervention-based benchmark designed t",
+      "signals": {
+        "type": "paper",
+        "upvotes": 2,
+        "arxiv_id": "2605.23699"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.23889",
+      "title": "HorizonStream: Long-Horizon Attention for Streaming 3D Reconstruction",
+      "url": "https://huggingface.co/papers/2605.23889",
+      "description": "Online 3D reconstruction requires estimating camera pose and scene geometry under strict causal and bounded-memory constraints. Existing methods often suffer from drift, jitter, or collapse on long sequences. We trace these failures to a fundamental mismatch. Streaming geometry is inherently tempora",
+      "signals": {
+        "type": "paper",
+        "upvotes": 1,
+        "arxiv_id": "2605.23889"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.25160",
+      "title": "SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking",
+      "url": "https://huggingface.co/papers/2605.25160",
+      "description": "Mobile GUI agents powered by large language models have progressed rapidly, creating urgent needs for realistic and comprehensive evaluation. Existing benchmarks prioritize reproducibility but are often limited to open-source apps or file-operation tasks for the difficulty of constructing rewards on",
+      "signals": {
+        "type": "paper",
+        "upvotes": 1,
+        "arxiv_id": "2605.25160"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.25971",
+      "title": "Anticipate and Learn: Unleashing Idle-Time Compute in Proactive Agents",
+      "url": "https://huggingface.co/papers/2605.25971",
+      "description": "While AI agents demonstrate remarkable capabilities in reasoning and tool use, they remain fundamentally reactive: they compute responses only after explicit user prompts. This paradigm ignores a critical opportunity: the idle time between interactions is largely wasted, leaving agents unable to pre",
+      "signals": {
+        "type": "paper",
+        "upvotes": 8,
+        "arxiv_id": "2605.25971"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.23264",
+      "title": "Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution",
+      "url": "https://huggingface.co/papers/2605.23264",
+      "description": "Generative priors in Image Super-Resolution (SR) often compromise faithful restoration, we attribute this limitation to a fundamental spectral misalignment between isotropic objectives and the intrinsic natural image manifold. While Direct Preference Optimization offers a path to alignment, its reli",
+      "signals": {
+        "type": "paper",
+        "upvotes": 2,
+        "arxiv_id": "2605.23264"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2603.16331",
+      "title": "Decoding the Critique Mechanism in Large Reasoning Models",
+      "url": "https://huggingface.co/papers/2603.16331",
+      "description": "Large Reasoning Models (LRMs) exhibit backtracking and self-verification mechanisms that enable them to revise intermediate steps and reach correct solutions, yielding strong performance on complex logical benchmarks. We hypothesize that such behaviors are beneficial only when the model has sufficie",
+      "signals": {
+        "type": "paper",
+        "upvotes": 0,
+        "arxiv_id": "2603.16331"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.24117",
+      "title": "SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills",
+      "url": "https://huggingface.co/papers/2605.24117",
+      "description": "Large language model (LLM) agents accumulate rich episodic trajectories while solving real-world tasks, but it remains unclear whether such experience can be distilled into reusable procedural skills. We introduce SkillEvolBench, a diagnostic benchmark for evaluating this step from experience reuse ",
+      "signals": {
+        "type": "paper",
+        "upvotes": 10,
+        "arxiv_id": "2605.24117"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.26102",
+      "title": "InstructSAM: Segment Any Instance with Any Instructions",
+      "url": "https://huggingface.co/papers/2605.26102",
+      "description": "In this paper, we introduce InstructSAM, a unified and streamlined framework designed for multi-instance segmentation under arbitrary instructions. We formulates instruction-driven instance segmentation as a set-structured query prediction problem and propose an explicit reasoning-to-instance query ",
+      "signals": {
+        "type": "paper",
+        "upvotes": 7,
+        "arxiv_id": "2605.26102"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.26095",
+      "title": "Pixel-Level Pavement Distress Assessment Using Instance Segmentation",
+      "url": "https://huggingface.co/papers/2605.26095",
+      "description": "Automated pavement distress assessment requires more than image-level classification or coarse bounding box detection, demanding precise localization of thin, branching, and irregular cracks to achieve the geometric precision necessary for maintenance-relevant quantification. This paper presents a v",
+      "signals": {
+        "type": "paper",
+        "upvotes": 0,
+        "arxiv_id": "2605.26095"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.26108",
+      "title": "Reinforcing Few-step Generators via Reward-Tilted Distribution Matching",
+      "url": "https://huggingface.co/papers/2605.26108",
+      "description": "Recent advances in few-step diffusion distillation have enabled efficient image generation, yet aligning these models with human preferences remains challenging. We propose Reward-Tilted Distribution Matching Distillation (RTDMD), a two-stage framework that unifies distribution matching distillation",
+      "signals": {
+        "type": "paper",
+        "upvotes": 2,
+        "arxiv_id": "2605.26108"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.23986",
+      "title": "MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing",
+      "url": "https://huggingface.co/papers/2605.23986",
+      "description": "Memory is a fundamental component for enabling long-context LLM agents, supporting persistent state across interactions through a continuous serve-and-update lifecycle. Despite substantial prior work, existing systems suffer from significant maintenance overhead due to two key limitations: coarse-gr",
+      "signals": {
+        "type": "paper",
+        "upvotes": 6,
+        "arxiv_id": "2605.23986"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.24426",
+      "title": "SEAL: Synergistic Co-Evolution of Agents and Learning Environments",
+      "url": "https://huggingface.co/papers/2605.24426",
+      "description": "Large Language Model (LLM) agents are increasingly improved through interaction, yet most self-evolution methods adapt either the policy or the learning environment in isolation. We identify this structural gap as Agent-Environment Misalignment: the agent's capability frontier changes during trainin",
+      "signals": {
+        "type": "paper",
+        "upvotes": 2,
+        "arxiv_id": "2605.24426"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.24218",
+      "title": "QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks",
+      "url": "https://huggingface.co/papers/2605.24218",
+      "description": "Deep research agents extend the role of search engines from retrieving keyword-matched pages to synthesizing knowledge, fundamentally changing how humans interact with information. However, frontier systems remain proprietary, while existing open agents often generalize poorly across different task ",
+      "signals": {
+        "type": "paper",
+        "upvotes": 18,
+        "arxiv_id": "2605.24218"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.08129",
+      "title": "Towards Customized Multimodal Role-Play",
+      "url": "https://huggingface.co/papers/2605.08129",
+      "description": "Unified multimodal understanding and generation models enable richer human-AI interaction. Yet jointly customizing a character's persona, dialogue style, and visual identity while maintaining output consistency across modalities remains largely unexplored. To mitigate this gap, we introduce a new ta",
+      "signals": {
+        "type": "paper",
+        "upvotes": 4,
+        "arxiv_id": "2605.08129"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.25052",
+      "title": "Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth",
+      "url": "https://huggingface.co/papers/2605.25052",
+      "description": "Chains of thought (CoTs) have become central in interpreting and auditing behaviors of large language models. Yet growing evidence suggests that these traces often fail to faithfully represent the computations behind a model's predictions. Several faithfulness metrics have been proposed, but whether",
+      "signals": {
+        "type": "paper",
+        "upvotes": 2,
+        "arxiv_id": "2605.25052"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.25569",
+      "title": "ControlLight: Towards Controllable, Consistent, and Generalizable Low-Light Enhancement",
+      "url": "https://huggingface.co/papers/2605.25569",
+      "description": "Existing deep learning-based low-light enhancement methods are typically trained on limited datasets with single enhancement targets, which restricts their generalization ability and controllability in real-world applications. To overcome these limitations, we propose ControlLight, a controllable, c",
+      "signals": {
+        "type": "paper",
+        "upvotes": 10,
+        "arxiv_id": "2605.25569"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.23218",
+      "title": "Foundation Protocol: A Coordination Layer for Agentic Society",
+      "url": "https://huggingface.co/papers/2605.23218",
+      "description": "Autonomous agents are moving from tools into a layer of social infrastructure: they browse, purchase, deploy software, manage systems, and increasingly interact with one another. As these systems scale, the bottleneck shifts away from raw model capability toward coordination. Agents need to form rel",
+      "signals": {
+        "type": "paper",
+        "upvotes": 50,
+        "arxiv_id": "2605.23218"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.26109",
+      "title": "Helix4D: Complex 4D Mesh Generation",
+      "url": "https://huggingface.co/papers/2605.26109",
+      "description": "Current video-to-4D methods struggle with complex topology changes, transparent materials, thin structures, and inner surfaces. We present Helix4D, a dynamic mesh generation framework by inheriting the expressive representation of Trellis2, adapting it from image-to-3D to video-conditioned 4D genera",
+      "signals": {
+        "type": "paper",
+        "upvotes": 4,
+        "arxiv_id": "2605.26109"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.26105",
+      "title": "On-Policy Adversarial Flow Distillation for Autoregressive Video Generation",
+      "url": "https://huggingface.co/papers/2605.26105",
+      "description": "Autoregressive video generators are attractive for streaming, long-horizon, and interactive applications, but distilling strong black-box teachers into causal students remains difficult. The student must learn under its own rollout distribution, whereas practical teachers may expose only prompt-cond",
+      "signals": {
+        "type": "paper",
+        "upvotes": 12,
+        "arxiv_id": "2605.26105"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.26089",
+      "title": "Channel-wise Vector Quantization",
+      "url": "https://huggingface.co/papers/2605.26089",
+      "description": "We present Channel-wise Vector Quantization (CVQ), a novel image tokenization paradigm that replaces patch-wise tokens with channel-wise tokens. Unlike conventional vector quantization, which assigns a discrete token to each patch feature vector, CVQ quantizes each channel of the feature map. This f",
+      "signals": {
+        "type": "paper",
+        "upvotes": 5,
+        "arxiv_id": "2605.26089"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.26115",
+      "title": "TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction",
+      "url": "https://huggingface.co/papers/2605.26115",
+      "description": "Sparse-view 3D reconstruction is increasingly addressed with feed-forward splatting networks that predict explicit primitives directly from images. Yet most existing methods remain centered on Gaussian primitives and expose surfaces only indirectly: extracting a usable mesh for downstream simulation",
+      "signals": {
+        "type": "paper",
+        "upvotes": 21,
+        "arxiv_id": "2605.26115"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.25874",
+      "title": "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation",
+      "url": "https://huggingface.co/papers/2605.25874",
+      "description": "Interactive world models are advancing rapidly, yet existing benchmarks cover only part of the required competencies, leaving no unified standard for systematic evaluation. To fill this gap, we introduce WBench, a comprehensive multi-turn benchmark for interactive world model evaluation along five d",
+      "signals": {
+        "type": "paper",
+        "upvotes": 44,
+        "arxiv_id": "2605.25874"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.26086",
+      "title": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World",
+      "url": "https://huggingface.co/papers/2605.26086",
+      "description": "Large language model agents are increasingly envisioned as always-on personal assistants with access to anything relevant in the user's digital world. Yet current systems operate over only narrow slices of that world, limiting context-sensitive reasoning and effective assistance. Existing benchmarks",
+      "signals": {
+        "type": "paper",
+        "upvotes": 11,
+        "arxiv_id": "2605.26086"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.20342",
+      "title": "ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2605.20342",
+      "description": "Training large multimodal models (LMMs) via reinforcement learning (RL) to natively invoke video-processing tools (e.g., cropping) has become a promising route to long-video understanding. However, existing native-RL methods dispatch tool calls sequentially (i.e., one per turn): a single wrong crop ",
+      "signals": {
+        "type": "paper",
+        "upvotes": 27,
+        "arxiv_id": "2605.20342"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.20278",
+      "title": "ClaimDiff-RL: Fine-Grained Caption Reinforcement Learning through Visual Claim Comparison",
+      "url": "https://huggingface.co/papers/2605.20278",
+      "description": "Long-form image captioning exposes a reward granularity problem in RL: captions are judged as whole sequences, while the important errors occur at the level of individual visual claims. A good dense caption should be both faithful and informative, avoiding hallucination without omitting salient deta",
+      "signals": {
+        "type": "paper",
+        "upvotes": 0,
+        "arxiv_id": "2605.20278"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.26002",
+      "title": "SemBridge: Language Transfer in Sparse Encoders via Multilingual Semantic Bridges",
+      "url": "https://huggingface.co/papers/2605.26002",
+      "description": "Sparse encoders offer high-precision retrieval by representing term importance within a vocabulary space, yet their English-centric structures pose a critical impediment to language transfer for non-English languages. To overcome this structural limitation, we propose SemBridge, a novel embedding in",
+      "signals": {
+        "type": "paper",
+        "upvotes": 1,
+        "arxiv_id": "2605.26002"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.25343",
+      "title": "Toward Native Multimodal Modeling: A Roadmap",
+      "url": "https://huggingface.co/papers/2605.25343",
+      "description": "Multimodal modeling represents a vital step from modality-agnostic reasoning toward world modeling. While early approaches predominantly rely on late-fusion that assembles encoders and frozen language backbones with output heads, recent efforts have shifted the paradigm toward native multimodal mode",
+      "signals": {
+        "type": "paper",
+        "upvotes": 19,
+        "arxiv_id": "2605.25343"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.24830",
+      "title": "Macaron-A2UI: A Model for Generative UI in Personal Agents",
+      "url": "https://huggingface.co/papers/2605.24830",
+      "description": "As personal agents evolve to handle complex, user-centric tasks, static plain-text chat is rapidly becoming a bottleneck. Generative UI emerges as the necessary new interface layer, dynamically synthesizing the right controls, options, and state from the interaction context in real time. We present ",
+      "signals": {
+        "type": "paper",
+        "upvotes": 50,
+        "arxiv_id": "2605.24830"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.25294",
+      "title": "Geometry-Aware Image Flow Matching",
+      "url": "https://huggingface.co/papers/2605.25294",
+      "description": "Recent advances in generative models highlight the power of geometry-aware modeling in manifold-constrained settings. Yet, for natural images, the field remains confined to Euclidean assumptions, failing to exploit the potential of intrinsic geometric structures within the data. In this work, we inv",
+      "signals": {
+        "type": "paper",
+        "upvotes": 7,
+        "arxiv_id": "2605.25294"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.25604",
+      "title": "DVAO: Dynamic Variance-adaptive Advantage Optimization for Multi-reward Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2605.25604",
+      "description": "Reinforcement Learning has become a standard paradigm for aligning Large Language Models with human intent and task requirements. While Group Relative Policy Optimization offers an efficient, value-model-free alternative to Proximal Policy Optimization, adapting it to real-world multi-reward setting",
+      "signals": {
+        "type": "paper",
+        "upvotes": 66,
+        "arxiv_id": "2605.25604"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.25449",
+      "title": "Pantheon360: Taming Digital Twin Generation via 3D-Aware 360° Video Diffusion",
+      "url": "https://huggingface.co/papers/2605.25449",
+      "description": "Generating complete digital twins from videos requires precise camera control, global scene coverage, and strict spatial-temporal consistency constraints that remain challenging for perspective video generators due to their limited field of view (FoV). Their narrow FoV forces long or multi-view traj",
+      "signals": {
+        "type": "paper",
+        "upvotes": 14,
+        "arxiv_id": "2605.25449"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.25461",
+      "title": "MetaphorVU: Towards Metaphorical Video Understanding",
+      "url": "https://huggingface.co/papers/2605.25461",
+      "description": "Metaphorical videos are prevalent across various real-world scenarios to convey complex ideas, and understanding them typically requires high-order cognitive capabilities. The lack of systematic studies on metaphorical video understanding not only constrains the real-world applicability of MLLMs but",
+      "signals": {
+        "type": "paper",
+        "upvotes": 4,
+        "arxiv_id": "2605.25461"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.23204",
+      "title": "AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery",
+      "url": "https://huggingface.co/papers/2605.23204",
+      "description": "Scientific research is being reshaped by AI systems that move beyond isolated assistance toward longer-horizon workflows spanning literature grounding, hypothesis generation, experimentation, validation, reporting, and revision. This shift marks a transition from task-level AI for science to workflo",
+      "signals": {
+        "type": "paper",
+        "upvotes": 19,
+        "arxiv_id": "2605.23204"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.24938",
+      "title": "Your Embedding Model is SMARTer Than You Think",
+      "url": "https://huggingface.co/papers/2605.24938",
+      "description": "Multimodal retrieval relies heavily on single-vector retrievers, which compress rich, sequential token sequences into one single global representation. While efficient, they discard fine-grained, local evidence critical for dense retrieval tasks. Multi-vector approaches were introduced as a solution",
+      "signals": {
+        "type": "paper",
+        "upvotes": 15,
+        "arxiv_id": "2605.24938"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.24675",
+      "title": "VaaWIT: Visual-Aware Adaptation of Large Language Models for Multilingual Web Image Translation",
+      "url": "https://huggingface.co/papers/2605.24675",
+      "description": "Translating text embedded in Web images is crucial for improving content accessibility and cross-lingual information retrieval, particularly within social media and e-commerce domains. Although Large Vision-Language Models (LVLMs) have advanced multimodal understanding, applying them to Web image tr",
+      "signals": {
+        "type": "paper",
+        "upvotes": 1,
+        "arxiv_id": "2605.24675"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.24681",
+      "title": "Mix-MoE: Improving Multilingual Machine Translation of Large Language Models through Mixed MoEs",
+      "url": "https://huggingface.co/papers/2605.24681",
+      "description": "Large Language Models (LLMs) have shown great promise in multilingual machine translation (MT), even with limited bilingual supervision. However, fine-tuning LLMs with parallel corpora presents major challenges, namely parameter interference. To address these issues, we propose Mix-MoE, a mixed Mixt",
+      "signals": {
+        "type": "paper",
+        "upvotes": 1,
+        "arxiv_id": "2605.24681"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.17448",
+      "title": "Self-Improving CAD Generation Agents with Finite Element Analysis as Feedback",
+      "url": "https://huggingface.co/papers/2605.17448",
+      "description": "Computer-aided design (CAD) is the backbone of modern industrial design, yet learned CAD generators still fall short of real engineering pipelines: they neither iterate like engineers nor evaluate what engineering requires. Prior work has treated CAD generation as two disjoint steps, part synthesis ",
+      "signals": {
+        "type": "paper",
+        "upvotes": 16,
+        "arxiv_id": "2605.17448"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.19354",
+      "title": "Next-Acceleration-Scale Prediction for Autoregressive MRI Reconstruction",
+      "url": "https://huggingface.co/papers/2605.19354",
+      "description": "MRI reconstruction is an inherently ill-posed inverse problem, since incomplete measurements admit many plausible solutions. This ambiguity becomes more severe under high acceleration, where pixel-domain continuous predictors tend to average over feasible reconstructions and suppress high-frequency ",
+      "signals": {
+        "type": "paper",
+        "upvotes": 0,
+        "arxiv_id": "2605.19354"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.21488",
+      "title": "Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning",
+      "url": "https://huggingface.co/papers/2605.21488",
+      "description": "Scaling test-time compute by iteratively updating a latent state has emerged as a powerful paradigm for reasoning. Yet the internal mechanisms that enable these iterative models to generalize beyond memorized patterns remain unclear. We hypothesize that generalizable reasoning arises from learning t",
+      "signals": {
+        "type": "paper",
+        "upvotes": 3,
+        "arxiv_id": "2605.21488"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.21856",
+      "title": "The Illusion of Reasoning: Exposing Evasive Data Contamination in LLMs via Zero-CoT Truncation",
+      "url": "https://huggingface.co/papers/2605.21856",
+      "description": "Large language models (LLMs) have demonstrated impressive reasoning abilities across a wide range of tasks, but data contamination undermines the objective evaluation of these capabilities. This problem is further exacerbated by malicious model publishers who use evasive, or indirect, contamination ",
+      "signals": {
+        "type": "paper",
+        "upvotes": 3,
+        "arxiv_id": "2605.21856"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.17766",
+      "title": "LatentUMM: Dual Latent Alignment for Unified Multimodal Models",
+      "url": "https://huggingface.co/papers/2605.17766",
+      "description": "Unified multimodal models (UMMs) achieve strong performance in both understanding and generation by learning a shared latent space, yet they often exhibit functional inconsistency between these two capabilities. We observe that this issue does not stem from a lack of shared representations, but from",
+      "signals": {
+        "type": "paper",
+        "upvotes": 6,
+        "arxiv_id": "2605.17766"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.22878",
+      "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+      "url": "https://huggingface.co/papers/2605.22878",
+      "description": "The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmented and unstructured knowledge organization impedes deep interdisciplinary integration. Current academic retrieval tools predominantly rely on super",
+      "signals": {
+        "type": "paper",
+        "upvotes": 49,
+        "arxiv_id": "2605.22878"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.20177",
+      "title": "From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models",
+      "url": "https://huggingface.co/papers/2605.20177",
+      "description": "Recent advances in vision-language models (VLMs) emphasize long chain-of-thought reasoning; yet, we find that their performance on visual tasks is primarily limited by a lack of visual perception as opposed to reasoning itself. In this work, we systematically study the interplay between perception a",
+      "signals": {
+        "type": "paper",
+        "upvotes": 7,
+        "arxiv_id": "2605.20177"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.23892",
+      "title": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers",
+      "url": "https://huggingface.co/papers/2605.23892",
+      "description": "Visual geometry transformers have become powerful architectures for multi-view 3D reconstruction, enabling joint prediction of multiple 3D attributes in a feed-forward manner. However, their computational cost grows quadratically with the input sequence length due to the global attention layers insi",
+      "signals": {
+        "type": "paper",
+        "upvotes": 4,
+        "arxiv_id": "2605.23892"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.23771",
+      "title": "PhotoFlow: Agentic 3D Virtual Photography Missions",
+      "url": "https://huggingface.co/papers/2605.23771",
+      "description": "Virtual photography asks an agent to enter a prepared 3D scene with no preselected camera pose or reference image, infer a suitable shot from scene information and a language intent, choose executable camera parameters, and render the final photograph. Recent progress in vision-language models makes",
+      "signals": {
+        "type": "paper",
+        "upvotes": 23,
+        "arxiv_id": "2605.23771"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2604.20665",
+      "title": "The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm",
+      "url": "https://huggingface.co/papers/2604.20665",
+      "description": "The rapid proliferation of Vision-Language Models (VLMs) is often framed as enabling unified multimodal knowledge discovery but rests on an under-examined assumption: that current VLMs faithfully synthesise multimodal data. We argue they often do not, and this gap reflects a trustworthiness problem ",
+      "signals": {
+        "type": "paper",
+        "upvotes": 5,
+        "arxiv_id": "2604.20665"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.18018",
+      "title": "See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding",
+      "url": "https://huggingface.co/papers/2605.18018",
+      "description": "We present SWIM (See What I Mean), a novel training strategy that aligns vision and language representations to enable fine-grained object understanding solely from textual prompts. Unlike existing approaches that require explicit visual prompts, such as masks or points, SWIM leverages mask supervis",
+      "signals": {
+        "type": "paper",
+        "upvotes": 28,
+        "arxiv_id": "2605.18018"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.23903",
+      "title": "Geo-Align: Video Generation Alignment via Metric Geometry Reward",
+      "url": "https://huggingface.co/papers/2605.23903",
+      "description": "Camera-controlled video generation has achieved remarkable progress in recent years. However, existing video-to-video re-rendering methods primarily rely on Supervised Fine-Tuning using synthetic datasets. At present, there is an extreme scarcity of synchronized, multi-view real-world video data. Co",
+      "signals": {
+        "type": "paper",
+        "upvotes": 6,
+        "arxiv_id": "2605.23903"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.20708",
+      "title": "Rethinking Cross-Layer Information Routing in Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2605.20708",
+      "description": "Diffusion Transformers (DiTs) have become a de facto backbone of modern visual generation, and nearly every major axis of their design -- tokenization, attention, conditioning, objectives, and latent autoencoders -- has been extensively revisited. The residual stream that governs how information acc",
+      "signals": {
+        "type": "paper",
+        "upvotes": 97,
+        "arxiv_id": "2605.20708"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hf-paper:2605.21195",
+      "title": "RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution",
+      "url": "https://huggingface.co/papers/2605.21195",
+      "description": "Discrete autoregressive (AR) text-to-image (T2I) models pair a VQ tokenizer with an AR policy, and current post-training pipelines optimize only the policy while keeping the VQ decoder frozen. Recent diffusion T2I work, exemplified by REPA-E, has shown that the VAE itself constitutes a key alignment",
+      "signals": {
+        "type": "paper",
+        "upvotes": 14,
+        "arxiv_id": "2605.21195"
+      },
+      "category_hint": null
+    }
+  ]
+}

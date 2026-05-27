@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-28T00:34:51+09:00",
+  "items": [
+    {
+      "id": "hn:48292224",
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "description": "",
+      "signals": {
+        "points": 1133,
+        "num_comments": 611,
+        "discussion_url": "https://news.ycombinator.com/item?id=48292224"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48279316",
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "description": "",
+      "signals": {
+        "points": 1035,
+        "num_comments": 477,
+        "discussion_url": "https://news.ycombinator.com/item?id=48279316"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48285344",
+      "title": "The worst job interview I ever had",
+      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+      "description": "",
+      "signals": {
+        "points": 492,
+        "num_comments": 373,
+        "discussion_url": "https://news.ycombinator.com/item?id=48285344"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48271448",
+      "title": "A few interesting modern pixel fonts",
+      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+      "description": "",
+      "signals": {
+        "points": 394,
+        "num_comments": 93,
+        "discussion_url": "https://news.ycombinator.com/item?id=48271448"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48284712",
+      "title": "That Methyl Methacrylate Tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "description": "",
+      "signals": {
+        "points": 382,
+        "num_comments": 170,
+        "discussion_url": "https://news.ycombinator.com/item?id=48284712"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48287468",
+      "title": "Cloudflare Flagship",
+      "url": "https://developers.cloudflare.com/flagship/",
+      "description": "",
+      "signals": {
+        "points": 306,
+        "num_comments": 157,
+        "discussion_url": "https://news.ycombinator.com/item?id=48287468"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48238703",
+      "title": "I built a Git-tracked book production pipeline",
+      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+      "description": "",
+      "signals": {
+        "points": 273,
+        "num_comments": 70,
+        "discussion_url": "https://news.ycombinator.com/item?id=48238703"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48292941",
+      "title": "Private Equity Bought America's Essential Services",
+      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+      "description": "",
+      "signals": {
+        "points": 234,
+        "num_comments": 282,
+        "discussion_url": "https://news.ycombinator.com/item?id=48292941"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48284711",
+      "title": "The Melancholy of Slaying Monsters",
+      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+      "description": "",
+      "signals": {
+        "points": 206,
+        "num_comments": 83,
+        "discussion_url": "https://news.ycombinator.com/item?id=48284711"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48289950",
+      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
+      "description": "",
+      "signals": {
+        "points": 198,
+        "num_comments": 149,
+        "discussion_url": "https://news.ycombinator.com/item?id=48289950"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48291225",
+      "title": "All of human cooking compressed into 2 megabytes",
+      "url": "https://arxiv.org/abs/2605.22391",
+      "description": "",
+      "signals": {
+        "points": 187,
+        "num_comments": 73,
+        "discussion_url": "https://news.ycombinator.com/item?id=48291225"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48293080",
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+      "description": "",
+      "signals": {
+        "points": 155,
+        "num_comments": 126,
+        "discussion_url": "https://news.ycombinator.com/item?id=48293080"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48291947",
+      "title": "Mini Micro Fantasy Computer",
+      "url": "https://miniscript.org/MiniMicro/index.html#about",
+      "description": "",
+      "signals": {
+        "points": 153,
+        "num_comments": 61,
+        "discussion_url": "https://news.ycombinator.com/item?id=48291947"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48263560",
+      "title": "C array types are weird",
+      "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+      "description": "",
+      "signals": {
+        "points": 116,
+        "num_comments": 116,
+        "discussion_url": "https://news.ycombinator.com/item?id=48263560"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48277107",
+      "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+      "url": "https://badhost.org/",
+      "description": "",
+      "signals": {
+        "points": 103,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=48277107"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48280729",
+      "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+      "url": "https://www.minicor.com/",
+      "description": "",
+      "signals": {
+        "points": 98,
+        "num_comments": 61,
+        "discussion_url": "https://news.ycombinator.com/item?id=48280729"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48277723",
+      "title": "Raft Consensus with a Minority of Nodes",
+      "url": "https://padhye.org/raft-minority/",
+      "description": "",
+      "signals": {
+        "points": 88,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48277723"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48291575",
+      "title": "Go: Support for Generic Methods",
+      "url": "https://github.com/golang/go/issues/77273",
+      "description": "",
+      "signals": {
+        "points": 87,
+        "num_comments": 67,
+        "discussion_url": "https://news.ycombinator.com/item?id=48291575"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48294401",
+      "title": "Italy region: +200% tax on datacenters built in green/agricultural areas",
+      "url": "https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID",
+      "description": "",
+      "signals": {
+        "points": 84,
+        "num_comments": 124,
+        "discussion_url": "https://news.ycombinator.com/item?id=48294401"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48256733",
+      "title": "We are Poles, so, of course, we print in Latin",
+      "url": "https://www.ustc.ac.uk/news/we-are-poles-so-of-course-we-print-in-latin",
+      "description": "",
+      "signals": {
+        "points": 81,
+        "num_comments": 44,
+        "discussion_url": "https://news.ycombinator.com/item?id=48256733"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48247005",
+      "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data",
+      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+      "description": "",
+      "signals": {
+        "points": 65,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48247005"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48288709",
+      "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
+      "url": "https://tsduck.io/",
+      "description": "",
+      "signals": {
+        "points": 59,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48288709"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48272763",
+      "title": "What Is a Direct Attach Copper (DAC) Cable",
+      "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
+      "description": "",
+      "signals": {
+        "points": 58,
+        "num_comments": 46,
+        "discussion_url": "https://news.ycombinator.com/item?id=48272763"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48293014",
+      "title": "XLIDE: VBA without excel",
+      "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
+      "description": "",
+      "signals": {
+        "points": 40,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48293014"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48295460",
+      "title": "Corporations can vote in some Delaware elections, judge says",
+      "url": "https://news.bloomberglaw.com/esg/corporations-have-the-right-to-vote-in-delaware-town-judge-says",
+      "description": "",
+      "signals": {
+        "points": 32,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48295460"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48294670",
+      "title": "The VibeSec Reckoning",
+      "url": "https://martinfowler.com/articles/vibesec-reckoning.html",
+      "description": "",
+      "signals": {
+        "points": 24,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48294670"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48294831",
+      "title": "Declassified CIA Cartography Maps from the 1980s",
+      "url": "https://brilliantmaps.com/cia-maps-1980s/",
+      "description": "",
+      "signals": {
+        "points": 20,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48294831"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48268185",
+      "title": "My new obsession: A horse-racing board game of pure luck",
+      "url": "https://alexanderbjoy.com/horse-race-board-game/",
+      "description": "",
+      "signals": {
+        "points": 10,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48268185"
+      },
+      "category_hint": null
+    }
+  ]
+}

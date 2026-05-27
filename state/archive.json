@@ -758,5 +758,25 @@
   "https://huggingface.co/papers/2605.24830": {
     "archived_on": "2026-05-26",
     "title": "Macaron-A2UI: A Model for Generative UI in Personal Agents"
+  },
+  "https://arps18.github.io/posts/claude-code-mastery/": {
+    "archived_on": "2026-05-28",
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs"
+  },
+  "https://huggingface.co/papers/2605.26114": {
+    "archived_on": "2026-05-28",
+    "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research"
+  },
+  "https://huggingface.co/papers/2605.24213": {
+    "archived_on": "2026-05-28",
+    "title": "Towards Evaluation Engineering: An Empirical Study of ML Evaluation Harnesses in the Wild"
+  },
+  "https://openai.com/index/building-self-improving-tax-agents-with-codex": {
+    "archived_on": "2026-05-28",
+    "title": "Building self-improving tax agents with Codex"
+  },
+  "https://huggingface.co/papers/2605.27366": {
+    "archived_on": "2026-05-28",
+    "title": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation"
   }
 }

@@ -1,0 +1,198 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-05-28T00:34:50+09:00",
+  "items": [
+    {
+      "id": "github:harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "signals": {
+        "stars": 60950,
+        "stars_today": 1737,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Lum1104/Understand-Anything",
+      "title": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "signals": {
+        "stars": 38865,
+        "stars_today": 4466,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:hardikpandya/stop-slop",
+      "title": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "signals": {
+        "stars": 5457,
+        "stars_today": 664,
+        "language": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "signals": {
+        "stars": 195655,
+        "stars_today": 2062,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:anthropics/knowledge-work-plugins",
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "signals": {
+        "stars": 17069,
+        "stars_today": 695,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Leonxlnx/taste-skill",
+      "title": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "signals": {
+        "stars": 23622,
+        "stars_today": 2715,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:p-e-w/heretic",
+      "title": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "signals": {
+        "stars": 21882,
+        "stars_today": 219,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:shiyu-coder/Kronos",
+      "title": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "signals": {
+        "stars": 26760,
+        "stars_today": 402,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:mukul975/Anthropic-Cybersecurity-Skills",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "signals": {
+        "stars": 10698,
+        "stars_today": 885,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:twentyhq/twenty",
+      "title": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "signals": {
+        "stars": 47158,
+        "stars_today": 520,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:DigitalPlatDev/FreeDomain",
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "signals": {
+        "stars": 168603,
+        "stars_today": 2223,
+        "language": "HTML"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:obra/superpowers",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "signals": {
+        "stars": 209143,
+        "stars_today": 1680,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:byoungd/English-level-up-tips",
+      "title": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "signals": {
+        "stars": 46057,
+        "stars_today": 1133,
+        "language": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:iii-hq/iii",
+      "title": "iii-hq/iii",
+      "url": "https://github.com/iii-hq/iii",
+      "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+      "signals": {
+        "stars": 16685,
+        "stars_today": 427,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Axorax/awesome-free-apps",
+      "title": "Axorax/awesome-free-apps",
+      "url": "https://github.com/Axorax/awesome-free-apps",
+      "description": "Curated list of the best free apps for PC and mobile",
+      "signals": {
+        "stars": 5698,
+        "stars_today": 728,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:moeru-ai/airi",
+      "title": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "signals": {
+        "stars": 40090,
+        "stars_today": 56,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    }
+  ]
+}

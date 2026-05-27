@@ -29,137 +29,11 @@
     "days": 1,
     "title": "How sales teams use Codex"
   },
-  "https://cursor.com/blog/composer-2-5": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-19",
-    "days": 1,
-    "title": "Cursor Introduces Composer 2.5"
-  },
-  "https://openai.com/index/dell-codex-enterprise-partnership": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-19",
-    "days": 1,
-    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments"
-  },
-  "https://huggingface.co/papers/2605.18661": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-19",
-    "days": 1,
-    "title": "AI for Auto-Research: Roadmap & User Guide"
-  },
-  "https://huggingface.co/papers/2605.14271": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-19",
-    "days": 1,
-    "title": "Auditing Agent Harness Safety"
-  },
-  "https://huggingface.co/papers/2605.16839": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-19",
-    "days": 1,
-    "title": "CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection"
-  },
-  "https://github.com/humanlayer/12-factor-agents": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-20",
-    "days": 2,
-    "title": "humanlayer/12-factor-agents"
-  },
-  "https://huggingface.co/papers/2605.18401": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-20",
-    "days": 2,
-    "title": "SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution"
-  },
-  "https://huggingface.co/papers/2605.17283": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-19",
-    "days": 1,
-    "title": "OProver: A Unified Framework for Agentic Formal Theorem Proving"
-  },
-  "https://huggingface.co/papers/2605.14038": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-19",
-    "days": 1,
-    "title": "Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use"
-  },
-  "https://huggingface.co/papers/2605.14212": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-19",
-    "days": 1,
-    "title": "MetaAgent-X: Breaking the Ceiling of Automatic Multi-Agent Systems via End-to-End Reinforcement Learning"
-  },
-  "https://huggingface.co/papers/2605.17698": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-19",
-    "days": 1,
-    "title": "Agent Bazaar: Enabling Economic Alignment in Multi-Agent Marketplaces"
-  },
-  "https://huggingface.co/papers/2605.18747": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-19",
-    "days": 1,
-    "title": "Code as Agent Harness"
-  },
-  "https://huggingface.co/papers/2605.12524": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-19",
-    "days": 1,
-    "title": "Stress-Testing the Reasoning Competence of LLMs With Proofs Under Minimal Formalism"
-  },
   "https://github.com/Imbad0202/academic-research-skills": {
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-22",
     "days": 4,
     "title": "Imbad0202/academic-research-skills"
-  },
-  "https://jxnl.co/writing/2026/05/10/codex-maxxing/": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-19",
-    "days": 1,
-    "title": "Codex-maxxing"
-  },
-  "https://huggingface.co/papers/2605.17242": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-20",
-    "days": 2,
-    "title": "From Runnable to Shippable: Multi-Agent Test-Driven Development for Generating Full-Stack Web Applications from Requirements"
-  },
-  "https://huggingface.co/papers/2605.14589": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-19",
-    "days": 1,
-    "title": "EndPrompt: Efficient Long-Context Extension via Terminal Anchoring"
-  },
-  "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "Gemini 3.5: frontier intelligence with action"
-  },
-  "https://deepmind.google/blog/introducing-google-antigravity-2-0/": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "Introducing Google Antigravity 2.0"
-  },
-  "https://github.com/anthropics/claude-plugins-official": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "anthropics/claude-plugins-official"
-  },
-  "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "Co-Scientist: A multi-agent AI partner to accelerate research"
-  },
-  "https://huggingface.co/papers/2605.16679": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?"
   },
   "https://github.com/HKUDS/ViMax": {
     "first_seen": "2026-05-20",
@@ -179,77 +53,17 @@
     "days": 2,
     "title": "msitarzewski/agency-agents"
   },
-  "https://huggingface.co/papers/2605.15565": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs"
-  },
-  "https://huggingface.co/papers/2605.18703": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL"
-  },
-  "https://huggingface.co/papers/2605.16909": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "TOBench: A Task-Oriented Omni-Modal Benchmark for Real-World Tool-Using Agents"
-  },
-  "https://wanglun1996.github.io/blog/your-evals-will-break.html": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "Evals will break"
-  },
-  "https://huggingface.co/papers/2605.17278": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "A2RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation"
-  },
   "https://github.com/multica-ai/andrej-karpathy-skills": {
     "first_seen": "2026-05-24",
     "last_seen": "2026-05-24",
     "days": 1,
     "title": "multica-ai/andrej-karpathy-skills"
   },
-  "https://twitter.com/karpathy/status/2056753169888334312": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "I've joined Anthropic"
-  },
-  "https://github.com/rtk-ai/rtk": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "rtk-ai/rtk"
-  },
   "https://github.com/Alishahryar1/free-claude-code": {
     "first_seen": "2026-05-24",
     "last_seen": "2026-05-24",
     "days": 1,
     "title": "Alishahryar1/free-claude-code"
-  },
-  "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "Gemini CLI will stop working from June 18, 2026"
-  },
-  "https://huggingface.co/papers/2605.19932": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents"
-  },
-  "https://huggingface.co/papers/2605.19577": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "days": 1,
-    "title": "GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment"
   },
   "https://huggingface.co/papers/2605.14236": {
     "first_seen": "2026-05-21",
@@ -432,9 +246,9 @@
     "title": "dotnet/skills"
   },
   "https://github.com/Lum1104/Understand-Anything": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-26",
-    "days": 5,
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
     "title": "Lum1104/Understand-Anything"
   },
   "https://github.com/teng-lin/notebooklm-py": {
@@ -856,5 +670,119 @@
     "last_seen": "2026-05-26",
     "days": 1,
     "title": "Use Boring Languages with LLMs"
+  },
+  "https://arps18.github.io/posts/claude-code-mastery/": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs"
+  },
+  "https://huggingface.co/papers/2605.26114": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research"
+  },
+  "https://huggingface.co/papers/2605.24213": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Towards Evaluation Engineering: An Empirical Study of ML Evaluation Harnesses in the Wild"
+  },
+  "https://openai.com/index/building-self-improving-tax-agents-with-codex": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Building self-improving tax agents with Codex"
+  },
+  "https://huggingface.co/papers/2605.27366": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation"
+  },
+  "https://huggingface.co/papers/2605.25624": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents"
+  },
+  "https://huggingface.co/papers/2605.25535": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Personalize-then-Store: Benchmarking and Learning Personalized Memory for Long-horizon Agents"
+  },
+  "https://huggingface.co/papers/2605.24468": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "SAM: State-Adaptive Memory for Long-Horizon Reasoning Agent"
+  },
+  "https://huggingface.co/papers/2605.24219": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Beyond Final Answers: Auditing Trajectory-Level Hallucinations in Multi-Agent Industrial Workflows"
+  },
+  "https://huggingface.co/papers/2605.25188": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "DarkForest: Less Talk, Higher Accuracy for Multi-Agent LLMs"
+  },
+  "https://huggingface.co/papers/2605.26952": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Efficient Agentic Reinforcement Learning with On-Policy Intrinsic Knowledge Boundary Enhancement"
+  },
+  "https://huggingface.co/papers/2605.27141": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions"
+  },
+  "https://huggingface.co/papers/2605.21748": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "RankJudge: A Multi-Turn LLM-as-a-Judge Synthetic Benchmark Generator"
+  },
+  "https://huggingface.co/papers/2605.22608": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Agentic CLEAR: Automating Multi-Level Evaluation of LLM Agents"
+  },
+  "https://huggingface.co/papers/2605.24517": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "ECHO: Terminal Agents Learn World Models for Free"
+  },
+  "https://huggingface.co/papers/2605.23491": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "CoSPlay: Cooperative Self-Play at Test-Time with Self-Generated Code and Unit Test"
+  },
+  "https://martinfowler.com/articles/vibesec-reckoning.html": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "The VibeSec Reckoning"
+  },
+  "https://huggingface.co/papers/2605.26099": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Language Models Need Sleep"
+  },
+  "https://huggingface.co/papers/2605.27030": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Share More, Search Less: Collaborative Parallel Thinking for Efficient Test-Time Scaling"
   }
 }

@@ -778,5 +778,25 @@
   "https://huggingface.co/papers/2605.27366": {
     "archived_on": "2026-05-28",
     "title": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation"
+  },
+  "https://news.ycombinator.com/item?id=48296794": {
+    "archived_on": "2026-05-28",
+    "title": "I think Anthropic and OpenAI have found product-market fit"
+  },
+  "https://huggingface.co/papers/2605.28774": {
+    "archived_on": "2026-05-28",
+    "title": "Agent Explorative Policy Optimization for Multimodal Agentic Reasoning"
+  },
+  "https://huggingface.co/papers/2605.28816": {
+    "archived_on": "2026-05-28",
+    "title": "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players"
+  },
+  "https://huggingface.co/papers/2605.28732": {
+    "archived_on": "2026-05-28",
+    "title": "MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems"
+  },
+  "https://openai.com/index/cisco": {
+    "archived_on": "2026-05-28",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex"
   }
 }

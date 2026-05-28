@@ -654,14 +654,14 @@
     "title": "Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth"
   },
   "https://github.com/Leonxlnx/taste-skill": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
     "days": 1,
     "title": "Leonxlnx/taste-skill"
   },
   "https://github.com/hardikpandya/stop-slop": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
     "days": 1,
     "title": "hardikpandya/stop-slop"
   },
@@ -784,5 +784,131 @@
     "last_seen": "2026-05-28",
     "days": 1,
     "title": "Share More, Search Less: Collaborative Parallel Thinking for Efficient Test-Time Scaling"
+  },
+  "https://news.ycombinator.com/item?id=48296794": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "I think Anthropic and OpenAI have found product-market fit"
+  },
+  "https://huggingface.co/papers/2605.28774": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Agent Explorative Policy Optimization for Multimodal Agentic Reasoning"
+  },
+  "https://huggingface.co/papers/2605.28816": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players"
+  },
+  "https://huggingface.co/papers/2605.28732": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems"
+  },
+  "https://openai.com/index/cisco": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex"
+  },
+  "https://huggingface.co/papers/2605.28814": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Self-Improving Language Models with Bidirectional Evolutionary Search"
+  },
+  "https://huggingface.co/papers/2605.26340": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence"
+  },
+  "https://huggingface.co/papers/2605.28773": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Rethinking Memory as Continuously Evolving Connectivity"
+  },
+  "https://huggingface.co/papers/2605.27068": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "QUACK: Auditing Communicated Knowledge in Multimodal Social Deduction Agents"
+  },
+  "https://huggingface.co/papers/2605.27466": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems"
+  },
+  "https://huggingface.co/papers/2605.27908": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "ESC-Skills: Discovering and Self-Evolving Skills for Emotional Support Conversations"
+  },
+  "https://huggingface.co/papers/2605.24486": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "AgentFugue: Agent Scaling for Long-Horizon Tasks through Collective Reasoning"
+  },
+  "https://huggingface.co/papers/2605.27760": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "SkillGrad: Optimizing Agent Skills Like Gradient Descent"
+  },
+  "https://huggingface.co/papers/2605.28721": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "LiveBrowseComp: Are Search Agents Searching, or Just Verifying What They Already Know?"
+  },
+  "https://huggingface.co/papers/2605.28398": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "HRBench: Benchmarking Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs"
+  },
+  "https://huggingface.co/papers/2605.27882": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild"
+  },
+  "https://github.com/Chachamaru127/claude-code-harness": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Chachamaru127/claude-code-harness"
+  },
+  "https://huggingface.co/papers/2605.28775": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents"
+  },
+  "https://huggingface.co/papers/2605.26457": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Verus-SpecGym: An Agentic Environment for Evaluating Specification Autoformalization"
+  },
+  "https://openai.com/index/warp": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Warp's big bet on building open source with GPT-5.5"
+  },
+  "https://news.ycombinator.com/item?id=48276429": {
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "days": 1,
+    "title": "Investigating how prompt politeness affects LLM accuracy (2025)"
   }
 }

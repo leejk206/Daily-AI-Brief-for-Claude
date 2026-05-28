@@ -1,7 +1,18 @@
 {
   "source": "release_blogs",
-  "fetched_at": "2026-05-28T00:34:54+09:00",
+  "fetched_at": "2026-05-28T17:58:18+09:00",
   "items": [
+    {
+      "id": "rss:openai:https://openai.com/index/cisco",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "description": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 27 May 2026 11:00:00 GMT"
+      },
+      "category_hint": null
+    },
     {
       "id": "rss:openai:https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "title": "Building self-improving tax agents with Codex",
@@ -10,6 +21,28 @@
       "signals": {
         "vendor": "openai",
         "published": "Wed, 27 May 2026 07:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/warp",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 27 May 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/election-safeguards-2026",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "description": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 27 May 2026 00:00:00 GMT"
       },
       "category_hint": null
     },
@@ -25,10 +58,10 @@
       "category_hint": null
     },
     {
-      "id": "rss:openai:https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "description": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "id": "rss:openai:https://openai.com/index/virgin-atlantic",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "description": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
       "signals": {
         "vendor": "openai",
         "published": "Fri, 22 May 2026 00:00:00 GMT"
@@ -36,10 +69,10 @@
       "category_hint": null
     },
     {
-      "id": "rss:openai:https://openai.com/index/virgin-atlantic",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "description": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "id": "rss:openai:https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "description": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "signals": {
         "vendor": "openai",
         "published": "Fri, 22 May 2026 00:00:00 GMT"
@@ -54,6 +87,17 @@
       "signals": {
         "vendor": "openai",
         "published": "Thu, 21 May 2026 12:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 20 May 2026 00:00:00 GMT"
       },
       "category_hint": null
     },
@@ -73,17 +117,6 @@
       "title": "How Ramp engineers accelerate code review with Codex",
       "url": "https://openai.com/index/ramp",
       "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "signals": {
-        "vendor": "openai",
-        "published": "Wed, 20 May 2026 00:00:00 GMT"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "rss:openai:https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "signals": {
         "vendor": "openai",
         "published": "Wed, 20 May 2026 00:00:00 GMT"
@@ -135,21 +168,10 @@
       "category_hint": null
     },
     {
-      "id": "rss:openai:https://openai.com/index/personal-finance-chatgpt",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "signals": {
-        "vendor": "openai",
-        "published": "Fri, 15 May 2026 00:00:00 GMT"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "rss:openai:https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "description": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "id": "rss:openai:https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "description": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "signals": {
         "vendor": "openai",
         "published": "Fri, 15 May 2026 00:00:00 GMT"
@@ -168,10 +190,10 @@
       "category_hint": null
     },
     {
-      "id": "rss:openai:https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "description": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "id": "rss:openai:https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "description": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "signals": {
         "vendor": "openai",
         "published": "Fri, 15 May 2026 00:00:00 GMT"
@@ -190,35 +212,13 @@
       "category_hint": null
     },
     {
-      "id": "rss:openai:https://openai.com/index/sea-david-chen",
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "description": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "id": "rss:openai:https://openai.com/index/personal-finance-chatgpt",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
       "signals": {
         "vendor": "openai",
-        "published": "Thu, 14 May 2026 20:30:00 GMT"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "rss:openai:https://openai.com/index/work-with-codex-from-anywhere",
-      "title": "Work with Codex from anywhere",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "description": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-      "signals": {
-        "vendor": "openai",
-        "published": "Thu, 14 May 2026 13:00:00 GMT"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "rss:openai:https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "description": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-      "signals": {
-        "vendor": "openai",
-        "published": "Thu, 14 May 2026 00:00:00 GMT"
+        "published": "Fri, 15 May 2026 00:00:00 GMT"
       },
       "category_hint": null
     },

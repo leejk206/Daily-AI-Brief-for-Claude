@@ -5196,9 +5196,10 @@
       "brief_date": "2026-05-26",
       "tags": [
         "agent-skill",
-        "claude-code"
+        "claude-code",
+        "prompt-engineering"
       ],
-      "tagged_at": "2026-05-26T17:53:40+09:00"
+      "tagged_at": "2026-05-28T18:04:32+09:00"
     },
     "https://github.com/hardikpandya/stop-slop": {
       "title": "hardikpandya/stop-slop",
@@ -5210,7 +5211,7 @@
         "agent-skill",
         "prompt-engineering"
       ],
-      "tagged_at": "2026-05-26T17:53:40+09:00"
+      "tagged_at": "2026-05-28T18:04:32+09:00"
     },
     "https://jry.io/writing/use-boring-languages-with-llms/": {
       "title": "Use Boring Languages with LLMs",
@@ -5303,7 +5304,7 @@
         "paper",
         "rl"
       ],
-      "tagged_at": "2026-05-28T00:39:40+09:00"
+      "tagged_at": "2026-05-28T18:04:32+09:00"
     },
     "https://huggingface.co/papers/2605.25535": {
       "title": "Personalize-then-Store: Benchmarking and Learning Personalized Memory for Long-horizon Agents",
@@ -5316,7 +5317,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-28T00:39:40+09:00"
+      "tagged_at": "2026-05-28T18:04:32+09:00"
     },
     "https://huggingface.co/papers/2605.24468": {
       "title": "SAM: State-Adaptive Memory for Long-Horizon Reasoning Agent",
@@ -5329,7 +5330,7 @@
         "long-context",
         "paper"
       ],
-      "tagged_at": "2026-05-28T00:39:40+09:00"
+      "tagged_at": "2026-05-28T18:04:32+09:00"
     },
     "https://huggingface.co/papers/2605.24219": {
       "title": "Beyond Final Answers: Auditing Trajectory-Level Hallucinations in Multi-Agent Industrial Workflows",
@@ -5380,7 +5381,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-28T00:39:40+09:00"
+      "tagged_at": "2026-05-28T18:04:32+09:00"
     },
     "https://huggingface.co/papers/2605.21748": {
       "title": "RankJudge: A Multi-Turn LLM-as-a-Judge Synthetic Benchmark Generator",
@@ -5392,7 +5393,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-28T00:39:40+09:00"
+      "tagged_at": "2026-05-28T18:04:32+09:00"
     },
     "https://huggingface.co/papers/2605.22608": {
       "title": "Agentic CLEAR: Automating Multi-Level Evaluation of LLM Agents",
@@ -5404,7 +5405,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-28T00:39:40+09:00"
+      "tagged_at": "2026-05-28T18:04:32+09:00"
     },
     "https://huggingface.co/papers/2605.24517": {
       "title": "ECHO: Terminal Agents Learn World Models for Free",
@@ -5417,7 +5418,7 @@
         "paper",
         "rl"
       ],
-      "tagged_at": "2026-05-28T00:39:40+09:00"
+      "tagged_at": "2026-05-28T18:04:32+09:00"
     },
     "https://huggingface.co/papers/2605.23491": {
       "title": "CoSPlay: Cooperative Self-Play at Test-Time with Self-Generated Code and Unit Test",
@@ -5455,7 +5456,7 @@
         "long-context",
         "paper"
       ],
-      "tagged_at": "2026-05-28T00:39:40+09:00"
+      "tagged_at": "2026-05-28T18:04:32+09:00"
     },
     "https://huggingface.co/papers/2605.27030": {
       "title": "Share More, Search Less: Collaborative Parallel Thinking for Efficient Test-Time Scaling",
@@ -5465,9 +5466,266 @@
       "brief_date": "2026-05-28",
       "tags": [
         "long-context",
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://news.ycombinator.com/item?id=48296794": {
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "summary": "Simon Willison이 Claude/Codex 도달 단계를 정리, HN 844pt",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "claude-code",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.28774": {
+      "title": "Agent Explorative Policy Optimization for Multimodal Agentic Reasoning",
+      "summary": "멀티모달 에이전틱 추론용 탐험적 정책 최적화",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "paper",
+        "rl",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.28816": {
+      "title": "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
+      "summary": "다수 플레이어용 생성형 멀티에이전트 월드모델",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-28T00:39:40+09:00"
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.28732": {
+      "title": "MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems",
+      "summary": "LLM 메모리 시스템의 오류를 추적·귀속하는 디버깅 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "agent-memory",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://openai.com/index/cisco": {
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "summary": "Cisco가 Codex로 AI-네이티브 개발·결함 자동 수정에 스케일링",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.28814": {
+      "title": "Self-Improving Language Models with Bidirectional Evolutionary Search",
+      "summary": "양방향 진화 탐색 기반 자가 개선 LM",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.26340": {
+      "title": "ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence",
+      "summary": "증거 사슬 기반 인간 수준 자율 연구 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "auto-research",
+        "paper"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.28773": {
+      "title": "Rethinking Memory as Continuously Evolving Connectivity",
+      "summary": "정적 저장소가 아닌 연속 진화 연결성으로서의 에이전트 메모리",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.27068": {
+      "title": "QUACK: Auditing Communicated Knowledge in Multimodal Social Deduction Agents",
+      "summary": "사회 추리 게임에서 멀티에이전트 통신·신념 감사",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "benchmark",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.27466": {
+      "title": "AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems",
+      "summary": "멀티에이전트 조정 결정을 학습하는 정책 기판",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.27908": {
+      "title": "ESC-Skills: Discovering and Self-Evolving Skills for Emotional Support Conversations",
+      "summary": "감정 지원 대화용 스킬 발견·자가 진화 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.24486": {
+      "title": "AgentFugue: Agent Scaling for Long-Horizon Tasks through Collective Reasoning",
+      "summary": "같은 과제에 다수 피어 에이전트를 스케일아웃하는 집단 추론",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.27760": {
+      "title": "SkillGrad: Optimizing Agent Skills Like Gradient Descent",
+      "summary": "경사하강처럼 에이전트 스킬을 최적화하는 진화 기법",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.28721": {
+      "title": "LiveBrowseComp: Are Search Agents Searching, or Just Verifying What They Already Know?",
+      "summary": "검색 에이전트의 내재 지식 의존도(IKD) 진단",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "benchmark",
+        "paper",
+        "web-agent"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.28398": {
+      "title": "HRBench: Benchmarking Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs",
+      "summary": "하이브리드 추론 LLM의 사고 모드 스위치 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.27882": {
+      "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild",
+      "summary": "장기·선제적 웹 검색 평가-경험 갭을 메우는 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "benchmark",
+        "paper",
+        "web-agent"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://github.com/Chachamaru127/claude-code-harness": {
+      "title": "Chachamaru127/claude-code-harness",
+      "summary": "Claude Code 전용 자율 Plan→Work→Review 사이클 하네스",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "agent-harness",
+        "claude-code"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.28775": {
+      "title": "Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents",
+      "summary": "소형 CUA의 도메인별 약점을 자동 특화",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://huggingface.co/papers/2605.26457": {
+      "title": "Verus-SpecGym: An Agentic Environment for Evaluating Specification Autoformalization",
+      "summary": "형식 검증으로 코딩 에이전트 정확성 보장",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://openai.com/index/warp": {
+      "title": "Warp's big bet on building open source with GPT-5.5",
+      "summary": "Warp가 GPT-5.5로 로컬·클라우드·OSS 코딩 에이전트 통합",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://news.ycombinator.com/item?id=48276429": {
+      "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+      "summary": "프롬프트 공손함이 LLM 정확도에 미치는 영향 측정",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-05-28",
+      "tags": [
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-28T18:04:32+09:00"
     }
   }
 }

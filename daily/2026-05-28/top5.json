@@ -1,7 +1,7 @@
 [
-  {"url": "https://arps18.github.io/posts/claude-code-mastery/", "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs"},
-  {"url": "https://huggingface.co/papers/2605.26114", "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research"},
-  {"url": "https://huggingface.co/papers/2605.24213", "title": "Towards Evaluation Engineering: An Empirical Study of ML Evaluation Harnesses in the Wild"},
-  {"url": "https://openai.com/index/building-self-improving-tax-agents-with-codex", "title": "Building self-improving tax agents with Codex"},
-  {"url": "https://huggingface.co/papers/2605.27366", "title": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation"}
+  {"url": "https://news.ycombinator.com/item?id=48296794", "title": "I think Anthropic and OpenAI have found product-market fit"},
+  {"url": "https://huggingface.co/papers/2605.28774", "title": "Agent Explorative Policy Optimization for Multimodal Agentic Reasoning"},
+  {"url": "https://huggingface.co/papers/2605.28816", "title": "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players"},
+  {"url": "https://huggingface.co/papers/2605.28732", "title": "MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems"},
+  {"url": "https://openai.com/index/cisco", "title": "Cisco and OpenAI redefine enterprise engineering with Codex"}
 ]

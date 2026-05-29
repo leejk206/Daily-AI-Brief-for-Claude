@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-29T18:29:27+09:00",
+  "items": [
+    {
+      "id": "hn:48311647",
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "description": "",
+      "signals": {
+        "points": 1517,
+        "num_comments": 1178,
+        "discussion_url": "https://news.ycombinator.com/item?id=48311647"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48314136",
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "description": "",
+      "signals": {
+        "points": 932,
+        "num_comments": 423,
+        "discussion_url": "https://news.ycombinator.com/item?id=48314136"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48314951",
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "url": "https://nick.winans.io/blog/nice-nano/",
+      "description": "",
+      "signals": {
+        "points": 389,
+        "num_comments": 61,
+        "discussion_url": "https://news.ycombinator.com/item?id=48314951"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48315968",
+      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+      "description": "",
+      "signals": {
+        "points": 387,
+        "num_comments": 165,
+        "discussion_url": "https://news.ycombinator.com/item?id=48315968"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48308376",
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "description": "",
+      "signals": {
+        "points": 319,
+        "num_comments": 130,
+        "discussion_url": "https://news.ycombinator.com/item?id=48308376"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48318481",
+      "title": "Cars collect a startling amount of data about you",
+      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "description": "",
+      "signals": {
+        "points": 318,
+        "num_comments": 146,
+        "discussion_url": "https://news.ycombinator.com/item?id=48318481"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48313530",
+      "title": "Building durable workflows on Postgres",
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "description": "",
+      "signals": {
+        "points": 311,
+        "num_comments": 132,
+        "discussion_url": "https://news.ycombinator.com/item?id=48313530"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48313810",
+      "title": "Various LLM Smells",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "description": "",
+      "signals": {
+        "points": 303,
+        "num_comments": 241,
+        "discussion_url": "https://news.ycombinator.com/item?id=48313810"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48317774",
+      "title": "Blue Origin's New Glenn blows up during static fire test",
+      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+      "description": "",
+      "signals": {
+        "points": 281,
+        "num_comments": 280,
+        "discussion_url": "https://news.ycombinator.com/item?id=48317774"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48314002",
+      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+      "description": "",
+      "signals": {
+        "points": 246,
+        "num_comments": 79,
+        "discussion_url": "https://news.ycombinator.com/item?id=48314002"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48282180",
+      "title": "Indoor Wi-Fi Roaming with OpenWRT",
+      "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+      "description": "",
+      "signals": {
+        "points": 242,
+        "num_comments": 120,
+        "discussion_url": "https://news.ycombinator.com/item?id=48282180"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48317093",
+      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+      "description": "",
+      "signals": {
+        "points": 206,
+        "num_comments": 99,
+        "discussion_url": "https://news.ycombinator.com/item?id=48317093"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48276598",
+      "title": "News about Raspberry Pi 6 and Microcontroller Development",
+      "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+      "description": "",
+      "signals": {
+        "points": 198,
+        "num_comments": 160,
+        "discussion_url": "https://news.ycombinator.com/item?id=48276598"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48310280",
+      "title": "The Permanent Upper Crow",
+      "url": "https://permanent-upper-crow.jasonwu.ink/",
+      "description": "",
+      "signals": {
+        "points": 185,
+        "num_comments": 74,
+        "discussion_url": "https://news.ycombinator.com/item?id=48310280"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48280451",
+      "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
+      "url": "https://coalton-lang.github.io/",
+      "description": "",
+      "signals": {
+        "points": 157,
+        "num_comments": 28,
+        "discussion_url": "https://news.ycombinator.com/item?id=48280451"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48319509",
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "description": "",
+      "signals": {
+        "points": 143,
+        "num_comments": 68,
+        "discussion_url": "https://news.ycombinator.com/item?id=48319509"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48261377",
+      "title": "Ten Basic Clouds",
+      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+      "description": "",
+      "signals": {
+        "points": 113,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48261377"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48311490",
+      "title": "Endive: A JVM native WebAssembly runtime",
+      "url": "https://github.com/bytecodealliance/endive",
+      "description": "",
+      "signals": {
+        "points": 88,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=48311490"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48318174",
+      "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "description": "",
+      "signals": {
+        "points": 78,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48318174"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48317294",
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "description": "",
+      "signals": {
+        "points": 76,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=48317294"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48309986",
+      "title": "Show HN: Ktx – Open-source executable context layer for data agents",
+      "url": "https://github.com/Kaelio/ktx",
+      "description": "",
+      "signals": {
+        "points": 73,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48309986"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48317043",
+      "title": "Garnix (A Nix CI) is shutting down",
+      "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+      "description": "",
+      "signals": {
+        "points": 64,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48317043"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48258848",
+      "title": "What Gets Kept",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+      "description": "",
+      "signals": {
+        "points": 63,
+        "num_comments": 73,
+        "discussion_url": "https://news.ycombinator.com/item?id=48258848"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48318313",
+      "title": "Italians and Dutch share the same gestural instinct for teaching",
+      "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
+      "description": "",
+      "signals": {
+        "points": 59,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48318313"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48319968",
+      "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
+      "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "description": "",
+      "signals": {
+        "points": 36,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=48319968"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48286028",
+      "title": "Phloto for My Photo Flow",
+      "url": "https://cceckman.com/writing/phloto/",
+      "description": "",
+      "signals": {
+        "points": 36,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48286028"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48318522",
+      "title": "Let's compile Quake like it's 1997",
+      "url": "https://fabiensanglard.net/compile_like_1997/",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48318522"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48280967",
+      "title": "Avoid Using \"< [Cdata[ ]]>\" in RSS",
+      "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
+      "description": "",
+      "signals": {
+        "points": 16,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48280967"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48318568",
+      "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
+      "url": "https://github.com/HeidiSQL/HeidiSQL",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48318568"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

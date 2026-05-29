@@ -1,0 +1,198 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-05-29T18:29:26+09:00",
+  "items": [
+    {
+      "id": "github:harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "signals": {
+        "stars": 68015,
+        "stars_today": 4698,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "signals": {
+        "stars": 197910,
+        "stars_today": 1385,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Leonxlnx/taste-skill",
+      "title": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "signals": {
+        "stars": 27270,
+        "stars_today": 2234,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:hardikpandya/stop-slop",
+      "title": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "signals": {
+        "stars": 6651,
+        "stars_today": 761,
+        "language": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:twentyhq/twenty",
+      "title": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "signals": {
+        "stars": 48084,
+        "stars_today": 493,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:DigitalPlatDev/FreeDomain",
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "signals": {
+        "stars": 171197,
+        "stars_today": 1761,
+        "language": "HTML"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:byoungd/English-level-up-tips",
+      "title": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "signals": {
+        "stars": 49147,
+        "stars_today": 2019,
+        "language": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:microsoft/markitdown",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "signals": {
+        "stars": 128370,
+        "stars_today": 1410,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:obra/superpowers",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "signals": {
+        "stars": 211760,
+        "stars_today": 1730,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:revfactory/harness",
+      "title": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "signals": {
+        "stars": 4052,
+        "stars_today": 65,
+        "language": "HTML"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:codecrafters-io/build-your-own-x",
+      "title": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "signals": {
+        "stars": 506873,
+        "stars_today": 1066,
+        "language": "Markdown"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Lum1104/Understand-Anything",
+      "title": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "signals": {
+        "stars": 43683,
+        "stars_today": 3776,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:unclecode/crawl4ai",
+      "title": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "signals": {
+        "stars": 67174,
+        "stars_today": 154,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:OpenMOSS/MOSS-TTS",
+      "title": "OpenMOSS/MOSS-TTS",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS",
+      "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
+      "signals": {
+        "stars": 2423,
+        "stars_today": 71,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:EveryInc/compound-engineering-plugin",
+      "title": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "signals": {
+        "stars": 17920,
+        "stars_today": 184,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:anthropics/skills",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "signals": {
+        "stars": 143291,
+        "stars_today": 718,
+        "language": "Python"
+      },
+      "category_hint": null
+    }
+  ]
+}

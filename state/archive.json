@@ -798,5 +798,25 @@
   "https://openai.com/index/cisco": {
     "archived_on": "2026-05-28",
     "title": "Cisco and OpenAI redefine enterprise engineering with Codex"
+  },
+  "https://www.anthropic.com/news/claude-opus-4-8": {
+    "archived_on": "2026-05-29",
+    "title": "Claude Opus 4.8"
+  },
+  "https://huggingface.co/papers/2605.29801": {
+    "archived_on": "2026-05-29",
+    "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security"
+  },
+  "https://huggingface.co/papers/2605.29250": {
+    "archived_on": "2026-05-29",
+    "title": "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources"
+  },
+  "https://minimaxir.com/2026/05/openrouter-hy3/": {
+    "archived_on": "2026-05-29",
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings"
+  },
+  "https://github.com/revfactory/harness": {
+    "archived_on": "2026-05-29",
+    "title": "revfactory/harness"
   }
 }

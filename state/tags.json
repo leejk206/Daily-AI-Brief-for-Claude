@@ -4384,7 +4384,7 @@
         "coding-platform",
         "tutorial"
       ],
-      "tagged_at": "2026-05-28T00:39:40+09:00"
+      "tagged_at": "2026-05-29T18:34:33+09:00"
     },
     "https://github.com/teng-lin/notebooklm-py": {
       "title": "teng-lin/notebooklm-py",
@@ -5199,7 +5199,7 @@
         "claude-code",
         "prompt-engineering"
       ],
-      "tagged_at": "2026-05-28T18:04:32+09:00"
+      "tagged_at": "2026-05-29T18:34:33+09:00"
     },
     "https://github.com/hardikpandya/stop-slop": {
       "title": "hardikpandya/stop-slop",
@@ -5211,7 +5211,7 @@
         "agent-skill",
         "prompt-engineering"
       ],
-      "tagged_at": "2026-05-28T18:04:32+09:00"
+      "tagged_at": "2026-05-29T18:34:33+09:00"
     },
     "https://jry.io/writing/use-boring-languages-with-llms/": {
       "title": "Use Boring Languages with LLMs",
@@ -5713,7 +5713,7 @@
         "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-28T18:04:32+09:00"
+      "tagged_at": "2026-05-29T18:34:33+09:00"
     },
     "https://news.ycombinator.com/item?id=48276429": {
       "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
@@ -5726,6 +5726,249 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-05-28T18:04:32+09:00"
+    },
+    "https://www.anthropic.com/news/claude-opus-4-8": {
+      "title": "Claude Opus 4.8",
+      "summary": "Anthropic 신규 플래그십 모델 공개",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "claude-code"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://huggingface.co/papers/2605.29801": {
+      "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security",
+      "summary": "경량·확장형 AI 에이전트 안전·정렬 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://huggingface.co/papers/2605.29250": {
+      "title": "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources",
+      "summary": "텍스트·표·지식그래프 통합 검색",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://minimaxir.com/2026/05/openrouter-hy3/": {
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings",
+      "summary": "정체불명 Hy3가 OpenRouter 랭킹 1위",
+      "category": "llm-harness-eval",
+      "source": "hacker_news",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "benchmark"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://github.com/revfactory/harness": {
+      "title": "revfactory/harness",
+      "summary": "도메인별 에이전트 팀·스킬을 설계하는 메타 스킬",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "agent-skill",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://huggingface.co/papers/2605.28424": {
+      "title": "Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning",
+      "summary": "OOD 일반화를 위한 스킬 내재화·활용 에이전틱 RL",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://huggingface.co/papers/2605.30102": {
+      "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
+      "summary": "클라우드·디바이스 하이브리드 멀티에이전트 설계 교훈",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "local-inference",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://huggingface.co/papers/2605.29861": {
+      "title": "Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation",
+      "summary": "검증 가능 멀티모달 딥리서치용 멀티에이전트 하네스",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "auto-research",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://huggingface.co/papers/2605.28617": {
+      "title": "LACUNA: Safe Agents as Recursive Program Holes",
+      "summary": "모델 작성 코드가 런타임을 형성하는 안전 에이전트 구조",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://huggingface.co/papers/2605.29888": {
+      "title": "LaRA: Layer-wise Representation Analysis for Detecting Data Contamination in RL Post-Training",
+      "summary": "RL 사후학습의 데이터 오염을 표현 분석으로 탐지",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "benchmark",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://huggingface.co/papers/2605.27995": {
+      "title": "AsyncTool: Evaluating the Asynchronous Function Calling Capability under Multi-Task Scenarios",
+      "summary": "멀티태스크 비동기 함수 호출 능력 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "benchmark",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://huggingface.co/papers/2605.26029": {
+      "title": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists",
+      "summary": "AI 사이언티스트용 상호작용 인과 발견 평가 환경",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "auto-research",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://buildingbetter.tech/p/i-read-the-claude-code-source-code": {
+      "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "summary": "문서에 없는 Claude Code 설정을 소스에서 발굴",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "claude-code"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://github.com/EveryInc/compound-engineering-plugin": {
+      "title": "EveryInc/compound-engineering-plugin",
+      "summary": "Claude Code·Codex·Cursor용 컴파운드 엔지니어링 플러그인",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "claude-code",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://huggingface.co/papers/2605.29559": {
+      "title": "LiteCoder-Terminal: Scaling Long-Horizon Terminal Environments for Learning Language Agents",
+      "summary": "장기 터미널 에이전트 학습 환경 스케일링",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "cli-agent",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://openai.com/index/endava": {
+      "title": "How Endava builds an agentic organization with Codex",
+      "summary": "Endava가 Codex로 에이전틱 조직 구축",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/": {
+      "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
+      "summary": "jqwik에 숨겨진 프롬프트 인젝션이 코딩 에이전트 공격",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "agent-harness",
+        "ai-code-policy"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://huggingface.co/papers/2605.30219": {
+      "title": "When Should Models Change Their Minds? Contextual Belief Management in Large Language Models",
+      "summary": "장기 상호작용에서 신념 상태 갱신·보존 관리",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://huggingface.co/papers/2605.26578": {
+      "title": "Is Position Bias in Dense Retrievers Built In-or Learned from Data?",
+      "summary": "밀집 검색기의 위치 편향 원인 분석",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://shvbsle.in/various-llm-smells/": {
+      "title": "Various LLM Smells",
+      "summary": "LLM 사용·코딩 시 나타나는 안티패턴 정리",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-05-29",
+      "tags": [
+        "ai-code-policy",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-05-29T18:34:33+09:00"
     }
   }
 }

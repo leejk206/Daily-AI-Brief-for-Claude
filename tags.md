@@ -79,6 +79,9 @@ Claude Code 관련 항목
 ### ai-code-policy
 AI 생성 코드 기여·OSS 정책·거버넌스
 
+### retrieval
+검색·RAG·밀집 검색기·이종 지식원 검색 전략
+
 ## Candidate
 
 ### voice-agent

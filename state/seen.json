@@ -35,23 +35,11 @@
     "days": 4,
     "title": "Imbad0202/academic-research-skills"
   },
-  "https://github.com/HKUDS/ViMax": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-21",
-    "days": 2,
-    "title": "HKUDS/ViMax"
-  },
   "https://github.com/antoinezambelli/forge": {
     "first_seen": "2026-05-22",
     "last_seen": "2026-05-22",
     "days": 1,
     "title": "antoinezambelli/forge"
-  },
-  "https://github.com/msitarzewski/agency-agents": {
-    "first_seen": "2026-05-20",
-    "last_seen": "2026-05-21",
-    "days": 2,
-    "title": "msitarzewski/agency-agents"
   },
   "https://github.com/multica-ai/andrej-karpathy-skills": {
     "first_seen": "2026-05-24",
@@ -65,107 +53,11 @@
     "days": 1,
     "title": "Alishahryar1/free-claude-code"
   },
-  "https://huggingface.co/papers/2605.14236": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "Active Learners as Efficient PRP Rerankers"
-  },
-  "https://huggingface.co/papers/2605.17734": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "Harnessing LLM Agents with Skill Programs"
-  },
-  "https://openai.com/index/ramp": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "How Ramp engineers accelerate code review with Codex"
-  },
-  "https://huggingface.co/papers/2605.17829": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "Interactive Evaluation Requires a Design Science"
-  },
-  "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "Learnings from 100K lines of Rust with AI"
-  },
-  "https://huggingface.co/papers/2605.21463": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "Mem-π: Adaptive Memory through Learning When and What to Generate"
-  },
-  "https://huggingface.co/papers/2605.17076": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "S-Bus: Automatic Read-Set Reconstruction for Multi-Agent LLM State Coordination"
-  },
-  "https://huggingface.co/papers/2605.20630": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines"
-  },
-  "https://huggingface.co/papers/2605.17909": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "Ethical Hyper-Velocity (EHV)"
-  },
-  "https://huggingface.co/papers/2605.20873": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "PlanningBench"
-  },
-  "https://huggingface.co/papers/2605.21384": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "SpecBench: Measuring Reward Hacking in Long-Horizon Coding Agents"
-  },
-  "https://huggingface.co/papers/2605.18565": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "LongMINT: Evaluating Memory under Multi-Target Interference"
-  },
   "https://github.com/can1357/oh-my-pi": {
     "first_seen": "2026-05-21",
     "last_seen": "2026-05-23",
     "days": 3,
     "title": "can1357/oh-my-pi"
-  },
-  "https://github.com/rohitg00/ai-engineering-from-scratch": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "rohitg00/ai-engineering-from-scratch"
-  },
-  "https://huggingface.co/papers/2605.19660": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "OScaR: The Occam's Razor for Extreme KV Cache Quantization"
-  },
-  "https://huggingface.co/papers/2605.20258": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "It Takes Two: Complementary Self-Distillation for Contextual Integrity"
-  },
-  "https://huggingface.co/papers/2605.18226": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "days": 1,
-    "title": "Context Memorization for Efficient Long Context Generation"
   },
   "https://github.com/multica-ai/multica": {
     "first_seen": "2026-05-22",
@@ -247,8 +139,8 @@
   },
   "https://github.com/Lum1104/Understand-Anything": {
     "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
+    "last_seen": "2026-05-29",
+    "days": 2,
     "title": "Lum1104/Understand-Anything"
   },
   "https://github.com/teng-lin/notebooklm-py": {
@@ -655,14 +547,14 @@
   },
   "https://github.com/Leonxlnx/taste-skill": {
     "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
+    "last_seen": "2026-05-29",
+    "days": 2,
     "title": "Leonxlnx/taste-skill"
   },
   "https://github.com/hardikpandya/stop-slop": {
     "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
+    "last_seen": "2026-05-29",
+    "days": 2,
     "title": "hardikpandya/stop-slop"
   },
   "https://jry.io/writing/use-boring-languages-with-llms/": {
@@ -901,8 +793,8 @@
   },
   "https://openai.com/index/warp": {
     "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
+    "last_seen": "2026-05-29",
+    "days": 2,
     "title": "Warp's big bet on building open source with GPT-5.5"
   },
   "https://news.ycombinator.com/item?id=48276429": {
@@ -910,5 +802,125 @@
     "last_seen": "2026-05-28",
     "days": 1,
     "title": "Investigating how prompt politeness affects LLM accuracy (2025)"
+  },
+  "https://www.anthropic.com/news/claude-opus-4-8": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "Claude Opus 4.8"
+  },
+  "https://huggingface.co/papers/2605.29801": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security"
+  },
+  "https://huggingface.co/papers/2605.29250": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources"
+  },
+  "https://minimaxir.com/2026/05/openrouter-hy3/": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings"
+  },
+  "https://github.com/revfactory/harness": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "revfactory/harness"
+  },
+  "https://huggingface.co/papers/2605.28424": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning"
+  },
+  "https://huggingface.co/papers/2605.30102": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems"
+  },
+  "https://huggingface.co/papers/2605.29861": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation"
+  },
+  "https://huggingface.co/papers/2605.28617": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "LACUNA: Safe Agents as Recursive Program Holes"
+  },
+  "https://huggingface.co/papers/2605.29888": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "LaRA: Layer-wise Representation Analysis for Detecting Data Contamination in RL Post-Training"
+  },
+  "https://huggingface.co/papers/2605.27995": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "AsyncTool: Evaluating the Asynchronous Function Calling Capability under Multi-Task Scenarios"
+  },
+  "https://huggingface.co/papers/2605.26029": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists"
+  },
+  "https://buildingbetter.tech/p/i-read-the-claude-code-source-code": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You"
+  },
+  "https://github.com/EveryInc/compound-engineering-plugin": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "EveryInc/compound-engineering-plugin"
+  },
+  "https://huggingface.co/papers/2605.29559": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "LiteCoder-Terminal: Scaling Long-Horizon Terminal Environments for Learning Language Agents"
+  },
+  "https://openai.com/index/endava": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "How Endava builds an agentic organization with Codex"
+  },
+  "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output"
+  },
+  "https://huggingface.co/papers/2605.30219": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "When Should Models Change Their Minds? Contextual Belief Management in Large Language Models"
+  },
+  "https://huggingface.co/papers/2605.26578": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "Is Position Bias in Dense Retrievers Built In-or Learned from Data?"
+  },
+  "https://shvbsle.in/various-llm-smells/": {
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "days": 1,
+    "title": "Various LLM Smells"
   }
 }

@@ -5711,7 +5711,7 @@
         "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-29T18:34:33+09:00"
+      "tagged_at": "2026-05-31T06:28:02+09:00"
     },
     "https://news.ycombinator.com/item?id=48276429": {
       "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
@@ -5746,7 +5746,7 @@
         "agent-harness",
         "paper"
       ],
-      "tagged_at": "2026-05-30T17:23:47+09:00"
+      "tagged_at": "2026-05-31T06:28:02+09:00"
     },
     "https://huggingface.co/papers/2605.29250": {
       "title": "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources",
@@ -5755,10 +5755,10 @@
       "source": "huggingface",
       "brief_date": "2026-05-29",
       "tags": [
-        "retrieval",
-        "paper"
+        "paper",
+        "retrieval"
       ],
-      "tagged_at": "2026-05-30T17:23:47+09:00"
+      "tagged_at": "2026-05-31T06:28:02+09:00"
     },
     "https://minimaxir.com/2026/05/openrouter-hy3/": {
       "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings",
@@ -5791,10 +5791,10 @@
       "brief_date": "2026-05-29",
       "tags": [
         "agent-skill",
-        "rl",
-        "paper"
+        "paper",
+        "rl"
       ],
-      "tagged_at": "2026-05-30T17:23:47+09:00"
+      "tagged_at": "2026-05-31T06:28:02+09:00"
     },
     "https://huggingface.co/papers/2605.30102": {
       "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
@@ -5803,11 +5803,11 @@
       "source": "huggingface",
       "brief_date": "2026-05-29",
       "tags": [
-        "multi-agent",
         "local-inference",
+        "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-30T17:23:47+09:00"
+      "tagged_at": "2026-05-31T06:28:02+09:00"
     },
     "https://huggingface.co/papers/2605.29861": {
       "title": "Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation",
@@ -5816,12 +5816,12 @@
       "source": "huggingface",
       "brief_date": "2026-05-29",
       "tags": [
-        "multi-agent",
         "agent-harness",
         "auto-research",
+        "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-30T17:23:47+09:00"
+      "tagged_at": "2026-05-31T06:28:02+09:00"
     },
     "https://huggingface.co/papers/2605.28617": {
       "title": "LACUNA: Safe Agents as Recursive Program Holes",
@@ -5872,7 +5872,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-29T18:34:33+09:00"
+      "tagged_at": "2026-05-31T06:28:02+09:00"
     },
     "https://buildingbetter.tech/p/i-read-the-claude-code-source-code": {
       "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
@@ -5892,10 +5892,11 @@
       "source": "github_trending",
       "brief_date": "2026-05-29",
       "tags": [
+        "agent-skill",
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-30T17:23:47+09:00"
+      "tagged_at": "2026-05-31T06:28:02+09:00"
     },
     "https://huggingface.co/papers/2605.29559": {
       "title": "LiteCoder-Terminal: Scaling Long-Horizon Terminal Environments for Learning Language Agents",
@@ -5919,7 +5920,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-29T18:34:33+09:00"
+      "tagged_at": "2026-05-31T06:28:02+09:00"
     },
     "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/": {
       "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
@@ -5955,7 +5956,7 @@
         "paper",
         "retrieval"
       ],
-      "tagged_at": "2026-05-29T18:34:33+09:00"
+      "tagged_at": "2026-05-31T06:28:02+09:00"
     },
     "https://shvbsle.in/various-llm-smells/": {
       "title": "Various LLM Smells",
@@ -6026,7 +6027,7 @@
       "tags": [
         "benchmark"
       ],
-      "tagged_at": "2026-05-30T17:23:47+09:00"
+      "tagged_at": "2026-05-31T06:28:02+09:00"
     },
     "https://github.com/cursor/plugins": {
       "title": "cursor/plugins",
@@ -6035,9 +6036,10 @@
       "source": "github_trending",
       "brief_date": "2026-05-30",
       "tags": [
+        "agent-skill",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-30T17:23:47+09:00"
+      "tagged_at": "2026-05-31T06:28:02+09:00"
     },
     "https://openai.com/index/braintrust": {
       "title": "How Braintrust turns customer requests into code with Codex",
@@ -6048,7 +6050,134 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-30T17:23:47+09:00"
+      "tagged_at": "2026-05-31T06:28:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.29534": {
+      "title": "UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight GUI Agents",
+      "summary": "대형 VLM 없이 온디바이스로 도는 경량 GUI 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-31",
+      "tags": [
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-05-31T06:28:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.29507": {
+      "title": "Xetrieval: Mechanistically Explaining Dense Retrieval",
+      "summary": "밀집 검색이 왜 그렇게 점수 매기는지 기계론적으로 해부",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-31",
+      "tags": [
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-05-31T06:28:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.24785": {
+      "title": "PANDO: Efficient Multimodal AI Agents via Online Skill Distillation",
+      "summary": "경험을 쌓을수록 효율 높아지는 멀티모달 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-31",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "web-agent"
+      ],
+      "tagged_at": "2026-05-31T06:28:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.29271": {
+      "title": "CoHyDE: Iterative Co-Training of LLM Rewriter & Dense Encoder for Tool Retrieval",
+      "summary": "에이전트 도구 검색을 위한 리라이터·인코더 공동 학습",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-31",
+      "tags": [
+        "paper",
+        "retrieval",
+        "tool-use"
+      ],
+      "tagged_at": "2026-05-31T06:28:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.30003": {
+      "title": "Discovering Cooperative Pipelines: Autoresearch for Sequential Social Dilemmas",
+      "summary": "멀티에이전트 협력 파이프라인을 자동 연구로 탐색",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-31",
+      "tags": [
+        "auto-research",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-05-31T06:28:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.29486": {
+      "title": "PhoneWorld: Scaling Phone-Use Agent Environments",
+      "summary": "폰 조작 에이전트용 재현 가능 환경을 대규모로 구축",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-05-31",
+      "tags": [
+        "benchmark",
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-05-31T06:28:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.29156": {
+      "title": "RUBRIC-ARROW: Alternating Pointwise Rubric Reward Modeling for Non-verifiable Domains",
+      "summary": "검증 불가 영역용 루브릭 기반 보상 모델링",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-31",
+      "tags": [
+        "benchmark",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-05-31T06:28:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.29341": {
+      "title": "WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction",
+      "summary": "행동-세계 상호작용으로 에이전트 메모리 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-31",
+      "tags": [
+        "agent-memory",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-05-31T06:28:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.29648": {
+      "title": "Verifiable Rewards Beyond Math and Code: Corpus-Grounded Process Supervision for Factual QA",
+      "summary": "사실 QA에 코퍼스 근거 과정 감독 보상",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-31",
+      "tags": [
+        "paper",
+        "retrieval",
+        "rl"
+      ],
+      "tagged_at": "2026-05-31T06:28:02+09:00"
+    },
+    "https://huggingface.co/papers/2605.24786": {
+      "title": "CONF-KV: Confidence-Aware KV Cache Eviction for Long-Horizon LLM",
+      "summary": "신뢰도 기반 KV 캐시 축출로 장기 추론 메모리 절감",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-31",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-05-31T06:28:02+09:00"
     }
   }
 }

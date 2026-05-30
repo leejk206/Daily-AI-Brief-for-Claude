@@ -834,5 +834,25 @@
   "https://huggingface.co/papers/2605.21781": {
     "archived_on": "2026-05-30",
     "title": "Reflective Prompt Tuning through LM Function-Calling"
+  },
+  "https://github.com/cursor/plugins": {
+    "archived_on": "2026-05-31",
+    "title": "cursor/plugins"
+  },
+  "https://huggingface.co/papers/2605.29534": {
+    "archived_on": "2026-05-31",
+    "title": "UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight GUI Agents"
+  },
+  "https://openai.com/index/trustworthy-third-party-evaluations-foundations": {
+    "archived_on": "2026-05-31",
+    "title": "A shared playbook for trustworthy third party evaluations"
+  },
+  "https://huggingface.co/papers/2605.29507": {
+    "archived_on": "2026-05-31",
+    "title": "Xetrieval: Mechanistically Explaining Dense Retrieval"
+  },
+  "https://huggingface.co/papers/2605.24785": {
+    "archived_on": "2026-05-31",
+    "title": "PANDO: Efficient Multimodal AI Agents via Online Skill Distillation"
   }
 }

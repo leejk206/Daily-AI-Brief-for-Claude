@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-31T06:23:47+09:00",
+  "items": [
+    {
+      "id": "hn:48326802",
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "description": "",
+      "signals": {
+        "points": 664,
+        "num_comments": 364,
+        "discussion_url": "https://news.ycombinator.com/item?id=48326802"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48334515",
+      "title": "Pandoc Templates",
+      "url": "https://pandoc-templates.org/",
+      "description": "",
+      "signals": {
+        "points": 328,
+        "num_comments": 46,
+        "discussion_url": "https://news.ycombinator.com/item?id=48334515"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48334048",
+      "title": "Zig: Build System Reworked",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+      "description": "",
+      "signals": {
+        "points": 304,
+        "num_comments": 195,
+        "discussion_url": "https://news.ycombinator.com/item?id=48334048"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48334854",
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "url": "https://github.com/kristapsdz/openrsync",
+      "description": "",
+      "signals": {
+        "points": 273,
+        "num_comments": 123,
+        "discussion_url": "https://news.ycombinator.com/item?id=48334854"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48338660",
+      "title": "OpenRouter raises $113M Series B",
+      "url": "https://openrouter.ai/announcements/series-b",
+      "description": "",
+      "signals": {
+        "points": 265,
+        "num_comments": 118,
+        "discussion_url": "https://news.ycombinator.com/item?id=48338660"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48336564",
+      "title": "Voxel Space (2017)",
+      "url": "https://s-macke.github.io/VoxelSpace/",
+      "description": "",
+      "signals": {
+        "points": 223,
+        "num_comments": 48,
+        "discussion_url": "https://news.ycombinator.com/item?id=48336564"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48339580",
+      "title": "EY Canada published a cybersecurity report and most citations were hallucinated",
+      "url": "https://gptzero.me/investigations/ey",
+      "description": "",
+      "signals": {
+        "points": 215,
+        "num_comments": 92,
+        "discussion_url": "https://news.ycombinator.com/item?id=48339580"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48281772",
+      "title": "What are locusts and what happened to them?",
+      "url": "https://explosion-scratch.github.io/locusts/",
+      "description": "",
+      "signals": {
+        "points": 182,
+        "num_comments": 44,
+        "discussion_url": "https://news.ycombinator.com/item?id=48281772"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48337987",
+      "title": "Accenture to acquire Ookla",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+      "description": "",
+      "signals": {
+        "points": 164,
+        "num_comments": 82,
+        "discussion_url": "https://news.ycombinator.com/item?id=48337987"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48286745",
+      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
+      "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+      "description": "",
+      "signals": {
+        "points": 152,
+        "num_comments": 22,
+        "discussion_url": "https://news.ycombinator.com/item?id=48286745"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48338673",
+      "title": "Zig ELF Linker Improvements Devlog",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+      "description": "",
+      "signals": {
+        "points": 134,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48338673"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48334710",
+      "title": "Leo's first encyclical attacks technological messianism",
+      "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
+      "description": "",
+      "signals": {
+        "points": 133,
+        "num_comments": 163,
+        "discussion_url": "https://news.ycombinator.com/item?id=48334710"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48298912",
+      "title": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
+      "url": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
+      "description": "",
+      "signals": {
+        "points": 127,
+        "num_comments": 57,
+        "discussion_url": "https://news.ycombinator.com/item?id=48298912"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48339180",
+      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+      "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
+      "description": "",
+      "signals": {
+        "points": 115,
+        "num_comments": 70,
+        "discussion_url": "https://news.ycombinator.com/item?id=48339180"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48334949",
+      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+      "url": "https://helios.southlondonscientific.com/",
+      "description": "",
+      "signals": {
+        "points": 101,
+        "num_comments": 36,
+        "discussion_url": "https://news.ycombinator.com/item?id=48334949"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48318402",
+      "title": "I found a seashell in the middle of the desert",
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
+      "description": "",
+      "signals": {
+        "points": 90,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48318402"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48282335",
+      "title": "It Takes Two Neurons to Ride a Bicycle",
+      "url": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter",
+      "description": "",
+      "signals": {
+        "points": 79,
+        "num_comments": 34,
+        "discussion_url": "https://news.ycombinator.com/item?id=48282335"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48338656",
+      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
+      "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+      "description": "",
+      "signals": {
+        "points": 60,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48338656"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48337808",
+      "title": "Werner Herzog in conversation with Paul Cronin (2014)",
+      "url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
+      "description": "",
+      "signals": {
+        "points": 54,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48337808"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48339753",
+      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+      "url": "https://ajin.im/is/building/omen.ops/",
+      "description": "",
+      "signals": {
+        "points": 47,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48339753"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48339894",
+      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
+      "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+      "description": "",
+      "signals": {
+        "points": 22,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=48339894"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48322853",
+      "title": "Stateless Actors",
+      "url": "https://www.massicotte.org/stateless-actors/",
+      "description": "",
+      "signals": {
+        "points": 20,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48322853"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48309505",
+      "title": "Searching for Birds",
+      "url": "https://SearchingForBirds.VisualCinnamon.com/",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48309505"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48340411",
+      "title": "Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48340411"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48339186",
+      "title": "We are constantly broadcasting emotional data",
+      "url": "https://www.tonyrice.me/emotional-intelligence/",
+      "description": "",
+      "signals": {
+        "points": 16,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48339186"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48339943",
+      "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
+      "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
+      "description": "",
+      "signals": {
+        "points": 15,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48339943"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48340262",
+      "title": "Dusklight – GC Twilight Princess Decompiled",
+      "url": "https://twilitrealm.dev/",
+      "description": "",
+      "signals": {
+        "points": 11,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48340262"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    }
+  ]
+}

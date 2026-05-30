@@ -41,12 +41,6 @@
     "days": 1,
     "title": "Alishahryar1/free-claude-code"
   },
-  "https://github.com/can1357/oh-my-pi": {
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-23",
-    "days": 3,
-    "title": "can1357/oh-my-pi"
-  },
   "https://huggingface.co/papers/2605.22177": {
     "first_seen": "2026-05-22",
     "last_seen": "2026-05-24",
@@ -77,29 +71,11 @@
     "days": 2,
     "title": "Lum1104/Understand-Anything"
   },
-  "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad": {
-    "first_seen": "2026-05-23",
-    "last_seen": "2026-05-23",
-    "days": 1,
-    "title": "Microsoft starts canceling Claude Code licenses"
-  },
-  "https://modelrift.com/blog/openscad-llm-benchmark/": {
-    "first_seen": "2026-05-23",
-    "last_seen": "2026-05-23",
-    "days": 1,
-    "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark"
-  },
   "https://huggingface.co/papers/2605.16928": {
     "first_seen": "2026-05-25",
     "last_seen": "2026-05-25",
     "days": 1,
     "title": "Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps"
-  },
-  "https://www.kanbots.dev/": {
-    "first_seen": "2026-05-23",
-    "last_seen": "2026-05-23",
-    "days": 1,
-    "title": "Open source Kanban desktop app that runs parallel agents on every card"
   },
   "https://huggingface.co/papers/2605.22138": {
     "first_seen": "2026-05-23",
@@ -130,12 +106,6 @@
     "last_seen": "2026-05-24",
     "days": 2,
     "title": "How Virgin Atlantic ships faster with Codex"
-  },
-  "https://github.com/superset-sh/superset": {
-    "first_seen": "2026-05-23",
-    "last_seen": "2026-05-23",
-    "days": 1,
-    "title": "Launch HN: Superset (YC P26) – IDE for the agents era"
   },
   "https://huggingface.co/papers/2605.22791": {
     "first_seen": "2026-05-23",
@@ -696,9 +666,9 @@
     "title": "Verus-SpecGym: An Agentic Environment for Evaluating Specification Autoformalization"
   },
   "https://openai.com/index/warp": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-29",
-    "days": 2,
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-05-31",
+    "days": 1,
     "title": "Warp's big bet on building open source with GPT-5.5"
   },
   "https://news.ycombinator.com/item?id=48276429": {
@@ -715,14 +685,14 @@
   },
   "https://huggingface.co/papers/2605.29801": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-30",
-    "days": 2,
+    "last_seen": "2026-05-31",
+    "days": 3,
     "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security"
   },
   "https://huggingface.co/papers/2605.29250": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-30",
-    "days": 2,
+    "last_seen": "2026-05-31",
+    "days": 3,
     "title": "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources"
   },
   "https://minimaxir.com/2026/05/openrouter-hy3/": {
@@ -739,20 +709,20 @@
   },
   "https://huggingface.co/papers/2605.28424": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-30",
-    "days": 2,
+    "last_seen": "2026-05-31",
+    "days": 3,
     "title": "Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning"
   },
   "https://huggingface.co/papers/2605.30102": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-30",
-    "days": 2,
+    "last_seen": "2026-05-31",
+    "days": 3,
     "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems"
   },
   "https://huggingface.co/papers/2605.29861": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-30",
-    "days": 2,
+    "last_seen": "2026-05-31",
+    "days": 3,
     "title": "Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation"
   },
   "https://huggingface.co/papers/2605.28617": {
@@ -774,8 +744,8 @@
     "title": "AsyncTool: Evaluating the Asynchronous Function Calling Capability under Multi-Task Scenarios"
   },
   "https://huggingface.co/papers/2605.26029": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-05-31",
     "days": 1,
     "title": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists"
   },
@@ -787,8 +757,8 @@
   },
   "https://github.com/EveryInc/compound-engineering-plugin": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-30",
-    "days": 2,
+    "last_seen": "2026-05-31",
+    "days": 3,
     "title": "EveryInc/compound-engineering-plugin"
   },
   "https://huggingface.co/papers/2605.29559": {
@@ -798,8 +768,8 @@
     "title": "LiteCoder-Terminal: Scaling Long-Horizon Terminal Environments for Learning Language Agents"
   },
   "https://openai.com/index/endava": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-05-31",
     "days": 1,
     "title": "How Endava builds an agentic organization with Codex"
   },
@@ -816,10 +786,10 @@
     "title": "When Should Models Change Their Minds? Contextual Belief Management in Large Language Models"
   },
   "https://huggingface.co/papers/2605.26578": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-05-31",
     "days": 1,
-    "title": "Is Position Bias in Dense Retrievers Built In-or Learned from Data?"
+    "title": "Is Position Bias in Dense Retrievers Built In—or Learned from Data?"
   },
   "https://shvbsle.in/various-llm-smells/": {
     "first_seen": "2026-05-29",
@@ -853,20 +823,80 @@
   },
   "https://openai.com/index/trustworthy-third-party-evaluations-foundations": {
     "first_seen": "2026-05-30",
-    "last_seen": "2026-05-30",
-    "days": 1,
+    "last_seen": "2026-05-31",
+    "days": 2,
     "title": "A shared playbook for trustworthy third party evaluations"
   },
   "https://github.com/cursor/plugins": {
     "first_seen": "2026-05-30",
-    "last_seen": "2026-05-30",
-    "days": 1,
+    "last_seen": "2026-05-31",
+    "days": 2,
     "title": "cursor/plugins"
   },
   "https://openai.com/index/braintrust": {
     "first_seen": "2026-05-30",
-    "last_seen": "2026-05-30",
-    "days": 1,
+    "last_seen": "2026-05-31",
+    "days": 2,
     "title": "How Braintrust turns customer requests into code with Codex"
+  },
+  "https://huggingface.co/papers/2605.29534": {
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-05-31",
+    "days": 1,
+    "title": "UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight GUI Agents"
+  },
+  "https://huggingface.co/papers/2605.29507": {
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-05-31",
+    "days": 1,
+    "title": "Xetrieval: Mechanistically Explaining Dense Retrieval"
+  },
+  "https://huggingface.co/papers/2605.24785": {
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-05-31",
+    "days": 1,
+    "title": "PANDO: Efficient Multimodal AI Agents via Online Skill Distillation"
+  },
+  "https://huggingface.co/papers/2605.29271": {
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-05-31",
+    "days": 1,
+    "title": "CoHyDE: Iterative Co-Training of LLM Rewriter & Dense Encoder for Tool Retrieval"
+  },
+  "https://huggingface.co/papers/2605.30003": {
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-05-31",
+    "days": 1,
+    "title": "Discovering Cooperative Pipelines: Autoresearch for Sequential Social Dilemmas"
+  },
+  "https://huggingface.co/papers/2605.29486": {
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-05-31",
+    "days": 1,
+    "title": "PhoneWorld: Scaling Phone-Use Agent Environments"
+  },
+  "https://huggingface.co/papers/2605.29156": {
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-05-31",
+    "days": 1,
+    "title": "RUBRIC-ARROW: Alternating Pointwise Rubric Reward Modeling for Non-verifiable Domains"
+  },
+  "https://huggingface.co/papers/2605.29341": {
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-05-31",
+    "days": 1,
+    "title": "WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction"
+  },
+  "https://huggingface.co/papers/2605.29648": {
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-05-31",
+    "days": 1,
+    "title": "Verifiable Rewards Beyond Math and Code: Corpus-Grounded Process Supervision for Factual QA"
+  },
+  "https://huggingface.co/papers/2605.24786": {
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-05-31",
+    "days": 1,
+    "title": "CONF-KV: Confidence-Aware KV Cache Eviction for Long-Horizon LLM"
   }
 }

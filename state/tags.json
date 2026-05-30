@@ -5196,10 +5196,12 @@
       "brief_date": "2026-05-26",
       "tags": [
         "agent-skill",
+        "agent-skills",
+        "anti-slop",
         "claude-code",
         "prompt-engineering"
       ],
-      "tagged_at": "2026-05-29T18:34:33+09:00"
+      "tagged_at": "2026-05-30T17:23:47+09:00"
     },
     "https://github.com/hardikpandya/stop-slop": {
       "title": "hardikpandya/stop-slop",
@@ -5209,9 +5211,10 @@
       "brief_date": "2026-05-26",
       "tags": [
         "agent-skill",
+        "anti-slop",
         "prompt-engineering"
       ],
-      "tagged_at": "2026-05-29T18:34:33+09:00"
+      "tagged_at": "2026-05-30T17:23:47+09:00"
     },
     "https://jry.io/writing/use-boring-languages-with-llms/": {
       "title": "Use Boring Languages with LLMs",
@@ -5745,10 +5748,13 @@
       "source": "huggingface",
       "brief_date": "2026-05-29",
       "tags": [
+        "agent-frameworks",
         "agent-harness",
+        "agent-safety",
+        "alignment",
         "paper"
       ],
-      "tagged_at": "2026-05-29T18:34:33+09:00"
+      "tagged_at": "2026-05-30T17:23:47+09:00"
     },
     "https://huggingface.co/papers/2605.29250": {
       "title": "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources",
@@ -5758,9 +5764,10 @@
       "brief_date": "2026-05-29",
       "tags": [
         "paper",
+        "rag",
         "retrieval"
       ],
-      "tagged_at": "2026-05-29T18:34:33+09:00"
+      "tagged_at": "2026-05-30T17:23:47+09:00"
     },
     "https://minimaxir.com/2026/05/openrouter-hy3/": {
       "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings",
@@ -5792,11 +5799,13 @@
       "source": "huggingface",
       "brief_date": "2026-05-29",
       "tags": [
+        "agent-frameworks",
         "agent-skill",
+        "agent-skills",
         "paper",
         "rl"
       ],
-      "tagged_at": "2026-05-29T18:34:33+09:00"
+      "tagged_at": "2026-05-30T17:23:47+09:00"
     },
     "https://huggingface.co/papers/2605.30102": {
       "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
@@ -5805,11 +5814,13 @@
       "source": "huggingface",
       "brief_date": "2026-05-29",
       "tags": [
+        "agent-frameworks",
         "local-inference",
         "multi-agent",
+        "on-device",
         "paper"
       ],
-      "tagged_at": "2026-05-29T18:34:33+09:00"
+      "tagged_at": "2026-05-30T17:23:47+09:00"
     },
     "https://huggingface.co/papers/2605.29861": {
       "title": "Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation",
@@ -5818,11 +5829,13 @@
       "source": "huggingface",
       "brief_date": "2026-05-29",
       "tags": [
+        "agent-harness",
         "auto-research",
+        "deep-research",
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-29T18:34:33+09:00"
+      "tagged_at": "2026-05-30T17:23:47+09:00"
     },
     "https://huggingface.co/papers/2605.28617": {
       "title": "LACUNA: Safe Agents as Recursive Program Holes",
@@ -5894,9 +5907,11 @@
       "brief_date": "2026-05-29",
       "tags": [
         "claude-code",
-        "coding-platform"
+        "coding-agents",
+        "coding-platform",
+        "plugins"
       ],
-      "tagged_at": "2026-05-29T18:34:33+09:00"
+      "tagged_at": "2026-05-30T17:23:47+09:00"
     },
     "https://huggingface.co/papers/2605.29559": {
       "title": "LiteCoder-Terminal: Scaling Long-Horizon Terminal Environments for Learning Language Agents",
@@ -5969,6 +5984,91 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-05-29T18:34:33+09:00"
+    },
+    "https://www.quandri.io/engineering-blog/mcp-is-dead": {
+      "title": "MCP is dead?",
+      "summary": "MCP 회의론 정면 제기, HN에서 200pt 격론",
+      "category": "mcp",
+      "source": "hacker_news",
+      "brief_date": "2026-05-30",
+      "tags": [
+        "mcp"
+      ],
+      "tagged_at": "2026-05-30T17:23:47+09:00"
+    },
+    "https://github.com/anthropics/claude-code": {
+      "title": "anthropics/claude-code",
+      "summary": "터미널 코딩 에이전트, 다시 트렌딩 상위 복귀",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-30",
+      "tags": [
+        "claude-code",
+        "coding-agents"
+      ],
+      "tagged_at": "2026-05-30T17:23:47+09:00"
+    },
+    "https://huggingface.co/papers/2605.26730": {
+      "title": "PRISM: A Multi-Dimensional Benchmark for Evaluating LLM Peer Reviewers",
+      "summary": "LLM 논문심사 능력 평가 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-05-30",
+      "tags": [
+        "benchmark",
+        "eval",
+        "llm-as-judge"
+      ],
+      "tagged_at": "2026-05-30T17:23:47+09:00"
+    },
+    "https://huggingface.co/papers/2605.21781": {
+      "title": "Reflective Prompt Tuning through LM Function-Calling",
+      "summary": "함수호출 기반 자동 프롬프트 튜닝 기법",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-05-30",
+      "tags": [
+        "prompt-engineering",
+        "prompt-optimization"
+      ],
+      "tagged_at": "2026-05-30T17:23:47+09:00"
+    },
+    "https://openai.com/index/trustworthy-third-party-evaluations-foundations": {
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "summary": "신뢰가능한 제3자 모델 평가 가이드라인",
+      "category": "llm-harness-eval",
+      "source": "openai",
+      "brief_date": "2026-05-30",
+      "tags": [
+        "eval",
+        "model-evaluation"
+      ],
+      "tagged_at": "2026-05-30T17:23:47+09:00"
+    },
+    "https://github.com/cursor/plugins": {
+      "title": "cursor/plugins",
+      "summary": "Cursor 플러그인 명세·공식 플러그인 공개",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-05-30",
+      "tags": [
+        "coding-agents",
+        "cursor",
+        "plugins"
+      ],
+      "tagged_at": "2026-05-30T17:23:47+09:00"
+    },
+    "https://openai.com/index/braintrust": {
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "summary": "Codex+GPT-5.5로 고객 요청을 코드로",
+      "category": "coding-agents",
+      "source": "openai",
+      "brief_date": "2026-05-30",
+      "tags": [
+        "codex",
+        "coding-agents"
+      ],
+      "tagged_at": "2026-05-30T17:23:47+09:00"
     }
   }
 }

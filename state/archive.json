@@ -818,5 +818,21 @@
   "https://github.com/revfactory/harness": {
     "archived_on": "2026-05-29",
     "title": "revfactory/harness"
+  },
+  "https://www.quandri.io/engineering-blog/mcp-is-dead": {
+    "archived_on": "2026-05-30",
+    "title": "MCP is dead?"
+  },
+  "https://github.com/anthropics/claude-code": {
+    "archived_on": "2026-05-30",
+    "title": "anthropics/claude-code"
+  },
+  "https://huggingface.co/papers/2605.26730": {
+    "archived_on": "2026-05-30",
+    "title": "PRISM: A Multi-Dimensional Benchmark for Evaluating LLM Peer Reviewers"
+  },
+  "https://huggingface.co/papers/2605.21781": {
+    "archived_on": "2026-05-30",
+    "title": "Reflective Prompt Tuning through LM Function-Calling"
   }
 }

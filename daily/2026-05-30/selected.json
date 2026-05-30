@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+    "title": "MCP is dead?"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.29801",
+    "title": "AgentDoG 1.5: Lightweight Alignment Framework for AI Agent Safety"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code",
+    "title": "anthropics/claude-code"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.26730",
+    "title": "PRISM: A Multi-Dimensional Benchmark for Evaluating LLM Peer Reviewers"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.21781",
+    "title": "Reflective Prompt Tuning through LM Function-Calling"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.30102",
+    "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.28424",
+    "title": "Skill0.5: Joint Skill Internalization and Utilization for OOD Generalization in Agentic RL"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.29861",
+    "title": "Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness"
+  },
+  {
+    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "title": "A shared playbook for trustworthy third party evaluations"
+  },
+  {
+    "url": "https://github.com/cursor/plugins",
+    "title": "cursor/plugins"
+  },
+  {
+    "url": "https://github.com/EveryInc/compound-engineering-plugin",
+    "title": "EveryInc/compound-engineering-plugin"
+  },
+  {
+    "url": "https://openai.com/index/braintrust",
+    "title": "How Braintrust turns customer requests into code with Codex"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.29250",
+    "title": "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources"
+  },
+  {
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "title": "Leonxlnx/taste-skill"
+  },
+  {
+    "url": "https://github.com/hardikpandya/stop-slop",
+    "title": "hardikpandya/stop-slop"
+  }
+]

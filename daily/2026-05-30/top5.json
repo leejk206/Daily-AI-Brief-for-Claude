@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+    "title": "MCP is dead?"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.29801",
+    "title": "AgentDoG 1.5: Lightweight Alignment Framework for AI Agent Safety"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code",
+    "title": "anthropics/claude-code"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.26730",
+    "title": "PRISM: A Multi-Dimensional Benchmark for Evaluating LLM Peer Reviewers"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.21781",
+    "title": "Reflective Prompt Tuning through LM Function-Calling"
+  }
+]

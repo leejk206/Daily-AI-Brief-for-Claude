@@ -1,0 +1,210 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-05-30T17:11:46+09:00",
+  "items": [
+    {
+      "id": "github:harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "signals": {
+        "stars": 70611,
+        "stars_today": 3567,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:microsoft/markitdown",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "signals": {
+        "stars": 130629,
+        "stars_today": 1873,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:EveryInc/compound-engineering-plugin",
+      "title": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "signals": {
+        "stars": 18243,
+        "stars_today": 353,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:twentyhq/twenty",
+      "title": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "signals": {
+        "stars": 48542,
+        "stars_today": 578,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:anthropics/claude-code",
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "signals": {
+        "stars": 128057,
+        "stars_today": 395,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Leonxlnx/taste-skill",
+      "title": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "signals": {
+        "stars": 28528,
+        "stars_today": 2062,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:cursor/plugins",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "signals": {
+        "stars": 1347,
+        "stars_today": 134,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:run-llama/liteparse",
+      "title": "run-llama/liteparse",
+      "url": "https://github.com/run-llama/liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "signals": {
+        "stars": 7534,
+        "stars_today": 701,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:galilai-group/stable-worldmodel",
+      "title": "galilai-group/stable-worldmodel",
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "description": "A platform for reproducible world model research and evaluation",
+      "signals": {
+        "stars": 1316,
+        "stars_today": 362,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:byoungd/English-level-up-tips",
+      "title": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "signals": {
+        "stars": 49813,
+        "stars_today": 1566,
+        "language": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Biohub/esm",
+      "title": "Biohub/esm",
+      "url": "https://github.com/Biohub/esm",
+      "description": "",
+      "signals": {
+        "stars": 2586,
+        "stars_today": 52,
+        "language": "Jupyter Notebook"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Crosstalk-Solutions/project-nomad",
+      "title": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "signals": {
+        "stars": 27076,
+        "stars_today": 318,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:DigitalPlatDev/FreeDomain",
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "signals": {
+        "stars": 172072,
+        "stars_today": 1313,
+        "language": "HTML"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "signals": {
+        "stars": 198787,
+        "stars_today": 1406,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:hardikpandya/stop-slop",
+      "title": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "signals": {
+        "stars": 7131,
+        "stars_today": 617,
+        "language": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:DataTalksClub/data-engineering-zoomcamp",
+      "title": "DataTalksClub/data-engineering-zoomcamp",
+      "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+      "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
+      "signals": {
+        "stars": 41645,
+        "stars_today": 160,
+        "language": "Jupyter Notebook"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:codecrafters-io/build-your-own-x",
+      "title": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "signals": {
+        "stars": 507596,
+        "stars_today": 866,
+        "language": "Markdown"
+      },
+      "category_hint": null
+    }
+  ]
+}

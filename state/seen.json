@@ -29,18 +29,6 @@
     "days": 1,
     "title": "How sales teams use Codex"
   },
-  "https://github.com/Imbad0202/academic-research-skills": {
-    "first_seen": "2026-05-19",
-    "last_seen": "2026-05-22",
-    "days": 4,
-    "title": "Imbad0202/academic-research-skills"
-  },
-  "https://github.com/antoinezambelli/forge": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "antoinezambelli/forge"
-  },
   "https://github.com/multica-ai/andrej-karpathy-skills": {
     "first_seen": "2026-05-24",
     "last_seen": "2026-05-24",
@@ -59,36 +47,6 @@
     "days": 3,
     "title": "can1357/oh-my-pi"
   },
-  "https://github.com/multica-ai/multica": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "multica-ai/multica"
-  },
-  "https://huggingface.co/papers/2605.14747": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining"
-  },
-  "https://huggingface.co/papers/2605.14678": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows"
-  },
-  "https://www.0xsid.com/blog/antigravity-bait-n-switch": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "Google's Antigravity bait and switch"
-  },
-  "https://huggingface.co/papers/2605.21850": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "ACC: Compiling Agent Trajectories for Long-Context Training"
-  },
   "https://huggingface.co/papers/2605.22177": {
     "first_seen": "2026-05-22",
     "last_seen": "2026-05-24",
@@ -101,35 +59,11 @@
     "days": 3,
     "title": "Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning"
   },
-  "https://huggingface.co/papers/2605.20682": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools"
-  },
-  "https://huggingface.co/papers/2605.20315": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "Mix-Quant: Quantized Prefilling, Precise Decoding for Agentic LLMs"
-  },
-  "https://huggingface.co/papers/2605.17526": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "SaaSBench: Exploring the Boundaries of Coding Agents in Long-Horizon Enterprise SaaS Engineering"
-  },
   "https://huggingface.co/papers/2605.22535": {
     "first_seen": "2026-05-22",
     "last_seen": "2026-05-24",
     "days": 3,
     "title": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks"
-  },
-  "https://huggingface.co/papers/2605.19484": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing"
   },
   "https://github.com/dotnet/skills": {
     "first_seen": "2026-05-22",
@@ -142,36 +76,6 @@
     "last_seen": "2026-05-29",
     "days": 2,
     "title": "Lum1104/Understand-Anything"
-  },
-  "https://github.com/teng-lin/notebooklm-py": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "teng-lin/notebooklm-py"
-  },
-  "https://www.runtm.com/": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team"
-  },
-  "https://news.ycombinator.com/item?id=48231575": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "Show HN: Spec-Driven Development Workflow for Claude Code"
-  },
-  "https://arxiv.org/abs/2605.12460": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O"
-  },
-  "https://huggingface.co/papers/2605.19330": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "days": 1,
-    "title": "MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimization"
   },
   "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad": {
     "first_seen": "2026-05-23",
@@ -547,14 +451,14 @@
   },
   "https://github.com/Leonxlnx/taste-skill": {
     "first_seen": "2026-05-28",
-    "last_seen": "2026-05-29",
-    "days": 2,
+    "last_seen": "2026-05-30",
+    "days": 3,
     "title": "Leonxlnx/taste-skill"
   },
   "https://github.com/hardikpandya/stop-slop": {
     "first_seen": "2026-05-28",
-    "last_seen": "2026-05-29",
-    "days": 2,
+    "last_seen": "2026-05-30",
+    "days": 3,
     "title": "hardikpandya/stop-slop"
   },
   "https://jry.io/writing/use-boring-languages-with-llms/": {
@@ -811,14 +715,14 @@
   },
   "https://huggingface.co/papers/2605.29801": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
+    "last_seen": "2026-05-30",
+    "days": 2,
     "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security"
   },
   "https://huggingface.co/papers/2605.29250": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
+    "last_seen": "2026-05-30",
+    "days": 2,
     "title": "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources"
   },
   "https://minimaxir.com/2026/05/openrouter-hy3/": {
@@ -835,20 +739,20 @@
   },
   "https://huggingface.co/papers/2605.28424": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
+    "last_seen": "2026-05-30",
+    "days": 2,
     "title": "Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning"
   },
   "https://huggingface.co/papers/2605.30102": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
+    "last_seen": "2026-05-30",
+    "days": 2,
     "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems"
   },
   "https://huggingface.co/papers/2605.29861": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
+    "last_seen": "2026-05-30",
+    "days": 2,
     "title": "Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation"
   },
   "https://huggingface.co/papers/2605.28617": {
@@ -883,8 +787,8 @@
   },
   "https://github.com/EveryInc/compound-engineering-plugin": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
+    "last_seen": "2026-05-30",
+    "days": 2,
     "title": "EveryInc/compound-engineering-plugin"
   },
   "https://huggingface.co/papers/2605.29559": {
@@ -922,5 +826,47 @@
     "last_seen": "2026-05-29",
     "days": 1,
     "title": "Various LLM Smells"
+  },
+  "https://www.quandri.io/engineering-blog/mcp-is-dead": {
+    "first_seen": "2026-05-30",
+    "last_seen": "2026-05-30",
+    "days": 1,
+    "title": "MCP is dead?"
+  },
+  "https://github.com/anthropics/claude-code": {
+    "first_seen": "2026-05-30",
+    "last_seen": "2026-05-30",
+    "days": 1,
+    "title": "anthropics/claude-code"
+  },
+  "https://huggingface.co/papers/2605.26730": {
+    "first_seen": "2026-05-30",
+    "last_seen": "2026-05-30",
+    "days": 1,
+    "title": "PRISM: A Multi-Dimensional Benchmark for Evaluating LLM Peer Reviewers"
+  },
+  "https://huggingface.co/papers/2605.21781": {
+    "first_seen": "2026-05-30",
+    "last_seen": "2026-05-30",
+    "days": 1,
+    "title": "Reflective Prompt Tuning through LM Function-Calling"
+  },
+  "https://openai.com/index/trustworthy-third-party-evaluations-foundations": {
+    "first_seen": "2026-05-30",
+    "last_seen": "2026-05-30",
+    "days": 1,
+    "title": "A shared playbook for trustworthy third party evaluations"
+  },
+  "https://github.com/cursor/plugins": {
+    "first_seen": "2026-05-30",
+    "last_seen": "2026-05-30",
+    "days": 1,
+    "title": "cursor/plugins"
+  },
+  "https://openai.com/index/braintrust": {
+    "first_seen": "2026-05-30",
+    "last_seen": "2026-05-30",
+    "days": 1,
+    "title": "How Braintrust turns customer requests into code with Codex"
   }
 }

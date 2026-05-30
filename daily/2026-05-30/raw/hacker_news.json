@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-05-30T17:11:46+09:00",
+  "items": [
+    {
+      "id": "hn:48324712",
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "description": "",
+      "signals": {
+        "points": 948,
+        "num_comments": 1096,
+        "discussion_url": "https://news.ycombinator.com/item?id=48324712"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48324499",
+      "title": "GTA 6 Developers Unionize",
+      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+      "description": "",
+      "signals": {
+        "points": 668,
+        "num_comments": 448,
+        "discussion_url": "https://news.ycombinator.com/item?id=48324499"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48309233",
+      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+      "description": "",
+      "signals": {
+        "points": 575,
+        "num_comments": 775,
+        "discussion_url": "https://news.ycombinator.com/item?id=48309233"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48326802",
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "description": "",
+      "signals": {
+        "points": 499,
+        "num_comments": 252,
+        "discussion_url": "https://news.ycombinator.com/item?id=48326802"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48325340",
+      "title": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "description": "",
+      "signals": {
+        "points": 357,
+        "num_comments": 142,
+        "discussion_url": "https://news.ycombinator.com/item?id=48325340"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48321631",
+      "title": "Is AI causing a repeat of frontend’s lost decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "description": "",
+      "signals": {
+        "points": 334,
+        "num_comments": 287,
+        "discussion_url": "https://news.ycombinator.com/item?id=48321631"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48324853",
+      "title": "You can just say it",
+      "url": "https://noperator.dev/posts/you-can-just-say-it/",
+      "description": "",
+      "signals": {
+        "points": 311,
+        "num_comments": 159,
+        "discussion_url": "https://news.ycombinator.com/item?id=48324853"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48330882",
+      "title": "What Is a Dickover?",
+      "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
+      "description": "",
+      "signals": {
+        "points": 306,
+        "num_comments": 119,
+        "discussion_url": "https://news.ycombinator.com/item?id=48330882"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48323869",
+      "title": "It's hard to justify buying a Framework 12",
+      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+      "description": "",
+      "signals": {
+        "points": 280,
+        "num_comments": 470,
+        "discussion_url": "https://news.ycombinator.com/item?id=48323869"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48323992",
+      "title": "Bijou64: A variable-length integer encoding",
+      "url": "https://www.inkandswitch.com/tangents/bijou64/",
+      "description": "",
+      "signals": {
+        "points": 223,
+        "num_comments": 79,
+        "discussion_url": "https://news.ycombinator.com/item?id=48323992"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48330436",
+      "title": "MCP is dead?",
+      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+      "description": "",
+      "signals": {
+        "points": 200,
+        "num_comments": 176,
+        "discussion_url": "https://news.ycombinator.com/item?id=48330436"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48325306",
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "description": "",
+      "signals": {
+        "points": 182,
+        "num_comments": 69,
+        "discussion_url": "https://news.ycombinator.com/item?id=48325306"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48284494",
+      "title": "Snowboard Kids 2 is 100% Decompiled",
+      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+      "description": "",
+      "signals": {
+        "points": 174,
+        "num_comments": 64,
+        "discussion_url": "https://news.ycombinator.com/item?id=48284494"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48327809",
+      "title": "On Rendering Diffs",
+      "url": "https://pierre.computer/writing/on-rendering-diffs",
+      "description": "",
+      "signals": {
+        "points": 166,
+        "num_comments": 54,
+        "discussion_url": "https://news.ycombinator.com/item?id=48327809"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48325624",
+      "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
+      "url": "https://tvexplorer.live",
+      "description": "",
+      "signals": {
+        "points": 146,
+        "num_comments": 41,
+        "discussion_url": "https://news.ycombinator.com/item?id=48325624"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48283410",
+      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+      "description": "",
+      "signals": {
+        "points": 138,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48283410"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48328184",
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "description": "",
+      "signals": {
+        "points": 137,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48328184"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48327962",
+      "title": "Shift will clean homes for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "description": "",
+      "signals": {
+        "points": 130,
+        "num_comments": 183,
+        "discussion_url": "https://news.ycombinator.com/item?id=48327962"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48317294",
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "description": "",
+      "signals": {
+        "points": 127,
+        "num_comments": 100,
+        "discussion_url": "https://news.ycombinator.com/item?id=48317294"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48328405",
+      "title": "The Last Technical Interview",
+      "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+      "description": "",
+      "signals": {
+        "points": 104,
+        "num_comments": 79,
+        "discussion_url": "https://news.ycombinator.com/item?id=48328405"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48331786",
+      "title": "Naphtha shortages in Japan",
+      "url": "https://www.nippon.com/en/japan-data/h02783/",
+      "description": "",
+      "signals": {
+        "points": 104,
+        "num_comments": 63,
+        "discussion_url": "https://news.ycombinator.com/item?id=48331786"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48332151",
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "url": "https://www.perryts.com/",
+      "description": "",
+      "signals": {
+        "points": 79,
+        "num_comments": 62,
+        "discussion_url": "https://news.ycombinator.com/item?id=48332151"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48330902",
+      "title": "Ember.js 7.0",
+      "url": "https://blog.emberjs.com/ember-released-7-0/",
+      "description": "",
+      "signals": {
+        "points": 64,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48330902"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48330192",
+      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+      "url": "https://github.com/secluso/core",
+      "description": "",
+      "signals": {
+        "points": 55,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48330192"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48293119",
+      "title": "Math-to-Manim",
+      "url": "https://github.com/HarleyCoops/Math-To-Manim",
+      "description": "",
+      "signals": {
+        "points": 47,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48293119"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48303623",
+      "title": "What It Takes to Preserve Floppy Disks",
+      "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
+      "description": "",
+      "signals": {
+        "points": 36,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48303623"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48296946",
+      "title": "A new register allocator for ZJIT",
+      "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+      "description": "",
+      "signals": {
+        "points": 27,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48296946"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48283009",
+      "title": "Algebraic Effects for the Rest of Us",
+      "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+      "description": "",
+      "signals": {
+        "points": 24,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48283009"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    }
+  ]
+}

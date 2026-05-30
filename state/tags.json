@@ -5196,9 +5196,6 @@
       "brief_date": "2026-05-26",
       "tags": [
         "agent-skill",
-        "agent-skills",
-        "anti-slop",
-        "claude-code",
         "prompt-engineering"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
@@ -5210,8 +5207,6 @@
       "source": "github_trending",
       "brief_date": "2026-05-26",
       "tags": [
-        "agent-skill",
-        "anti-slop",
         "prompt-engineering"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
@@ -5748,10 +5743,7 @@
       "source": "huggingface",
       "brief_date": "2026-05-29",
       "tags": [
-        "agent-frameworks",
         "agent-harness",
-        "agent-safety",
-        "alignment",
         "paper"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
@@ -5763,9 +5755,8 @@
       "source": "huggingface",
       "brief_date": "2026-05-29",
       "tags": [
-        "paper",
-        "rag",
-        "retrieval"
+        "retrieval",
+        "paper"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
     },
@@ -5799,11 +5790,9 @@
       "source": "huggingface",
       "brief_date": "2026-05-29",
       "tags": [
-        "agent-frameworks",
         "agent-skill",
-        "agent-skills",
-        "paper",
-        "rl"
+        "rl",
+        "paper"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
     },
@@ -5814,10 +5803,8 @@
       "source": "huggingface",
       "brief_date": "2026-05-29",
       "tags": [
-        "agent-frameworks",
-        "local-inference",
         "multi-agent",
-        "on-device",
+        "local-inference",
         "paper"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
@@ -5829,10 +5816,9 @@
       "source": "huggingface",
       "brief_date": "2026-05-29",
       "tags": [
+        "multi-agent",
         "agent-harness",
         "auto-research",
-        "deep-research",
-        "multi-agent",
         "paper"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
@@ -5907,9 +5893,7 @@
       "brief_date": "2026-05-29",
       "tags": [
         "claude-code",
-        "coding-agents",
-        "coding-platform",
-        "plugins"
+        "coding-platform"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
     },
@@ -5992,7 +5976,7 @@
       "source": "hacker_news",
       "brief_date": "2026-05-30",
       "tags": [
-        "mcp"
+        "mcp-server"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
     },
@@ -6003,8 +5987,8 @@
       "source": "github_trending",
       "brief_date": "2026-05-30",
       "tags": [
-        "claude-code",
-        "coding-agents"
+        "cli-agent",
+        "claude-code"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
     },
@@ -6016,8 +6000,7 @@
       "brief_date": "2026-05-30",
       "tags": [
         "benchmark",
-        "eval",
-        "llm-as-judge"
+        "paper"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
     },
@@ -6029,7 +6012,8 @@
       "brief_date": "2026-05-30",
       "tags": [
         "prompt-engineering",
-        "prompt-optimization"
+        "tool-use",
+        "paper"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
     },
@@ -6040,8 +6024,7 @@
       "source": "openai",
       "brief_date": "2026-05-30",
       "tags": [
-        "eval",
-        "model-evaluation"
+        "benchmark"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
     },
@@ -6052,9 +6035,7 @@
       "source": "github_trending",
       "brief_date": "2026-05-30",
       "tags": [
-        "coding-agents",
-        "cursor",
-        "plugins"
+        "coding-platform"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
     },
@@ -6065,8 +6046,7 @@
       "source": "openai",
       "brief_date": "2026-05-30",
       "tags": [
-        "codex",
-        "coding-agents"
+        "coding-platform"
       ],
       "tagged_at": "2026-05-30T17:23:47+09:00"
     }

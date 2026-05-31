@@ -1,0 +1,18 @@
+[
+  {"url": "https://twitter.com/i/status/2060746160558543217", "title": "Codex just found a \"workaround\" of not having sudo on my PC"},
+  {"url": "https://github.com/nicobailon/pi-subagents", "title": "nicobailon/pi-subagents"},
+  {"url": "https://huggingface.co/papers/2605.26029", "title": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists"},
+  {"url": "https://huggingface.co/papers/2605.29271", "title": "CoHyDE: Iterative Co-Training of LLM Rewriter & Dense Encoder for Tool Retrieval"},
+  {"url": "https://huggingface.co/papers/2605.30052", "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair"},
+  {"url": "https://github.com/nesquena/hermes-webui", "title": "nesquena/hermes-webui"},
+  {"url": "https://huggingface.co/papers/2605.29486", "title": "PhoneWorld: Scaling Phone-Use Agent Environments"},
+  {"url": "https://huggingface.co/papers/2605.30102", "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems"},
+  {"url": "https://huggingface.co/papers/2605.29861", "title": "Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation"},
+  {"url": "https://huggingface.co/papers/2605.29341", "title": "WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction"},
+  {"url": "https://openai.com/index/endava", "title": "How Endava builds an agentic organization with Codex"},
+  {"url": "https://openai.com/index/warp", "title": "Warp's big bet on building open source with GPT-5.5"},
+  {"url": "https://openai.com/index/braintrust", "title": "How Braintrust turns customer requests into code with Codex"},
+  {"url": "https://huggingface.co/papers/2605.24786", "title": "CONF-KV: Confidence-Aware KV Cache Eviction with Mixed-Precision Storage for Long-Horizon LLM"},
+  {"url": "https://huggingface.co/papers/2605.26578", "title": "Is Position Bias in Dense Retrievers Built In—or Learned from Data?"},
+  {"url": "https://huggingface.co/papers/2605.28424", "title": "Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning"}
+]

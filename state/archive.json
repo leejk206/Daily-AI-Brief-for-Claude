@@ -854,5 +854,25 @@
   "https://huggingface.co/papers/2605.24785": {
     "archived_on": "2026-05-31",
     "title": "PANDO: Efficient Multimodal AI Agents via Online Skill Distillation"
+  },
+  "https://twitter.com/i/status/2060746160558543217": {
+    "archived_on": "2026-06-01",
+    "title": "Codex just found a \"workaround\" of not having sudo on my PC"
+  },
+  "https://github.com/nicobailon/pi-subagents": {
+    "archived_on": "2026-06-01",
+    "title": "nicobailon/pi-subagents"
+  },
+  "https://huggingface.co/papers/2605.26029": {
+    "archived_on": "2026-06-01",
+    "title": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists"
+  },
+  "https://huggingface.co/papers/2605.29271": {
+    "archived_on": "2026-06-01",
+    "title": "CoHyDE: Iterative Co-Training of LLM Rewriter & Dense Encoder for Tool Retrieval"
+  },
+  "https://huggingface.co/papers/2605.30052": {
+    "archived_on": "2026-06-01",
+    "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair"
   }
 }

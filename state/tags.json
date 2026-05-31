@@ -5711,7 +5711,7 @@
         "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-31T06:28:02+09:00"
+      "tagged_at": "2026-06-01T07:40:37+09:00"
     },
     "https://news.ycombinator.com/item?id=48276429": {
       "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
@@ -5794,7 +5794,7 @@
         "paper",
         "rl"
       ],
-      "tagged_at": "2026-05-31T06:28:02+09:00"
+      "tagged_at": "2026-06-01T07:40:37+09:00"
     },
     "https://huggingface.co/papers/2605.30102": {
       "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
@@ -5807,7 +5807,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-31T06:28:02+09:00"
+      "tagged_at": "2026-06-01T07:40:37+09:00"
     },
     "https://huggingface.co/papers/2605.29861": {
       "title": "Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation",
@@ -5821,7 +5821,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-05-31T06:28:02+09:00"
+      "tagged_at": "2026-06-01T07:40:37+09:00"
     },
     "https://huggingface.co/papers/2605.28617": {
       "title": "LACUNA: Safe Agents as Recursive Program Holes",
@@ -5872,7 +5872,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-31T06:28:02+09:00"
+      "tagged_at": "2026-06-01T07:40:37+09:00"
     },
     "https://buildingbetter.tech/p/i-read-the-claude-code-source-code": {
       "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
@@ -5918,9 +5918,10 @@
       "source": "release_blogs",
       "brief_date": "2026-05-29",
       "tags": [
-        "coding-platform"
+        "coding-platform",
+        "multi-agent"
       ],
-      "tagged_at": "2026-05-31T06:28:02+09:00"
+      "tagged_at": "2026-06-01T07:40:37+09:00"
     },
     "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/": {
       "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
@@ -5956,7 +5957,7 @@
         "paper",
         "retrieval"
       ],
-      "tagged_at": "2026-05-31T06:28:02+09:00"
+      "tagged_at": "2026-06-01T07:40:37+09:00"
     },
     "https://shvbsle.in/various-llm-smells/": {
       "title": "Various LLM Smells",
@@ -6050,7 +6051,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-05-31T06:28:02+09:00"
+      "tagged_at": "2026-06-01T07:40:37+09:00"
     },
     "https://huggingface.co/papers/2605.29534": {
       "title": "UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight GUI Agents",
@@ -6100,7 +6101,7 @@
         "retrieval",
         "tool-use"
       ],
-      "tagged_at": "2026-05-31T06:28:02+09:00"
+      "tagged_at": "2026-06-01T07:40:37+09:00"
     },
     "https://huggingface.co/papers/2605.30003": {
       "title": "Discovering Cooperative Pipelines: Autoresearch for Sequential Social Dilemmas",
@@ -6126,7 +6127,7 @@
         "computer-use",
         "paper"
       ],
-      "tagged_at": "2026-05-31T06:28:02+09:00"
+      "tagged_at": "2026-06-01T07:40:37+09:00"
     },
     "https://huggingface.co/papers/2605.29156": {
       "title": "RUBRIC-ARROW: Alternating Pointwise Rubric Reward Modeling for Non-verifiable Domains",
@@ -6152,7 +6153,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-05-31T06:28:02+09:00"
+      "tagged_at": "2026-06-01T07:40:37+09:00"
     },
     "https://huggingface.co/papers/2605.29648": {
       "title": "Verifiable Rewards Beyond Math and Code: Corpus-Grounded Process Supervision for Factual QA",
@@ -6177,7 +6178,56 @@
         "long-context",
         "paper"
       ],
-      "tagged_at": "2026-05-31T06:28:02+09:00"
+      "tagged_at": "2026-06-01T07:40:37+09:00"
+    },
+    "https://twitter.com/i/status/2060746160558543217": {
+      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+      "summary": "Codex가 sudo 없이 작업을 우회한 사례가 HN에서 화제.",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "agent-harness",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-01T07:40:37+09:00"
+    },
+    "https://github.com/nicobailon/pi-subagents": {
+      "title": "nicobailon/pi-subagents",
+      "summary": "아티팩트·세션 공유형 비동기 서브에이전트 위임 확장.",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "agent-harness",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-06-01T07:40:37+09:00"
+    },
+    "https://huggingface.co/papers/2605.30052": {
+      "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair",
+      "summary": "무효 액션을 검증·복구하는 Program-of-Thought 재실행.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "agent-harness",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-01T07:40:37+09:00"
+    },
+    "https://github.com/nesquena/hermes-webui": {
+      "title": "nesquena/hermes-webui",
+      "summary": "Hermes Agent를 웹·모바일에서 사용하는 UI.",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "multi-agent",
+        "web-agent"
+      ],
+      "tagged_at": "2026-06-01T07:40:37+09:00"
     }
   }
 }

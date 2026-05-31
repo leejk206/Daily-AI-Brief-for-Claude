@@ -1,0 +1,186 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-06-01T07:31:12+09:00",
+  "items": [
+    {
+      "id": "github:harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "signals": {
+        "stars": 74020,
+        "stars_today": 1937,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:microsoft/markitdown",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "signals": {
+        "stars": 134801,
+        "stars_today": 2759,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:D4Vinci/Scrapling",
+      "title": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "signals": {
+        "stars": 56540,
+        "stars_today": 639,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:nesquena/hermes-webui",
+      "title": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "signals": {
+        "stars": 9899,
+        "stars_today": 320,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:EveryInc/compound-engineering-plugin",
+      "title": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "signals": {
+        "stars": 18684,
+        "stars_today": 243,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:github/docs",
+      "title": "github/docs",
+      "url": "https://github.com/github/docs",
+      "description": "The open-source repo for docs.github.com",
+      "signals": {
+        "stars": 19707,
+        "stars_today": 20,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:OpenBMB/VoxCPM",
+      "title": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "signals": {
+        "stars": 23437,
+        "stars_today": 639,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:revfactory/harness",
+      "title": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "signals": {
+        "stars": 4566,
+        "stars_today": 318,
+        "language": "HTML"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:FareedKhan-dev/train-llm-from-scratch",
+      "title": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "signals": {
+        "stars": 2905,
+        "stars_today": 627,
+        "language": "Jupyter Notebook"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:supermemoryai/supermemory",
+      "title": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "signals": {
+        "stars": 23290,
+        "stars_today": 236,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Crosstalk-Solutions/project-nomad",
+      "title": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "signals": {
+        "stars": 27690,
+        "stars_today": 372,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:anthropics/claude-code",
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "signals": {
+        "stars": 128864,
+        "stars_today": 490,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:nicobailon/pi-subagents",
+      "title": "nicobailon/pi-subagents",
+      "url": "https://github.com/nicobailon/pi-subagents",
+      "description": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
+      "signals": {
+        "stars": 1824,
+        "stars_today": 59,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:emmabostian/developer-portfolios",
+      "title": "emmabostian/developer-portfolios",
+      "url": "https://github.com/emmabostian/developer-portfolios",
+      "description": "A list of developer portfolios for your inspiration",
+      "signals": {
+        "stars": 23327,
+        "stars_today": 67,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:codecrafters-io/build-your-own-x",
+      "title": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "signals": {
+        "stars": 509331,
+        "stars_today": 1112,
+        "language": "Markdown"
+      },
+      "category_hint": null
+    }
+  ]
+}

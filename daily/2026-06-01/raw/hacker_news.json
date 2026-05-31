@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-01T07:31:13+09:00",
+  "items": [
+    {
+      "id": "hn:48345840",
+      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+      "description": "",
+      "signals": {
+        "points": 443,
+        "num_comments": 239,
+        "discussion_url": "https://news.ycombinator.com/item?id=48345840"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48343683",
+      "title": "The Website Specification",
+      "url": "https://specification.website/",
+      "description": "",
+      "signals": {
+        "points": 413,
+        "num_comments": 175,
+        "discussion_url": "https://news.ycombinator.com/item?id=48343683"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48346947",
+      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+      "description": "",
+      "signals": {
+        "points": 404,
+        "num_comments": 272,
+        "discussion_url": "https://news.ycombinator.com/item?id=48346947"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48344961",
+      "title": "Dav2d",
+      "url": "https://jbkempf.com/blog/2026/dav2d/",
+      "description": "",
+      "signals": {
+        "points": 376,
+        "num_comments": 131,
+        "discussion_url": "https://news.ycombinator.com/item?id=48344961"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48348578",
+      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+      "url": "https://twitter.com/i/status/2060746160558543217",
+      "description": "",
+      "signals": {
+        "points": 269,
+        "num_comments": 106,
+        "discussion_url": "https://news.ycombinator.com/item?id=48348578"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48343714",
+      "title": "London's Free Roof Terraces",
+      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+      "description": "",
+      "signals": {
+        "points": 256,
+        "num_comments": 131,
+        "discussion_url": "https://news.ycombinator.com/item?id=48343714"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48346257",
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "description": "",
+      "signals": {
+        "points": 240,
+        "num_comments": 87,
+        "discussion_url": "https://news.ycombinator.com/item?id=48346257"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48345248",
+      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+      "description": "",
+      "signals": {
+        "points": 220,
+        "num_comments": 334,
+        "discussion_url": "https://news.ycombinator.com/item?id=48345248"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48318624",
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "description": "",
+      "signals": {
+        "points": 162,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48318624"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48346019",
+      "title": "Restartable Sequences",
+      "url": "https://justine.lol/rseq/",
+      "description": "",
+      "signals": {
+        "points": 159,
+        "num_comments": 45,
+        "discussion_url": "https://news.ycombinator.com/item?id=48346019"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48347370",
+      "title": "Deflock hits 100k ALPRs Mapped in USA",
+      "url": "https://deflock.org/",
+      "description": "",
+      "signals": {
+        "points": 132,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48347370"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48346629",
+      "title": "Daily pill can double survival time for deadliest cancer, trial shows",
+      "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
+      "description": "",
+      "signals": {
+        "points": 131,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=48346629"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48345090",
+      "title": "Backpressure is all you need",
+      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+      "description": "",
+      "signals": {
+        "points": 117,
+        "num_comments": 75,
+        "discussion_url": "https://news.ycombinator.com/item?id=48345090"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48313427",
+      "title": "Having your insulin pump die while you're on vacation",
+      "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
+      "description": "",
+      "signals": {
+        "points": 110,
+        "num_comments": 125,
+        "discussion_url": "https://news.ycombinator.com/item?id=48313427"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48348864",
+      "title": "'Backrooms' Stuns with $81M Debut",
+      "url": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/",
+      "description": "",
+      "signals": {
+        "points": 107,
+        "num_comments": 13,
+        "discussion_url": "https://news.ycombinator.com/item?id=48348864"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48347153",
+      "title": "The Speed of Prototyping in the Age of AI",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "description": "",
+      "signals": {
+        "points": 91,
+        "num_comments": 54,
+        "discussion_url": "https://news.ycombinator.com/item?id=48347153"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48321089",
+      "title": "Security Envelope Pattern collection – S.E.C.R.E.T",
+      "url": "https://secret-archive.org/",
+      "description": "",
+      "signals": {
+        "points": 84,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48321089"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48346693",
+      "title": "Odysseus – self-hosted AI workspace",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "description": "",
+      "signals": {
+        "points": 82,
+        "num_comments": 47,
+        "discussion_url": "https://news.ycombinator.com/item?id=48346693"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48309492",
+      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+      "description": "",
+      "signals": {
+        "points": 82,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48309492"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48347354",
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "description": "",
+      "signals": {
+        "points": 81,
+        "num_comments": 114,
+        "discussion_url": "https://news.ycombinator.com/item?id=48347354"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48349487",
+      "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "description": "",
+      "signals": {
+        "points": 46,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48349487"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48345822",
+      "title": "FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]",
+      "url": "https://hannesweissteiner.com/pdfs/frost.pdf",
+      "description": "",
+      "signals": {
+        "points": 43,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48345822"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48321916",
+      "title": "Linux/M68k",
+      "url": "http://www.linux-m68k.org/",
+      "description": "",
+      "signals": {
+        "points": 41,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48321916"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48348429",
+      "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
+      "url": "https://github.com/viggy28/streambed",
+      "description": "",
+      "signals": {
+        "points": 40,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48348429"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48349527",
+      "title": "US healthcare still stupidly expensive, with pathetic outcomes, study finds",
+      "url": "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/",
+      "description": "",
+      "signals": {
+        "points": 36,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48349527"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48306225",
+      "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
+      "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
+      "description": "",
+      "signals": {
+        "points": 35,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48306225"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48349507",
+      "title": "New solar desalination breakthrough makes fresh water without toxic brine",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
+      "description": "",
+      "signals": {
+        "points": 22,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48349507"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48322984",
+      "title": "New Beam Spring Keyboards",
+      "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
+      "description": "",
+      "signals": {
+        "points": 11,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48322984"
+      },
+      "category_hint": null
+    }
+  ]
+}

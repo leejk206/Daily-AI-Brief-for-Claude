@@ -1,70 +1,4 @@
 {
-  "https://openai.com/index/sea-david-chen": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "Sea's View on the Future of Agentic Software Development with Codex"
-  },
-  "https://github.com/colbymchenry/codegraph": {
-    "first_seen": "2026-05-23",
-    "last_seen": "2026-05-24",
-    "days": 2,
-    "title": "colbymchenry/codegraph"
-  },
-  "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "How business operations teams use Codex"
-  },
-  "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "How data science teams use Codex"
-  },
-  "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "How sales teams use Codex"
-  },
-  "https://github.com/multica-ai/andrej-karpathy-skills": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "multica-ai/andrej-karpathy-skills"
-  },
-  "https://github.com/Alishahryar1/free-claude-code": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "Alishahryar1/free-claude-code"
-  },
-  "https://huggingface.co/papers/2605.22177": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-24",
-    "days": 3,
-    "title": "Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles"
-  },
-  "https://huggingface.co/papers/2605.22642": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-24",
-    "days": 3,
-    "title": "Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning"
-  },
-  "https://huggingface.co/papers/2605.22535": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-24",
-    "days": 3,
-    "title": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks"
-  },
-  "https://github.com/dotnet/skills": {
-    "first_seen": "2026-05-22",
-    "last_seen": "2026-05-24",
-    "days": 3,
-    "title": "dotnet/skills"
-  },
   "https://github.com/Lum1104/Understand-Anything": {
     "first_seen": "2026-05-28",
     "last_seen": "2026-05-29",
@@ -95,47 +29,11 @@
     "days": 3,
     "title": "Forecasting Downstream Performance of LLMs With Proxy Metrics"
   },
-  "https://openai.com/index/gartner-2026-agentic-coding-leader": {
-    "first_seen": "2026-05-23",
-    "last_seen": "2026-05-24",
-    "days": 2,
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner"
-  },
-  "https://openai.com/index/virgin-atlantic": {
-    "first_seen": "2026-05-23",
-    "last_seen": "2026-05-24",
-    "days": 2,
-    "title": "How Virgin Atlantic ships faster with Codex"
-  },
-  "https://huggingface.co/papers/2605.22791": {
-    "first_seen": "2026-05-23",
-    "last_seen": "2026-05-24",
-    "days": 2,
-    "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention"
-  },
   "https://huggingface.co/papers/2605.22144": {
     "first_seen": "2026-05-24",
     "last_seen": "2026-05-25",
     "days": 2,
     "title": "One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems"
-  },
-  "https://huggingface.co/papers/2605.22681": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "Forecasting Scientific Progress with Artificial Intelligence"
-  },
-  "https://huggingface.co/papers/2605.13734": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving"
-  },
-  "https://github.com/mukul975/Anthropic-Cybersecurity-Skills": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "mukul975/Anthropic-Cybersecurity-Skills"
   },
   "https://huggingface.co/papers/2605.20176": {
     "first_seen": "2026-05-24",
@@ -143,23 +41,11 @@
     "days": 2,
     "title": "ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning"
   },
-  "https://huggingface.co/papers/2605.10158": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "Unsupervised Process Reward Models"
-  },
   "https://huggingface.co/papers/2605.15669": {
     "first_seen": "2026-05-24",
     "last_seen": "2026-05-25",
     "days": 2,
     "title": "Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation"
-  },
-  "https://olano.dev/blog/dangerously-skip/": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "--dangerously-skip-reading-code"
   },
   "https://huggingface.co/papers/2605.21605": {
     "first_seen": "2026-05-24",
@@ -173,89 +59,11 @@
     "days": 2,
     "title": "SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation"
   },
-  "https://huggingface.co/papers/2605.22109": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?"
-  },
   "https://huggingface.co/papers/2605.18577": {
     "first_seen": "2026-05-24",
     "last_seen": "2026-05-25",
     "days": 2,
     "title": "OmniPro: A Comprehensive Benchmark for Omni-Proactive Streaming Video Understanding"
-  },
-  "https://huggingface.co/papers/2605.22355": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation"
-  },
-  "https://huggingface.co/Jackrong/Qwopus3.5-9B-Coder-GGUF": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "Jackrong/Qwopus3.5-9B-Coder-GGUF"
-  },
-  "https://huggingface.co/papers/2605.21363": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "\"I didn't Make the Micro Decisions\": Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration"
-  },
-  "https://github.com/earendil-works/pi": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "earendil-works/pi"
-  },
-  "https://github.com/manaflow-ai/cmux": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "manaflow-ai/cmux"
-  },
-  "https://github.com/anthropics/knowledge-work-plugins": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "anthropics/knowledge-work-plugins"
-  },
-  "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "froggeric/Qwen-Fixed-Chat-Templates"
-  },
-  "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "Our response to the TanStack npm supply chain attack"
-  },
-  "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "Gemini for Science: AI experiments and tools for a new era of discovery"
-  },
-  "https://huggingface.co/papers/2605.21467": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards"
-  },
-  "https://huggingface.co/papers/2605.22074": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "From Reasoning Chains to Verifiable Subproblems"
-  },
-  "https://openai.com/index/model-disproves-discrete-geometry-conjecture": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-24",
-    "days": 1,
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry"
   },
   "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate": {
     "first_seen": "2026-05-25",
@@ -667,8 +475,8 @@
   },
   "https://openai.com/index/warp": {
     "first_seen": "2026-05-31",
-    "last_seen": "2026-05-31",
-    "days": 1,
+    "last_seen": "2026-06-01",
+    "days": 2,
     "title": "Warp's big bet on building open source with GPT-5.5"
   },
   "https://news.ycombinator.com/item?id=48276429": {
@@ -709,20 +517,20 @@
   },
   "https://huggingface.co/papers/2605.28424": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-31",
-    "days": 3,
+    "last_seen": "2026-06-01",
+    "days": 4,
     "title": "Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning"
   },
   "https://huggingface.co/papers/2605.30102": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-31",
-    "days": 3,
+    "last_seen": "2026-06-01",
+    "days": 4,
     "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems"
   },
   "https://huggingface.co/papers/2605.29861": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-31",
-    "days": 3,
+    "last_seen": "2026-06-01",
+    "days": 4,
     "title": "Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation"
   },
   "https://huggingface.co/papers/2605.28617": {
@@ -745,8 +553,8 @@
   },
   "https://huggingface.co/papers/2605.26029": {
     "first_seen": "2026-05-31",
-    "last_seen": "2026-05-31",
-    "days": 1,
+    "last_seen": "2026-06-01",
+    "days": 2,
     "title": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists"
   },
   "https://buildingbetter.tech/p/i-read-the-claude-code-source-code": {
@@ -769,8 +577,8 @@
   },
   "https://openai.com/index/endava": {
     "first_seen": "2026-05-31",
-    "last_seen": "2026-05-31",
-    "days": 1,
+    "last_seen": "2026-06-01",
+    "days": 2,
     "title": "How Endava builds an agentic organization with Codex"
   },
   "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/": {
@@ -787,8 +595,8 @@
   },
   "https://huggingface.co/papers/2605.26578": {
     "first_seen": "2026-05-31",
-    "last_seen": "2026-05-31",
-    "days": 1,
+    "last_seen": "2026-06-01",
+    "days": 2,
     "title": "Is Position Bias in Dense Retrievers Built In—or Learned from Data?"
   },
   "https://shvbsle.in/various-llm-smells/": {
@@ -835,8 +643,8 @@
   },
   "https://openai.com/index/braintrust": {
     "first_seen": "2026-05-30",
-    "last_seen": "2026-05-31",
-    "days": 2,
+    "last_seen": "2026-06-01",
+    "days": 3,
     "title": "How Braintrust turns customer requests into code with Codex"
   },
   "https://huggingface.co/papers/2605.29534": {
@@ -859,8 +667,8 @@
   },
   "https://huggingface.co/papers/2605.29271": {
     "first_seen": "2026-05-31",
-    "last_seen": "2026-05-31",
-    "days": 1,
+    "last_seen": "2026-06-01",
+    "days": 2,
     "title": "CoHyDE: Iterative Co-Training of LLM Rewriter & Dense Encoder for Tool Retrieval"
   },
   "https://huggingface.co/papers/2605.30003": {
@@ -871,8 +679,8 @@
   },
   "https://huggingface.co/papers/2605.29486": {
     "first_seen": "2026-05-31",
-    "last_seen": "2026-05-31",
-    "days": 1,
+    "last_seen": "2026-06-01",
+    "days": 2,
     "title": "PhoneWorld: Scaling Phone-Use Agent Environments"
   },
   "https://huggingface.co/papers/2605.29156": {
@@ -883,8 +691,8 @@
   },
   "https://huggingface.co/papers/2605.29341": {
     "first_seen": "2026-05-31",
-    "last_seen": "2026-05-31",
-    "days": 1,
+    "last_seen": "2026-06-01",
+    "days": 2,
     "title": "WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction"
   },
   "https://huggingface.co/papers/2605.29648": {
@@ -895,8 +703,32 @@
   },
   "https://huggingface.co/papers/2605.24786": {
     "first_seen": "2026-05-31",
-    "last_seen": "2026-05-31",
-    "days": 1,
+    "last_seen": "2026-06-01",
+    "days": 2,
     "title": "CONF-KV: Confidence-Aware KV Cache Eviction for Long-Horizon LLM"
+  },
+  "https://twitter.com/i/status/2060746160558543217": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "Codex just found a \"workaround\" of not having sudo on my PC"
+  },
+  "https://github.com/nicobailon/pi-subagents": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "nicobailon/pi-subagents"
+  },
+  "https://huggingface.co/papers/2605.30052": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair"
+  },
+  "https://github.com/nesquena/hermes-webui": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "nesquena/hermes-webui"
   }
 }

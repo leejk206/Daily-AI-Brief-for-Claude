@@ -5,143 +5,17 @@
     "days": 2,
     "title": "Lum1104/Understand-Anything"
   },
-  "https://huggingface.co/papers/2605.16928": {
-    "first_seen": "2026-05-25",
-    "last_seen": "2026-05-25",
-    "days": 1,
-    "title": "Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps"
-  },
-  "https://huggingface.co/papers/2605.22138": {
-    "first_seen": "2026-05-23",
-    "last_seen": "2026-05-25",
-    "days": 3,
-    "title": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning"
-  },
-  "https://huggingface.co/papers/2605.20244": {
-    "first_seen": "2026-05-23",
-    "last_seen": "2026-05-25",
-    "days": 3,
-    "title": "Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search"
-  },
-  "https://huggingface.co/papers/2605.18607": {
-    "first_seen": "2026-05-23",
-    "last_seen": "2026-05-25",
-    "days": 3,
-    "title": "Forecasting Downstream Performance of LLMs With Proxy Metrics"
-  },
-  "https://huggingface.co/papers/2605.22144": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-25",
-    "days": 2,
-    "title": "One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems"
-  },
-  "https://huggingface.co/papers/2605.20176": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-25",
-    "days": 2,
-    "title": "ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning"
-  },
-  "https://huggingface.co/papers/2605.15669": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-25",
-    "days": 2,
-    "title": "Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation"
-  },
-  "https://huggingface.co/papers/2605.21605": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-25",
-    "days": 2,
-    "title": "GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation"
-  },
-  "https://huggingface.co/papers/2605.22536": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-25",
-    "days": 2,
-    "title": "SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation"
-  },
-  "https://huggingface.co/papers/2605.18577": {
-    "first_seen": "2026-05-24",
-    "last_seen": "2026-05-25",
-    "days": 2,
-    "title": "OmniPro: A Comprehensive Benchmark for Omni-Proactive Streaming Video Understanding"
-  },
-  "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate": {
-    "first_seen": "2026-05-25",
-    "last_seen": "2026-05-25",
-    "days": 1,
-    "title": "Co-Scientist: A multi-agent AI partner to accelerate research"
-  },
-  "https://esengine.github.io/DeepSeek-Reasonix/": {
-    "first_seen": "2026-05-25",
-    "last_seen": "2026-05-25",
-    "days": 1,
-    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost"
-  },
-  "https://github.com/anthropics/claude-cookbooks": {
-    "first_seen": "2026-05-25",
-    "last_seen": "2026-05-25",
-    "days": 1,
-    "title": "anthropics/claude-cookbooks"
-  },
-  "https://arxiv.org/abs/2605.06445": {
-    "first_seen": "2026-05-25",
-    "last_seen": "2026-05-25",
-    "days": 1,
-    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation"
-  },
-  "https://github.com/garrytan/gstack": {
-    "first_seen": "2026-05-25",
-    "last_seen": "2026-05-25",
-    "days": 1,
-    "title": "garrytan/gstack"
-  },
-  "https://huggingface.co/papers/2605.23899": {
-    "first_seen": "2026-05-25",
-    "last_seen": "2026-05-25",
-    "days": 1,
-    "title": "From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills"
-  },
-  "https://huggingface.co/papers/2605.23904": {
-    "first_seen": "2026-05-25",
-    "last_seen": "2026-05-25",
-    "days": 1,
-    "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills"
-  },
-  "https://huggingface.co/papers/2605.17873": {
-    "first_seen": "2026-05-25",
-    "last_seen": "2026-05-25",
-    "days": 1,
-    "title": "HINT-SD: Targeted Hindsight Self-Distillation for Long-Horizon Agents"
-  },
   "https://huggingface.co/papers/2605.23771": {
     "first_seen": "2026-05-25",
     "last_seen": "2026-05-26",
     "days": 2,
     "title": "PhotoFlow: Agentic 3D Virtual Photography Missions"
   },
-  "https://huggingface.co/papers/2605.22570": {
-    "first_seen": "2026-05-25",
-    "last_seen": "2026-05-25",
-    "days": 1,
-    "title": "VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis"
-  },
-  "https://huggingface.co/papers/2605.23901": {
-    "first_seen": "2026-05-25",
-    "last_seen": "2026-05-25",
-    "days": 1,
-    "title": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws"
-  },
   "https://github.com/affaan-m/ECC": {
     "first_seen": "2026-05-25",
     "last_seen": "2026-05-26",
     "days": 2,
     "title": "affaan-m/ECC"
-  },
-  "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-code": {
-    "first_seen": "2026-05-25",
-    "last_seen": "2026-05-25",
-    "days": 1,
-    "title": "How business operations teams use Codex"
   },
   "https://huggingface.co/papers/2605.23218": {
     "first_seen": "2026-05-26",
@@ -565,8 +439,8 @@
   },
   "https://github.com/EveryInc/compound-engineering-plugin": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-06-01",
-    "days": 4,
+    "last_seen": "2026-06-02",
+    "days": 5,
     "title": "EveryInc/compound-engineering-plugin"
   },
   "https://huggingface.co/papers/2605.29559": {
@@ -727,8 +601,8 @@
   },
   "https://github.com/nesquena/hermes-webui": {
     "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
+    "last_seen": "2026-06-02",
+    "days": 2,
     "title": "nesquena/hermes-webui"
   },
   "https://huggingface.co/papers/2605.31264": {
@@ -775,20 +649,20 @@
   },
   "https://huggingface.co/papers/2605.29796": {
     "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
+    "last_seen": "2026-06-02",
+    "days": 2,
     "title": "SAAS: Self-Aware RL for Over-Search Mitigation in Agentic Search"
   },
   "https://huggingface.co/papers/2605.31170": {
     "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
+    "last_seen": "2026-06-02",
+    "days": 2,
     "title": "Emergent Languages in Populations of Language Model Agents"
   },
   "https://huggingface.co/papers/2605.30329": {
     "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
+    "last_seen": "2026-06-02",
+    "days": 2,
     "title": "SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?"
   },
   "https://huggingface.co/papers/2605.23657": {
@@ -802,5 +676,23 @@
     "last_seen": "2026-06-01",
     "days": 1,
     "title": "GrepSeek: Training Search Agents for Direct Corpus Interaction"
+  },
+  "https://huggingface.co/papers/2605.26112": {
+    "first_seen": "2026-06-02",
+    "last_seen": "2026-06-02",
+    "days": 1,
+    "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI"
+  },
+  "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md": {
+    "first_seen": "2026-06-02",
+    "last_seen": "2026-06-02",
+    "days": 1,
+    "title": "AI Agent Guidelines for CS336 at Stanford"
+  },
+  "https://huggingface.co/papers/2605.29447": {
+    "first_seen": "2026-06-02",
+    "last_seen": "2026-06-02",
+    "days": 1,
+    "title": "Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents"
   }
 }

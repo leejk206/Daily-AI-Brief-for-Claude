@@ -1,0 +1,210 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-06-02T04:54:02+09:00",
+  "items": [
+    {
+      "id": "github:microsoft/markitdown",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "signals": {
+        "stars": 137915,
+        "stars_today": 3086,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:nesquena/hermes-webui",
+      "title": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "signals": {
+        "stars": 11027,
+        "stars_today": 984,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:supermemoryai/supermemory",
+      "title": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "signals": {
+        "stars": 23873,
+        "stars_today": 660,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "signals": {
+        "stars": 76698,
+        "stars_today": 3325,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:D4Vinci/Scrapling",
+      "title": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "signals": {
+        "stars": 57863,
+        "stars_today": 1475,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:pbakaus/impeccable",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "signals": {
+        "stars": 32566,
+        "stars_today": 612,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:p-e-w/heretic",
+      "title": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "signals": {
+        "stars": 22985,
+        "stars_today": 241,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:EveryInc/compound-engineering-plugin",
+      "title": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "signals": {
+        "stars": 19052,
+        "stars_today": 428,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "signals": {
+        "stars": 81660,
+        "stars_today": 284,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:revfactory/harness",
+      "title": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "signals": {
+        "stars": 5078,
+        "stars_today": 527,
+        "language": "HTML"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:godotengine/godot",
+      "title": "godotengine/godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "signals": {
+        "stars": 111581,
+        "stars_today": 121,
+        "language": "C++"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:can1357/oh-my-pi",
+      "title": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "signals": {
+        "stars": 9401,
+        "stars_today": 333,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:OpenBMB/VoxCPM",
+      "title": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "signals": {
+        "stars": 24151,
+        "stars_today": 880,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:FareedKhan-dev/train-llm-from-scratch",
+      "title": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "signals": {
+        "stars": 3624,
+        "stars_today": 860,
+        "language": "Jupyter Notebook"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:stefan-jansen/machine-learning-for-trading",
+      "title": "stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "signals": {
+        "stars": 17759,
+        "stars_today": 82,
+        "language": "Jupyter Notebook"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:dmtrKovalenko/fff",
+      "title": "dmtrKovalenko/fff",
+      "url": "https://github.com/dmtrKovalenko/fff",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "signals": {
+        "stars": 7117,
+        "stars_today": 121,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:codecrafters-io/build-your-own-x",
+      "title": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "signals": {
+        "stars": 510258,
+        "stars_today": 1194,
+        "language": "Markdown"
+      },
+      "category_hint": null
+    }
+  ]
+}

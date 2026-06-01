@@ -5896,7 +5896,7 @@
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-06-01T22:02:56+09:00"
+      "tagged_at": "2026-06-02T04:56:50+09:00"
     },
     "https://huggingface.co/papers/2605.29559": {
       "title": "LiteCoder-Terminal: Scaling Long-Horizon Terminal Environments for Learning Language Agents",
@@ -6229,7 +6229,7 @@
         "multi-agent",
         "web-agent"
       ],
-      "tagged_at": "2026-06-01T22:02:56+09:00"
+      "tagged_at": "2026-06-02T04:56:50+09:00"
     },
     "https://huggingface.co/papers/2605.31264": {
       "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
@@ -6315,7 +6315,7 @@
         "retrieval",
         "rl"
       ],
-      "tagged_at": "2026-06-01T22:02:56+09:00"
+      "tagged_at": "2026-06-02T04:56:50+09:00"
     },
     "https://huggingface.co/papers/2605.31170": {
       "title": "Emergent Languages in Populations of Language Model Agents",
@@ -6327,7 +6327,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-06-01T22:02:56+09:00"
+      "tagged_at": "2026-06-02T04:56:50+09:00"
     },
     "https://huggingface.co/papers/2605.30329": {
       "title": "SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?",
@@ -6340,7 +6340,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-06-01T22:02:56+09:00"
+      "tagged_at": "2026-06-02T04:56:50+09:00"
     },
     "https://huggingface.co/papers/2605.23657": {
       "title": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
@@ -6366,6 +6366,44 @@
         "retrieval"
       ],
       "tagged_at": "2026-06-01T22:02:56+09:00"
+    },
+    "https://huggingface.co/papers/2605.26112": {
+      "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+      "summary": "모델이 아닌 에이전트 하네스가 다음 병목이라는 주장",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-02",
+      "tags": [
+        "agent-harness",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-02T04:56:50+09:00"
+    },
+    "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md": {
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "summary": "스탠퍼드 강의가 공개한 코딩 에이전트용 CLAUDE.md",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-02",
+      "tags": [
+        "claude-code",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-02T04:56:50+09:00"
+    },
+    "https://huggingface.co/papers/2605.29447": {
+      "title": "Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents",
+      "summary": "GUI 에이전트의 자가 오류 회복력을 평가하는 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-02",
+      "tags": [
+        "benchmark",
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-06-02T04:56:50+09:00"
     }
   }
 }

@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-02T04:54:03+09:00",
+  "items": [
+    {
+      "id": "hn:48359102",
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "description": "",
+      "signals": {
+        "points": 715,
+        "num_comments": 180,
+        "discussion_url": "https://news.ycombinator.com/item?id=48359102"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48356625",
+      "title": "Malicious npm packages detected across Red Hat Cloud Services",
+      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+      "description": "",
+      "signals": {
+        "points": 679,
+        "num_comments": 365,
+        "discussion_url": "https://news.ycombinator.com/item?id=48356625"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48353348",
+      "title": "A 10 year old Xeon is all you need",
+      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "description": "",
+      "signals": {
+        "points": 600,
+        "num_comments": 248,
+        "discussion_url": "https://news.ycombinator.com/item?id=48353348"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48357154",
+      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+      "description": "",
+      "signals": {
+        "points": 373,
+        "num_comments": 174,
+        "discussion_url": "https://news.ycombinator.com/item?id=48357154"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48358646",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "description": "",
+      "signals": {
+        "points": 307,
+        "num_comments": 215,
+        "discussion_url": "https://news.ycombinator.com/item?id=48358646"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48357075",
+      "title": "CS336: Language Modeling from Scratch",
+      "url": "https://cs336.stanford.edu/",
+      "description": "",
+      "signals": {
+        "points": 232,
+        "num_comments": 34,
+        "discussion_url": "https://news.ycombinator.com/item?id=48357075"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48352939",
+      "title": "Nvidia RTX Spark",
+      "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
+      "description": "",
+      "signals": {
+        "points": 204,
+        "num_comments": 164,
+        "discussion_url": "https://news.ycombinator.com/item?id=48352939"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48357355",
+      "title": "KDE at 30",
+      "url": "https://kde.org/anniversaries/30/",
+      "description": "",
+      "signals": {
+        "points": 201,
+        "num_comments": 94,
+        "discussion_url": "https://news.ycombinator.com/item?id=48357355"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48359232",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "description": "",
+      "signals": {
+        "points": 166,
+        "num_comments": 82,
+        "discussion_url": "https://news.ycombinator.com/item?id=48359232"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48311587",
+      "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+      "url": "https://blainsmith.com/articles/httptrace-with-go/",
+      "description": "",
+      "signals": {
+        "points": 160,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48311587"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48311003",
+      "title": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
+      "url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/",
+      "description": "",
+      "signals": {
+        "points": 154,
+        "num_comments": 75,
+        "discussion_url": "https://news.ycombinator.com/item?id=48311003"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48357905",
+      "title": "Lifelike biochemistry continued to unfold in sterilized soil",
+      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+      "description": "",
+      "signals": {
+        "points": 133,
+        "num_comments": 31,
+        "discussion_url": "https://news.ycombinator.com/item?id=48357905"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48312443",
+      "title": "I made my phone slow on purpose",
+      "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
+      "description": "",
+      "signals": {
+        "points": 110,
+        "num_comments": 98,
+        "discussion_url": "https://news.ycombinator.com/item?id=48312443"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48356603",
+      "title": "Windows GOG DOS Games on M-Series Macs",
+      "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
+      "description": "",
+      "signals": {
+        "points": 107,
+        "num_comments": 61,
+        "discussion_url": "https://news.ycombinator.com/item?id=48356603"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48357725",
+      "title": "Ask HN: Who is hiring? (June 2026)",
+      "url": "https://news.ycombinator.com/item?id=48357725",
+      "description": "",
+      "signals": {
+        "points": 102,
+        "num_comments": 146,
+        "discussion_url": "https://news.ycombinator.com/item?id=48357725"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48356490",
+      "title": "Flipper Zero Zig Template",
+      "url": "https://github.com/NishantJoshi00/flipper-template",
+      "description": "",
+      "signals": {
+        "points": 101,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48356490"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48356468",
+      "title": "Linux Basics for Hackers (2019)",
+      "url": "https://github.com/ahegazy0/linux-basics-for-hackers-notes",
+      "description": "",
+      "signals": {
+        "points": 88,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48356468"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48352627",
+      "title": "Surface Laptop Ultra",
+      "url": "https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/",
+      "description": "",
+      "signals": {
+        "points": 87,
+        "num_comments": 135,
+        "discussion_url": "https://news.ycombinator.com/item?id=48352627"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48360137",
+      "title": "Superintelligence: The Idea That Eats Smart People (2016)",
+      "url": "https://idlewords.com/talks/superintelligence.htm",
+      "description": "",
+      "signals": {
+        "points": 68,
+        "num_comments": 59,
+        "discussion_url": "https://news.ycombinator.com/item?id=48360137"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48356847",
+      "title": "Sysadmining Like It's 2009",
+      "url": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
+      "description": "",
+      "signals": {
+        "points": 67,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48356847"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48361064",
+      "title": "GitHub and the Crime Against Software",
+      "url": "https://eblog.fly.dev/githubbad.html",
+      "description": "",
+      "signals": {
+        "points": 65,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48361064"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48360054",
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "url": "https://30fps.net/pages/255-vs-256-division/",
+      "description": "",
+      "signals": {
+        "points": 61,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=48360054"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48356312",
+      "title": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
+      "url": "https://news.ycombinator.com/item?id=48356312",
+      "description": "",
+      "signals": {
+        "points": 55,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48356312"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48357724",
+      "title": "Ask HN: Who wants to be hired? (June 2026)",
+      "url": "https://news.ycombinator.com/item?id=48357724",
+      "description": "",
+      "signals": {
+        "points": 52,
+        "num_comments": 162,
+        "discussion_url": "https://news.ycombinator.com/item?id=48357724"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48356741",
+      "title": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?",
+      "url": "https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/",
+      "description": "",
+      "signals": {
+        "points": 40,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48356741"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48356946",
+      "title": "Show HN: A CSS 3D Engine (no WebGL)",
+      "url": "https://github.com/LayoutitStudio/polycss",
+      "description": "",
+      "signals": {
+        "points": 40,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=48356946"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48331587",
+      "title": "\"The Apple Boogie\" 1987 Mac Promo Album Cassette Tape [video]",
+      "url": "https://www.youtube.com/watch?v=chJHB-btMNI",
+      "description": "",
+      "signals": {
+        "points": 38,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48331587"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48338891",
+      "title": "Stealing from Biologists to Compile Haskell Faster",
+      "url": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
+      "description": "",
+      "signals": {
+        "points": 32,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48338891"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48335704",
+      "title": "Handmade Hawaiian Islands Map",
+      "url": "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html",
+      "description": "",
+      "signals": {
+        "points": 27,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48335704"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48361346",
+      "title": "Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "description": "",
+      "signals": {
+        "points": 20,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48361346"
+      },
+      "category_hint": null
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "source": "release_blogs",
+  "fetched_at": "2026-06-02T04:54:06+09:00",
+  "items": [
+    {
+      "id": "rss:openai:https://openai.com/index/stargate-michigan-data-center",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "description": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Mon, 01 Jun 2026 12:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/boston-childrens-hospital",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "description": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 29 May 2026 12:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/braintrust",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "description": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 29 May 2026 12:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "description": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 29 May 2026 03:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "description": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 29 May 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/endava",
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "description": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 28 May 2026 12:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/mufg",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 28 May 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/openai-frontier-governance-framework",
+      "title": "OpenAI’s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "description": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 28 May 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/cisco",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "description": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 27 May 2026 11:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "description": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 27 May 2026 07:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/election-safeguards-2026",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "description": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 27 May 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/warp",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 27 May 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "description": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Mon, 25 May 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/virgin-atlantic",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "description": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 22 May 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "description": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 22 May 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/adventhealth",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 21 May 2026 12:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/the-next-phase-of-education-for-countries",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 20 May 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/ramp",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 20 May 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 20 May 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/introducing-openai-for-singapore",
+      "title": "Introducing OpenAI for Singapore",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Tue, 19 May 2026 20:30:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "description": "",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 21 May 2026 19:46:42 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "description": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Mon, 18 May 2026 18:21:39 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "description": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sun, 17 May 2026 19:53:18 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/introducing-gemini-omni/",
+      "title": "Introducing Gemini Omni",
+      "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "description": "",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sun, 17 May 2026 19:50:57 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "title": "Introducing Google Antigravity 2.0",
+      "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "description": "",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sun, 17 May 2026 19:43:45 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "description": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sun, 17 May 2026 13:50:34 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "title": "Making it easier to understand how content was created and edited",
+      "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "description": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sun, 17 May 2026 13:43:50 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "description": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sat, 16 May 2026 09:13:34 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+      "title": "Finding the molecular switches behind new infectious diseases",
+      "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+      "description": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sat, 16 May 2026 08:16:06 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+      "title": "Opening new paths in aging research",
+      "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+      "description": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sat, 16 May 2026 08:08:44 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+      "title": "Accelerating discovery of liver disease mechanisms",
+      "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+      "description": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sat, 16 May 2026 08:00:15 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+      "title": "Uniting biological toolkits for a new approach to ALS",
+      "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+      "description": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sat, 16 May 2026 07:53:11 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+      "title": "Uncovering repurposed medicines to fight liver fibrosis",
+      "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+      "description": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sat, 16 May 2026 07:40:27 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+      "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "description": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of  the historic Hurricane Melissa.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sat, 16 May 2026 03:14:17 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+      "description": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Fri, 15 May 2026 22:50:12 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+      "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+      "description": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 12 May 2026 14:40:07 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/alphaevolve-impact/",
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "description": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Wed, 06 May 2026 10:43:49 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/ai-co-clinician/",
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "url": "https://deepmind.google/blog/ai-co-clinician/",
+      "description": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 30 Apr 2026 12:14:15 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "title": "Announcing our partnership with the Republic of Korea",
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "description": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Mon, 27 Apr 2026 07:00:06 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/decoupled-diloco/",
+      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+      "url": "https://deepmind.google/blog/decoupled-diloco/",
+      "description": "",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Wed, 22 Apr 2026 10:20:03 +0000"
+      },
+      "category_hint": null
+    }
+  ]
+}

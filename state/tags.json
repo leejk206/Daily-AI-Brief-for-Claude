@@ -4161,7 +4161,7 @@
         "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-23T16:55:25+09:00"
+      "tagged_at": "2026-06-01T22:02:56+09:00"
     },
     "https://github.com/rohitg00/ai-engineering-from-scratch": {
       "title": "rohitg00/ai-engineering-from-scratch",
@@ -5711,7 +5711,7 @@
         "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-06-01T07:40:37+09:00"
+      "tagged_at": "2026-06-01T22:02:56+09:00"
     },
     "https://news.ycombinator.com/item?id=48276429": {
       "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
@@ -5896,7 +5896,7 @@
         "claude-code",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-31T06:28:02+09:00"
+      "tagged_at": "2026-06-01T22:02:56+09:00"
     },
     "https://huggingface.co/papers/2605.29559": {
       "title": "LiteCoder-Terminal: Scaling Long-Horizon Terminal Environments for Learning Language Agents",
@@ -5921,7 +5921,7 @@
         "coding-platform",
         "multi-agent"
       ],
-      "tagged_at": "2026-06-01T07:40:37+09:00"
+      "tagged_at": "2026-06-01T22:02:56+09:00"
     },
     "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/": {
       "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
@@ -6224,10 +6224,148 @@
       "source": "github_trending",
       "brief_date": "2026-06-01",
       "tags": [
+        "agent-harness",
+        "frontend",
         "multi-agent",
         "web-agent"
       ],
-      "tagged_at": "2026-06-01T07:40:37+09:00"
+      "tagged_at": "2026-06-01T22:02:56+09:00"
+    },
+    "https://huggingface.co/papers/2605.31264": {
+      "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
+      "summary": "전문가 지식을 증류해 에이전트 스킬을 자동 생성",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-06-01T22:02:56+09:00"
+    },
+    "https://huggingface.co/papers/2605.31584": {
+      "title": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories",
+      "summary": "검색 에이전트 궤적으로 롱컨텍스트 추론 학습(RLVR)",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "long-context",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-01T22:02:56+09:00"
+    },
+    "https://huggingface.co/papers/2605.30434": {
+      "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis",
+      "summary": "장기 멀티턴 데이터 분석 에이전트의 실패를 측정하는 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-01T22:02:56+09:00"
+    },
+    "https://huggingface.co/papers/2605.31075": {
+      "title": "Task-Focused Memorization for Multimodal Agents",
+      "summary": "멀티모달 에이전트용 과제 중심 장기 기억 메커니즘",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-06-01T22:02:56+09:00"
+    },
+    "https://huggingface.co/papers/2605.30407": {
+      "title": "Exploring Autonomous Agentic Data Engineering for Model Specialization",
+      "summary": "모델 특화용 데이터 큐레이션을 자율 에이전트로",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "auto-research",
+        "paper"
+      ],
+      "tagged_at": "2026-06-01T22:02:56+09:00"
+    },
+    "https://huggingface.co/papers/2605.31042": {
+      "title": "From Prompt Injection to Persistent Control: Defending Agentic Harness Against Trojan Backdoors",
+      "summary": "에이전트 하네스의 트로이목마 백도어 방어",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-06-01T22:02:56+09:00"
+    },
+    "https://huggingface.co/papers/2605.29796": {
+      "title": "SAAS: Self-Aware RL for Over-Search Mitigation in Agentic Search",
+      "summary": "에이전트의 과잉 검색을 RL로 억제",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "paper",
+        "retrieval",
+        "rl"
+      ],
+      "tagged_at": "2026-06-01T22:02:56+09:00"
+    },
+    "https://huggingface.co/papers/2605.31170": {
+      "title": "Emergent Languages in Populations of Language Model Agents",
+      "summary": "다중 에이전트가 감시 회피용 언어를 창발",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-01T22:02:56+09:00"
+    },
+    "https://huggingface.co/papers/2605.30329": {
+      "title": "SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?",
+      "summary": "AI 과학자의 연구 아이디어 판별력 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "auto-research",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-01T22:02:56+09:00"
+    },
+    "https://huggingface.co/papers/2605.23657": {
+      "title": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
+      "summary": "오픈 스킬 생태계를 자동 감사",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "agent-skill",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-01T22:02:56+09:00"
+    },
+    "https://huggingface.co/papers/2605.29307": {
+      "title": "GrepSeek: Training Search Agents for Direct Corpus Interaction",
+      "summary": "코퍼스 직접 상호작용형 검색 에이전트 학습",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-01",
+      "tags": [
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-01T22:02:56+09:00"
     }
   }
 }

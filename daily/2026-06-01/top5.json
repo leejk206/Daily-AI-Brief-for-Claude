@@ -1,7 +1,22 @@
 [
-  {"url": "https://twitter.com/i/status/2060746160558543217", "title": "Codex just found a \"workaround\" of not having sudo on my PC"},
-  {"url": "https://github.com/nicobailon/pi-subagents", "title": "nicobailon/pi-subagents"},
-  {"url": "https://huggingface.co/papers/2605.26029", "title": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists"},
-  {"url": "https://huggingface.co/papers/2605.29271", "title": "CoHyDE: Iterative Co-Training of LLM Rewriter & Dense Encoder for Tool Retrieval"},
-  {"url": "https://huggingface.co/papers/2605.30052", "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair"}
+  {
+    "url": "https://huggingface.co/papers/2605.31264",
+    "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation"
+  },
+  {
+    "url": "https://github.com/can1357/oh-my-pi",
+    "title": "can1357/oh-my-pi"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.31584",
+    "title": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.30434",
+    "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.31075",
+    "title": "Task-Focused Memorization for Multimodal Agents"
+  }
 ]

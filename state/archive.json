@@ -874,5 +874,25 @@
   "https://huggingface.co/papers/2605.30052": {
     "archived_on": "2026-06-01",
     "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair"
+  },
+  "https://huggingface.co/papers/2605.31264": {
+    "archived_on": "2026-06-01",
+    "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation"
+  },
+  "https://github.com/can1357/oh-my-pi": {
+    "archived_on": "2026-06-01",
+    "title": "can1357/oh-my-pi"
+  },
+  "https://huggingface.co/papers/2605.31584": {
+    "archived_on": "2026-06-01",
+    "title": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories"
+  },
+  "https://huggingface.co/papers/2605.30434": {
+    "archived_on": "2026-06-01",
+    "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis"
+  },
+  "https://huggingface.co/papers/2605.31075": {
+    "archived_on": "2026-06-01",
+    "title": "Task-Focused Memorization for Multimodal Agents"
   }
 }

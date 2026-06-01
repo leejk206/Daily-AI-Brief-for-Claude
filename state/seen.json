@@ -565,8 +565,8 @@
   },
   "https://github.com/EveryInc/compound-engineering-plugin": {
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-31",
-    "days": 3,
+    "last_seen": "2026-06-01",
+    "days": 4,
     "title": "EveryInc/compound-engineering-plugin"
   },
   "https://huggingface.co/papers/2605.29559": {
@@ -730,5 +730,77 @@
     "last_seen": "2026-06-01",
     "days": 1,
     "title": "nesquena/hermes-webui"
+  },
+  "https://huggingface.co/papers/2605.31264": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation"
+  },
+  "https://github.com/can1357/oh-my-pi": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "can1357/oh-my-pi"
+  },
+  "https://huggingface.co/papers/2605.31584": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories"
+  },
+  "https://huggingface.co/papers/2605.30434": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis"
+  },
+  "https://huggingface.co/papers/2605.31075": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "Task-Focused Memorization for Multimodal Agents"
+  },
+  "https://huggingface.co/papers/2605.30407": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "Exploring Autonomous Agentic Data Engineering for Model Specialization"
+  },
+  "https://huggingface.co/papers/2605.31042": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "From Prompt Injection to Persistent Control: Defending Agentic Harness Against Trojan Backdoors"
+  },
+  "https://huggingface.co/papers/2605.29796": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "SAAS: Self-Aware RL for Over-Search Mitigation in Agentic Search"
+  },
+  "https://huggingface.co/papers/2605.31170": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "Emergent Languages in Populations of Language Model Agents"
+  },
+  "https://huggingface.co/papers/2605.30329": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?"
+  },
+  "https://huggingface.co/papers/2605.23657": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents"
+  },
+  "https://huggingface.co/papers/2605.29307": {
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "days": 1,
+    "title": "GrepSeek: Training Search Agents for Direct Corpus Interaction"
   }
 }

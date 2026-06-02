@@ -6229,7 +6229,7 @@
         "multi-agent",
         "web-agent"
       ],
-      "tagged_at": "2026-06-02T04:56:50+09:00"
+      "tagged_at": "2026-06-03T05:54:45+09:00"
     },
     "https://huggingface.co/papers/2605.31264": {
       "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
@@ -6404,6 +6404,248 @@
         "paper"
       ],
       "tagged_at": "2026-06-02T04:56:50+09:00"
+    },
+    "https://github.com/chopratejas/headroom": {
+      "title": "chopratejas/headroom",
+      "summary": "툴 출력·로그·파일·RAG 청크를 LLM 입력 전에 60~95% 압축. 라이브러리·프록시·MCP 서버.",
+      "category": "prompt-context-engineering",
+      "source": "github_trending",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "long-context",
+        "mcp-server",
+        "prompt-engineering",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://huggingface.co/papers/2605.28556": {
+      "title": "A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks",
+      "summary": "포화된 에이전트 벤치마크의 난도·커버리지를 자동으로 확장하는 방법.",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.02470": {
+      "title": "MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation",
+      "summary": "실생활 개인 앱 환경 시뮬레이션 기반 MCP 에이전트 벤치마크.",
+      "category": "mcp",
+      "source": "huggingface",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "benchmark",
+        "mcp-server",
+        "paper"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://microsoft.ai/news/introducingmai-code-1-flash/": {
+      "title": "MAI-Code-1-Flash",
+      "summary": "마이크로소프트 자체 경량 코딩 모델 공개, Copilot 라인 확장.",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.02373": {
+      "title": "Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses",
+      "summary": "검색 에이전트의 상태를 하네스로 외부화하는 RL 기법.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "agent-harness",
+        "paper",
+        "retrieval",
+        "rl"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html": {
+      "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
+      "summary": "MS가 OpenClaw 기반 자율 AI 에이전트 Scout 공개.",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "agent-harness"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.01533": {
+      "title": "Multi-Agent Computer Use",
+      "summary": "장기 컴퓨터 사용 작업을 다중 에이전트로 분해·병렬 실행.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "computer-use",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://huggingface.co/papers/2605.24202": {
+      "title": "When Does Multi-Agent RL Improve LLM Workflows? Workflow, Scale, and Policy-Sharing Tradeoffs",
+      "summary": "다중 에이전트 워크플로 RL 학습이 효과적인 조건 분석.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "multi-agent",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.01528": {
+      "title": "Joint Agent Memory and Exploration Learning via Novelty Signals",
+      "summary": "에이전트 메모리와 탐색을 novelty 신호로 동시 학습.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "agent-memory",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.01414": {
+      "title": "Agent Skills Should Go Beyond Text: The Case for Visual Skills",
+      "summary": "텍스트 한계를 넘는 시각적 에이전트 스킬 제안.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.02031": {
+      "title": "OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents",
+      "summary": "시각 웹 에이전트용 온라인 멀티턴 RL 오픈 레시피.",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "paper",
+        "rl",
+        "web-agent"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.01682": {
+      "title": "Off-the-Shelf LLMs as Process Scorers: Training-Free Alternative to PRMs for Mathematical Reasoning",
+      "summary": "학습 없이 기성 LLM을 PRM 대체 프로세스 채점기로 활용.",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://huggingface.co/papers/2605.28897": {
+      "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews",
+      "summary": "LLM 논문 리뷰의 인간 정렬·조작 가능성 평가.",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://openai.com/index/codex-for-every-role-tool-workflow": {
+      "title": "Codex for every role, tool, and workflow",
+      "summary": "Codex 플러그인·사이트·주석으로 전 직군 확장.",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://openai.com/index/codex-for-knowledge-work": {
+      "title": "Codex is becoming a productivity tool for everyone",
+      "summary": "Codex가 연구·분석·자동화 생산성 도구로 확장.",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://github.com/features/preview/github-app": {
+      "title": "GitHub Copilot App",
+      "summary": "GitHub이 독립형 Copilot 앱 프리뷰 공개.",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://github.com/jamwithai/production-agentic-rag-course": {
+      "title": "jamwithai/production-agentic-rag-course",
+      "summary": "프로덕션급 에이전틱 RAG 구축 강의.",
+      "category": "prompt-context-engineering",
+      "source": "github_trending",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "retrieval",
+        "tutorial"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://www.kapa.ai/blog/how-we-index-images-for-rag": {
+      "title": "How we index images for RAG",
+      "summary": "이미지를 RAG에 인덱싱하는 실전 방법.",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.01336": {
+      "title": "LongAttnComp: Cross-Family Context Compression for Long-Context Reasoning",
+      "summary": "100k+ 토큰 long-context용 크로스패밀리 컨텍스트 압축.",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://research.perplexity.ai/articles/rethinking-search-as-code-generation": {
+      "title": "Rethinking search as code generation",
+      "summary": "Perplexity, 검색을 코드 생성 문제로 재정의.",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-06-03",
+      "tags": [
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-03T05:54:45+09:00"
     }
   }
 }

@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-03T05:50:26+09:00",
+  "items": [
+    {
+      "id": "hn:48368121",
+      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+      "url": "https://blog.adafruit.com/",
+      "description": "",
+      "signals": {
+        "points": 534,
+        "num_comments": 226,
+        "discussion_url": "https://news.ycombinator.com/item?id=48368121"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48367907",
+      "title": "Why Janet? (2023)",
+      "url": "https://ianthehenry.com/posts/why-janet/",
+      "description": "",
+      "signals": {
+        "points": 401,
+        "num_comments": 211,
+        "discussion_url": "https://news.ycombinator.com/item?id=48367907"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48363882",
+      "title": "Age verification for social media, the beginning of the end for a free internet?",
+      "url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
+      "description": "",
+      "signals": {
+        "points": 372,
+        "num_comments": 271,
+        "discussion_url": "https://news.ycombinator.com/item?id=48363882"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48369980",
+      "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
+      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+      "description": "",
+      "signals": {
+        "points": 333,
+        "num_comments": 190,
+        "discussion_url": "https://news.ycombinator.com/item?id=48369980"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48367904",
+      "title": "Love systemd timers",
+      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+      "description": "",
+      "signals": {
+        "points": 294,
+        "num_comments": 188,
+        "discussion_url": "https://news.ycombinator.com/item?id=48367904"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48375016",
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "description": "",
+      "signals": {
+        "points": 243,
+        "num_comments": 121,
+        "discussion_url": "https://news.ycombinator.com/item?id=48375016"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48368059",
+      "title": "Stop Ruining It",
+      "url": "https://seths.blog/2026/06/stop-ruining-it/",
+      "description": "",
+      "signals": {
+        "points": 221,
+        "num_comments": 106,
+        "discussion_url": "https://news.ycombinator.com/item?id=48368059"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48374466",
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "description": "",
+      "signals": {
+        "points": 208,
+        "num_comments": 92,
+        "discussion_url": "https://news.ycombinator.com/item?id=48374466"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48373054",
+      "title": "Three Ways to Get Paid (2018)",
+      "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+      "description": "",
+      "signals": {
+        "points": 181,
+        "num_comments": 113,
+        "discussion_url": "https://news.ycombinator.com/item?id=48373054"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48369863",
+      "title": "Expanding Project Glasswing",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "description": "",
+      "signals": {
+        "points": 134,
+        "num_comments": 177,
+        "discussion_url": "https://news.ycombinator.com/item?id=48369863"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48370291",
+      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+      "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+      "description": "",
+      "signals": {
+        "points": 126,
+        "num_comments": 42,
+        "discussion_url": "https://news.ycombinator.com/item?id=48370291"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48372628",
+      "title": "Trump signs downsized AI order after weeks of reversals",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "description": "",
+      "signals": {
+        "points": 108,
+        "num_comments": 77,
+        "discussion_url": "https://news.ycombinator.com/item?id=48372628"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48370588",
+      "title": "Preparing for KDE Plasma's Last X11-Supported Release",
+      "url": "https://blog.davidedmundson.co.uk/blog/596/",
+      "description": "",
+      "signals": {
+        "points": 106,
+        "num_comments": 128,
+        "discussion_url": "https://news.ycombinator.com/item?id=48370588"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48374362",
+      "title": "MAI-Thinking-1",
+      "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
+      "description": "",
+      "signals": {
+        "points": 77,
+        "num_comments": 24,
+        "discussion_url": "https://news.ycombinator.com/item?id=48374362"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48373764",
+      "title": "GitHub Copilot App",
+      "url": "https://github.com/features/preview/github-app",
+      "description": "",
+      "signals": {
+        "points": 67,
+        "num_comments": 41,
+        "discussion_url": "https://news.ycombinator.com/item?id=48373764"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48372547",
+      "title": "Rethinking search as code generation",
+      "url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation",
+      "description": "",
+      "signals": {
+        "points": 56,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48372547"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48375175",
+      "title": "The advertising cartel coming to your web browser",
+      "url": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
+      "description": "",
+      "signals": {
+        "points": 48,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48375175"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48373675",
+      "title": "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
+      "url": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
+      "description": "",
+      "signals": {
+        "points": 48,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48373675"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48373442",
+      "title": "QBE – Compiler Backend – 1.3",
+      "url": "https://c9x.me/compile/release/qbe-1.3.html",
+      "description": "",
+      "signals": {
+        "points": 47,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48373442"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48374079",
+      "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
+      "url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html",
+      "description": "",
+      "signals": {
+        "points": 44,
+        "num_comments": 40,
+        "discussion_url": "https://news.ycombinator.com/item?id=48374079"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48374685",
+      "title": "HP re-releases classic computer science calculator: The HP-16C",
+      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "description": "",
+      "signals": {
+        "points": 33,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48374685"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48372239",
+      "title": "How we index images for RAG",
+      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+      "description": "",
+      "signals": {
+        "points": 29,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48372239"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48375150",
+      "title": "Open Repair Data Standard – Open Repair Alliance",
+      "url": "https://openrepair.org/open-data/open-standard/",
+      "description": "",
+      "signals": {
+        "points": 29,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48375150"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48323220",
+      "title": "Key chemistry question answered, no quantum computer required",
+      "url": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48323220"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48374528",
+      "title": "Launch HN: Rudus (YC P26) – AI for concrete contractors",
+      "url": "https://news.ycombinator.com/item?id=48374528",
+      "description": "",
+      "signals": {
+        "points": 26,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48374528"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48373482",
+      "title": "Show HN: RePlaya – self-hosted browser session replay with live tailing",
+      "url": "https://github.com/s2-streamstore/replaya",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48373482"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48334395",
+      "title": "BQN: What Is a Primitive?",
+      "url": "https://mlochbaum.github.io/BQN/commentary/primitive.html",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48334395"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48343901",
+      "title": "Multicore suppport for DOS is real – partly",
+      "url": "https://www.vogons.org/viewtopic.php?t=111336",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48343901"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48375544",
+      "title": "Uber caps employee AI spending after blowing through budget in four months",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48375544"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

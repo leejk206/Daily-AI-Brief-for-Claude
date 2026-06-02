@@ -5,102 +5,6 @@
     "days": 2,
     "title": "Lum1104/Understand-Anything"
   },
-  "https://huggingface.co/papers/2605.23771": {
-    "first_seen": "2026-05-25",
-    "last_seen": "2026-05-26",
-    "days": 2,
-    "title": "PhotoFlow: Agentic 3D Virtual Photography Missions"
-  },
-  "https://github.com/affaan-m/ECC": {
-    "first_seen": "2026-05-25",
-    "last_seen": "2026-05-26",
-    "days": 2,
-    "title": "affaan-m/ECC"
-  },
-  "https://huggingface.co/papers/2605.23218": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "Foundation Protocol: A Coordination Layer for Agentic Society"
-  },
-  "https://huggingface.co/papers/2605.25874": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation"
-  },
-  "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "Using AI to write better code more slowly"
-  },
-  "https://huggingface.co/papers/2605.24830": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "Macaron-A2UI: A Model for Generative UI in Personal Agents"
-  },
-  "https://huggingface.co/papers/2605.24218": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks"
-  },
-  "https://huggingface.co/papers/2605.23204": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery"
-  },
-  "https://huggingface.co/papers/2605.23986": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing"
-  },
-  "https://huggingface.co/papers/2605.26086": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World"
-  },
-  "https://huggingface.co/papers/2605.25971": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "Anticipate and Learn: Unleashing Idle-Time Compute in Proactive Agents"
-  },
-  "https://huggingface.co/papers/2605.24426": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "SEAL: Synergistic Co-Evolution of Agents and Learning Environments"
-  },
-  "https://huggingface.co/papers/2605.20342": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning"
-  },
-  "https://huggingface.co/papers/2605.24117": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills"
-  },
-  "https://huggingface.co/papers/2605.25160": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking"
-  },
-  "https://huggingface.co/papers/2605.25052": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth"
-  },
   "https://github.com/Leonxlnx/taste-skill": {
     "first_seen": "2026-05-28",
     "last_seen": "2026-05-30",
@@ -112,12 +16,6 @@
     "last_seen": "2026-05-30",
     "days": 3,
     "title": "hardikpandya/stop-slop"
-  },
-  "https://jry.io/writing/use-boring-languages-with-llms/": {
-    "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "days": 1,
-    "title": "Use Boring Languages with LLMs"
   },
   "https://arps18.github.io/posts/claude-code-mastery/": {
     "first_seen": "2026-05-28",
@@ -601,8 +499,8 @@
   },
   "https://github.com/nesquena/hermes-webui": {
     "first_seen": "2026-06-01",
-    "last_seen": "2026-06-02",
-    "days": 2,
+    "last_seen": "2026-06-03",
+    "days": 3,
     "title": "nesquena/hermes-webui"
   },
   "https://huggingface.co/papers/2605.31264": {
@@ -694,5 +592,125 @@
     "last_seen": "2026-06-02",
     "days": 1,
     "title": "Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents"
+  },
+  "https://github.com/chopratejas/headroom": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "chopratejas/headroom"
+  },
+  "https://huggingface.co/papers/2605.28556": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks"
+  },
+  "https://huggingface.co/papers/2606.02470": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation"
+  },
+  "https://microsoft.ai/news/introducingmai-code-1-flash/": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "MAI-Code-1-Flash"
+  },
+  "https://huggingface.co/papers/2606.02373": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses"
+  },
+  "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw"
+  },
+  "https://huggingface.co/papers/2606.01533": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "Multi-Agent Computer Use"
+  },
+  "https://huggingface.co/papers/2605.24202": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "When Does Multi-Agent RL Improve LLM Workflows? Workflow, Scale, and Policy-Sharing Tradeoffs"
+  },
+  "https://huggingface.co/papers/2606.01528": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "Joint Agent Memory and Exploration Learning via Novelty Signals"
+  },
+  "https://huggingface.co/papers/2606.01414": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "Agent Skills Should Go Beyond Text: The Case for Visual Skills"
+  },
+  "https://huggingface.co/papers/2606.02031": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents"
+  },
+  "https://huggingface.co/papers/2606.01682": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "Off-the-Shelf LLMs as Process Scorers: Training-Free Alternative to PRMs for Mathematical Reasoning"
+  },
+  "https://huggingface.co/papers/2605.28897": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews"
+  },
+  "https://openai.com/index/codex-for-every-role-tool-workflow": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "Codex for every role, tool, and workflow"
+  },
+  "https://openai.com/index/codex-for-knowledge-work": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "Codex is becoming a productivity tool for everyone"
+  },
+  "https://github.com/features/preview/github-app": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "GitHub Copilot App"
+  },
+  "https://github.com/jamwithai/production-agentic-rag-course": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "jamwithai/production-agentic-rag-course"
+  },
+  "https://www.kapa.ai/blog/how-we-index-images-for-rag": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "How we index images for RAG"
+  },
+  "https://huggingface.co/papers/2606.01336": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "LongAttnComp: Cross-Family Context Compression for Long-Context Reasoning"
+  },
+  "https://research.perplexity.ai/articles/rethinking-search-as-code-generation": {
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "days": 1,
+    "title": "Rethinking search as code generation"
   }
 }

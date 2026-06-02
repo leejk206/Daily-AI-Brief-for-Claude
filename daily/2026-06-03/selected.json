@@ -1,0 +1,23 @@
+[
+  {"url": "https://github.com/chopratejas/headroom", "title": "chopratejas/headroom"},
+  {"url": "https://huggingface.co/papers/2605.28556", "title": "A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks"},
+  {"url": "https://huggingface.co/papers/2606.02470", "title": "MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation"},
+  {"url": "https://microsoft.ai/news/introducingmai-code-1-flash/", "title": "MAI-Code-1-Flash"},
+  {"url": "https://huggingface.co/papers/2606.02373", "title": "Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses"},
+  {"url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html", "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw"},
+  {"url": "https://huggingface.co/papers/2606.01533", "title": "Multi-Agent Computer Use"},
+  {"url": "https://huggingface.co/papers/2605.24202", "title": "When Does Multi-Agent RL Improve LLM Workflows? Workflow, Scale, and Policy-Sharing Tradeoffs"},
+  {"url": "https://huggingface.co/papers/2606.01528", "title": "Joint Agent Memory and Exploration Learning via Novelty Signals"},
+  {"url": "https://huggingface.co/papers/2606.01414", "title": "Agent Skills Should Go Beyond Text: The Case for Visual Skills"},
+  {"url": "https://huggingface.co/papers/2606.02031", "title": "OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents"},
+  {"url": "https://huggingface.co/papers/2606.01682", "title": "Off-the-Shelf LLMs as Process Scorers: Training-Free Alternative to PRMs for Mathematical Reasoning"},
+  {"url": "https://huggingface.co/papers/2605.28897", "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews"},
+  {"url": "https://openai.com/index/codex-for-every-role-tool-workflow", "title": "Codex for every role, tool, and workflow"},
+  {"url": "https://openai.com/index/codex-for-knowledge-work", "title": "Codex is becoming a productivity tool for everyone"},
+  {"url": "https://github.com/features/preview/github-app", "title": "GitHub Copilot App"},
+  {"url": "https://github.com/jamwithai/production-agentic-rag-course", "title": "jamwithai/production-agentic-rag-course"},
+  {"url": "https://www.kapa.ai/blog/how-we-index-images-for-rag", "title": "How we index images for RAG"},
+  {"url": "https://huggingface.co/papers/2606.01336", "title": "LongAttnComp: Cross-Family Context Compression for Long-Context Reasoning"},
+  {"url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation", "title": "Rethinking search as code generation"},
+  {"url": "https://github.com/nesquena/hermes-webui", "title": "nesquena/hermes-webui"}
+]

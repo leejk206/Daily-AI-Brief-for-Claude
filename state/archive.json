@@ -914,5 +914,25 @@
   "https://huggingface.co/papers/2605.30329": {
     "archived_on": "2026-06-02",
     "title": "SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?"
+  },
+  "https://github.com/chopratejas/headroom": {
+    "archived_on": "2026-06-03",
+    "title": "chopratejas/headroom"
+  },
+  "https://huggingface.co/papers/2605.28556": {
+    "archived_on": "2026-06-03",
+    "title": "A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks"
+  },
+  "https://huggingface.co/papers/2606.02470": {
+    "archived_on": "2026-06-03",
+    "title": "MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation"
+  },
+  "https://microsoft.ai/news/introducingmai-code-1-flash/": {
+    "archived_on": "2026-06-03",
+    "title": "MAI-Code-1-Flash"
+  },
+  "https://huggingface.co/papers/2606.02373": {
+    "archived_on": "2026-06-03",
+    "title": "Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses"
   }
 }

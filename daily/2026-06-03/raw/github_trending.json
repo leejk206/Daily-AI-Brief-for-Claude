@@ -1,0 +1,138 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-06-03T05:50:25+09:00",
+  "items": [
+    {
+      "id": "github:chopratejas/headroom",
+      "title": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "signals": {
+        "stars": 6016,
+        "stars_today": 1266,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:microsoft/markitdown",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "signals": {
+        "stars": 140939,
+        "stars_today": 3616,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "signals": {
+        "stars": 203660,
+        "stars_today": 1597,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:D4Vinci/Scrapling",
+      "title": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "signals": {
+        "stars": 59057,
+        "stars_today": 1196,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:nesquena/hermes-webui",
+      "title": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "signals": {
+        "stars": 12466,
+        "stars_today": 1725,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:reconurge/flowsint",
+      "title": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "signals": {
+        "stars": 4444,
+        "stars_today": 190,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:OpenBMB/VoxCPM",
+      "title": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "signals": {
+        "stars": 25035,
+        "stars_today": 779,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:stefan-jansen/machine-learning-for-trading",
+      "title": "stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "signals": {
+        "stars": 18399,
+        "stars_today": 570,
+        "language": "Jupyter Notebook"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:jamwithai/production-agentic-rag-course",
+      "title": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "description": "",
+      "signals": {
+        "stars": 6346,
+        "stars_today": 31,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:supermemoryai/supermemory",
+      "title": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "signals": {
+        "stars": 24560,
+        "stars_today": 677,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Open-LLM-VTuber/Open-LLM-VTuber",
+      "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "signals": {
+        "stars": 8277,
+        "stars_today": 65,
+        "language": "Python"
+      },
+      "category_hint": null
+    }
+  ]
+}

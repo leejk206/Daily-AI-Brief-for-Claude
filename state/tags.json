@@ -6225,11 +6225,12 @@
       "brief_date": "2026-06-01",
       "tags": [
         "agent-harness",
+        "cli-agent",
         "frontend",
         "multi-agent",
         "web-agent"
       ],
-      "tagged_at": "2026-06-03T05:54:45+09:00"
+      "tagged_at": "2026-06-04T08:18:22+09:00"
     },
     "https://huggingface.co/papers/2605.31264": {
       "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
@@ -6646,6 +6647,187 @@
         "retrieval"
       ],
       "tagged_at": "2026-06-03T05:54:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.00683": {
+      "title": "OCC-RAG: Optimal Cognitive Core for Faithful Question Answering",
+      "summary": "파라메트릭 지식보다 견고한 추론, RAG의 인지 핵심 제안",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
+    },
+    "https://huggingface.co/papers/2606.01770": {
+      "title": "Adaptive Auto-Harness: Sustained Self-Improvement for Agentic System Deployment on Open-Ended Task Streams",
+      "summary": "오픈엔드 태스크 스트림에서 지속 자기개선하는 에이전트 하네스",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "agent-harness",
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
+    },
+    "https://huggingface.co/papers/2606.01961": {
+      "title": "AutoMedBench: Towards Medical AutoResearch with Agentic AI Models",
+      "summary": "최종 출력 너머 에이전트 행동까지 보는 의료 자율연구 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "auto-research",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
+    },
+    "https://openai.com/index/wasmer": {
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "summary": "Codex+GPT-5.5로 엣지용 Node.js 런타임 10~20배 빠르게 구축",
+      "category": "coding-agents",
+      "source": "openai",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
+    },
+    "https://huggingface.co/papers/2606.02388": {
+      "title": "Policy and World Modeling Co-Training for Language Agents",
+      "summary": "RL에 월드모델 결합, 언어 에이전트 정책·환경예측 공동학습",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
+    },
+    "https://huggingface.co/papers/2606.00138": {
+      "title": "A Multi-AI-agent Framework Enabling End-to-end Finite Element Analysis for Solid Mechanics Problems",
+      "summary": "멀티에이전트로 고체역학 FEA 전 과정을 자동화",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
+    },
+    "https://huggingface.co/papers/2606.02320": {
+      "title": "TVIR: Building Deep Research Agents Towards Text–Visual Interleaved Report Generation",
+      "summary": "텍스트·시각 결합 보고서를 만드는 딥리서치 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "auto-research",
+        "paper"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
+    },
+    "https://news.ycombinator.com/item?id=48387095": {
+      "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+      "summary": "에이전트 개발을 떠받치는 사내 지식 두뇌",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "agent-memory",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
+    },
+    "https://huggingface.co/papers/2606.01494": {
+      "title": "ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree",
+      "summary": "에이전트 스킬 보안, 67k 스킬 데이터셋으로 점검",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
+    },
+    "https://huggingface.co/papers/2606.02754": {
+      "title": "Ψ-Bench: Evaluating Persona-Sensitive Influencing in Persuasive Dialogues",
+      "summary": "설득 대화에서 페르소나 맞춤 영향력을 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
+    },
+    "https://huggingface.co/papers/2606.02578": {
+      "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
+      "summary": "시각·텍스트 충돌 시 멀티모달 심판의 편향 완화",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
+    },
+    "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking": {
+      "title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
+      "summary": "JetBrains의 추론형 코딩 전용 MoE 모델 공개",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "coding-platform",
+        "local-inference"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
+    },
+    "https://github.com/supermemoryai/supermemory": {
+      "title": "supermemoryai/supermemory",
+      "summary": "AI 시대용 빠르고 확장 가능한 메모리 API/엔진",
+      "category": "prompt-context-engineering",
+      "source": "github_trending",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "agent-memory"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
+    },
+    "https://github.com/zaydmulani09/mnemo": {
+      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite, petgraph)",
+      "summary": "Rust·SQLite 기반 로컬 우선 LLM 메모리 레이어",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "agent-memory",
+        "local-inference"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
+    },
+    "https://huggingface.co/papers/2605.29084": {
+      "title": "Same Question, Different Source, Different Answer: Auditing Source-Dependence in Medical Multi-Source RAG",
+      "summary": "멀티소스 RAG의 출처 의존성 실패를 감사",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-04",
+      "tags": [
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-04T08:18:22+09:00"
     }
   }
 }

@@ -1,0 +1,174 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-06-04T08:15:16+09:00",
+  "items": [
+    {
+      "id": "github:chopratejas/headroom",
+      "title": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "signals": {
+        "stars": 9555,
+        "stars_today": 3528,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "signals": {
+        "stars": 205654,
+        "stars_today": 2147,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:aquasecurity/trivy",
+      "title": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "signals": {
+        "stars": 35380,
+        "stars_today": 26,
+        "language": "Go"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "signals": {
+        "stars": 179031,
+        "stars_today": 1736,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:microsoft/markitdown",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "signals": {
+        "stars": 142800,
+        "stars_today": 2006,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:nesquena/hermes-webui",
+      "title": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "signals": {
+        "stars": 13081,
+        "stars_today": 734,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:D4Vinci/Scrapling",
+      "title": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "signals": {
+        "stars": 60183,
+        "stars_today": 1078,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:opendataloader-project/opendataloader-pdf",
+      "title": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "signals": {
+        "stars": 23227,
+        "stars_today": 573,
+        "language": "Java"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:odoo/odoo",
+      "title": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "signals": {
+        "stars": 51908,
+        "stars_today": 29,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Open-LLM-VTuber/Open-LLM-VTuber",
+      "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "signals": {
+        "stars": 8918,
+        "stars_today": 702,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:jwasham/coding-interview-university",
+      "title": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "signals": {
+        "stars": 348972,
+        "stars_today": 459,
+        "language": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:lyogavin/airllm",
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "signals": {
+        "stars": 18859,
+        "stars_today": 208,
+        "language": "Jupyter Notebook"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:supermemoryai/supermemory",
+      "title": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "signals": {
+        "stars": 25140,
+        "stars_today": 601,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:HKUDS/Vibe-Trading",
+      "title": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "signals": {
+        "stars": 9863,
+        "stars_today": 221,
+        "language": "Python"
+      },
+      "category_hint": null
+    }
+  ]
+}

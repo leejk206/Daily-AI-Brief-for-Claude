@@ -499,8 +499,8 @@
   },
   "https://github.com/nesquena/hermes-webui": {
     "first_seen": "2026-06-01",
-    "last_seen": "2026-06-03",
-    "days": 3,
+    "last_seen": "2026-06-04",
+    "days": 4,
     "title": "nesquena/hermes-webui"
   },
   "https://huggingface.co/papers/2605.31264": {
@@ -712,5 +712,95 @@
     "last_seen": "2026-06-03",
     "days": 1,
     "title": "Rethinking search as code generation"
+  },
+  "https://huggingface.co/papers/2606.00683": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "OCC-RAG: Optimal Cognitive Core for Faithful Question Answering"
+  },
+  "https://huggingface.co/papers/2606.01770": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "Adaptive Auto-Harness: Sustained Self-Improvement for Agentic System Deployment on Open-Ended Task Streams"
+  },
+  "https://huggingface.co/papers/2606.01961": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "AutoMedBench: Towards Medical AutoResearch with Agentic AI Models"
+  },
+  "https://openai.com/index/wasmer": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge"
+  },
+  "https://huggingface.co/papers/2606.02388": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "Policy and World Modeling Co-Training for Language Agents"
+  },
+  "https://huggingface.co/papers/2606.00138": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "A Multi-AI-agent Framework Enabling End-to-end Finite Element Analysis for Solid Mechanics Problems"
+  },
+  "https://huggingface.co/papers/2606.02320": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "TVIR: Building Deep Research Agents Towards Text–Visual Interleaved Report Generation"
+  },
+  "https://news.ycombinator.com/item?id=48387095": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development"
+  },
+  "https://huggingface.co/papers/2606.01494": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree"
+  },
+  "https://huggingface.co/papers/2606.02754": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "Ψ-Bench: Evaluating Persona-Sensitive Influencing in Persuasive Dialogues"
+  },
+  "https://huggingface.co/papers/2606.02578": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling"
+  },
+  "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "JetBrains/Mellum2-12B-A2.5B-Thinking"
+  },
+  "https://github.com/supermemoryai/supermemory": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "supermemoryai/supermemory"
+  },
+  "https://github.com/zaydmulani09/mnemo": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite, petgraph)"
+  },
+  "https://huggingface.co/papers/2605.29084": {
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "days": 1,
+    "title": "Same Question, Different Source, Different Answer: Auditing Source-Dependence in Medical Multi-Source RAG"
   }
 }

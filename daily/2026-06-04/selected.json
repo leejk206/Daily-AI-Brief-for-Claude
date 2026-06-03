@@ -1,0 +1,18 @@
+[
+  {"url": "https://huggingface.co/papers/2606.00683", "title": "OCC-RAG: Optimal Cognitive Core for Faithful Question Answering"},
+  {"url": "https://huggingface.co/papers/2606.01770", "title": "Adaptive Auto-Harness: Sustained Self-Improvement for Agentic System Deployment on Open-Ended Task Streams"},
+  {"url": "https://huggingface.co/papers/2606.01961", "title": "AutoMedBench: Towards Medical AutoResearch with Agentic AI Models"},
+  {"url": "https://openai.com/index/wasmer", "title": "How Wasmer used Codex to build a Node.js runtime for the edge"},
+  {"url": "https://huggingface.co/papers/2606.02388", "title": "Policy and World Modeling Co-Training for Language Agents"},
+  {"url": "https://huggingface.co/papers/2606.00138", "title": "A Multi-AI-agent Framework Enabling End-to-end Finite Element Analysis for Solid Mechanics Problems"},
+  {"url": "https://huggingface.co/papers/2606.02320", "title": "TVIR: Building Deep Research Agents Towards Text–Visual Interleaved Report Generation"},
+  {"url": "https://news.ycombinator.com/item?id=48387095", "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development"},
+  {"url": "https://huggingface.co/papers/2606.01494", "title": "ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree"},
+  {"url": "https://huggingface.co/papers/2606.02754", "title": "Ψ-Bench: Evaluating Persona-Sensitive Influencing in Persuasive Dialogues"},
+  {"url": "https://huggingface.co/papers/2606.02578", "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling"},
+  {"url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking", "title": "JetBrains/Mellum2-12B-A2.5B-Thinking"},
+  {"url": "https://github.com/supermemoryai/supermemory", "title": "supermemoryai/supermemory"},
+  {"url": "https://github.com/zaydmulani09/mnemo", "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite, petgraph)"},
+  {"url": "https://huggingface.co/papers/2605.29084", "title": "Same Question, Different Source, Different Answer: Auditing Source-Dependence in Medical Multi-Source RAG"},
+  {"url": "https://github.com/nesquena/hermes-webui", "title": "nesquena/hermes-webui"}
+]

@@ -17,245 +17,11 @@
     "days": 3,
     "title": "hardikpandya/stop-slop"
   },
-  "https://arps18.github.io/posts/claude-code-mastery/": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs"
-  },
-  "https://huggingface.co/papers/2605.26114": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research"
-  },
-  "https://huggingface.co/papers/2605.24213": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Towards Evaluation Engineering: An Empirical Study of ML Evaluation Harnesses in the Wild"
-  },
-  "https://openai.com/index/building-self-improving-tax-agents-with-codex": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Building self-improving tax agents with Codex"
-  },
-  "https://huggingface.co/papers/2605.27366": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation"
-  },
-  "https://huggingface.co/papers/2605.25624": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents"
-  },
-  "https://huggingface.co/papers/2605.25535": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Personalize-then-Store: Benchmarking and Learning Personalized Memory for Long-horizon Agents"
-  },
-  "https://huggingface.co/papers/2605.24468": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "SAM: State-Adaptive Memory for Long-Horizon Reasoning Agent"
-  },
-  "https://huggingface.co/papers/2605.24219": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Beyond Final Answers: Auditing Trajectory-Level Hallucinations in Multi-Agent Industrial Workflows"
-  },
-  "https://huggingface.co/papers/2605.25188": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "DarkForest: Less Talk, Higher Accuracy for Multi-Agent LLMs"
-  },
-  "https://huggingface.co/papers/2605.26952": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Efficient Agentic Reinforcement Learning with On-Policy Intrinsic Knowledge Boundary Enhancement"
-  },
-  "https://huggingface.co/papers/2605.27141": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions"
-  },
-  "https://huggingface.co/papers/2605.21748": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "RankJudge: A Multi-Turn LLM-as-a-Judge Synthetic Benchmark Generator"
-  },
-  "https://huggingface.co/papers/2605.22608": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Agentic CLEAR: Automating Multi-Level Evaluation of LLM Agents"
-  },
-  "https://huggingface.co/papers/2605.24517": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "ECHO: Terminal Agents Learn World Models for Free"
-  },
-  "https://huggingface.co/papers/2605.23491": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "CoSPlay: Cooperative Self-Play at Test-Time with Self-Generated Code and Unit Test"
-  },
-  "https://martinfowler.com/articles/vibesec-reckoning.html": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "The VibeSec Reckoning"
-  },
-  "https://huggingface.co/papers/2605.26099": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Language Models Need Sleep"
-  },
-  "https://huggingface.co/papers/2605.27030": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Share More, Search Less: Collaborative Parallel Thinking for Efficient Test-Time Scaling"
-  },
-  "https://news.ycombinator.com/item?id=48296794": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "I think Anthropic and OpenAI have found product-market fit"
-  },
-  "https://huggingface.co/papers/2605.28774": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Agent Explorative Policy Optimization for Multimodal Agentic Reasoning"
-  },
-  "https://huggingface.co/papers/2605.28816": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players"
-  },
-  "https://huggingface.co/papers/2605.28732": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems"
-  },
-  "https://openai.com/index/cisco": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Cisco and OpenAI redefine enterprise engineering with Codex"
-  },
-  "https://huggingface.co/papers/2605.28814": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Self-Improving Language Models with Bidirectional Evolutionary Search"
-  },
-  "https://huggingface.co/papers/2605.26340": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence"
-  },
-  "https://huggingface.co/papers/2605.28773": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Rethinking Memory as Continuously Evolving Connectivity"
-  },
-  "https://huggingface.co/papers/2605.27068": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "QUACK: Auditing Communicated Knowledge in Multimodal Social Deduction Agents"
-  },
-  "https://huggingface.co/papers/2605.27466": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems"
-  },
-  "https://huggingface.co/papers/2605.27908": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "ESC-Skills: Discovering and Self-Evolving Skills for Emotional Support Conversations"
-  },
-  "https://huggingface.co/papers/2605.24486": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "AgentFugue: Agent Scaling for Long-Horizon Tasks through Collective Reasoning"
-  },
-  "https://huggingface.co/papers/2605.27760": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "SkillGrad: Optimizing Agent Skills Like Gradient Descent"
-  },
-  "https://huggingface.co/papers/2605.28721": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "LiveBrowseComp: Are Search Agents Searching, or Just Verifying What They Already Know?"
-  },
-  "https://huggingface.co/papers/2605.28398": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "HRBench: Benchmarking Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs"
-  },
-  "https://huggingface.co/papers/2605.27882": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild"
-  },
-  "https://github.com/Chachamaru127/claude-code-harness": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Chachamaru127/claude-code-harness"
-  },
-  "https://huggingface.co/papers/2605.28775": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents"
-  },
-  "https://huggingface.co/papers/2605.26457": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Verus-SpecGym: An Agentic Environment for Evaluating Specification Autoformalization"
-  },
   "https://openai.com/index/warp": {
     "first_seen": "2026-05-31",
     "last_seen": "2026-06-01",
     "days": 2,
     "title": "Warp's big bet on building open source with GPT-5.5"
-  },
-  "https://news.ycombinator.com/item?id=48276429": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-28",
-    "days": 1,
-    "title": "Investigating how prompt politeness affects LLM accuracy (2025)"
   },
   "https://www.anthropic.com/news/claude-opus-4-8": {
     "first_seen": "2026-05-29",
@@ -802,5 +568,107 @@
     "last_seen": "2026-06-04",
     "days": 1,
     "title": "Same Question, Different Source, Different Answer: Auditing Source-Dependence in Medical Multi-Source RAG"
+  },
+  "https://huggingface.co/papers/2606.02060": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "Where Do Deep-Research Agents Go Wrong? Span-Level Error Localization in Agent Trajectories"
+  },
+  "https://github.com/github/copilot-sdk": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "github/copilot-sdk"
+  },
+  "https://huggingface.co/papers/2606.04923": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based RL"
+  },
+  "https://huggingface.co/papers/2606.05158": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "Streaming Communication in Multi-Agent Reasoning"
+  },
+  "https://openai.com/index/chatgpt-memory-dreaming": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "Dreaming: Better memory for a more helpful ChatGPT"
+  },
+  "https://huggingface.co/papers/2606.02859": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions"
+  },
+  "https://huggingface.co/papers/2606.03895": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents"
+  },
+  "https://huggingface.co/papers/2606.01993": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "MMG2Skill: Can Agents Distill In-the-Wild Guides into Self-Evolving Skills?"
+  },
+  "https://www.anthropic.com/engineering/how-we-contain-claude": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "The ways we contain Claude across products"
+  },
+  "https://huggingface.co/papers/2605.27492": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "Benchmarks are Not Enough: RAMP for Runtime Assessing of Agentic Models in Production Systems"
+  },
+  "https://huggingface.co/papers/2606.05080": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "AutoLab: Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks?"
+  },
+  "https://huggingface.co/papers/2606.01286": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "BenchEvolver: Frontier Task Synthesis via Solution-Centric Evolution"
+  },
+  "https://huggingface.co/papers/2606.04056": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "Token Budgets: An Empirical Catalog of 63 LLM-Agent Budget-Overrun Incidents"
+  },
+  "https://github.com/mvanhorn/last30days-skill": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "mvanhorn/last30days-skill"
+  },
+  "https://openai.com/index/endava-frontiers": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "How Endava is redesigning software delivery around AI agents"
+  },
+  "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "OpenAI frontier models and Codex are now available on AWS"
+  },
+  "https://huggingface.co/papers/2606.03197": {
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "days": 1,
+    "title": "MemTrain: Self-Supervised Context Memory Training"
   }
 }

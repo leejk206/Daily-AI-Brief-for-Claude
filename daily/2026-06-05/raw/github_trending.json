@@ -1,0 +1,174 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-06-05T04:06:28+09:00",
+  "items": [
+    {
+      "id": "github:chopratejas/headroom",
+      "title": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "signals": {
+        "stars": 12095,
+        "stars_today": 3139,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "signals": {
+        "stars": 180699,
+        "stars_today": 1951,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "signals": {
+        "stars": 206988,
+        "stars_today": 1736,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:PaddlePaddle/PaddleOCR",
+      "title": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "signals": {
+        "stars": 79751,
+        "stars_today": 105,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:github/spec-kit",
+      "title": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "signals": {
+        "stars": 108462,
+        "stars_today": 311,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:NVIDIA/cosmos",
+      "title": "NVIDIA/cosmos",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "signals": {
+        "stars": 8902,
+        "stars_today": 244,
+        "language": "Jupyter Notebook"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:lfnovo/open-notebook",
+      "title": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "signals": {
+        "stars": 24806,
+        "stars_today": 482,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Open-LLM-VTuber/Open-LLM-VTuber",
+      "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "signals": {
+        "stars": 9499,
+        "stars_today": 583,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:jwasham/coding-interview-university",
+      "title": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "signals": {
+        "stars": 349619,
+        "stars_today": 740,
+        "language": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:github/copilot-sdk",
+      "title": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "signals": {
+        "stars": 8899,
+        "stars_today": 107,
+        "language": "Java"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:aquasecurity/trivy",
+      "title": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "signals": {
+        "stars": 35627,
+        "stars_today": 255,
+        "language": "Go"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:openclaw/openclaw-windows-node",
+      "title": "openclaw/openclaw-windows-node",
+      "url": "https://github.com/openclaw/openclaw-windows-node",
+      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+      "signals": {
+        "stars": 1260,
+        "stars_today": 358,
+        "language": "C#"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:reconurge/flowsint",
+      "title": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "signals": {
+        "stars": 5206,
+        "stars_today": 308,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:mvanhorn/last30days-skill",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "signals": {
+        "stars": 27457,
+        "stars_today": 173,
+        "language": "Python"
+      },
+      "category_hint": null
+    }
+  ]
+}

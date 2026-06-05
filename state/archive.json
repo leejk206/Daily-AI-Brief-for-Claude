@@ -974,5 +974,25 @@
   "https://openai.com/index/chatgpt-memory-dreaming": {
     "archived_on": "2026-06-05",
     "title": "Dreaming: Better memory for a more helpful ChatGPT"
+  },
+  "https://github.com/anthropics/defending-code-reference-harness": {
+    "archived_on": "2026-06-06",
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery"
+  },
+  "https://github.com/alibaba/open-code-review": {
+    "archived_on": "2026-06-06",
+    "title": "Open Code Review – An AI-powered code review CLI tool"
+  },
+  "https://huggingface.co/papers/2606.04743": {
+    "archived_on": "2026-06-06",
+    "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration"
+  },
+  "https://huggingface.co/papers/2606.05622": {
+    "archived_on": "2026-06-06",
+    "title": "AdaPlanBench: Evaluating Adaptive Planning in LLM Agents"
+  },
+  "https://huggingface.co/papers/2606.04465": {
+    "archived_on": "2026-06-06",
+    "title": "SePO: Self-Evolving Prompt Agent for System Prompt Optimization"
   }
 }

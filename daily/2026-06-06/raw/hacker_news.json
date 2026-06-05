@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-06T02:15:24+09:00",
+  "items": [
+    {
+      "id": "hn:48409191",
+      "title": "Changing how we develop Ladybird",
+      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "description": "",
+      "signals": {
+        "points": 701,
+        "num_comments": 462,
+        "discussion_url": "https://news.ycombinator.com/item?id=48409191"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48403980",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "description": "",
+      "signals": {
+        "points": 497,
+        "num_comments": 140,
+        "discussion_url": "https://news.ycombinator.com/item?id=48403980"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48408016",
+      "title": "C++: The Documentary",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "description": "",
+      "signals": {
+        "points": 299,
+        "num_comments": 213,
+        "discussion_url": "https://news.ycombinator.com/item?id=48408016"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48409664",
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "url": "https://arxiv.org/abs/2606.03673",
+      "description": "",
+      "signals": {
+        "points": 288,
+        "num_comments": 133,
+        "discussion_url": "https://news.ycombinator.com/item?id=48409664"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48406640",
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "url": "https://fb.watch/HxPu0fSyeH/",
+      "description": "",
+      "signals": {
+        "points": 282,
+        "num_comments": 109,
+        "discussion_url": "https://news.ycombinator.com/item?id=48406640"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48376008",
+      "title": "I'm skeptical about efforts to revolutionize schooling",
+      "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
+      "description": "",
+      "signals": {
+        "points": 279,
+        "num_comments": 452,
+        "discussion_url": "https://news.ycombinator.com/item?id=48376008"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48383667",
+      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "url": "https://mouseless.click",
+      "description": "",
+      "signals": {
+        "points": 278,
+        "num_comments": 139,
+        "discussion_url": "https://news.ycombinator.com/item?id=48383667"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48406358",
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "",
+      "signals": {
+        "points": 243,
+        "num_comments": 67,
+        "discussion_url": "https://news.ycombinator.com/item?id=48406358"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48405931",
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "url": "https://arxiv.org/abs/2606.04032",
+      "description": "",
+      "signals": {
+        "points": 202,
+        "num_comments": 39,
+        "discussion_url": "https://news.ycombinator.com/item?id=48405931"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48413464",
+      "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "description": "",
+      "signals": {
+        "points": 179,
+        "num_comments": 114,
+        "discussion_url": "https://news.ycombinator.com/item?id=48413464"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48408442",
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "description": "",
+      "signals": {
+        "points": 161,
+        "num_comments": 56,
+        "discussion_url": "https://news.ycombinator.com/item?id=48408442"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48407499",
+      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+      "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+      "description": "",
+      "signals": {
+        "points": 157,
+        "num_comments": 129,
+        "discussion_url": "https://news.ycombinator.com/item?id=48407499"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48382047",
+      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+      "url": "https://redis.io/blog/announcing-redis-8-8/",
+      "description": "",
+      "signals": {
+        "points": 152,
+        "num_comments": 70,
+        "discussion_url": "https://news.ycombinator.com/item?id=48382047"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48409306",
+      "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
+      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "description": "",
+      "signals": {
+        "points": 132,
+        "num_comments": 40,
+        "discussion_url": "https://news.ycombinator.com/item?id=48409306"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48409675",
+      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+      "description": "",
+      "signals": {
+        "points": 126,
+        "num_comments": 118,
+        "discussion_url": "https://news.ycombinator.com/item?id=48409675"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48409173",
+      "title": "Lee Kuan Yew's Singapore Story (2023)",
+      "url": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
+      "description": "",
+      "signals": {
+        "points": 121,
+        "num_comments": 115,
+        "discussion_url": "https://news.ycombinator.com/item?id=48409173"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48414027",
+      "title": "Stop Using Conventional Commits",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "description": "",
+      "signals": {
+        "points": 108,
+        "num_comments": 77,
+        "discussion_url": "https://news.ycombinator.com/item?id=48414027"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48413295",
+      "title": "Dutch gov't will only allow European company to operate DigiD platform",
+      "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+      "description": "",
+      "signals": {
+        "points": 103,
+        "num_comments": 36,
+        "discussion_url": "https://news.ycombinator.com/item?id=48413295"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48402116",
+      "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
+      "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
+      "description": "",
+      "signals": {
+        "points": 101,
+        "num_comments": 22,
+        "discussion_url": "https://news.ycombinator.com/item?id=48402116"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48377510",
+      "title": "databow: a Rust CLI to query any database with an ADBC driver",
+      "url": "https://columnar.tech/blog/introducing-databow//",
+      "description": "",
+      "signals": {
+        "points": 101,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48377510"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48414367",
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "description": "",
+      "signals": {
+        "points": 93,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=48414367"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48380174",
+      "title": "Cooldown Support for Ruby Bundler",
+      "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+      "description": "",
+      "signals": {
+        "points": 91,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48380174"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48413072",
+      "title": "I tested every IP KVM in my Homelab",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "description": "",
+      "signals": {
+        "points": 88,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48413072"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48414479",
+      "title": "U.S. Military Turned GPS into a Global \"Numbers Station\"",
+      "url": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/",
+      "description": "",
+      "signals": {
+        "points": 39,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48414479"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48379232",
+      "title": "At the Autograph Show",
+      "url": "https://oldster.substack.com/p/at-the-autograph-show",
+      "description": "",
+      "signals": {
+        "points": 32,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48379232"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48413500",
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48413500"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47320921",
+      "title": "Making your JITted Code known: Let me count the ways",
+      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47320921"
+      },
+      "category_hint": null
+    }
+  ]
+}

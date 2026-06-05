@@ -1,0 +1,21 @@
+[
+  {"url": "https://github.com/anthropics/defending-code-reference-harness", "title": "Anthropic's open-source framework for AI-powered vulnerability discovery"},
+  {"url": "https://github.com/alibaba/open-code-review", "title": "Open Code Review – An AI-powered code review CLI tool"},
+  {"url": "https://huggingface.co/papers/2606.04743", "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration"},
+  {"url": "https://huggingface.co/papers/2606.05622", "title": "AdaPlanBench: Evaluating Adaptive Planning in LLM Agents"},
+  {"url": "https://huggingface.co/papers/2606.04465", "title": "SePO: Self-Evolving Prompt Agent for System Prompt Optimization"},
+  {"url": "https://github.com/CopilotKit/CopilotKit", "title": "CopilotKit/CopilotKit"},
+  {"url": "https://huggingface.co/papers/2606.04703", "title": "Rethinking Continual Experience Internalization for Self-Evolving LLM Agents"},
+  {"url": "https://huggingface.co/papers/2606.06416", "title": "Unsupervised Skill Discovery for Agentic Data Analysis"},
+  {"url": "https://huggingface.co/papers/2606.03841", "title": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management"},
+  {"url": "https://huggingface.co/papers/2606.01317", "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces"},
+  {"url": "https://huggingface.co/papers/2606.06462", "title": "Benchmark Everything Everywhere All at Once"},
+  {"url": "https://huggingface.co/papers/2606.00644", "title": "ForeSci: Evaluating LLM Agents for Forward-Looking AI Research Judgment"},
+  {"url": "https://huggingface.co/papers/2606.06492", "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution"},
+  {"url": "https://github.com/openai/plugins", "title": "openai/plugins"},
+  {"url": "https://openai.com/index/codex-for-every-role-tool-workflow", "title": "Codex for every role, tool, and workflow"},
+  {"url": "https://openai.com/index/codex-for-knowledge-work", "title": "Codex is becoming a productivity tool for everyone"},
+  {"url": "https://github.com/mvanhorn/last30days-skill", "title": "mvanhorn/last30days-skill"},
+  {"url": "https://openai.com/index/endava-frontiers", "title": "How Endava is redesigning software delivery around AI agents"},
+  {"url": "https://huggingface.co/papers/2606.03092", "title": "The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs"}
+]

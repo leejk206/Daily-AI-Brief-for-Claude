@@ -6578,7 +6578,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-06-03T05:54:45+09:00"
+      "tagged_at": "2026-06-06T02:18:56+09:00"
     },
     "https://openai.com/index/codex-for-knowledge-work": {
       "title": "Codex is becoming a productivity tool for everyone",
@@ -6589,7 +6589,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-06-03T05:54:45+09:00"
+      "tagged_at": "2026-06-06T02:18:56+09:00"
     },
     "https://github.com/features/preview/github-app": {
       "title": "GitHub Copilot App",
@@ -6998,7 +6998,7 @@
         "agent-skill",
         "claude-code"
       ],
-      "tagged_at": "2026-06-05T04:09:53+09:00"
+      "tagged_at": "2026-06-06T02:18:56+09:00"
     },
     "https://openai.com/index/endava-frontiers": {
       "title": "How Endava is redesigning software delivery around AI agents",
@@ -7009,7 +7009,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-06-05T04:09:53+09:00"
+      "tagged_at": "2026-06-06T02:18:56+09:00"
     },
     "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": {
       "title": "OpenAI frontier models and Codex are now available on AWS",
@@ -7034,6 +7034,185 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-06-05T04:09:53+09:00"
+    },
+    "https://github.com/anthropics/defending-code-reference-harness": {
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "summary": "오픈소스로 공개된 AI 자동 취약점 탐지 하네스, HN 화제",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "agent-harness",
+        "security"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
+    },
+    "https://github.com/alibaba/open-code-review": {
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "summary": "알리바바가 공개한 AI 코드리뷰 CLI 도구",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
+    },
+    "https://huggingface.co/papers/2606.04743": {
+      "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration",
+      "summary": "사용자가 놓친 문제까지 능동 발굴하는 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
+    },
+    "https://huggingface.co/papers/2606.05622": {
+      "title": "AdaPlanBench: Evaluating Adaptive Planning in LLM Agents",
+      "summary": "점진적으로 드러나는 제약 하 적응형 플래닝 평가 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
+    },
+    "https://huggingface.co/papers/2606.04465": {
+      "title": "SePO: Self-Evolving Prompt Agent for System Prompt Optimization",
+      "summary": "에이전트 시스템 프롬프트를 스스로 진화시키는 기법",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
+    },
+    "https://github.com/CopilotKit/CopilotKit": {
+      "title": "CopilotKit/CopilotKit",
+      "summary": "에이전트용 프런트엔드 스택·AG-UI 프로토콜 제작사",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "frontend",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
+    },
+    "https://huggingface.co/papers/2606.04703": {
+      "title": "Rethinking Continual Experience Internalization for Self-Evolving LLM Agents",
+      "summary": "자기진화 에이전트의 경험 내재화 방식 재검토",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
+    },
+    "https://huggingface.co/papers/2606.06416": {
+      "title": "Unsupervised Skill Discovery for Agentic Data Analysis",
+      "summary": "데이터분석 에이전트용 비지도 스킬 발굴",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
+    },
+    "https://huggingface.co/papers/2606.03841": {
+      "title": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management",
+      "summary": "스킬학습·컨텍스트관리 갖춘 자기진화 데이터사이언스 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
+    },
+    "https://huggingface.co/papers/2606.01317": {
+      "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces",
+      "summary": "상태유지 워크스페이스에서 코딩 에이전트 운영 안전성 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "agent-harness",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
+    },
+    "https://huggingface.co/papers/2606.06462": {
+      "title": "Benchmark Everything Everywhere All at Once",
+      "summary": "벤치마크 자동 생성·재사용 프레임워크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
+    },
+    "https://huggingface.co/papers/2606.00644": {
+      "title": "ForeSci: Evaluating LLM Agents for Forward-Looking AI Research Judgment",
+      "summary": "미래지향적 연구 판단 능력 평가 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "auto-research",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
+    },
+    "https://huggingface.co/papers/2606.06492": {
+      "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+      "summary": "소프트웨어 변화에 적응하는 코드 모델용 하이퍼네트워크 어댑터",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
+    },
+    "https://github.com/openai/plugins": {
+      "title": "openai/plugins",
+      "summary": "OpenAI Codex 플러그인 모음",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
+    },
+    "https://huggingface.co/papers/2606.03092": {
+      "title": "The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs",
+      "summary": "경제학 관점의 추론 토큰 예산 최적 배분",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-06",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-06-06T02:18:56+09:00"
     }
   }
 }

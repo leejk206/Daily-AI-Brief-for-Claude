@@ -1,10 +1,4 @@
 {
-  "https://github.com/Lum1104/Understand-Anything": {
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-05-29",
-    "days": 2,
-    "title": "Lum1104/Understand-Anything"
-  },
   "https://github.com/Leonxlnx/taste-skill": {
     "first_seen": "2026-05-28",
     "last_seen": "2026-05-30",
@@ -23,12 +17,6 @@
     "days": 2,
     "title": "Warp's big bet on building open source with GPT-5.5"
   },
-  "https://www.anthropic.com/news/claude-opus-4-8": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
-    "title": "Claude Opus 4.8"
-  },
   "https://huggingface.co/papers/2605.29801": {
     "first_seen": "2026-05-29",
     "last_seen": "2026-05-31",
@@ -40,18 +28,6 @@
     "last_seen": "2026-05-31",
     "days": 3,
     "title": "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources"
-  },
-  "https://minimaxir.com/2026/05/openrouter-hy3/": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
-    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings"
-  },
-  "https://github.com/revfactory/harness": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
-    "title": "revfactory/harness"
   },
   "https://huggingface.co/papers/2605.28424": {
     "first_seen": "2026-05-29",
@@ -71,35 +47,11 @@
     "days": 4,
     "title": "Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation"
   },
-  "https://huggingface.co/papers/2605.28617": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
-    "title": "LACUNA: Safe Agents as Recursive Program Holes"
-  },
-  "https://huggingface.co/papers/2605.29888": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
-    "title": "LaRA: Layer-wise Representation Analysis for Detecting Data Contamination in RL Post-Training"
-  },
-  "https://huggingface.co/papers/2605.27995": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
-    "title": "AsyncTool: Evaluating the Asynchronous Function Calling Capability under Multi-Task Scenarios"
-  },
   "https://huggingface.co/papers/2605.26029": {
     "first_seen": "2026-05-31",
     "last_seen": "2026-06-01",
     "days": 2,
     "title": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists"
-  },
-  "https://buildingbetter.tech/p/i-read-the-claude-code-source-code": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
-    "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You"
   },
   "https://github.com/EveryInc/compound-engineering-plugin": {
     "first_seen": "2026-05-29",
@@ -107,41 +59,17 @@
     "days": 5,
     "title": "EveryInc/compound-engineering-plugin"
   },
-  "https://huggingface.co/papers/2605.29559": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
-    "title": "LiteCoder-Terminal: Scaling Long-Horizon Terminal Environments for Learning Language Agents"
-  },
   "https://openai.com/index/endava": {
     "first_seen": "2026-05-31",
     "last_seen": "2026-06-01",
     "days": 2,
     "title": "How Endava builds an agentic organization with Codex"
   },
-  "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
-    "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output"
-  },
-  "https://huggingface.co/papers/2605.30219": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
-    "title": "When Should Models Change Their Minds? Contextual Belief Management in Large Language Models"
-  },
   "https://huggingface.co/papers/2605.26578": {
     "first_seen": "2026-05-31",
     "last_seen": "2026-06-01",
     "days": 2,
     "title": "Is Position Bias in Dense Retrievers Built In—or Learned from Data?"
-  },
-  "https://shvbsle.in/various-llm-smells/": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "days": 1,
-    "title": "Various LLM Smells"
   },
   "https://www.quandri.io/engineering-blog/mcp-is-dead": {
     "first_seen": "2026-05-30",
@@ -438,14 +366,14 @@
     "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews"
   },
   "https://openai.com/index/codex-for-every-role-tool-workflow": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
     "days": 1,
     "title": "Codex for every role, tool, and workflow"
   },
   "https://openai.com/index/codex-for-knowledge-work": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
     "days": 1,
     "title": "Codex is becoming a productivity tool for everyone"
   },
@@ -649,14 +577,14 @@
   },
   "https://github.com/mvanhorn/last30days-skill": {
     "first_seen": "2026-06-05",
-    "last_seen": "2026-06-05",
-    "days": 1,
+    "last_seen": "2026-06-06",
+    "days": 2,
     "title": "mvanhorn/last30days-skill"
   },
   "https://openai.com/index/endava-frontiers": {
     "first_seen": "2026-06-05",
-    "last_seen": "2026-06-05",
-    "days": 1,
+    "last_seen": "2026-06-06",
+    "days": 2,
     "title": "How Endava is redesigning software delivery around AI agents"
   },
   "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": {
@@ -670,5 +598,95 @@
     "last_seen": "2026-06-05",
     "days": 1,
     "title": "MemTrain: Self-Supervised Context Memory Training"
+  },
+  "https://github.com/anthropics/defending-code-reference-harness": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery"
+  },
+  "https://github.com/alibaba/open-code-review": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "Open Code Review – An AI-powered code review CLI tool"
+  },
+  "https://huggingface.co/papers/2606.04743": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration"
+  },
+  "https://huggingface.co/papers/2606.05622": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "AdaPlanBench: Evaluating Adaptive Planning in LLM Agents"
+  },
+  "https://huggingface.co/papers/2606.04465": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "SePO: Self-Evolving Prompt Agent for System Prompt Optimization"
+  },
+  "https://github.com/CopilotKit/CopilotKit": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "CopilotKit/CopilotKit"
+  },
+  "https://huggingface.co/papers/2606.04703": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "Rethinking Continual Experience Internalization for Self-Evolving LLM Agents"
+  },
+  "https://huggingface.co/papers/2606.06416": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "Unsupervised Skill Discovery for Agentic Data Analysis"
+  },
+  "https://huggingface.co/papers/2606.03841": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management"
+  },
+  "https://huggingface.co/papers/2606.01317": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces"
+  },
+  "https://huggingface.co/papers/2606.06462": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "Benchmark Everything Everywhere All at Once"
+  },
+  "https://huggingface.co/papers/2606.00644": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "ForeSci: Evaluating LLM Agents for Forward-Looking AI Research Judgment"
+  },
+  "https://huggingface.co/papers/2606.06492": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution"
+  },
+  "https://github.com/openai/plugins": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "openai/plugins"
+  },
+  "https://huggingface.co/papers/2606.03092": {
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "days": 1,
+    "title": "The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs"
   }
 }

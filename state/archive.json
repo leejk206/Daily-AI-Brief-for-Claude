@@ -994,5 +994,25 @@
   "https://huggingface.co/papers/2606.04465": {
     "archived_on": "2026-06-06",
     "title": "SePO: Self-Evolving Prompt Agent for System Prompt Optimization"
+  },
+  "https://openai.com/index/harness-engineering/": {
+    "archived_on": "2026-06-07",
+    "title": "Harness engineering: Leveraging Codex in an agent-first world"
+  },
+  "https://github.com/danielmiessler/Personal_AI_Infrastructure": {
+    "archived_on": "2026-06-07",
+    "title": "danielmiessler/Personal_AI_Infrastructure"
+  },
+  "https://github.com/Panniantong/Agent-Reach": {
+    "archived_on": "2026-06-07",
+    "title": "Panniantong/Agent-Reach"
+  },
+  "https://github.com/santifer/career-ops": {
+    "archived_on": "2026-06-07",
+    "title": "santifer/career-ops"
+  },
+  "https://huggingface.co/papers/2606.06462": {
+    "archived_on": "2026-06-07",
+    "title": "Benchmark Everything Everywhere All at Once"
   }
 }

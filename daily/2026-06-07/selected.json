@@ -1,0 +1,19 @@
+[
+  {"url": "https://openai.com/index/harness-engineering/", "title": "Harness engineering: Leveraging Codex in an agent-first world"},
+  {"url": "https://github.com/danielmiessler/Personal_AI_Infrastructure", "title": "danielmiessler/Personal_AI_Infrastructure"},
+  {"url": "https://github.com/Panniantong/Agent-Reach", "title": "Panniantong/Agent-Reach"},
+  {"url": "https://github.com/santifer/career-ops", "title": "santifer/career-ops"},
+  {"url": "https://huggingface.co/papers/2606.06462", "title": "Benchmark Everything Everywhere All at Once"},
+  {"url": "https://github.com/CopilotKit/CopilotKit", "title": "CopilotKit/CopilotKit"},
+  {"url": "https://huggingface.co/papers/2605.30159", "title": "Meta-Cognitive Memory Policy Optimization for Long-Horizon LLM Agents"},
+  {"url": "https://huggingface.co/papers/2606.05557", "title": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents"},
+  {"url": "https://huggingface.co/papers/2606.03841", "title": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management"},
+  {"url": "https://huggingface.co/papers/2606.01317", "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces"},
+  {"url": "https://huggingface.co/papers/2606.00644", "title": "ForeSci: Evaluating LLM Agents for Forward-Looking AI Research Judgment"},
+  {"url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking", "title": "JetBrains/Mellum2-12B-A2.5B-Thinking"},
+  {"url": "https://openai.com/index/codex-for-every-role-tool-workflow", "title": "Codex for every role, tool, and workflow"},
+  {"url": "https://huggingface.co/papers/2606.06492", "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution"},
+  {"url": "https://huggingface.co/papers/2606.03092", "title": "The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs"},
+  {"url": "https://github.com/mvanhorn/last30days-skill", "title": "mvanhorn/last30days-skill"},
+  {"url": "https://openai.com/index/endava-frontiers", "title": "How Endava is redesigning software delivery around AI agents"}
+]

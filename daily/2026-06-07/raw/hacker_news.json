@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-07T09:53:07+09:00",
+  "items": [
+    {
+      "id": "hn:48421442",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "description": "",
+      "signals": {
+        "points": 1357,
+        "num_comments": 467,
+        "discussion_url": "https://news.ycombinator.com/item?id=48421442"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48406174",
+      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+      "url": "https://news.ycombinator.com/item?id=48406174",
+      "description": "",
+      "signals": {
+        "points": 538,
+        "num_comments": 939,
+        "discussion_url": "https://news.ycombinator.com/item?id=48406174"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48427523",
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "description": "",
+      "signals": {
+        "points": 387,
+        "num_comments": 285,
+        "discussion_url": "https://news.ycombinator.com/item?id=48427523"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48427643",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "description": "",
+      "signals": {
+        "points": 380,
+        "num_comments": 141,
+        "discussion_url": "https://news.ycombinator.com/item?id=48427643"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48420827",
+      "title": "Ask HN: Why is the HN crowd so anti-AI?",
+      "url": "https://news.ycombinator.com/item?id=48420827",
+      "description": "",
+      "signals": {
+        "points": 378,
+        "num_comments": 637,
+        "discussion_url": "https://news.ycombinator.com/item?id=48420827"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48423762",
+      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "url": "https://pokeemerald.com/",
+      "description": "",
+      "signals": {
+        "points": 269,
+        "num_comments": 76,
+        "discussion_url": "https://news.ycombinator.com/item?id=48423762"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48428025",
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "description": "",
+      "signals": {
+        "points": 244,
+        "num_comments": 59,
+        "discussion_url": "https://news.ycombinator.com/item?id=48428025"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48425528",
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "description": "",
+      "signals": {
+        "points": 239,
+        "num_comments": 257,
+        "discussion_url": "https://news.ycombinator.com/item?id=48425528"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48424605",
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "url": "https://twitter.com/lemire/status/2062880075117113739",
+      "description": "",
+      "signals": {
+        "points": 222,
+        "num_comments": 420,
+        "discussion_url": "https://news.ycombinator.com/item?id=48424605"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48425723",
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "description": "",
+      "signals": {
+        "points": 183,
+        "num_comments": 45,
+        "discussion_url": "https://news.ycombinator.com/item?id=48425723"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48428763",
+      "title": "New U.S. college grads now have higher unemployment than the average worker",
+      "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+      "description": "",
+      "signals": {
+        "points": 142,
+        "num_comments": 138,
+        "discussion_url": "https://news.ycombinator.com/item?id=48428763"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48417490",
+      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+      "description": "",
+      "signals": {
+        "points": 129,
+        "num_comments": 710,
+        "discussion_url": "https://news.ycombinator.com/item?id=48417490"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48425247",
+      "title": "Benchmarks in Leipzig",
+      "url": "https://arxiv.org/abs/2606.05818",
+      "description": "",
+      "signals": {
+        "points": 122,
+        "num_comments": 44,
+        "discussion_url": "https://news.ycombinator.com/item?id=48425247"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48372138",
+      "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
+      "url": "https://uonr.github.io/poincake/",
+      "description": "",
+      "signals": {
+        "points": 116,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48372138"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48428356",
+      "title": "Home alone: Remote work, isolation, and mental health",
+      "url": "https://www.science.org/doi/10.1126/science.aec7671",
+      "description": "",
+      "signals": {
+        "points": 112,
+        "num_comments": 110,
+        "discussion_url": "https://news.ycombinator.com/item?id=48428356"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48426202",
+      "title": "You Can Run",
+      "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+      "description": "",
+      "signals": {
+        "points": 95,
+        "num_comments": 47,
+        "discussion_url": "https://news.ycombinator.com/item?id=48426202"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48348876",
+      "title": "Building Rust Procedural Macros from the Grounds Up",
+      "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+      "description": "",
+      "signals": {
+        "points": 82,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48348876"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48425347",
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+      "description": "",
+      "signals": {
+        "points": 75,
+        "num_comments": 22,
+        "discussion_url": "https://news.ycombinator.com/item?id=48425347"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48424125",
+      "title": "The new bibliomaniacs",
+      "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
+      "description": "",
+      "signals": {
+        "points": 64,
+        "num_comments": 51,
+        "discussion_url": "https://news.ycombinator.com/item?id=48424125"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48395370",
+      "title": "WoofWare.PawPrint, a Deterministic .NET Runtime",
+      "url": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
+      "description": "",
+      "signals": {
+        "points": 50,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48395370"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48425611",
+      "title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
+      "url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
+      "description": "",
+      "signals": {
+        "points": 49,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48425611"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48428475",
+      "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+      "url": "https://ataraxy-labs.github.io/sem/",
+      "description": "",
+      "signals": {
+        "points": 43,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48428475"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48428647",
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+      "description": "",
+      "signals": {
+        "points": 22,
+        "num_comments": 22,
+        "discussion_url": "https://news.ycombinator.com/item?id=48428647"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48416264",
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "url": "https://openai.com/index/harness-engineering/",
+      "description": "",
+      "signals": {
+        "points": 22,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48416264"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48375776",
+      "title": "Static Devirtualization of Themida",
+      "url": "https://back.engineering/blog/09/05/2026/",
+      "description": "",
+      "signals": {
+        "points": 20,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48375776"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48358339",
+      "title": "PyTorch Custom Operation",
+      "url": "https://leimao.github.io/blog/PyTorch-Custom-Operation/",
+      "description": "",
+      "signals": {
+        "points": 16,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48358339"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48430077",
+      "title": "Show HN: Ironwall, a safety-first native programming language and compiler",
+      "url": "https://news.ycombinator.com/item?id=48430077",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48430077"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48406729",
+      "title": "Unicode Fonts and Tools for X11",
+      "url": "https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48406729"
+      },
+      "category_hint": null
+    }
+  ]
+}

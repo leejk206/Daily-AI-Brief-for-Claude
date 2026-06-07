@@ -3015,9 +3015,11 @@
       "source": "github_trending",
       "brief_date": "2026-05-14",
       "tags": [
-        "agent-skill"
+        "agent-skill",
+        "backend",
+        "multi-agent"
       ],
-      "tagged_at": "2026-05-14T13:40:42+09:00"
+      "tagged_at": "2026-06-07T09:58:24+09:00"
     },
     "https://huggingface.co/papers/2605.13037": {
       "title": "MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning",
@@ -6576,9 +6578,10 @@
       "source": "release_blogs",
       "brief_date": "2026-06-03",
       "tags": [
-        "coding-platform"
+        "coding-platform",
+        "tool-use"
       ],
-      "tagged_at": "2026-06-06T02:18:56+09:00"
+      "tagged_at": "2026-06-07T09:58:24+09:00"
     },
     "https://openai.com/index/codex-for-knowledge-work": {
       "title": "Codex is becoming a productivity tool for everyone",
@@ -6792,7 +6795,7 @@
         "coding-platform",
         "local-inference"
       ],
-      "tagged_at": "2026-06-04T08:18:22+09:00"
+      "tagged_at": "2026-06-07T09:58:24+09:00"
     },
     "https://github.com/supermemoryai/supermemory": {
       "title": "supermemoryai/supermemory",
@@ -6996,9 +6999,10 @@
       "brief_date": "2026-06-05",
       "tags": [
         "agent-skill",
-        "claude-code"
+        "claude-code",
+        "web-agent"
       ],
-      "tagged_at": "2026-06-06T02:18:56+09:00"
+      "tagged_at": "2026-06-07T09:58:24+09:00"
     },
     "https://openai.com/index/endava-frontiers": {
       "title": "How Endava is redesigning software delivery around AI agents",
@@ -7007,9 +7011,10 @@
       "source": "openai",
       "brief_date": "2026-06-05",
       "tags": [
-        "coding-platform"
+        "coding-platform",
+        "multi-agent"
       ],
-      "tagged_at": "2026-06-06T02:18:56+09:00"
+      "tagged_at": "2026-06-07T09:58:24+09:00"
     },
     "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": {
       "title": "OpenAI frontier models and Codex are now available on AWS",
@@ -7103,9 +7108,10 @@
       "brief_date": "2026-06-06",
       "tags": [
         "frontend",
+        "multi-agent",
         "tool-use"
       ],
-      "tagged_at": "2026-06-06T02:18:56+09:00"
+      "tagged_at": "2026-06-07T09:58:24+09:00"
     },
     "https://huggingface.co/papers/2606.04703": {
       "title": "Rethinking Continual Experience Internalization for Self-Evolving LLM Agents",
@@ -7139,9 +7145,10 @@
       "brief_date": "2026-06-06",
       "tags": [
         "agent-skill",
+        "auto-research",
         "paper"
       ],
-      "tagged_at": "2026-06-06T02:18:56+09:00"
+      "tagged_at": "2026-06-07T09:58:24+09:00"
     },
     "https://huggingface.co/papers/2606.01317": {
       "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces",
@@ -7152,9 +7159,10 @@
       "tags": [
         "agent-harness",
         "benchmark",
-        "paper"
+        "paper",
+        "security"
       ],
-      "tagged_at": "2026-06-06T02:18:56+09:00"
+      "tagged_at": "2026-06-07T09:58:24+09:00"
     },
     "https://huggingface.co/papers/2606.06462": {
       "title": "Benchmark Everything Everywhere All at Once",
@@ -7166,7 +7174,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-06-06T02:18:56+09:00"
+      "tagged_at": "2026-06-07T09:58:24+09:00"
     },
     "https://huggingface.co/papers/2606.00644": {
       "title": "ForeSci: Evaluating LLM Agents for Forward-Looking AI Research Judgment",
@@ -7179,7 +7187,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-06-06T02:18:56+09:00"
+      "tagged_at": "2026-06-07T09:58:24+09:00"
     },
     "https://huggingface.co/papers/2606.06492": {
       "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
@@ -7188,9 +7196,11 @@
       "source": "huggingface",
       "brief_date": "2026-06-06",
       "tags": [
+        "agent-skill",
+        "coding-platform",
         "paper"
       ],
-      "tagged_at": "2026-06-06T02:18:56+09:00"
+      "tagged_at": "2026-06-07T09:58:24+09:00"
     },
     "https://github.com/openai/plugins": {
       "title": "openai/plugins",
@@ -7210,9 +7220,76 @@
       "source": "huggingface",
       "brief_date": "2026-06-06",
       "tags": [
+        "long-context",
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-07T09:58:24+09:00"
+    },
+    "https://openai.com/index/harness-engineering/": {
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "summary": "OpenAI가 에이전트 우선 세계에서 Codex 활용 하네스 엔지니어링 철학 공개",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-07",
+      "tags": [
+        "agent-harness",
+        "coding-platform",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-07T09:58:24+09:00"
+    },
+    "https://github.com/Panniantong/Agent-Reach": {
+      "title": "Panniantong/Agent-Reach",
+      "summary": "Twitter·Reddit·유튜브 등 인터넷 전반을 탐색하는 에이전트 눈을 제공하는 도구",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-06-07",
+      "tags": [
+        "multi-agent",
+        "tool-use",
+        "web-agent"
+      ],
+      "tagged_at": "2026-06-07T09:58:24+09:00"
+    },
+    "https://github.com/santifer/career-ops": {
+      "title": "santifer/career-ops",
+      "summary": "Claude Code 기반 14가지 스킬 모드의 AI 구직 자동화 플랫폼",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-06-07",
+      "tags": [
+        "agent-skill",
+        "claude-code",
+        "cli-agent"
+      ],
+      "tagged_at": "2026-06-07T09:58:24+09:00"
+    },
+    "https://huggingface.co/papers/2605.30159": {
+      "title": "Meta-Cognitive Memory Policy Optimization for Long-Horizon LLM Agents",
+      "summary": "장기 과제를 위한 메타인지 메모리 정책 최적화 연구",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-07",
+      "tags": [
+        "agent-memory",
+        "long-context",
         "paper"
       ],
-      "tagged_at": "2026-06-06T02:18:56+09:00"
+      "tagged_at": "2026-06-07T09:58:24+09:00"
+    },
+    "https://huggingface.co/papers/2606.05557": {
+      "title": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents",
+      "summary": "상황 맥락에서 에이전트의 암묵적 사용자 의도를 탐지하는 기법",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-07",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-07T09:58:24+09:00"
     }
   }
 }

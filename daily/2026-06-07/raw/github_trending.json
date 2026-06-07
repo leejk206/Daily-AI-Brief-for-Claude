@@ -1,0 +1,222 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-06-07T09:53:06+09:00",
+  "items": [
+    {
+      "id": "github:mvanhorn/last30days-skill",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "signals": {
+        "stars": 28806,
+        "stars_today": 439,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:CopilotKit/CopilotKit",
+      "title": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "signals": {
+        "stars": 33210,
+        "stars_today": 631,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:MemPalace/mempalace",
+      "title": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "signals": {
+        "stars": 54284,
+        "stars_today": 446,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:danielmiessler/Personal_AI_Infrastructure",
+      "title": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "signals": {
+        "stars": 14959,
+        "stars_today": 70,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:openai/plugins",
+      "title": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "signals": {
+        "stars": 1773,
+        "stars_today": 213,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Panniantong/Agent-Reach",
+      "title": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "signals": {
+        "stars": 22326,
+        "stars_today": 683,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:sveltejs/svelte",
+      "title": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "signals": {
+        "stars": 86986,
+        "stars_today": 25,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:nginx/nginx",
+      "title": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "signals": {
+        "stars": 30690,
+        "stars_today": 20,
+        "language": "C"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:aquasecurity/trivy",
+      "title": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "signals": {
+        "stars": 36000,
+        "stars_today": 159,
+        "language": "Go"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:golang/go",
+      "title": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "signals": {
+        "stars": 134507,
+        "stars_today": 30,
+        "language": "Go"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:lfnovo/open-notebook",
+      "title": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "signals": {
+        "stars": 26617,
+        "stars_today": 794,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:obra/superpowers",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "signals": {
+        "stars": 219659,
+        "stars_today": 700,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:santifer/career-ops",
+      "title": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "signals": {
+        "stars": 49354,
+        "stars_today": 193,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:openai/whisper",
+      "title": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "signals": {
+        "stars": 101861,
+        "stars_today": 150,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:vitejs/vite",
+      "title": "vitejs/vite",
+      "url": "https://github.com/vitejs/vite",
+      "description": "Next generation frontend tooling. It's fast!",
+      "signals": {
+        "stars": 81180,
+        "stars_today": 25,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:microsoft/mxc",
+      "title": "microsoft/mxc",
+      "url": "https://github.com/microsoft/mxc",
+      "description": "Policy-driven, layered isolation and containment",
+      "signals": {
+        "stars": 578,
+        "stars_today": 64,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:PaddlePaddle/PaddleOCR",
+      "title": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "signals": {
+        "stars": 80963,
+        "stars_today": 433,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:microsoft/VibeVoice",
+      "title": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "signals": {
+        "stars": 48476,
+        "stars_today": 216,
+        "language": "Python"
+      },
+      "category_hint": null
+    }
+  ]
+}

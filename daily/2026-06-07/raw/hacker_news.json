@@ -1,6 +1,6 @@
 {
   "source": "hacker_news",
-  "fetched_at": "2026-06-07T09:53:07+09:00",
+  "fetched_at": "2026-06-07T10:28:15+09:00",
   "items": [
     {
       "id": "hn:48421442",
@@ -8,8 +8,8 @@
       "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
       "description": "",
       "signals": {
-        "points": 1357,
-        "num_comments": 467,
+        "points": 1365,
+        "num_comments": 472,
         "discussion_url": "https://news.ycombinator.com/item?id=48421442"
       },
       "category_hint": null
@@ -20,21 +20,9 @@
       "url": "https://news.ycombinator.com/item?id=48406174",
       "description": "",
       "signals": {
-        "points": 538,
-        "num_comments": 939,
+        "points": 546,
+        "num_comments": 942,
         "discussion_url": "https://news.ycombinator.com/item?id=48406174"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:48427523",
-      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-      "description": "",
-      "signals": {
-        "points": 387,
-        "num_comments": 285,
-        "discussion_url": "https://news.ycombinator.com/item?id=48427523"
       },
       "category_hint": null
     },
@@ -44,9 +32,21 @@
       "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
       "description": "",
       "signals": {
-        "points": 380,
-        "num_comments": 141,
+        "points": 413,
+        "num_comments": 148,
         "discussion_url": "https://news.ycombinator.com/item?id=48427643"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48427523",
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "description": "",
+      "signals": {
+        "points": 399,
+        "num_comments": 295,
+        "discussion_url": "https://news.ycombinator.com/item?id=48427523"
       },
       "category_hint": null
     },
@@ -56,8 +56,8 @@
       "url": "https://news.ycombinator.com/item?id=48420827",
       "description": "",
       "signals": {
-        "points": 378,
-        "num_comments": 637,
+        "points": 387,
+        "num_comments": 645,
         "discussion_url": "https://news.ycombinator.com/item?id=48420827"
       },
       "category_hint": null
@@ -68,8 +68,8 @@
       "url": "https://pokeemerald.com/",
       "description": "",
       "signals": {
-        "points": 269,
-        "num_comments": 76,
+        "points": 276,
+        "num_comments": 78,
         "discussion_url": "https://news.ycombinator.com/item?id=48423762"
       },
       "category_hint": null
@@ -80,7 +80,7 @@
       "url": "https://ntsc.rs/",
       "description": "",
       "signals": {
-        "points": 244,
+        "points": 259,
         "num_comments": 59,
         "discussion_url": "https://news.ycombinator.com/item?id=48428025"
       },
@@ -92,8 +92,8 @@
       "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
       "description": "",
       "signals": {
-        "points": 239,
-        "num_comments": 257,
+        "points": 249,
+        "num_comments": 258,
         "discussion_url": "https://news.ycombinator.com/item?id=48425528"
       },
       "category_hint": null
@@ -104,8 +104,8 @@
       "url": "https://twitter.com/lemire/status/2062880075117113739",
       "description": "",
       "signals": {
-        "points": 222,
-        "num_comments": 420,
+        "points": 227,
+        "num_comments": 424,
         "discussion_url": "https://news.ycombinator.com/item?id=48424605"
       },
       "category_hint": null
@@ -116,21 +116,9 @@
       "url": "https://su3.io/posts/introducing-zeroserve",
       "description": "",
       "signals": {
-        "points": 183,
-        "num_comments": 45,
+        "points": 191,
+        "num_comments": 47,
         "discussion_url": "https://news.ycombinator.com/item?id=48425723"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:48428763",
-      "title": "New U.S. college grads now have higher unemployment than the average worker",
-      "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
-      "description": "",
-      "signals": {
-        "points": 142,
-        "num_comments": 138,
-        "discussion_url": "https://news.ycombinator.com/item?id=48428763"
       },
       "category_hint": null
     },
@@ -140,8 +128,8 @@
       "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
       "description": "",
       "signals": {
-        "points": 129,
-        "num_comments": 710,
+        "points": 141,
+        "num_comments": 711,
         "discussion_url": "https://news.ycombinator.com/item?id=48417490"
       },
       "category_hint": null
@@ -152,21 +140,9 @@
       "url": "https://arxiv.org/abs/2606.05818",
       "description": "",
       "signals": {
-        "points": 122,
+        "points": 124,
         "num_comments": 44,
         "discussion_url": "https://news.ycombinator.com/item?id=48425247"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:48372138",
-      "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
-      "url": "https://uonr.github.io/poincake/",
-      "description": "",
-      "signals": {
-        "points": 116,
-        "num_comments": 21,
-        "discussion_url": "https://news.ycombinator.com/item?id=48372138"
       },
       "category_hint": null
     },
@@ -176,9 +152,21 @@
       "url": "https://www.science.org/doi/10.1126/science.aec7671",
       "description": "",
       "signals": {
-        "points": 112,
-        "num_comments": 110,
+        "points": 120,
+        "num_comments": 111,
         "discussion_url": "https://news.ycombinator.com/item?id=48428356"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48372138",
+      "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
+      "url": "https://uonr.github.io/poincake/",
+      "description": "",
+      "signals": {
+        "points": 119,
+        "num_comments": 22,
+        "discussion_url": "https://news.ycombinator.com/item?id=48372138"
       },
       "category_hint": null
     },
@@ -188,8 +176,8 @@
       "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
       "description": "",
       "signals": {
-        "points": 95,
-        "num_comments": 47,
+        "points": 99,
+        "num_comments": 50,
         "discussion_url": "https://news.ycombinator.com/item?id=48426202"
       },
       "category_hint": null
@@ -200,8 +188,8 @@
       "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
       "description": "",
       "signals": {
-        "points": 82,
-        "num_comments": 17,
+        "points": 86,
+        "num_comments": 18,
         "discussion_url": "https://news.ycombinator.com/item?id=48348876"
       },
       "category_hint": null
@@ -212,8 +200,8 @@
       "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
       "description": "",
       "signals": {
-        "points": 75,
-        "num_comments": 22,
+        "points": 77,
+        "num_comments": 23,
         "discussion_url": "https://news.ycombinator.com/item?id=48425347"
       },
       "category_hint": null
@@ -224,21 +212,9 @@
       "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
       "description": "",
       "signals": {
-        "points": 64,
-        "num_comments": 51,
+        "points": 65,
+        "num_comments": 55,
         "discussion_url": "https://news.ycombinator.com/item?id=48424125"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:48395370",
-      "title": "WoofWare.PawPrint, a Deterministic .NET Runtime",
-      "url": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
-      "description": "",
-      "signals": {
-        "points": 50,
-        "num_comments": 17,
-        "discussion_url": "https://news.ycombinator.com/item?id=48395370"
       },
       "category_hint": null
     },
@@ -248,8 +224,8 @@
       "url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
       "description": "",
       "signals": {
-        "points": 49,
-        "num_comments": 17,
+        "points": 60,
+        "num_comments": 21,
         "discussion_url": "https://news.ycombinator.com/item?id=48425611"
       },
       "category_hint": null
@@ -260,21 +236,9 @@
       "url": "https://ataraxy-labs.github.io/sem/",
       "description": "",
       "signals": {
-        "points": 43,
-        "num_comments": 17,
-        "discussion_url": "https://news.ycombinator.com/item?id=48428475"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:48428647",
-      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
-      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
-      "description": "",
-      "signals": {
-        "points": 22,
+        "points": 50,
         "num_comments": 22,
-        "discussion_url": "https://news.ycombinator.com/item?id=48428647"
+        "discussion_url": "https://news.ycombinator.com/item?id=48428475"
       },
       "category_hint": null
     },
@@ -284,21 +248,21 @@
       "url": "https://openai.com/index/harness-engineering/",
       "description": "",
       "signals": {
-        "points": 22,
-        "num_comments": 10,
+        "points": 41,
+        "num_comments": 20,
         "discussion_url": "https://news.ycombinator.com/item?id=48416264"
       },
       "category_hint": null
     },
     {
-      "id": "hn:48375776",
-      "title": "Static Devirtualization of Themida",
-      "url": "https://back.engineering/blog/09/05/2026/",
+      "id": "hn:48428647",
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
       "description": "",
       "signals": {
-        "points": 20,
-        "num_comments": 2,
-        "discussion_url": "https://news.ycombinator.com/item?id=48375776"
+        "points": 24,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48428647"
       },
       "category_hint": null
     },
@@ -308,9 +272,21 @@
       "url": "https://leimao.github.io/blog/PyTorch-Custom-Operation/",
       "description": "",
       "signals": {
-        "points": 16,
-        "num_comments": 3,
+        "points": 19,
+        "num_comments": 4,
         "discussion_url": "https://news.ycombinator.com/item?id=48358339"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48405815",
+      "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
+      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
+      "description": "",
+      "signals": {
+        "points": 16,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48405815"
       },
       "category_hint": null
     },
@@ -327,14 +303,14 @@
       "category_hint": null
     },
     {
-      "id": "hn:48430077",
-      "title": "Show HN: Ironwall, a safety-first native programming language and compiler",
-      "url": "https://news.ycombinator.com/item?id=48430077",
+      "id": "hn:48406729",
+      "title": "Unicode Fonts and Tools for X11",
+      "url": "https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html",
       "description": "",
       "signals": {
         "points": 12,
-        "num_comments": 3,
-        "discussion_url": "https://news.ycombinator.com/item?id=48430077"
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48406729"
       },
       "category_hint": null
     },
@@ -351,14 +327,38 @@
       "category_hint": null
     },
     {
-      "id": "hn:48406729",
-      "title": "Unicode Fonts and Tools for X11",
-      "url": "https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html",
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
       "description": "",
       "signals": {
         "points": 9,
         "num_comments": 1,
-        "discussion_url": "https://news.ycombinator.com/item?id=48406729"
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47320921",
+      "title": "Making your JITted Code known: Let me count the ways",
+      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47320921"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48351958",
+      "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
+      "url": "https://github.com/lateos-ai/npm-scan",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48351958"
       },
       "category_hint": null
     }

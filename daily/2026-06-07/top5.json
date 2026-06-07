@@ -1,7 +1,7 @@
 [
-  {"url": "https://openai.com/index/harness-engineering/", "title": "Harness engineering: Leveraging Codex in an agent-first world"},
-  {"url": "https://github.com/danielmiessler/Personal_AI_Infrastructure", "title": "danielmiessler/Personal_AI_Infrastructure"},
-  {"url": "https://github.com/Panniantong/Agent-Reach", "title": "Panniantong/Agent-Reach"},
-  {"url": "https://github.com/santifer/career-ops", "title": "santifer/career-ops"},
-  {"url": "https://huggingface.co/papers/2606.06462", "title": "Benchmark Everything Everywhere All at Once"}
+  {"url": "https://huggingface.co/papers/2606.05553", "title": "ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?"},
+  {"url": "https://huggingface.co/papers/2606.06492", "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution"},
+  {"url": "https://github.com/CopilotKit/CopilotKit", "title": "CopilotKit/CopilotKit"},
+  {"url": "https://huggingface.co/papers/2606.03092", "title": "The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs"},
+  {"url": "https://huggingface.co/papers/2606.05275", "title": "Personal AI Agent for Camera Roll VQA"}
 ]

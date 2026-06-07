@@ -1014,5 +1014,25 @@
   "https://huggingface.co/papers/2606.06462": {
     "archived_on": "2026-06-07",
     "title": "Benchmark Everything Everywhere All at Once"
+  },
+  "https://huggingface.co/papers/2606.05553": {
+    "archived_on": "2026-06-07",
+    "title": "ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?"
+  },
+  "https://huggingface.co/papers/2606.06492": {
+    "archived_on": "2026-06-07",
+    "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution"
+  },
+  "https://github.com/CopilotKit/CopilotKit": {
+    "archived_on": "2026-06-07",
+    "title": "CopilotKit/CopilotKit"
+  },
+  "https://huggingface.co/papers/2606.03092": {
+    "archived_on": "2026-06-07",
+    "title": "The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs"
+  },
+  "https://huggingface.co/papers/2606.05275": {
+    "archived_on": "2026-06-07",
+    "title": "Personal AI Agent for Camera Roll VQA"
   }
 }

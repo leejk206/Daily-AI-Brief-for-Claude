@@ -7290,6 +7290,44 @@
         "tool-use"
       ],
       "tagged_at": "2026-06-07T09:58:24+09:00"
+    },
+    "https://huggingface.co/papers/2606.05553": {
+      "title": "ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?",
+      "summary": "롤플레이 에이전트가 스토리 흐름에 따라 캐릭터를 일관되게 유지하는지 평가하는 새 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-07",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-07T10:36:26+09:00"
+    },
+    "https://huggingface.co/papers/2606.05275": {
+      "title": "Personal AI Agent for Camera Roll VQA",
+      "summary": "개인 사진첩 전체를 검색·추론 도구로 쓰는 개인화 AI 에이전트 연구",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-07",
+      "tags": [
+        "agent-memory",
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-07T10:36:26+09:00"
+    },
+    "https://huggingface.co/papers/2606.06473": {
+      "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
+      "summary": "브랜치 간 정보 공유로 에이전트가 ML 알고리즘을 자율 발견하는 자기 진화형 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-07",
+      "tags": [
+        "agent-skill",
+        "auto-research",
+        "paper"
+      ],
+      "tagged_at": "2026-06-07T10:36:26+09:00"
     }
   }
 }

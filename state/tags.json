@@ -1952,9 +1952,10 @@
       "brief_date": "2026-05-08",
       "tags": [
         "cli-agent",
-        "coding-platform"
+        "coding-platform",
+        "tool-use"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-06-08T02:36:31+09:00"
     },
     "https://github.com/decolua/9router": {
       "title": "decolua/9router",
@@ -6581,7 +6582,7 @@
         "coding-platform",
         "tool-use"
       ],
-      "tagged_at": "2026-06-07T09:58:24+09:00"
+      "tagged_at": "2026-06-08T02:36:31+09:00"
     },
     "https://openai.com/index/codex-for-knowledge-work": {
       "title": "Codex is becoming a productivity tool for everyone",
@@ -7002,7 +7003,7 @@
         "claude-code",
         "web-agent"
       ],
-      "tagged_at": "2026-06-07T09:58:24+09:00"
+      "tagged_at": "2026-06-08T02:36:31+09:00"
     },
     "https://openai.com/index/endava-frontiers": {
       "title": "How Endava is redesigning software delivery around AI agents",
@@ -7121,9 +7122,11 @@
       "brief_date": "2026-06-06",
       "tags": [
         "agent-memory",
-        "paper"
+        "agent-skill",
+        "paper",
+        "rl"
       ],
-      "tagged_at": "2026-06-06T02:18:56+09:00"
+      "tagged_at": "2026-06-08T02:36:31+09:00"
     },
     "https://huggingface.co/papers/2606.06416": {
       "title": "Unsupervised Skill Discovery for Agentic Data Analysis",
@@ -7135,7 +7138,7 @@
         "agent-skill",
         "paper"
       ],
-      "tagged_at": "2026-06-06T02:18:56+09:00"
+      "tagged_at": "2026-06-08T02:36:31+09:00"
     },
     "https://huggingface.co/papers/2606.03841": {
       "title": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management",
@@ -7144,11 +7147,12 @@
       "source": "huggingface",
       "brief_date": "2026-06-06",
       "tags": [
+        "agent-harness",
         "agent-skill",
         "auto-research",
         "paper"
       ],
-      "tagged_at": "2026-06-07T09:58:24+09:00"
+      "tagged_at": "2026-06-08T02:36:31+09:00"
     },
     "https://huggingface.co/papers/2606.01317": {
       "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces",
@@ -7162,7 +7166,7 @@
         "paper",
         "security"
       ],
-      "tagged_at": "2026-06-07T09:58:24+09:00"
+      "tagged_at": "2026-06-08T02:36:31+09:00"
     },
     "https://huggingface.co/papers/2606.06462": {
       "title": "Benchmark Everything Everywhere All at Once",
@@ -7274,9 +7278,10 @@
       "tags": [
         "agent-memory",
         "long-context",
-        "paper"
+        "paper",
+        "rl"
       ],
-      "tagged_at": "2026-06-07T09:58:24+09:00"
+      "tagged_at": "2026-06-08T02:36:31+09:00"
     },
     "https://huggingface.co/papers/2606.05557": {
       "title": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents",
@@ -7285,11 +7290,12 @@
       "source": "huggingface",
       "brief_date": "2026-06-07",
       "tags": [
+        "agent-memory",
         "agent-skill",
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-06-07T09:58:24+09:00"
+      "tagged_at": "2026-06-08T02:36:31+09:00"
     },
     "https://huggingface.co/papers/2606.05553": {
       "title": "ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?",
@@ -7325,9 +7331,94 @@
       "tags": [
         "agent-skill",
         "auto-research",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-08T02:36:31+09:00"
+    },
+    "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/": {
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "summary": "코딩 에이전트가 시니어 개발자 역할을 잠식하는 현실 고백 (HN #1, 553pts)",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-08",
+      "tags": [
+        "ai-code-policy"
+      ],
+      "tagged_at": "2026-06-08T02:36:31+09:00"
+    },
+    "https://arxiv.org/abs/2601.14470": {
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "summary": "에이전틱 SE 워크플로에서 토큰 소비 패턴을 최초 정량 분석한 논문",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-06-08",
+      "tags": [
+        "agent-harness",
+        "long-context",
         "paper"
       ],
-      "tagged_at": "2026-06-07T10:36:26+09:00"
+      "tagged_at": "2026-06-08T02:36:31+09:00"
+    },
+    "https://fergusfinn.com/blog/kv-entropy-coder/": {
+      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4x",
+      "summary": "추측적 엔트로피 코딩으로 KV 캐시 최대 4배 무손실 압축",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-06-08",
+      "tags": [
+        "local-inference",
+        "long-context"
+      ],
+      "tagged_at": "2026-06-08T02:36:31+09:00"
+    },
+    "https://huggingface.co/papers/2605.30848": {
+      "title": "LLM Anonymization Against Agentic Re-Identification",
+      "summary": "웹 검색 에이전트 기반 재식별 위협 대응 LLM 익명화 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-08",
+      "tags": [
+        "paper",
+        "security"
+      ],
+      "tagged_at": "2026-06-08T02:36:31+09:00"
+    },
+    "https://huggingface.co/papers/2606.01886": {
+      "title": "Absorbing Complexity: An Interaction-Native Knowledge Harness for Financial LLM Agents",
+      "summary": "금융 에이전트가 사용자 맥락을 반영구적으로 흡수하는 지식 하네스",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-08",
+      "tags": [
+        "agent-harness",
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-06-08T02:36:31+09:00"
+    },
+    "https://github.com/anthropics/claude-code/issues/65697": {
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "summary": "Linux 공식 지원 요구 HN 커뮤니티 이슈 (253pts)",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-08",
+      "tags": [
+        "claude-code"
+      ],
+      "tagged_at": "2026-06-08T02:36:31+09:00"
+    },
+    "https://github.com/RyanCodrai/turbovec": {
+      "title": "RyanCodrai/turbovec",
+      "summary": "TurboQuant 기반 Rust 고속 벡터 인덱스 (RAG 인프라, 1533 stars/day)",
+      "category": "prompt-context-engineering",
+      "source": "github_trending",
+      "brief_date": "2026-06-08",
+      "tags": [
+        "local-inference",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-08T02:36:31+09:00"
     }
   }
 }

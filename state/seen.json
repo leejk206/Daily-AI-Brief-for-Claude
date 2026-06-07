@@ -5,18 +5,6 @@
     "days": 2,
     "title": "Warp's big bet on building open source with GPT-5.5"
   },
-  "https://huggingface.co/papers/2605.29801": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-31",
-    "days": 3,
-    "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security"
-  },
-  "https://huggingface.co/papers/2605.29250": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-05-31",
-    "days": 3,
-    "title": "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources"
-  },
   "https://huggingface.co/papers/2605.28424": {
     "first_seen": "2026-05-29",
     "last_seen": "2026-06-01",
@@ -59,41 +47,11 @@
     "days": 2,
     "title": "Is Position Bias in Dense Retrievers Built In—or Learned from Data?"
   },
-  "https://openai.com/index/trustworthy-third-party-evaluations-foundations": {
-    "first_seen": "2026-05-30",
-    "last_seen": "2026-05-31",
-    "days": 2,
-    "title": "A shared playbook for trustworthy third party evaluations"
-  },
-  "https://github.com/cursor/plugins": {
-    "first_seen": "2026-05-30",
-    "last_seen": "2026-05-31",
-    "days": 2,
-    "title": "cursor/plugins"
-  },
   "https://openai.com/index/braintrust": {
     "first_seen": "2026-05-30",
     "last_seen": "2026-06-01",
     "days": 3,
     "title": "How Braintrust turns customer requests into code with Codex"
-  },
-  "https://huggingface.co/papers/2605.29534": {
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-05-31",
-    "days": 1,
-    "title": "UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight GUI Agents"
-  },
-  "https://huggingface.co/papers/2605.29507": {
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-05-31",
-    "days": 1,
-    "title": "Xetrieval: Mechanistically Explaining Dense Retrieval"
-  },
-  "https://huggingface.co/papers/2605.24785": {
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-05-31",
-    "days": 1,
-    "title": "PANDO: Efficient Multimodal AI Agents via Online Skill Distillation"
   },
   "https://huggingface.co/papers/2605.29271": {
     "first_seen": "2026-05-31",
@@ -101,35 +59,17 @@
     "days": 2,
     "title": "CoHyDE: Iterative Co-Training of LLM Rewriter & Dense Encoder for Tool Retrieval"
   },
-  "https://huggingface.co/papers/2605.30003": {
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-05-31",
-    "days": 1,
-    "title": "Discovering Cooperative Pipelines: Autoresearch for Sequential Social Dilemmas"
-  },
   "https://huggingface.co/papers/2605.29486": {
     "first_seen": "2026-05-31",
     "last_seen": "2026-06-01",
     "days": 2,
     "title": "PhoneWorld: Scaling Phone-Use Agent Environments"
   },
-  "https://huggingface.co/papers/2605.29156": {
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-05-31",
-    "days": 1,
-    "title": "RUBRIC-ARROW: Alternating Pointwise Rubric Reward Modeling for Non-verifiable Domains"
-  },
   "https://huggingface.co/papers/2605.29341": {
     "first_seen": "2026-05-31",
     "last_seen": "2026-06-01",
     "days": 2,
     "title": "WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction"
-  },
-  "https://huggingface.co/papers/2605.29648": {
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-05-31",
-    "days": 1,
-    "title": "Verifiable Rewards Beyond Math and Code: Corpus-Grounded Process Supervision for Factual QA"
   },
   "https://huggingface.co/papers/2605.24786": {
     "first_seen": "2026-05-31",
@@ -331,8 +271,8 @@
   },
   "https://openai.com/index/codex-for-every-role-tool-workflow": {
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-07",
-    "days": 2,
+    "last_seen": "2026-06-08",
+    "days": 3,
     "title": "Codex for every role, tool, and workflow"
   },
   "https://openai.com/index/codex-for-knowledge-work": {
@@ -541,8 +481,8 @@
   },
   "https://github.com/mvanhorn/last30days-skill": {
     "first_seen": "2026-06-05",
-    "last_seen": "2026-06-07",
-    "days": 3,
+    "last_seen": "2026-06-08",
+    "days": 4,
     "title": "mvanhorn/last30days-skill"
   },
   "https://openai.com/index/endava-frontiers": {
@@ -600,27 +540,27 @@
     "title": "CopilotKit/CopilotKit"
   },
   "https://huggingface.co/papers/2606.04703": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
     "days": 1,
     "title": "Rethinking Continual Experience Internalization for Self-Evolving LLM Agents"
   },
   "https://huggingface.co/papers/2606.06416": {
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-07",
-    "days": 2,
+    "last_seen": "2026-06-08",
+    "days": 3,
     "title": "Unsupervised Skill Discovery for Agentic Data Analysis"
   },
   "https://huggingface.co/papers/2606.03841": {
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-07",
-    "days": 2,
+    "last_seen": "2026-06-08",
+    "days": 3,
     "title": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management"
   },
   "https://huggingface.co/papers/2606.01317": {
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-07",
-    "days": 2,
+    "last_seen": "2026-06-08",
+    "days": 3,
     "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces"
   },
   "https://huggingface.co/papers/2606.06462": {
@@ -679,14 +619,14 @@
   },
   "https://huggingface.co/papers/2605.30159": {
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-07",
-    "days": 1,
+    "last_seen": "2026-06-08",
+    "days": 2,
     "title": "Meta-Cognitive Memory Policy Optimization for Long-Horizon LLM Agents"
   },
   "https://huggingface.co/papers/2606.05557": {
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-07",
-    "days": 1,
+    "last_seen": "2026-06-08",
+    "days": 2,
     "title": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents"
   },
   "https://huggingface.co/papers/2606.05553": {
@@ -703,8 +643,56 @@
   },
   "https://huggingface.co/papers/2606.06473": {
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-07",
-    "days": 1,
+    "last_seen": "2026-06-08",
+    "days": 2,
     "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery"
+  },
+  "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/": {
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "days": 1,
+    "title": "LLMs are eroding my software engineering career and I don't know what to do"
+  },
+  "https://github.com/aaif-goose/goose": {
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "days": 1,
+    "title": "aaif-goose/goose"
+  },
+  "https://arxiv.org/abs/2601.14470": {
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "days": 1,
+    "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering"
+  },
+  "https://fergusfinn.com/blog/kv-entropy-coder/": {
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "days": 1,
+    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4x"
+  },
+  "https://huggingface.co/papers/2605.30848": {
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "days": 1,
+    "title": "LLM Anonymization Against Agentic Re-Identification"
+  },
+  "https://huggingface.co/papers/2606.01886": {
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "days": 1,
+    "title": "Absorbing Complexity: An Interaction-Native Knowledge Harness for Financial LLM Agents"
+  },
+  "https://github.com/anthropics/claude-code/issues/65697": {
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "days": 1,
+    "title": "Anthropic, please ship an official Claude Desktop for Linux"
+  },
+  "https://github.com/RyanCodrai/turbovec": {
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "days": 1,
+    "title": "RyanCodrai/turbovec"
   }
 }

@@ -1034,5 +1034,25 @@
   "https://huggingface.co/papers/2606.05275": {
     "archived_on": "2026-06-07",
     "title": "Personal AI Agent for Camera Roll VQA"
+  },
+  "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/": {
+    "archived_on": "2026-06-08",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do"
+  },
+  "https://github.com/aaif-goose/goose": {
+    "archived_on": "2026-06-08",
+    "title": "aaif-goose/goose"
+  },
+  "https://arxiv.org/abs/2601.14470": {
+    "archived_on": "2026-06-08",
+    "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering"
+  },
+  "https://fergusfinn.com/blog/kv-entropy-coder/": {
+    "archived_on": "2026-06-08",
+    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4x"
+  },
+  "https://huggingface.co/papers/2606.06473": {
+    "archived_on": "2026-06-08",
+    "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery"
   }
 }

@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-08T02:29:36+09:00",
+  "items": [
+    {
+      "id": "hn:48434312",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "description": "",
+      "signals": {
+        "points": 553,
+        "num_comments": 515,
+        "discussion_url": "https://news.ycombinator.com/item?id=48434312"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48428025",
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "description": "",
+      "signals": {
+        "points": 388,
+        "num_comments": 117,
+        "discussion_url": "https://news.ycombinator.com/item?id=48428025"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48432199",
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "url": "https://www.ioccc.org/2025/",
+      "description": "",
+      "signals": {
+        "points": 303,
+        "num_comments": 72,
+        "discussion_url": "https://news.ycombinator.com/item?id=48432199"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48434436",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "description": "",
+      "signals": {
+        "points": 253,
+        "num_comments": 118,
+        "discussion_url": "https://news.ycombinator.com/item?id=48434436"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48431461",
+      "title": "Valve P2P networking broken for more than 2 months",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "description": "",
+      "signals": {
+        "points": 236,
+        "num_comments": 117,
+        "discussion_url": "https://news.ycombinator.com/item?id=48431461"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48430539",
+      "title": "Public Domain Image Archive",
+      "url": "https://pdimagearchive.org/",
+      "description": "",
+      "signals": {
+        "points": 202,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=48430539"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48389368",
+      "title": "My Software North Star",
+      "url": "https://kristoff.it/blog/north-star/",
+      "description": "",
+      "signals": {
+        "points": 169,
+        "num_comments": 101,
+        "discussion_url": "https://news.ycombinator.com/item?id=48389368"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48430923",
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "description": "",
+      "signals": {
+        "points": 148,
+        "num_comments": 62,
+        "discussion_url": "https://news.ycombinator.com/item?id=48430923"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48431286",
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "description": "",
+      "signals": {
+        "points": 141,
+        "num_comments": 65,
+        "discussion_url": "https://news.ycombinator.com/item?id=48431286"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48431085",
+      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+      "description": "",
+      "signals": {
+        "points": 137,
+        "num_comments": 76,
+        "discussion_url": "https://news.ycombinator.com/item?id=48431085"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48393252",
+      "title": "Biohub releases a world model of protein biology",
+      "url": "https://biohub.org/news/world-model-of-protein-biology/",
+      "description": "",
+      "signals": {
+        "points": 133,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48393252"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48415457",
+      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+      "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+      "description": "",
+      "signals": {
+        "points": 128,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48415457"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48400151",
+      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+      "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+      "description": "",
+      "signals": {
+        "points": 120,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48400151"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48435584",
+      "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122",
+      "description": "",
+      "signals": {
+        "points": 106,
+        "num_comments": 56,
+        "discussion_url": "https://news.ycombinator.com/item?id=48435584"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48410844",
+      "title": "Win16 Memory Management",
+      "url": "http://www.os2museum.com/wp/win16-memory-management/",
+      "description": "",
+      "signals": {
+        "points": 105,
+        "num_comments": 52,
+        "discussion_url": "https://news.ycombinator.com/item?id=48410844"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48433756",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "url": "https://github.com/devenjarvis/lathe",
+      "description": "",
+      "signals": {
+        "points": 100,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=48433756"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48410427",
+      "title": "Arithmetic Without Numbers – How LLMs Do Math",
+      "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+      "description": "",
+      "signals": {
+        "points": 81,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=48410427"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48434963",
+      "title": "Podman 6: machine usability improvements",
+      "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
+      "description": "",
+      "signals": {
+        "points": 51,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48434963"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48432722",
+      "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+      "url": "https://kyushu.dev/",
+      "description": "",
+      "signals": {
+        "points": 44,
+        "num_comments": 23,
+        "discussion_url": "https://news.ycombinator.com/item?id=48432722"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48398703",
+      "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
+      "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
+      "description": "",
+      "signals": {
+        "points": 42,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48398703"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48406530",
+      "title": "Yon – a topos-oriented language with a content-addressed lattice heap",
+      "url": "https://yon-lang.org/",
+      "description": "",
+      "signals": {
+        "points": 41,
+        "num_comments": 39,
+        "discussion_url": "https://news.ycombinator.com/item?id=48406530"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48433962",
+      "title": "The best relationships are all-encompassing.",
+      "url": "https://andys.blog/the-best-relationships/",
+      "description": "",
+      "signals": {
+        "points": 40,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=48433962"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48418839",
+      "title": "Warren's Abstract Machine: A Tutorial Reconstruction",
+      "url": "https://github.com/a-yiorgos/wambook",
+      "description": "",
+      "signals": {
+        "points": 38,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48418839"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48427480",
+      "title": "Cloning a Sennheiser BA2015 battery pack",
+      "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
+      "description": "",
+      "signals": {
+        "points": 35,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48427480"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48433305",
+      "title": "Efficient and Training-Free Single-Image Diffusion Models",
+      "url": "https://arxiv.org/abs/2606.04299",
+      "description": "",
+      "signals": {
+        "points": 32,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48433305"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48403488",
+      "title": "How Long Does It Take for a QQuickItem to Become Visible?",
+      "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
+      "description": "",
+      "signals": {
+        "points": 25,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48403488"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48436246",
+      "title": "The gamers taking on the industry to stop it switching off games",
+      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o",
+      "description": "",
+      "signals": {
+        "points": 23,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48436246"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48408995",
+      "title": "There's no escaping it: an exploration of ANSI codes",
+      "url": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48408995"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    }
+  ]
+}

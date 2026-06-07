@@ -1,0 +1,19 @@
+[
+  {"url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/", "title": "LLMs are eroding my software engineering career and I don't know what to do"},
+  {"url": "https://github.com/aaif-goose/goose", "title": "aaif-goose/goose"},
+  {"url": "https://arxiv.org/abs/2601.14470", "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering"},
+  {"url": "https://fergusfinn.com/blog/kv-entropy-coder/", "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4x"},
+  {"url": "https://huggingface.co/papers/2606.06473", "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery"},
+  {"url": "https://huggingface.co/papers/2606.05557", "title": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents"},
+  {"url": "https://huggingface.co/papers/2605.30159", "title": "Meta-Cognitive Memory Policy Optimization for Long-Horizon LLM Agents"},
+  {"url": "https://huggingface.co/papers/2605.30848", "title": "LLM Anonymization Against Agentic Re-Identification"},
+  {"url": "https://huggingface.co/papers/2606.01886", "title": "Absorbing Complexity: An Interaction-Native Knowledge Harness for Financial LLM Agents"},
+  {"url": "https://github.com/anthropics/claude-code/issues/65697", "title": "Anthropic, please ship an official Claude Desktop for Linux"},
+  {"url": "https://github.com/RyanCodrai/turbovec", "title": "RyanCodrai/turbovec"},
+  {"url": "https://huggingface.co/papers/2606.03841", "title": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management"},
+  {"url": "https://huggingface.co/papers/2606.06416", "title": "Unsupervised Skill Discovery for Agentic Data Analysis"},
+  {"url": "https://huggingface.co/papers/2606.04703", "title": "Rethinking Continual Experience Internalization for Self-Evolving LLM Agents"},
+  {"url": "https://huggingface.co/papers/2606.01317", "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces"},
+  {"url": "https://openai.com/index/codex-for-every-role-tool-workflow", "title": "Codex for every role, tool, and workflow"},
+  {"url": "https://github.com/mvanhorn/last30days-skill", "title": "mvanhorn/last30days-skill"}
+]

@@ -1054,5 +1054,25 @@
   "https://huggingface.co/papers/2606.06473": {
     "archived_on": "2026-06-08",
     "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery"
+  },
+  "https://huggingface.co/papers/2606.05806": {
+    "archived_on": "2026-06-09",
+    "title": "When Tools Fail (ToolMaze)"
+  },
+  "https://huggingface.co/papers/2606.06741": {
+    "archived_on": "2026-06-09",
+    "title": "OpenSkill: Open-World Self-Evolution for LLM Agents"
+  },
+  "https://huggingface.co/papers/2606.07412": {
+    "archived_on": "2026-06-09",
+    "title": "Socratic-SWE: Self-Evolving Coding Agents"
+  },
+  "https://huggingface.co/papers/2606.05563": {
+    "archived_on": "2026-06-09",
+    "title": "SoCRATES"
+  },
+  "https://huggingface.co/papers/2605.26046": {
+    "archived_on": "2026-06-09",
+    "title": "When Gradients Collide"
   }
 }

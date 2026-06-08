@@ -1,0 +1,198 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-06-09T05:18:31+09:00",
+  "items": [
+    {
+      "id": "github:mvanhorn/last30days-skill",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "signals": {
+        "stars": 34150,
+        "stars_today": 3558,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:RyanCodrai/turbovec",
+      "title": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "signals": {
+        "stars": 8620,
+        "stars_today": 1730,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:google/skills",
+      "title": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "signals": {
+        "stars": 12311,
+        "stars_today": 481,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:refactoringhq/tolaria",
+      "title": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "signals": {
+        "stars": 13478,
+        "stars_today": 649,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Panniantong/Agent-Reach",
+      "title": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "signals": {
+        "stars": 23975,
+        "stars_today": 796,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:danielmiessler/Personal_AI_Infrastructure",
+      "title": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "signals": {
+        "stars": 15365,
+        "stars_today": 121,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:santifer/career-ops",
+      "title": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "signals": {
+        "stars": 50375,
+        "stars_today": 477,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:phuryn/pm-skills",
+      "title": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "signals": {
+        "stars": 12563,
+        "stars_today": 112,
+        "language": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:openai/plugins",
+      "title": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "signals": {
+        "stars": 2277,
+        "stars_today": 296,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Andyyyy64/whichllm",
+      "title": "Andyyyy64/whichllm",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "signals": {
+        "stars": 3370,
+        "stars_today": 103,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:MemPalace/mempalace",
+      "title": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "signals": {
+        "stars": 54861,
+        "stars_today": 237,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:roboflow/supervision",
+      "title": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "signals": {
+        "stars": 42271,
+        "stars_today": 1140,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:CopilotKit/CopilotKit",
+      "title": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "signals": {
+        "stars": 34063,
+        "stars_today": 398,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:TapXWorld/ChinaTextbook",
+      "title": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "signals": {
+        "stars": 72947,
+        "stars_today": 593,
+        "language": "Roff"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:luongnv89/claude-howto",
+      "title": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "signals": {
+        "stars": 35690,
+        "stars_today": 393,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:aaif-goose/goose",
+      "title": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "signals": {
+        "stars": 48029,
+        "stars_today": 699,
+        "language": "Rust"
+      },
+      "category_hint": null
+    }
+  ]
+}

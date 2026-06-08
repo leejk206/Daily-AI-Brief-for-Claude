@@ -7419,6 +7419,174 @@
         "retrieval"
       ],
       "tagged_at": "2026-06-08T02:36:31+09:00"
+    },
+    "https://huggingface.co/papers/2606.05806": {
+      "title": "When Tools Fail (ToolMaze)",
+      "summary": "도구 실패 시 재계획·복구를 측정하는 새 에이전트 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-09",
+      "tags": [
+        "benchmark",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-09T05:22:17+09:00"
+    },
+    "https://huggingface.co/papers/2606.06741": {
+      "title": "OpenSkill: Open-World Self-Evolution for LLM Agents",
+      "summary": "학습 신호 없이 배포 후 스스로 진화하는 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-09",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-06-09T05:22:17+09:00"
+    },
+    "https://huggingface.co/papers/2606.07412": {
+      "title": "Socratic-SWE: Self-Evolving Coding Agents",
+      "summary": "실행 트레이스에서 스킬을 뽑아 자가 진화하는 코딩 에이전트",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-06-09",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-06-09T05:22:17+09:00"
+    },
+    "https://huggingface.co/papers/2606.05563": {
+      "title": "SoCRATES",
+      "summary": "도메인 전반 LLM 중재 능력을 자동 평가하는 신뢰성 프레임워크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-09",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-09T05:22:17+09:00"
+    },
+    "https://huggingface.co/papers/2605.26046": {
+      "title": "When Gradients Collide",
+      "summary": "LLM 심사자용 다목적 프롬프트 최적화의 실패 모드 분석",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-09",
+      "tags": [
+        "benchmark",
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-09T05:22:17+09:00"
+    },
+    "https://huggingface.co/papers/2605.27276": {
+      "title": "SIA: Self Improving AI with Harness & Weight Updates",
+      "summary": "하네스 개선과 가중치 갱신을 결합한 자기개선 AI",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-09",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-06-09T05:22:17+09:00"
+    },
+    "https://huggingface.co/papers/2606.01779": {
+      "title": "HarnessForge",
+      "summary": "하네스와 정책을 함께 진화시키는 적응형 에이전트 시스템",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-09",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-06-09T05:22:17+09:00"
+    },
+    "https://github.com/google/skills": {
+      "title": "google/skills",
+      "summary": "구글 제품·기술용 에이전트 스킬 모음",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-06-09",
+      "tags": [
+        "agent-skill"
+      ],
+      "tagged_at": "2026-06-09T05:22:17+09:00"
+    },
+    "https://github.com/phuryn/pm-skills": {
+      "title": "phuryn/pm-skills",
+      "summary": "발굴부터 성장까지 100+ PM 에이전트 스킬 마켓플레이스",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-06-09",
+      "tags": [
+        "agent-skill"
+      ],
+      "tagged_at": "2026-06-09T05:22:17+09:00"
+    },
+    "https://huggingface.co/papers/2606.05761": {
+      "title": "SubtleMemory",
+      "summary": "장기 에이전트의 미세한 관계 메모리 식별 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-09",
+      "tags": [
+        "agent-memory",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-09T05:22:17+09:00"
+    },
+    "https://huggingface.co/papers/2606.06622": {
+      "title": "UnpredictaBench",
+      "summary": "LLM이 실제 분포의 무작위성을 포착하는지 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-09",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-09T05:22:17+09:00"
+    },
+    "https://github.com/Andyyyy64/whichllm": {
+      "title": "Andyyyy64/whichllm",
+      "summary": "내 하드웨어에서 가장 잘 도는 로컬 LLM을 벤치마크로 추천",
+      "category": "llm-harness-eval",
+      "source": "github_trending",
+      "brief_date": "2026-06-09",
+      "tags": [
+        "benchmark",
+        "local-inference"
+      ],
+      "tagged_at": "2026-06-09T05:22:17+09:00"
+    },
+    "https://github.com/luongnv89/claude-howto": {
+      "title": "luongnv89/claude-howto",
+      "summary": "예제 중심 Claude Code 가이드, 복붙 템플릿 제공",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-06-09",
+      "tags": [
+        "claude-code",
+        "tutorial"
+      ],
+      "tagged_at": "2026-06-09T05:22:17+09:00"
+    },
+    "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/": {
+      "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+      "summary": "AI 코딩이 SWE 커리어에 미치는 영향 후속 토론",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-09",
+      "tags": [
+        "ai-code-policy"
+      ],
+      "tagged_at": "2026-06-09T05:22:17+09:00"
     }
   }
 }

@@ -1,147 +1,15 @@
 {
-  "https://openai.com/index/warp": {
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-06-01",
-    "days": 2,
-    "title": "Warp's big bet on building open source with GPT-5.5"
-  },
-  "https://huggingface.co/papers/2605.28424": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-06-01",
-    "days": 4,
-    "title": "Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning"
-  },
-  "https://huggingface.co/papers/2605.30102": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-06-01",
-    "days": 4,
-    "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems"
-  },
-  "https://huggingface.co/papers/2605.29861": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-06-01",
-    "days": 4,
-    "title": "Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation"
-  },
-  "https://huggingface.co/papers/2605.26029": {
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-06-01",
-    "days": 2,
-    "title": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists"
-  },
   "https://github.com/EveryInc/compound-engineering-plugin": {
     "first_seen": "2026-05-29",
     "last_seen": "2026-06-02",
     "days": 5,
     "title": "EveryInc/compound-engineering-plugin"
   },
-  "https://openai.com/index/endava": {
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-06-01",
-    "days": 2,
-    "title": "How Endava builds an agentic organization with Codex"
-  },
-  "https://huggingface.co/papers/2605.26578": {
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-06-01",
-    "days": 2,
-    "title": "Is Position Bias in Dense Retrievers Built In—or Learned from Data?"
-  },
-  "https://openai.com/index/braintrust": {
-    "first_seen": "2026-05-30",
-    "last_seen": "2026-06-01",
-    "days": 3,
-    "title": "How Braintrust turns customer requests into code with Codex"
-  },
-  "https://huggingface.co/papers/2605.29271": {
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-06-01",
-    "days": 2,
-    "title": "CoHyDE: Iterative Co-Training of LLM Rewriter & Dense Encoder for Tool Retrieval"
-  },
-  "https://huggingface.co/papers/2605.29486": {
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-06-01",
-    "days": 2,
-    "title": "PhoneWorld: Scaling Phone-Use Agent Environments"
-  },
-  "https://huggingface.co/papers/2605.29341": {
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-06-01",
-    "days": 2,
-    "title": "WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction"
-  },
-  "https://huggingface.co/papers/2605.24786": {
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-06-01",
-    "days": 2,
-    "title": "CONF-KV: Confidence-Aware KV Cache Eviction for Long-Horizon LLM"
-  },
-  "https://twitter.com/i/status/2060746160558543217": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
-    "title": "Codex just found a \"workaround\" of not having sudo on my PC"
-  },
-  "https://github.com/nicobailon/pi-subagents": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
-    "title": "nicobailon/pi-subagents"
-  },
-  "https://huggingface.co/papers/2605.30052": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
-    "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair"
-  },
   "https://github.com/nesquena/hermes-webui": {
     "first_seen": "2026-06-01",
     "last_seen": "2026-06-04",
     "days": 4,
     "title": "nesquena/hermes-webui"
-  },
-  "https://huggingface.co/papers/2605.31264": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
-    "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation"
-  },
-  "https://github.com/can1357/oh-my-pi": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
-    "title": "can1357/oh-my-pi"
-  },
-  "https://huggingface.co/papers/2605.31584": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
-    "title": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories"
-  },
-  "https://huggingface.co/papers/2605.30434": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
-    "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis"
-  },
-  "https://huggingface.co/papers/2605.31075": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
-    "title": "Task-Focused Memorization for Multimodal Agents"
-  },
-  "https://huggingface.co/papers/2605.30407": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
-    "title": "Exploring Autonomous Agentic Data Engineering for Model Specialization"
-  },
-  "https://huggingface.co/papers/2605.31042": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
-    "title": "From Prompt Injection to Persistent Control: Defending Agentic Harness Against Trojan Backdoors"
   },
   "https://huggingface.co/papers/2605.29796": {
     "first_seen": "2026-06-01",
@@ -160,18 +28,6 @@
     "last_seen": "2026-06-02",
     "days": 2,
     "title": "SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?"
-  },
-  "https://huggingface.co/papers/2605.23657": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
-    "title": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents"
-  },
-  "https://huggingface.co/papers/2605.29307": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-01",
-    "days": 1,
-    "title": "GrepSeek: Training Search Agents for Direct Corpus Interaction"
   },
   "https://huggingface.co/papers/2605.26112": {
     "first_seen": "2026-06-02",
@@ -694,5 +550,89 @@
     "last_seen": "2026-06-08",
     "days": 1,
     "title": "RyanCodrai/turbovec"
+  },
+  "https://huggingface.co/papers/2606.05806": {
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "days": 1,
+    "title": "When Tools Fail (ToolMaze)"
+  },
+  "https://huggingface.co/papers/2606.06741": {
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "days": 1,
+    "title": "OpenSkill: Open-World Self-Evolution for LLM Agents"
+  },
+  "https://huggingface.co/papers/2606.07412": {
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "days": 1,
+    "title": "Socratic-SWE: Self-Evolving Coding Agents"
+  },
+  "https://huggingface.co/papers/2606.05563": {
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "days": 1,
+    "title": "SoCRATES"
+  },
+  "https://huggingface.co/papers/2605.26046": {
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "days": 1,
+    "title": "When Gradients Collide"
+  },
+  "https://huggingface.co/papers/2605.27276": {
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "days": 1,
+    "title": "SIA: Self Improving AI with Harness & Weight Updates"
+  },
+  "https://huggingface.co/papers/2606.01779": {
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "days": 1,
+    "title": "HarnessForge"
+  },
+  "https://github.com/google/skills": {
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "days": 1,
+    "title": "google/skills"
+  },
+  "https://github.com/phuryn/pm-skills": {
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "days": 1,
+    "title": "phuryn/pm-skills"
+  },
+  "https://huggingface.co/papers/2606.05761": {
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "days": 1,
+    "title": "SubtleMemory"
+  },
+  "https://huggingface.co/papers/2606.06622": {
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "days": 1,
+    "title": "UnpredictaBench"
+  },
+  "https://github.com/Andyyyy64/whichllm": {
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "days": 1,
+    "title": "Andyyyy64/whichllm"
+  },
+  "https://github.com/luongnv89/claude-howto": {
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "days": 1,
+    "title": "luongnv89/claude-howto"
+  },
+  "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/": {
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "days": 1,
+    "title": "Replies to comments on my LLMs are eroding my career post"
   }
 }

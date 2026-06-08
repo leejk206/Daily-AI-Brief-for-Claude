@@ -1,0 +1,16 @@
+[
+  {"url": "https://huggingface.co/papers/2606.05806", "title": "When Tools Fail (ToolMaze)"},
+  {"url": "https://huggingface.co/papers/2606.06741", "title": "OpenSkill: Open-World Self-Evolution for LLM Agents"},
+  {"url": "https://huggingface.co/papers/2606.07412", "title": "Socratic-SWE: Self-Evolving Coding Agents"},
+  {"url": "https://huggingface.co/papers/2606.05563", "title": "SoCRATES"},
+  {"url": "https://huggingface.co/papers/2605.26046", "title": "When Gradients Collide"},
+  {"url": "https://huggingface.co/papers/2605.27276", "title": "SIA: Self Improving AI with Harness & Weight Updates"},
+  {"url": "https://huggingface.co/papers/2606.01779", "title": "HarnessForge"},
+  {"url": "https://github.com/google/skills", "title": "google/skills"},
+  {"url": "https://github.com/phuryn/pm-skills", "title": "phuryn/pm-skills"},
+  {"url": "https://huggingface.co/papers/2606.05761", "title": "SubtleMemory"},
+  {"url": "https://huggingface.co/papers/2606.06622", "title": "UnpredictaBench"},
+  {"url": "https://github.com/Andyyyy64/whichllm", "title": "Andyyyy64/whichllm"},
+  {"url": "https://github.com/luongnv89/claude-howto", "title": "luongnv89/claude-howto"},
+  {"url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/", "title": "Replies to comments on my LLMs are eroding my career post"}
+]

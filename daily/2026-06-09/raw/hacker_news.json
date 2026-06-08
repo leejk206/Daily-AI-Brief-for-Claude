@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-09T05:18:30+09:00",
+  "items": [
+    {
+      "id": "hn:48445554",
+      "title": "Show HN: Performative-UI – a react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "description": "",
+      "signals": {
+        "points": 589,
+        "num_comments": 123,
+        "discussion_url": "https://news.ycombinator.com/item?id=48445554"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48447935",
+      "title": "Stop the Apple Music app from launching",
+      "url": "https://lowtechguys.com/musicdecoy/",
+      "description": "",
+      "signals": {
+        "points": 436,
+        "num_comments": 174,
+        "discussion_url": "https://news.ycombinator.com/item?id=48447935"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48444228",
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+      "description": "",
+      "signals": {
+        "points": 428,
+        "num_comments": 343,
+        "discussion_url": "https://news.ycombinator.com/item?id=48444228"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48446639",
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "description": "",
+      "signals": {
+        "points": 393,
+        "num_comments": 273,
+        "discussion_url": "https://news.ycombinator.com/item?id=48446639"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48442075",
+      "title": "How much of Thermo Fisher's antibody data has been manipulated?",
+      "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
+      "description": "",
+      "signals": {
+        "points": 356,
+        "num_comments": 77,
+        "discussion_url": "https://news.ycombinator.com/item?id=48442075"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48442725",
+      "title": "The Cypherpunk Library",
+      "url": "https://www.cypherpunkbooks.com",
+      "description": "",
+      "signals": {
+        "points": 311,
+        "num_comments": 91,
+        "discussion_url": "https://news.ycombinator.com/item?id=48442725"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48446428",
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "description": "",
+      "signals": {
+        "points": 215,
+        "num_comments": 164,
+        "discussion_url": "https://news.ycombinator.com/item?id=48446428"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48446893",
+      "title": "AI Is Slowing Down",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "description": "",
+      "signals": {
+        "points": 207,
+        "num_comments": 239,
+        "discussion_url": "https://news.ycombinator.com/item?id=48446893"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48444871",
+      "title": "Zig by Example",
+      "url": "https://github.com/boringcollege/zig-by-example",
+      "description": "",
+      "signals": {
+        "points": 201,
+        "num_comments": 97,
+        "discussion_url": "https://news.ycombinator.com/item?id=48444871"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48448106",
+      "title": "Apple WWDC 2026 Livestream",
+      "url": "https://www.apple.com/apple-events/event-stream/",
+      "description": "",
+      "signals": {
+        "points": 178,
+        "num_comments": 350,
+        "discussion_url": "https://news.ycombinator.com/item?id=48448106"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48449084",
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "description": "",
+      "signals": {
+        "points": 140,
+        "num_comments": 119,
+        "discussion_url": "https://news.ycombinator.com/item?id=48449084"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48448012",
+      "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
+      "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
+      "description": "",
+      "signals": {
+        "points": 130,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48448012"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48402137",
+      "title": "OCaml Onboarding: Introduction to the Dune build system",
+      "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
+      "description": "",
+      "signals": {
+        "points": 117,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48402137"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48443258",
+      "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+      "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
+      "description": "",
+      "signals": {
+        "points": 116,
+        "num_comments": 168,
+        "discussion_url": "https://news.ycombinator.com/item?id=48443258"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48394799",
+      "title": "Zig Structs of Arrays (2024)",
+      "url": "https://andreashohmann.com/zig-struct-of-arrays/",
+      "description": "",
+      "signals": {
+        "points": 109,
+        "num_comments": 38,
+        "discussion_url": "https://news.ycombinator.com/item?id=48394799"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48444442",
+      "title": "Are you expected to run five Python type-checkers now?",
+      "url": "https://pyrefly.org/blog/too-many-type-checkers/",
+      "description": "",
+      "signals": {
+        "points": 108,
+        "num_comments": 102,
+        "discussion_url": "https://news.ycombinator.com/item?id=48444442"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48446310",
+      "title": "Italy's Bending Spoons, owner of AOL and Vimeo, files for Nasdaq IPO",
+      "url": "https://www.reuters.com/legal/transactional/italys-bending-spoons-files-us-ipo-2026-06-08/",
+      "description": "",
+      "signals": {
+        "points": 92,
+        "num_comments": 77,
+        "discussion_url": "https://news.ycombinator.com/item?id=48446310"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48445171",
+      "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
+      "url": "https://intunedhq.com",
+      "description": "",
+      "signals": {
+        "points": 89,
+        "num_comments": 40,
+        "discussion_url": "https://news.ycombinator.com/item?id=48445171"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48444784",
+      "title": "Spanish traders set the standard for GnuCash database design",
+      "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
+      "description": "",
+      "signals": {
+        "points": 88,
+        "num_comments": 68,
+        "discussion_url": "https://news.ycombinator.com/item?id=48444784"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48448493",
+      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
+      "url": "https://siraben.github.io/ti84p-re/",
+      "description": "",
+      "signals": {
+        "points": 85,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48448493"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48424545",
+      "title": "Life is too short for a slow terminal",
+      "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+      "description": "",
+      "signals": {
+        "points": 82,
+        "num_comments": 65,
+        "discussion_url": "https://news.ycombinator.com/item?id=48424545"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48450059",
+      "title": "Switzerland wil have a referendum to cap population at 10M",
+      "url": "https://www.admin.ch/en/sustainability-initiative",
+      "description": "",
+      "signals": {
+        "points": 77,
+        "num_comments": 127,
+        "discussion_url": "https://news.ycombinator.com/item?id=48450059"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48447062",
+      "title": "EU-banned pesticides found in rice, tea and spices",
+      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+      "description": "",
+      "signals": {
+        "points": 77,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48447062"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48450142",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "description": "",
+      "signals": {
+        "points": 54,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48450142"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48448357",
+      "title": "Thunderbird Littering My Home",
+      "url": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
+      "description": "",
+      "signals": {
+        "points": 50,
+        "num_comments": 31,
+        "discussion_url": "https://news.ycombinator.com/item?id=48448357"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48450065",
+      "title": "Why are cells small?",
+      "url": "https://burrito.bio/essays/what-limits-a-cells-size",
+      "description": "",
+      "signals": {
+        "points": 32,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48450065"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48448313",
+      "title": "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
+      "url": "https://news.ycombinator.com/item?id=48448313",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=48448313"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48397986",
+      "title": "Using XDG-Compliant Config Files – WxWidgets",
+      "url": "https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48397986"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48447980",
+      "title": "Ask HN: How to escalate a rejected Google extension?",
+      "url": "https://news.ycombinator.com/item?id=48447980",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48447980"
+      },
+      "category_hint": null
+    }
+  ]
+}

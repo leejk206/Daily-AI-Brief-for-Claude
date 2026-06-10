@@ -6796,7 +6796,7 @@
         "coding-platform",
         "local-inference"
       ],
-      "tagged_at": "2026-06-07T09:58:24+09:00"
+      "tagged_at": "2026-06-10T09:22:06+09:00"
     },
     "https://github.com/supermemoryai/supermemory": {
       "title": "supermemoryai/supermemory",
@@ -7026,7 +7026,7 @@
       "tags": [
         "coding-platform"
       ],
-      "tagged_at": "2026-06-05T04:09:53+09:00"
+      "tagged_at": "2026-06-10T09:22:06+09:00"
     },
     "https://huggingface.co/papers/2606.03197": {
       "title": "MemTrain: Self-Supervised Context Memory Training",
@@ -7587,6 +7587,229 @@
         "ai-code-policy"
       ],
       "tagged_at": "2026-06-09T05:22:17+09:00"
+    },
+    "https://huggingface.co/papers/2606.05405": {
+      "title": "Agents' Last Exam",
+      "summary": "벤치마크 포화 시대, 평가 자체가 병목임을 지적",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "agent-harness",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.09079": {
+      "title": "FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention",
+      "summary": "초장문 컨텍스트 KV 캐시 병목 해소",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.06087": {
+      "title": "LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents",
+      "summary": "에이전트 스킬을 프롬프트 대신 LoRA로 주입",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools": {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "summary": "Claude Code·Cursor·Codex 등 주요 툴 시스템 프롬프트 모음",
+      "category": "prompt-context-engineering",
+      "source": "github_trending",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "coding-platform",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.07299": {
+      "title": "DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning",
+      "summary": "재귀 검색·루브릭 기반 추론을 갖춘 감사 가능 멀티에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "auto-research",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.08348": {
+      "title": "Bayesian-Agent: Posterior-Guided Skill Evolution for LLM Agent Harnesses",
+      "summary": "에이전트 하네스의 스킬을 베이지안 사후분포로 진화",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "agent-harness",
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.06523": {
+      "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+      "summary": "Lean4로 에이전트 워크플로·트라젝토리를 정형 검증",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://arxiv.org/abs/2605.15184": {
+      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "summary": "에이전트 하네스가 검색 성능을 좌우함을 분석",
+      "category": "llm-harness-eval",
+      "source": "hacker_news",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "agent-harness",
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.09826": {
+      "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+      "summary": "개선 동역학까지 측정하는 통합 게임 벤치",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "benchmark",
+        "game",
+        "paper"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.03980": {
+      "title": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill",
+      "summary": "룰·정답·체크리스트 보상을 스킬로 일원화",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "agent-skill",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.08960": {
+      "title": "Hardening Agent Benchmarks with Adversarial Hacker-Fixer Loops",
+      "summary": "5개 벤치 16%가 리워드 해킹 취약함을 발견",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "agent-harness",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.09809": {
+      "title": "Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting",
+      "summary": "리더보드·모델카드 간 결과 비교를 표준화",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://openai.com/index/notion": {
+      "title": "What Codex unlocks for Notion",
+      "summary": "스펙 원샷·웹 음성입력 구현 등 Codex 활용 사례",
+      "category": "coding-agents",
+      "source": "openai",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://openai.com/index/nextdoor": {
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "summary": "GPT-5.5 Codex로 재현 어려운 버그 추적",
+      "category": "coding-agents",
+      "source": "openai",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://huggingface.co/CohereLabs/North-Mini-Code-1.0": {
+      "title": "CohereLabs/North-Mini-Code-1.0",
+      "summary": "Cohere의 경량 코드 생성 모델",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "coding-platform",
+        "local-inference"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://blog.gitbutler.com/true-grit": {
+      "title": "Grit: Rewriting Git in Rust with Agents",
+      "summary": "에이전트로 Git을 Rust로 재작성한 실험",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.09659": {
+      "title": "End-to-End Context Compression at Scale",
+      "summary": "품질 저하 없이 KV 캐시를 압축하는 학습형 기법",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "long-context",
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.05633": {
+      "title": "Answer Presence Drives RAG Rewriting Gains",
+      "summary": "RAG 리라이팅 효과가 정답 포함 여부에 기인함을 규명",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-10",
+      "tags": [
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-10T09:22:06+09:00"
     }
   }
 }

@@ -1,0 +1,22 @@
+[
+  {"url": "https://huggingface.co/papers/2606.05405", "title": "Agents' Last Exam"},
+  {"url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws", "title": "OpenAI frontier models and Codex are now available on AWS"},
+  {"url": "https://huggingface.co/papers/2606.09079", "title": "FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention"},
+  {"url": "https://huggingface.co/papers/2606.06087", "title": "LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents"},
+  {"url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools", "title": "x1xhlol/system-prompts-and-models-of-ai-tools"},
+  {"url": "https://huggingface.co/papers/2606.07299", "title": "DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning"},
+  {"url": "https://huggingface.co/papers/2606.08348", "title": "Bayesian-Agent: Posterior-Guided Skill Evolution for LLM Agent Harnesses"},
+  {"url": "https://huggingface.co/papers/2606.06523", "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory"},
+  {"url": "https://arxiv.org/abs/2605.15184", "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search"},
+  {"url": "https://huggingface.co/papers/2606.09826", "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics"},
+  {"url": "https://huggingface.co/papers/2606.03980", "title": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill"},
+  {"url": "https://huggingface.co/papers/2606.08960", "title": "Hardening Agent Benchmarks with Adversarial Hacker-Fixer Loops"},
+  {"url": "https://huggingface.co/papers/2606.09809", "title": "Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting"},
+  {"url": "https://openai.com/index/notion", "title": "What Codex unlocks for Notion"},
+  {"url": "https://openai.com/index/nextdoor", "title": "How engineers at Nextdoor use Codex to build without limits"},
+  {"url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking", "title": "JetBrains/Mellum2-12B-A2.5B-Thinking"},
+  {"url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0", "title": "CohereLabs/North-Mini-Code-1.0"},
+  {"url": "https://blog.gitbutler.com/true-grit", "title": "Grit: Rewriting Git in Rust with Agents"},
+  {"url": "https://huggingface.co/papers/2606.09659", "title": "End-to-End Context Compression at Scale"},
+  {"url": "https://huggingface.co/papers/2606.05633", "title": "Answer Presence Drives RAG Rewriting Gains"}
+]

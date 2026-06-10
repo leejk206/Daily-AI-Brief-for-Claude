@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-10T09:18:30+09:00",
+  "items": [
+    {
+      "id": "hn:48463808",
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "description": "",
+      "signals": {
+        "points": 1677,
+        "num_comments": 1330,
+        "discussion_url": "https://news.ycombinator.com/item?id=48463808"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48459294",
+      "title": "Making Graphics Like it's 1993",
+      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+      "description": "",
+      "signals": {
+        "points": 748,
+        "num_comments": 127,
+        "discussion_url": "https://news.ycombinator.com/item?id=48459294"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48421858",
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "url": "https://opencv.org/opencv-5/",
+      "description": "",
+      "signals": {
+        "points": 678,
+        "num_comments": 119,
+        "discussion_url": "https://news.ycombinator.com/item?id=48421858"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48462308",
+      "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
+      "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+      "description": "",
+      "signals": {
+        "points": 421,
+        "num_comments": 264,
+        "discussion_url": "https://news.ycombinator.com/item?id=48462308"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48465675",
+      "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+      "description": "",
+      "signals": {
+        "points": 368,
+        "num_comments": 148,
+        "discussion_url": "https://news.ycombinator.com/item?id=48465675"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48467896",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "description": "",
+      "signals": {
+        "points": 356,
+        "num_comments": 151,
+        "discussion_url": "https://news.ycombinator.com/item?id=48467896"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48463024",
+      "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
+      "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
+      "description": "",
+      "signals": {
+        "points": 343,
+        "num_comments": 578,
+        "discussion_url": "https://news.ycombinator.com/item?id=48463024"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48453275",
+      "title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
+      "url": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf",
+      "description": "",
+      "signals": {
+        "points": 302,
+        "num_comments": 244,
+        "discussion_url": "https://news.ycombinator.com/item?id=48453275"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48459001",
+      "title": "The iPhone's Last Stand?",
+      "url": "https://stratechery.com/2026/the-iphones-last-stand/",
+      "description": "",
+      "signals": {
+        "points": 163,
+        "num_comments": 205,
+        "discussion_url": "https://news.ycombinator.com/item?id=48459001"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48451966",
+      "title": "A giant star may have destroyed itself in one of the rarest explosions",
+      "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+      "description": "",
+      "signals": {
+        "points": 152,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48451966"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48467705",
+      "title": "Upcoming breaking changes for NPM v12",
+      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+      "description": "",
+      "signals": {
+        "points": 149,
+        "num_comments": 44,
+        "discussion_url": "https://news.ycombinator.com/item?id=48467705"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48466277",
+      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "description": "",
+      "signals": {
+        "points": 141,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48466277"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48459837",
+      "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
+      "url": "https://qunabu.github.io/Gravity/",
+      "description": "",
+      "signals": {
+        "points": 139,
+        "num_comments": 34,
+        "discussion_url": "https://news.ycombinator.com/item?id=48459837"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48465702",
+      "title": "Ask HN: Are you still using a Vision Pro?",
+      "url": "https://news.ycombinator.com/item?id=48465702",
+      "description": "",
+      "signals": {
+        "points": 120,
+        "num_comments": 148,
+        "discussion_url": "https://news.ycombinator.com/item?id=48465702"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48460863",
+      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "url": "https://arxiv.org/abs/2605.15184",
+      "description": "",
+      "signals": {
+        "points": 114,
+        "num_comments": 52,
+        "discussion_url": "https://news.ycombinator.com/item?id=48460863"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48463018",
+      "title": "Biff.core: system composition for Clojure web apps",
+      "url": "https://biffweb.com/p/core/",
+      "description": "",
+      "signals": {
+        "points": 101,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48463018"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48435943",
+      "title": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+      "url": "https://github.com/luke8086/gentleos32",
+      "description": "",
+      "signals": {
+        "points": 88,
+        "num_comments": 89,
+        "discussion_url": "https://news.ycombinator.com/item?id=48435943"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48456048",
+      "title": "Flat Datacenter Networks at Scale at Amazon",
+      "url": "https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale/",
+      "description": "",
+      "signals": {
+        "points": 81,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48456048"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48467712",
+      "title": "Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs",
+      "url": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
+      "description": "",
+      "signals": {
+        "points": 77,
+        "num_comments": 24,
+        "discussion_url": "https://news.ycombinator.com/item?id=48467712"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48459659",
+      "title": "Test-case reducers are underappreciated debugging tools",
+      "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
+      "description": "",
+      "signals": {
+        "points": 75,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48459659"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48466812",
+      "title": "Grit: Rewriting Git in Rust with Agents",
+      "url": "https://blog.gitbutler.com/true-grit",
+      "description": "",
+      "signals": {
+        "points": 59,
+        "num_comments": 43,
+        "discussion_url": "https://news.ycombinator.com/item?id=48466812"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48464330",
+      "title": "The LD_DEBUG environment variable (2012)",
+      "url": "https://bnikolic.co.uk/blog/linux-ld-debug.html",
+      "description": "",
+      "signals": {
+        "points": 53,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48464330"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48467759",
+      "title": "Exif Smuggling",
+      "url": "https://github.com/signalblur/exifsmugglingpoc",
+      "description": "",
+      "signals": {
+        "points": 44,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48467759"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48463273",
+      "title": "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
+      "url": "https://news.ycombinator.com/item?id=48463273",
+      "description": "",
+      "signals": {
+        "points": 31,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48463273"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48468789",
+      "title": "AI misidentification results in wrongful arrest; man seeks justice",
+      "url": "https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/",
+      "description": "",
+      "signals": {
+        "points": 31,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48468789"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48468766",
+      "title": "RIP software hackathons. Long live the hardware hackathon",
+      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48468766"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48445834",
+      "title": "Lies We Tell Ourselves About Email Addresses",
+      "url": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
+      "description": "",
+      "signals": {
+        "points": 17,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48445834"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48444758",
+      "title": "Blaise v0.10.0: Native Back End, Threads and Incremental Compilation",
+      "url": "https://github.com/graemeg/blaise/discussions/82",
+      "description": "",
+      "signals": {
+        "points": 15,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48444758"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48427423",
+      "title": "Show HN: Resonate – Low-latency, high-resolution spectral analysis",
+      "url": "https://alexandrefrancois.org/Resonate/",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48427423"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

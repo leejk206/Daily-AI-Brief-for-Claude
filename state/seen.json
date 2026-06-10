@@ -1,51 +1,9 @@
 {
-  "https://github.com/EveryInc/compound-engineering-plugin": {
-    "first_seen": "2026-05-29",
-    "last_seen": "2026-06-02",
-    "days": 5,
-    "title": "EveryInc/compound-engineering-plugin"
-  },
   "https://github.com/nesquena/hermes-webui": {
     "first_seen": "2026-06-01",
     "last_seen": "2026-06-04",
     "days": 4,
     "title": "nesquena/hermes-webui"
-  },
-  "https://huggingface.co/papers/2605.29796": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-02",
-    "days": 2,
-    "title": "SAAS: Self-Aware RL for Over-Search Mitigation in Agentic Search"
-  },
-  "https://huggingface.co/papers/2605.31170": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-02",
-    "days": 2,
-    "title": "Emergent Languages in Populations of Language Model Agents"
-  },
-  "https://huggingface.co/papers/2605.30329": {
-    "first_seen": "2026-06-01",
-    "last_seen": "2026-06-02",
-    "days": 2,
-    "title": "SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?"
-  },
-  "https://huggingface.co/papers/2605.26112": {
-    "first_seen": "2026-06-02",
-    "last_seen": "2026-06-02",
-    "days": 1,
-    "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI"
-  },
-  "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md": {
-    "first_seen": "2026-06-02",
-    "last_seen": "2026-06-02",
-    "days": 1,
-    "title": "AI Agent Guidelines for CS336 at Stanford"
-  },
-  "https://huggingface.co/papers/2605.29447": {
-    "first_seen": "2026-06-02",
-    "last_seen": "2026-06-02",
-    "days": 1,
-    "title": "Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents"
   },
   "https://github.com/chopratejas/headroom": {
     "first_seen": "2026-06-03",
@@ -234,8 +192,8 @@
     "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling"
   },
   "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking": {
-    "first_seen": "2026-06-07",
-    "last_seen": "2026-06-07",
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
     "days": 1,
     "title": "JetBrains/Mellum2-12B-A2.5B-Thinking"
   },
@@ -348,8 +306,8 @@
     "title": "How Endava is redesigning software delivery around AI agents"
   },
   "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": {
-    "first_seen": "2026-06-05",
-    "last_seen": "2026-06-05",
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
     "days": 1,
     "title": "OpenAI frontier models and Codex are now available on AWS"
   },
@@ -634,5 +592,113 @@
     "last_seen": "2026-06-09",
     "days": 1,
     "title": "Replies to comments on my LLMs are eroding my career post"
+  },
+  "https://huggingface.co/papers/2606.05405": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "Agents' Last Exam"
+  },
+  "https://huggingface.co/papers/2606.09079": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention"
+  },
+  "https://huggingface.co/papers/2606.06087": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents"
+  },
+  "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  "https://huggingface.co/papers/2606.07299": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning"
+  },
+  "https://huggingface.co/papers/2606.08348": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "Bayesian-Agent: Posterior-Guided Skill Evolution for LLM Agent Harnesses"
+  },
+  "https://huggingface.co/papers/2606.06523": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory"
+  },
+  "https://arxiv.org/abs/2605.15184": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search"
+  },
+  "https://huggingface.co/papers/2606.09826": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics"
+  },
+  "https://huggingface.co/papers/2606.03980": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill"
+  },
+  "https://huggingface.co/papers/2606.08960": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "Hardening Agent Benchmarks with Adversarial Hacker-Fixer Loops"
+  },
+  "https://huggingface.co/papers/2606.09809": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting"
+  },
+  "https://openai.com/index/notion": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "What Codex unlocks for Notion"
+  },
+  "https://openai.com/index/nextdoor": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "How engineers at Nextdoor use Codex to build without limits"
+  },
+  "https://huggingface.co/CohereLabs/North-Mini-Code-1.0": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "CohereLabs/North-Mini-Code-1.0"
+  },
+  "https://blog.gitbutler.com/true-grit": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "Grit: Rewriting Git in Rust with Agents"
+  },
+  "https://huggingface.co/papers/2606.09659": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "End-to-End Context Compression at Scale"
+  },
+  "https://huggingface.co/papers/2606.05633": {
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "days": 1,
+    "title": "Answer Presence Drives RAG Rewriting Gains"
   }
 }

@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-11T08:37:13+09:00",
+  "items": [
+    {
+      "id": "hn:48475483",
+      "title": "Building an HTML-first site doubled our users overnight",
+      "url": "https://mohkohn.co.uk/writing/html-first/",
+      "description": "",
+      "signals": {
+        "points": 961,
+        "num_comments": 441,
+        "discussion_url": "https://news.ycombinator.com/item?id=48475483"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48472877",
+      "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+      "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+      "description": "",
+      "signals": {
+        "points": 499,
+        "num_comments": 316,
+        "discussion_url": "https://news.ycombinator.com/item?id=48472877"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48477135",
+      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+      "url": "https://news.ycombinator.com/item?id=48477135",
+      "description": "",
+      "signals": {
+        "points": 489,
+        "num_comments": 390,
+        "discussion_url": "https://news.ycombinator.com/item?id=48477135"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48480978",
+      "title": "πFS",
+      "url": "https://github.com/philipl/pifs",
+      "description": "",
+      "signals": {
+        "points": 426,
+        "num_comments": 110,
+        "discussion_url": "https://news.ycombinator.com/item?id=48480978"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48476466",
+      "title": "PgDog is funded and coming to a database near you",
+      "url": "https://pgdog.dev/blog/our-funding-announcement",
+      "description": "",
+      "signals": {
+        "points": 363,
+        "num_comments": 184,
+        "discussion_url": "https://news.ycombinator.com/item?id=48476466"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48481126",
+      "title": "Farmer donates land for a park, city sells it for $10M as data center land",
+      "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
+      "description": "",
+      "signals": {
+        "points": 326,
+        "num_comments": 127,
+        "discussion_url": "https://news.ycombinator.com/item?id=48481126"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48479452",
+      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "description": "",
+      "signals": {
+        "points": 317,
+        "num_comments": 220,
+        "discussion_url": "https://news.ycombinator.com/item?id=48479452"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48480852",
+      "title": "Anthropic's model naming, extrapolated",
+      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "description": "",
+      "signals": {
+        "points": 258,
+        "num_comments": 72,
+        "discussion_url": "https://news.ycombinator.com/item?id=48480852"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48475100",
+      "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+      "url": "https://jivx.com/eki",
+      "description": "",
+      "signals": {
+        "points": 180,
+        "num_comments": 63,
+        "discussion_url": "https://news.ycombinator.com/item?id=48475100"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48477400",
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "url": "https://burr.apache.org/",
+      "description": "",
+      "signals": {
+        "points": 167,
+        "num_comments": 87,
+        "discussion_url": "https://news.ycombinator.com/item?id=48477400"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48479705",
+      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+      "description": "",
+      "signals": {
+        "points": 156,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48479705"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48477851",
+      "title": "Authentication issues related to API requests",
+      "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
+      "description": "",
+      "signals": {
+        "points": 150,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=48477851"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48456808",
+      "title": "L'Affaire Siloxane",
+      "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
+      "description": "",
+      "signals": {
+        "points": 129,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=48456808"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48481857",
+      "title": "Raspberry Pi 5 – 16 GB, $350",
+      "url": "https://www.adafruit.com/product/6125?src=raspberrypi",
+      "description": "",
+      "signals": {
+        "points": 127,
+        "num_comments": 149,
+        "discussion_url": "https://news.ycombinator.com/item?id=48481857"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48479852",
+      "title": "GeoLibre 1.0",
+      "url": "https://geolibre.app/",
+      "description": "",
+      "signals": {
+        "points": 124,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48479852"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48478469",
+      "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+      "url": "https://www.extend.ai/ui",
+      "description": "",
+      "signals": {
+        "points": 123,
+        "num_comments": 30,
+        "discussion_url": "https://news.ycombinator.com/item?id=48478469"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48480719",
+      "title": "Policy on the AI Exponential",
+      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+      "description": "",
+      "signals": {
+        "points": 116,
+        "num_comments": 168,
+        "discussion_url": "https://news.ycombinator.com/item?id=48480719"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48464258",
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "description": "",
+      "signals": {
+        "points": 90,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=48464258"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48478148",
+      "title": "Show HN: HelixDB – A graph database built on object storage",
+      "url": "https://github.com/HelixDB/helix-db/tree/main",
+      "description": "",
+      "signals": {
+        "points": 81,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=48478148"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48470578",
+      "title": "Smudging the game disc to make speedrunning 'SpongeBob' faster",
+      "url": "https://www.inverse.com/input/gaming/the-dirty-secret-that-makes-speedrunning-on-spongebob-a-lot-faster",
+      "description": "",
+      "signals": {
+        "points": 64,
+        "num_comments": 38,
+        "discussion_url": "https://news.ycombinator.com/item?id=48470578"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48478969",
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "description": "",
+      "signals": {
+        "points": 61,
+        "num_comments": 58,
+        "discussion_url": "https://news.ycombinator.com/item?id=48478969"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48482293",
+      "title": "What is it like to be a bat? (1974) [pdf]",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
+      "description": "",
+      "signals": {
+        "points": 49,
+        "num_comments": 43,
+        "discussion_url": "https://news.ycombinator.com/item?id=48482293"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48483387",
+      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+      "description": "",
+      "signals": {
+        "points": 34,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48483387"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48446532",
+      "title": "World Capitals Voronoi",
+      "url": "https://www.jasondavies.com/maps/voronoi/capitals/",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48446532"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48444136",
+      "title": "Pick and Place: Carbon Nanotube Nanoassembly Process",
+      "url": "https://www.c12qe.com/news/pick-and-place-carbon-nanotube-quantum-chip-manufacturing",
+      "description": "",
+      "signals": {
+        "points": 20,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48444136"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48460286",
+      "title": "Show HN: Atlasphere – Live Infrastructure Diagrams",
+      "url": "https://news.ycombinator.com/item?id=48460286",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48460286"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48471805",
+      "title": "Show HN: Artie – Real-time data replication to your warehouse, now self-serve",
+      "url": "https://www.artie.com",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48471805"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    }
+  ]
+}

@@ -5,84 +5,6 @@
     "days": 4,
     "title": "nesquena/hermes-webui"
   },
-  "https://github.com/chopratejas/headroom": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "chopratejas/headroom"
-  },
-  "https://huggingface.co/papers/2605.28556": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks"
-  },
-  "https://huggingface.co/papers/2606.02470": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation"
-  },
-  "https://microsoft.ai/news/introducingmai-code-1-flash/": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "MAI-Code-1-Flash"
-  },
-  "https://huggingface.co/papers/2606.02373": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses"
-  },
-  "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw"
-  },
-  "https://huggingface.co/papers/2606.01533": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "Multi-Agent Computer Use"
-  },
-  "https://huggingface.co/papers/2605.24202": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "When Does Multi-Agent RL Improve LLM Workflows? Workflow, Scale, and Policy-Sharing Tradeoffs"
-  },
-  "https://huggingface.co/papers/2606.01528": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "Joint Agent Memory and Exploration Learning via Novelty Signals"
-  },
-  "https://huggingface.co/papers/2606.01414": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "Agent Skills Should Go Beyond Text: The Case for Visual Skills"
-  },
-  "https://huggingface.co/papers/2606.02031": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents"
-  },
-  "https://huggingface.co/papers/2606.01682": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "Off-the-Shelf LLMs as Process Scorers: Training-Free Alternative to PRMs for Mathematical Reasoning"
-  },
-  "https://huggingface.co/papers/2605.28897": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews"
-  },
   "https://openai.com/index/codex-for-every-role-tool-workflow": {
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-08",
@@ -94,36 +16,6 @@
     "last_seen": "2026-06-06",
     "days": 1,
     "title": "Codex is becoming a productivity tool for everyone"
-  },
-  "https://github.com/features/preview/github-app": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "GitHub Copilot App"
-  },
-  "https://github.com/jamwithai/production-agentic-rag-course": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "jamwithai/production-agentic-rag-course"
-  },
-  "https://www.kapa.ai/blog/how-we-index-images-for-rag": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "How we index images for RAG"
-  },
-  "https://huggingface.co/papers/2606.01336": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "LongAttnComp: Cross-Family Context Compression for Long-Context Reasoning"
-  },
-  "https://research.perplexity.ai/articles/rethinking-search-as-code-generation": {
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "days": 1,
-    "title": "Rethinking search as code generation"
   },
   "https://huggingface.co/papers/2606.00683": {
     "first_seen": "2026-06-04",
@@ -294,9 +186,9 @@
     "title": "Token Budgets: An Empirical Catalog of 63 LLM-Agent Budget-Overrun Incidents"
   },
   "https://github.com/mvanhorn/last30days-skill": {
-    "first_seen": "2026-06-05",
-    "last_seen": "2026-06-08",
-    "days": 4,
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
     "title": "mvanhorn/last30days-skill"
   },
   "https://openai.com/index/endava-frontiers": {
@@ -552,14 +444,14 @@
     "title": "HarnessForge"
   },
   "https://github.com/google/skills": {
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
     "days": 1,
     "title": "google/skills"
   },
   "https://github.com/phuryn/pm-skills": {
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
     "days": 1,
     "title": "phuryn/pm-skills"
   },
@@ -582,8 +474,8 @@
     "title": "Andyyyy64/whichllm"
   },
   "https://github.com/luongnv89/claude-howto": {
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
     "days": 1,
     "title": "luongnv89/claude-howto"
   },
@@ -700,5 +592,89 @@
     "last_seen": "2026-06-10",
     "days": 1,
     "title": "Answer Presence Drives RAG Rewriting Gains"
+  },
+  "https://burr.apache.org/": {
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
+    "title": "Apache Burr: Build reliable AI agents and applications"
+  },
+  "https://huggingface.co/papers/2606.10917": {
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
+    "title": "Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution"
+  },
+  "https://huggingface.co/papers/2606.05922": {
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
+    "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference"
+  },
+  "https://github.com/anthropics/claude-code/issues/29045": {
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
+    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch"
+  },
+  "https://huggingface.co/papers/2606.11182": {
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
+    "title": "EEVEE: Test-time Prompt Learning in the Real World for Self-Improving Agents"
+  },
+  "https://huggingface.co/papers/2606.09730": {
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
+    "title": "SearchSwarm: Delegation Intelligence in Agentic LLMs for Deep Research"
+  },
+  "https://huggingface.co/papers/2606.10662": {
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
+    "title": "Decentralized Multi-Agent Systems with Shared Context"
+  },
+  "https://huggingface.co/papers/2606.05304": {
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
+    "title": "What Should Agents Say? Action-state Communication for Multi-Agent Systems"
+  },
+  "https://huggingface.co/papers/2606.07689": {
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
+    "title": "Struct-Searcher: Agentic Structural Thinking for Multimodal Deep Search"
+  },
+  "https://huggingface.co/papers/2606.09032": {
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
+    "title": "Bridging the Agent-World Gap: Text World Models for LLM-based Agents"
+  },
+  "https://huggingface.co/papers/2606.02540": {
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
+    "title": "SkillHarm: Lifecycle-Aware Skill-Based Attacks via Automated Construction"
+  },
+  "https://huggingface.co/papers/2606.04391": {
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
+    "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval"
+  },
+  "https://huggingface.co/papers/2606.11042": {
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
+    "title": "Workflow-GYM: Long-Horizon Evaluation of Computer-use Agentic Tasks"
+  },
+  "https://huggingface.co/papers/2606.07379": {
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "days": 1,
+    "title": "Do Coding Agents Deceive Us? Capped Evaluation with Randomized Tests"
   }
 }

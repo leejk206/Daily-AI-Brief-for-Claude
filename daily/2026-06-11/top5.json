@@ -1,0 +1,7 @@
+[
+  {"url": "https://burr.apache.org/", "title": "Apache Burr: Build reliable AI agents and applications"},
+  {"url": "https://huggingface.co/papers/2606.10917", "title": "Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution"},
+  {"url": "https://huggingface.co/papers/2606.05922", "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference"},
+  {"url": "https://github.com/anthropics/claude-code/issues/29045", "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch"},
+  {"url": "https://huggingface.co/papers/2606.11182", "title": "EEVEE: Test-time Prompt Learning in the Real World for Self-Improving Agents"}
+]

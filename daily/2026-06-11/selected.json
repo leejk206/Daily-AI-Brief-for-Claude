@@ -1,0 +1,20 @@
+[
+  {"url": "https://burr.apache.org/", "title": "Apache Burr: Build reliable AI agents and applications"},
+  {"url": "https://huggingface.co/papers/2606.10917", "title": "Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution"},
+  {"url": "https://huggingface.co/papers/2606.05922", "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference"},
+  {"url": "https://github.com/anthropics/claude-code/issues/29045", "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch"},
+  {"url": "https://huggingface.co/papers/2606.11182", "title": "EEVEE: Test-time Prompt Learning in the Real World for Self-Improving Agents"},
+  {"url": "https://huggingface.co/papers/2606.09730", "title": "SearchSwarm: Delegation Intelligence in Agentic LLMs for Deep Research"},
+  {"url": "https://huggingface.co/papers/2606.10662", "title": "Decentralized Multi-Agent Systems with Shared Context"},
+  {"url": "https://huggingface.co/papers/2606.05304", "title": "What Should Agents Say? Action-state Communication for Multi-Agent Systems"},
+  {"url": "https://huggingface.co/papers/2606.07689", "title": "Struct-Searcher: Agentic Structural Thinking for Multimodal Deep Search"},
+  {"url": "https://huggingface.co/papers/2606.09032", "title": "Bridging the Agent-World Gap: Text World Models for LLM-based Agents"},
+  {"url": "https://huggingface.co/papers/2606.02540", "title": "SkillHarm: Lifecycle-Aware Skill-Based Attacks via Automated Construction"},
+  {"url": "https://huggingface.co/papers/2606.04391", "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval"},
+  {"url": "https://huggingface.co/papers/2606.11042", "title": "Workflow-GYM: Long-Horizon Evaluation of Computer-use Agentic Tasks"},
+  {"url": "https://huggingface.co/papers/2606.07379", "title": "Do Coding Agents Deceive Us? Capped Evaluation with Randomized Tests"},
+  {"url": "https://github.com/google/skills", "title": "google/skills"},
+  {"url": "https://github.com/luongnv89/claude-howto", "title": "luongnv89/claude-howto"},
+  {"url": "https://github.com/mvanhorn/last30days-skill", "title": "mvanhorn/last30days-skill"},
+  {"url": "https://github.com/phuryn/pm-skills", "title": "phuryn/pm-skills"}
+]

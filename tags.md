@@ -82,10 +82,10 @@ AI 생성 코드 기여·OSS 정책·거버넌스
 ### retrieval
 검색·RAG·밀집 검색기·이종 지식원 검색 전략
 
+### security
+AI 기반 취약점 탐지·보안 분석·코드 보안
+
 ## Candidate
 
 ### voice-agent
 보이스·전화·음성 인터랙션 기반 에이전트
-
-### security
-AI 기반 취약점 탐지·보안 분석·코드 보안

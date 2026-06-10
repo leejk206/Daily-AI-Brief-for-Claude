@@ -1094,5 +1094,25 @@
   "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools": {
     "archived_on": "2026-06-10",
     "title": "x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  "https://burr.apache.org/": {
+    "archived_on": "2026-06-11",
+    "title": "Apache Burr: Build reliable AI agents and applications"
+  },
+  "https://huggingface.co/papers/2606.10917": {
+    "archived_on": "2026-06-11",
+    "title": "Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution"
+  },
+  "https://huggingface.co/papers/2606.05922": {
+    "archived_on": "2026-06-11",
+    "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference"
+  },
+  "https://github.com/anthropics/claude-code/issues/29045": {
+    "archived_on": "2026-06-11",
+    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch"
+  },
+  "https://huggingface.co/papers/2606.11182": {
+    "archived_on": "2026-06-11",
+    "title": "EEVEE: Test-time Prompt Learning in the Real World for Self-Improving Agents"
   }
 }

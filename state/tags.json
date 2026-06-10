@@ -7003,7 +7003,7 @@
         "claude-code",
         "web-agent"
       ],
-      "tagged_at": "2026-06-08T02:36:31+09:00"
+      "tagged_at": "2026-06-11T08:40:25+09:00"
     },
     "https://openai.com/index/endava-frontiers": {
       "title": "How Endava is redesigning software delivery around AI agents",
@@ -7515,7 +7515,7 @@
       "tags": [
         "agent-skill"
       ],
-      "tagged_at": "2026-06-09T05:22:17+09:00"
+      "tagged_at": "2026-06-11T08:40:25+09:00"
     },
     "https://github.com/phuryn/pm-skills": {
       "title": "phuryn/pm-skills",
@@ -7526,7 +7526,7 @@
       "tags": [
         "agent-skill"
       ],
-      "tagged_at": "2026-06-09T05:22:17+09:00"
+      "tagged_at": "2026-06-11T08:40:25+09:00"
     },
     "https://huggingface.co/papers/2606.05761": {
       "title": "SubtleMemory",
@@ -7575,7 +7575,7 @@
         "claude-code",
         "tutorial"
       ],
-      "tagged_at": "2026-06-09T05:22:17+09:00"
+      "tagged_at": "2026-06-11T08:40:25+09:00"
     },
     "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/": {
       "title": "Replies to comments on my \"LLMs are eroding my career\" post",
@@ -7810,6 +7810,174 @@
         "retrieval"
       ],
       "tagged_at": "2026-06-10T09:22:06+09:00"
+    },
+    "https://burr.apache.org/": {
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "summary": "아파치, 신뢰성 높은 AI 에이전트 구축 프레임워크",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-06-11",
+      "tags": [
+        "agent-harness"
+      ],
+      "tagged_at": "2026-06-11T08:40:25+09:00"
+    },
+    "https://huggingface.co/papers/2606.10917": {
+      "title": "Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution",
+      "summary": "이중 역할 진화로 LLM 에이전트 자가 부트스트랩",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-11",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-11T08:40:25+09:00"
+    },
+    "https://huggingface.co/papers/2606.05922": {
+      "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference",
+      "summary": "정답셋 없이 궤적 자기선호로 에이전트 하네스 개선",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-11",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-06-11T08:40:25+09:00"
+    },
+    "https://github.com/anthropics/claude-code/issues/29045": {
+      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch",
+      "summary": "클로드 데스크톱, 채팅에도 1.8GB VM 띄워 논란",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-11",
+      "tags": [
+        "claude-code"
+      ],
+      "tagged_at": "2026-06-11T08:40:25+09:00"
+    },
+    "https://huggingface.co/papers/2606.11182": {
+      "title": "EEVEE: Test-time Prompt Learning in the Real World for Self-Improving Agents",
+      "summary": "실세계 태스크 스트림용 테스트타임 프롬프트 학습",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-11",
+      "tags": [
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-11T08:40:25+09:00"
+    },
+    "https://huggingface.co/papers/2606.09730": {
+      "title": "SearchSwarm: Delegation Intelligence in Agentic LLMs for Deep Research",
+      "summary": "메인-서브에이전트 위임으로 장기 딥리서치",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-11",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-11T08:40:25+09:00"
+    },
+    "https://huggingface.co/papers/2606.10662": {
+      "title": "Decentralized Multi-Agent Systems with Shared Context",
+      "summary": "중앙 오케스트레이터 없는 공유 컨텍스트 멀티에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-11",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-11T08:40:25+09:00"
+    },
+    "https://huggingface.co/papers/2606.05304": {
+      "title": "What Should Agents Say? Action-state Communication for Multi-Agent Systems",
+      "summary": "자유형 대화 대신 행동-상태 통신으로 토큰 절감",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-11",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-11T08:40:25+09:00"
+    },
+    "https://huggingface.co/papers/2606.07689": {
+      "title": "Struct-Searcher: Agentic Structural Thinking for Multimodal Deep Search",
+      "summary": "구조적 사고로 멀티모달 심층 정보탐색 강화",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-11",
+      "tags": [
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-11T08:40:25+09:00"
+    },
+    "https://huggingface.co/papers/2606.09032": {
+      "title": "Bridging the Agent-World Gap: Text World Models for LLM-based Agents",
+      "summary": "텍스트 월드모델로 반응형 에이전트 한계 극복",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-11",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-06-11T08:40:25+09:00"
+    },
+    "https://huggingface.co/papers/2606.02540": {
+      "title": "SkillHarm: Lifecycle-Aware Skill-Based Attacks via Automated Construction",
+      "summary": "에이전트 스킬을 노린 자동 공격 구성 연구",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-11",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "security"
+      ],
+      "tagged_at": "2026-06-11T08:40:25+09:00"
+    },
+    "https://huggingface.co/papers/2606.04391": {
+      "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval",
+      "summary": "상태 기반 동적 검색으로 웹 에이전트 스킬 학습",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-11",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "web-agent"
+      ],
+      "tagged_at": "2026-06-11T08:40:25+09:00"
+    },
+    "https://huggingface.co/papers/2606.11042": {
+      "title": "Workflow-GYM: Long-Horizon Evaluation of Computer-use Agentic Tasks",
+      "summary": "실무 GUI 장기 워크플로우 평가 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-11",
+      "tags": [
+        "benchmark",
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-06-11T08:40:25+09:00"
+    },
+    "https://huggingface.co/papers/2606.07379": {
+      "title": "Do Coding Agents Deceive Us? Capped Evaluation with Randomized Tests",
+      "summary": "코딩 에이전트의 평가 부정행위 탐지·방지",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-11",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-11T08:40:25+09:00"
     }
   }
 }

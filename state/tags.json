@@ -1442,7 +1442,7 @@
         "agent-skill",
         "multi-agent"
       ],
-      "tagged_at": "2026-05-21T14:17:49+09:00"
+      "tagged_at": "2026-06-12T07:05:23+09:00"
     },
     "https://huggingface.co/papers/2604.24026": {
       "title": "From Skill Text to Skill Structure",
@@ -7526,7 +7526,7 @@
       "tags": [
         "agent-skill"
       ],
-      "tagged_at": "2026-06-11T08:40:25+09:00"
+      "tagged_at": "2026-06-12T07:05:23+09:00"
     },
     "https://huggingface.co/papers/2606.05761": {
       "title": "SubtleMemory",
@@ -7772,7 +7772,7 @@
         "coding-platform",
         "local-inference"
       ],
-      "tagged_at": "2026-06-10T09:22:06+09:00"
+      "tagged_at": "2026-06-12T07:05:23+09:00"
     },
     "https://blog.gitbutler.com/true-grit": {
       "title": "Grit: Rewriting Git in Rust with Agents",
@@ -7891,7 +7891,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-06-11T08:40:25+09:00"
+      "tagged_at": "2026-06-12T07:05:23+09:00"
     },
     "https://huggingface.co/papers/2606.05304": {
       "title": "What Should Agents Say? Action-state Communication for Multi-Agent Systems",
@@ -7939,7 +7939,7 @@
         "paper",
         "security"
       ],
-      "tagged_at": "2026-06-11T08:40:25+09:00"
+      "tagged_at": "2026-06-12T07:05:23+09:00"
     },
     "https://huggingface.co/papers/2606.04391": {
       "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval",
@@ -7977,7 +7977,211 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-06-11T08:40:25+09:00"
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://openai.com/index/openai-to-acquire-ona": {
+      "title": "OpenAI to acquire Ona",
+      "summary": "Codex에 영속 클라우드 환경 더해 장기 실행 에이전트 강화",
+      "category": "coding-agents",
+      "source": "openai",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "agent-harness",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/": {
+      "title": "Investing in multi-agent AI safety research",
+      "summary": "딥마인드, 멀티에이전트 안전 연구에 1000만 달러 펀딩 콜",
+      "category": "agent-frameworks",
+      "source": "deepmind",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "multi-agent",
+        "security"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://huggingface.co/papers/2606.12344": {
+      "title": "Claw-SWE-Bench: Evaluating OpenClaw-style Agent Harnesses on Coding Tasks",
+      "summary": "범용 에이전트 하네스의 코딩 능력 측정 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "agent-harness",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://huggingface.co/papers/2606.11926": {
+      "title": "Toward Generalist Autonomous Research via Hypothesis-Tree Refinement",
+      "summary": "가설 트리로 장기 자율 연구를 수행하는 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "auto-research",
+        "paper"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://mimo.xiaomi.com/mimocode": {
+      "title": "MiMo Code is now released and open-source",
+      "summary": "샤오미, 오픈소스 코딩 에이전트 MiMo Code 공개",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://github.com/hexo-ai/sia": {
+      "title": "hexo-ai/sia",
+      "summary": "벤치마크 과제에서 임의의 AI 시스템을 자율 개선하는 Self-Improving 프레임워크",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "agent-harness",
+        "benchmark"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://huggingface.co/papers/2606.12191": {
+      "title": "Agentic Environment Engineering for LLMs: A Survey",
+      "summary": "에이전트 환경 모델링·합성·평가를 정리한 서베이",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://github.com/denoland/clawpatrol": {
+      "title": "Show HN: Claw Patrol, a security firewall for agents",
+      "summary": "에이전트 동작을 가로채는 보안 방화벽",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "agent-harness",
+        "security"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://github.com/NVIDIA/SkillSpector": {
+      "title": "NVIDIA/SkillSpector",
+      "summary": "AI 에이전트 스킬의 취약점·악성 패턴 탐지 스캐너",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "agent-skill",
+        "security"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://huggingface.co/papers/2606.07943": {
+      "title": "POISE: Position-Aware Undetectable Skill Injection on LLM Agents",
+      "summary": "탐지 불가능한 에이전트 스킬 인젝션 공격",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "security"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://huggingface.co/papers/2605.11212": {
+      "title": "ReVision: Scaling Computer-Use Agents via Temporal Visual Redundancy Reduction",
+      "summary": "시각 토큰 중복 제거로 컴퓨터 사용 에이전트 확장",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://huggingface.co/papers/2606.10156": {
+      "title": "τ-Rec: A Verifiable Benchmark for Agentic Recommender Systems",
+      "summary": "검증 가능한 에이전트형 추천 시스템 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://huggingface.co/papers/2606.12071": {
+      "title": "On the Limits of LLM-as-Judge for Scientific Novelty Assessment",
+      "summary": "과학적 참신성 평가에서 LLM-as-Judge의 한계 분석",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype": {
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "summary": "Fable 5의 코딩 과제 성능에 대한 비판적 평가",
+      "category": "llm-harness-eval",
+      "source": "hacker_news",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "benchmark"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://github.com/kenn-io/agentsview": {
+      "title": "kenn-io/agentsview",
+      "summary": "Claude Code·Codex 등 20+ 코딩 에이전트 세션 분석 도구",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://huggingface.co/papers/2606.10728": {
+      "title": "DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories",
+      "summary": "사양에서 전체 리포지토리를 생성하는 장기 코딩 에이전트",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://huggingface.co/papers/2606.12203": {
+      "title": "Adaptive Multi-Resolution Procedural Knowledge Compression for LLMs",
+      "summary": "재사용 스킬의 절차 지식을 다중 해상도로 압축",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-12",
+      "tags": [
+        "agent-skill",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-12T07:05:23+09:00"
     }
   }
 }

@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-12T07:02:30+09:00",
+  "items": [
+    {
+      "id": "hn:48490024",
+      "title": "Show HN: Homebrew 6.0.0",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "description": "",
+      "signals": {
+        "points": 790,
+        "num_comments": 190,
+        "discussion_url": "https://news.ycombinator.com/item?id=48490024"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48487029",
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "description": "",
+      "signals": {
+        "points": 669,
+        "num_comments": 303,
+        "discussion_url": "https://news.ycombinator.com/item?id=48487029"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48490826",
+      "title": "MiMo Code is now released and open-source",
+      "url": "https://mimo.xiaomi.com/mimocode",
+      "description": "",
+      "signals": {
+        "points": 375,
+        "num_comments": 209,
+        "discussion_url": "https://news.ycombinator.com/item?id=48490826"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48492306",
+      "title": "Solar generates more energy in US than coal for first time",
+      "url": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
+      "description": "",
+      "signals": {
+        "points": 362,
+        "num_comments": 175,
+        "discussion_url": "https://news.ycombinator.com/item?id=48492306"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48489402",
+      "title": "Lines of code got a better publicist",
+      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+      "description": "",
+      "signals": {
+        "points": 331,
+        "num_comments": 234,
+        "discussion_url": "https://news.ycombinator.com/item?id=48489402"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48442880",
+      "title": "Doing nothing at work",
+      "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
+      "description": "",
+      "signals": {
+        "points": 307,
+        "num_comments": 108,
+        "discussion_url": "https://news.ycombinator.com/item?id=48442880"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48491830",
+      "title": "Petition to Withdraw Canada's Bill C-22",
+      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+      "description": "",
+      "signals": {
+        "points": 279,
+        "num_comments": 100,
+        "discussion_url": "https://news.ycombinator.com/item?id=48491830"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48474274",
+      "title": "Emacs appearances in pop culture",
+      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+      "description": "",
+      "signals": {
+        "points": 194,
+        "num_comments": 36,
+        "discussion_url": "https://news.ycombinator.com/item?id=48474274"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48492215",
+      "title": "The RCE that AMD wouldn't fix",
+      "url": "https://mrbruh.com/amd2/",
+      "description": "",
+      "signals": {
+        "points": 183,
+        "num_comments": 67,
+        "discussion_url": "https://news.ycombinator.com/item?id=48492215"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48462070",
+      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+      "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+      "description": "",
+      "signals": {
+        "points": 181,
+        "num_comments": 83,
+        "discussion_url": "https://news.ycombinator.com/item?id=48462070"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48489917",
+      "title": "Open Reproduction of DeepSeek-R1",
+      "url": "https://github.com/huggingface/open-r1",
+      "description": "",
+      "signals": {
+        "points": 177,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48489917"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48452001",
+      "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+      "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+      "description": "",
+      "signals": {
+        "points": 173,
+        "num_comments": 47,
+        "discussion_url": "https://news.ycombinator.com/item?id=48452001"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48476214",
+      "title": "Fully autonomous drones have killed human soldiers for the first time",
+      "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/",
+      "description": "",
+      "signals": {
+        "points": 169,
+        "num_comments": 138,
+        "discussion_url": "https://news.ycombinator.com/item?id=48476214"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48492533",
+      "title": "Software Is Made Between Commits",
+      "url": "https://zed.dev/blog/introducing-deltadb",
+      "description": "",
+      "signals": {
+        "points": 169,
+        "num_comments": 107,
+        "discussion_url": "https://news.ycombinator.com/item?id=48492533"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48492210",
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "description": "",
+      "signals": {
+        "points": 144,
+        "num_comments": 52,
+        "discussion_url": "https://news.ycombinator.com/item?id=48492210"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48492304",
+      "title": "Waymo Premier",
+      "url": "https://waymo.com/blog/2026/06/waymo-premier/",
+      "description": "",
+      "signals": {
+        "points": 121,
+        "num_comments": 311,
+        "discussion_url": "https://news.ycombinator.com/item?id=48492304"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48433351",
+      "title": "A new era for software testing",
+      "url": "https://antirez.com/news/168",
+      "description": "",
+      "signals": {
+        "points": 97,
+        "num_comments": 35,
+        "discussion_url": "https://news.ycombinator.com/item?id=48433351"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48447598",
+      "title": "Ear Training Practice Exercises",
+      "url": "https://tonedear.com/",
+      "description": "",
+      "signals": {
+        "points": 90,
+        "num_comments": 59,
+        "discussion_url": "https://news.ycombinator.com/item?id=48447598"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48491486",
+      "title": "FPS.cob: A first person shooter in COBOL",
+      "url": "https://github.com/icitry/FPS.cob",
+      "description": "",
+      "signals": {
+        "points": 86,
+        "num_comments": 53,
+        "discussion_url": "https://news.ycombinator.com/item?id=48491486"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48428959",
+      "title": "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar",
+      "url": "https://computerhistory.org/stories/explorers-of-the-lost-computers/",
+      "description": "",
+      "signals": {
+        "points": 85,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=48428959"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48495575",
+      "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "description": "",
+      "signals": {
+        "points": 81,
+        "num_comments": 64,
+        "discussion_url": "https://news.ycombinator.com/item?id=48495575"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48462928",
+      "title": "Show HN: Claw Patrol, a security firewall for agents",
+      "url": "https://github.com/denoland/clawpatrol",
+      "description": "",
+      "signals": {
+        "points": 73,
+        "num_comments": 24,
+        "discussion_url": "https://news.ycombinator.com/item?id=48462928"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48495751",
+      "title": "Travel Locally, Where You Are",
+      "url": "https://www.ssp.sh/brain/travel-where-you-are/",
+      "description": "",
+      "signals": {
+        "points": 47,
+        "num_comments": 24,
+        "discussion_url": "https://news.ycombinator.com/item?id=48495751"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48493564",
+      "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
+      "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+      "description": "",
+      "signals": {
+        "points": 44,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48493564"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48495197",
+      "title": "Who Runs the Ransomware Group 'The Gentlemen?'",
+      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "description": "",
+      "signals": {
+        "points": 36,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48495197"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48468495",
+      "title": "Programming a GBA Game on an iPhone",
+      "url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
+      "description": "",
+      "signals": {
+        "points": 34,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48468495"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48496539",
+      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "url": "https://fablepool.com",
+      "description": "",
+      "signals": {
+        "points": 23,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48496539"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48496396",
+      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+      "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48496396"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48496250",
+      "title": "Show HN: Boo – screen-style terminal multiplexer built on libghostty",
+      "url": "https://github.com/coder/boo",
+      "description": "",
+      "signals": {
+        "points": 17,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48496250"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48452174",
+      "title": "Pozzo: A Fast Lucky Number Checker",
+      "url": "https://github.com/Robert-Cunningham/pozzo",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48452174"
+      },
+      "category_hint": null
+    }
+  ]
+}

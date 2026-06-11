@@ -1114,5 +1114,25 @@
   "https://huggingface.co/papers/2606.11182": {
     "archived_on": "2026-06-11",
     "title": "EEVEE: Test-time Prompt Learning in the Real World for Self-Improving Agents"
+  },
+  "https://openai.com/index/openai-to-acquire-ona": {
+    "archived_on": "2026-06-12",
+    "title": "OpenAI to acquire Ona"
+  },
+  "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/": {
+    "archived_on": "2026-06-12",
+    "title": "Investing in multi-agent AI safety research"
+  },
+  "https://huggingface.co/papers/2606.12344": {
+    "archived_on": "2026-06-12",
+    "title": "Claw-SWE-Bench: Evaluating OpenClaw-style Agent Harnesses on Coding Tasks"
+  },
+  "https://huggingface.co/papers/2606.11926": {
+    "archived_on": "2026-06-12",
+    "title": "Toward Generalist Autonomous Research via Hypothesis-Tree Refinement"
+  },
+  "https://mimo.xiaomi.com/mimocode": {
+    "archived_on": "2026-06-12",
+    "title": "MiMo Code is now released and open-source"
   }
 }

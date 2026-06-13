@@ -1,6 +1,6 @@
 {
   "source": "huggingface",
-  "fetched_at": "2026-06-13T12:18:12+09:00",
+  "fetched_at": "2026-06-13T13:30:30+09:00",
   "items": [
     {
       "id": "hf-model:google/diffusiongemma-26B-A4B-it",
@@ -10,7 +10,7 @@
       "signals": {
         "type": "model",
         "downloads": 20669,
-        "likes": 623,
+        "likes": 628,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -23,7 +23,7 @@
       "signals": {
         "type": "model",
         "downloads": 149206,
-        "likes": 1927,
+        "likes": 1929,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -36,7 +36,7 @@
       "signals": {
         "type": "model",
         "downloads": 0,
-        "likes": 357,
+        "likes": 364,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -75,7 +75,7 @@
       "signals": {
         "type": "model",
         "downloads": 442,
-        "likes": 275,
+        "likes": 288,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -88,7 +88,7 @@
       "signals": {
         "type": "model",
         "downloads": 29347,
-        "likes": 391,
+        "likes": 392,
         "pipeline": "text-to-speech"
       },
       "category_hint": null
@@ -101,7 +101,7 @@
       "signals": {
         "type": "model",
         "downloads": 2393894,
-        "likes": 1727,
+        "likes": 1730,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -166,7 +166,7 @@
       "signals": {
         "type": "model",
         "downloads": 2551,
-        "likes": 225,
+        "likes": 226,
         "pipeline": "text-generation"
       },
       "category_hint": null
@@ -231,7 +231,7 @@
       "signals": {
         "type": "model",
         "downloads": 0,
-        "likes": 136,
+        "likes": 140,
         "pipeline": "image-to-video"
       },
       "category_hint": null
@@ -244,7 +244,7 @@
       "signals": {
         "type": "model",
         "downloads": 2910,
-        "likes": 327,
+        "likes": 328,
         "pipeline": "text-to-image"
       },
       "category_hint": null
@@ -257,7 +257,7 @@
       "signals": {
         "type": "model",
         "downloads": 0,
-        "likes": 116,
+        "likes": 117,
         "pipeline": "image-text-to-text"
       },
       "category_hint": null
@@ -413,7 +413,7 @@
       "description": "Multimodal image fusion aims to integrate complementary information from different modalities into a fused image that preserves rich local details while maintaining globally consistent appearance. Existing approaches build shared representations on 2D feature grids, which excel at modeling local str",
       "signals": {
         "type": "paper",
-        "upvotes": 10,
+        "upvotes": 12,
         "arxiv_id": "2606.12303"
       },
       "category_hint": null
@@ -437,7 +437,7 @@
       "description": "Speculative decoding (SD) addresses the high inference costs of LLMs by having lightweight drafters generate candidates for large verifiers to validate in parallel. Existing draft-verify methods use binary decisions: accept or fully recompute. Yet we find that many rejected tokens can be verified co",
       "signals": {
         "type": "paper",
-        "upvotes": 12,
+        "upvotes": 14,
         "arxiv_id": "2606.12243"
       },
       "category_hint": null
@@ -521,7 +521,7 @@
       "description": "Ultra-long-context capability is becoming indispensable for frontier LLMs: agentic workflows, repository-scale code reasoning, and persistent memory all require the model to jointly attend over hundreds of thousands to millions of tokens, yet the quadratic cost of softmax attention makes this untena",
       "signals": {
         "type": "paper",
-        "upvotes": 83,
+        "upvotes": 84,
         "arxiv_id": "2606.13392"
       },
       "category_hint": null
@@ -593,7 +593,7 @@
       "description": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dynamic, requiring agents to continually align their knowledge, skills, and behavior with changing envir",
       "signals": {
         "type": "paper",
-        "upvotes": 105,
+        "upvotes": 106,
         "arxiv_id": "2606.13681"
       },
       "category_hint": null
@@ -653,7 +653,7 @@
       "description": "Computer-use agents (CUAs) increasingly operate in runtimes that combine visual desktop control, command-line execution, code editing, browsers, and external tools. Existing benchmarks, however, often evaluate these interfaces as separable capabilities, leaving long-horizon cross-interface orchestra",
       "signals": {
         "type": "paper",
-        "upvotes": 55,
+        "upvotes": 60,
         "arxiv_id": "2606.09426"
       },
       "category_hint": null

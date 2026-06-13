@@ -1,7 +1,22 @@
 [
-  {"url": "https://huggingface.co/papers/2606.13681", "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments"},
-  {"url": "https://huggingface.co/papers/2606.13392", "title": "MiniMax Sparse Attention"},
-  {"url": "https://huggingface.co/papers/2606.09426", "title": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents"},
-  {"url": "https://huggingface.co/papers/2606.13174", "title": "Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents"},
-  {"url": "https://huggingface.co/papers/2606.12674", "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents"}
+  {
+    "url": "https://www.anthropic.com/news/fable-mythos-access",
+    "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5"
+  },
+  {
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "title": "Claude Fable 5 and Claude Mythos 5"
+  },
+  {
+    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "title": "How to setup a local coding agent on macOS"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.13572",
+    "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.13120",
+    "title": "EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge"
+  }
 ]

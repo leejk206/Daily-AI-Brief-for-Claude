@@ -7747,9 +7747,10 @@
       "source": "openai",
       "brief_date": "2026-06-10",
       "tags": [
+        "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-06-10T09:22:06+09:00"
+      "tagged_at": "2026-06-13T13:53:01+09:00"
     },
     "https://openai.com/index/nextdoor": {
       "title": "How engineers at Nextdoor use Codex to build without limits",
@@ -7758,9 +7759,10 @@
       "source": "openai",
       "brief_date": "2026-06-10",
       "tags": [
+        "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-06-10T09:22:06+09:00"
+      "tagged_at": "2026-06-13T13:53:01+09:00"
     },
     "https://huggingface.co/CohereLabs/North-Mini-Code-1.0": {
       "title": "CohereLabs/North-Mini-Code-1.0",
@@ -8295,7 +8297,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-06-13T12:21:28+09:00"
+      "tagged_at": "2026-06-13T13:53:01+09:00"
     },
     "https://huggingface.co/papers/2606.13120": {
       "title": "EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge",
@@ -8308,7 +8310,7 @@
         "paper",
         "web-agent"
       ],
-      "tagged_at": "2026-06-13T12:21:28+09:00"
+      "tagged_at": "2026-06-13T13:53:01+09:00"
     },
     "https://huggingface.co/papers/2606.11409": {
       "title": "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models",
@@ -8321,7 +8323,7 @@
         "paper",
         "security"
       ],
-      "tagged_at": "2026-06-13T12:21:28+09:00"
+      "tagged_at": "2026-06-13T13:53:01+09:00"
     },
     "https://huggingface.co/papers/2606.12451": {
       "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
@@ -8330,11 +8332,12 @@
       "source": "huggingface",
       "brief_date": "2026-06-13",
       "tags": [
+        "benchmark",
         "paper",
         "retrieval",
         "tool-use"
       ],
-      "tagged_at": "2026-06-13T12:21:28+09:00"
+      "tagged_at": "2026-06-13T13:53:01+09:00"
     },
     "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos": {
       "title": "How to setup a local coding agent on macOS",
@@ -8347,7 +8350,7 @@
         "local-inference",
         "tutorial"
       ],
-      "tagged_at": "2026-06-13T12:21:28+09:00"
+      "tagged_at": "2026-06-13T13:53:01+09:00"
     },
     "https://github.com/DanMcInerney/architect-loop": {
       "title": "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
@@ -8359,7 +8362,7 @@
         "cli-agent",
         "multi-agent"
       ],
-      "tagged_at": "2026-06-13T12:21:28+09:00"
+      "tagged_at": "2026-06-13T13:53:01+09:00"
     },
     "https://huggingface.co/papers/2606.04261": {
       "title": "Can Generalist Agents Automate Data Curation?",
@@ -8385,6 +8388,74 @@
         "long-context"
       ],
       "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://www.anthropic.com/news/fable-mythos-access": {
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "summary": "美 정부 지시로 Fable 5·Mythos 5 접속 차단, 오늘 최대 화제",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "model-access"
+      ],
+      "tagged_at": "2026-06-13T13:53:01+09:00"
+    },
+    "https://www.anthropic.com/news/claude-fable-5-mythos-5": {
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "summary": "Anthropic의 신규 플래그십 모델 Fable 5·Mythos 5 공식 출시",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "model-release"
+      ],
+      "tagged_at": "2026-06-13T13:53:01+09:00"
+    },
+    "https://huggingface.co/papers/2606.13572": {
+      "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning",
+      "summary": "멀티모달 의료 추론을 다중 에이전트로 분담하는 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-13T13:53:01+09:00"
+    },
+    "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/": {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "summary": "구글의 새 통합·인코더리스 멀티모달 오픈모델 Gemma 4 공개",
+      "category": "frontier-models",
+      "source": "deepmind",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "model-release"
+      ],
+      "tagged_at": "2026-06-13T13:53:01+09:00"
+    },
+    "https://huggingface.co/papers/2606.09290": {
+      "title": "Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning",
+      "summary": "단일 정책으로 다중 에이전트 시각 추론을 구현",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-13T13:53:01+09:00"
+    },
+    "https://openai.com/index/using-codex-to-simulate-black-holes": {
+      "title": "How an astrophysicist uses Codex to simulate black holes",
+      "summary": "천체물리 시뮬레이션에 Codex를 활용한 실사용 사례",
+      "category": "coding-agents",
+      "source": "openai",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "cli-agent"
+      ],
+      "tagged_at": "2026-06-13T13:53:01+09:00"
     }
   }
 }

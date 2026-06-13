@@ -1,6 +1,6 @@
 {
   "source": "hacker_news",
-  "fetched_at": "2026-06-13T12:18:12+09:00",
+  "fetched_at": "2026-06-13T13:30:24+09:00",
   "items": [
     {
       "id": "hn:48497609",
@@ -8,7 +8,7 @@
       "url": "https://tombedor.dev/human-attention-and-human-effort/",
       "description": "",
       "signals": {
-        "points": 1517,
+        "points": 1529,
         "num_comments": 466,
         "discussion_url": "https://news.ycombinator.com/item?id=48497609"
       },
@@ -16,12 +16,12 @@
     },
     {
       "id": "hn:48511072",
-      "title": "US Government directive to suspend access to Fable 5 and Mythos 5",
+      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
       "url": "https://www.anthropic.com/news/fable-mythos-access",
       "description": "",
       "signals": {
-        "points": 1106,
-        "num_comments": 687,
+        "points": 1397,
+        "num_comments": 938,
         "discussion_url": "https://news.ycombinator.com/item?id=48511072"
       },
       "category_hint": null
@@ -32,9 +32,21 @@
       "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
       "description": "",
       "signals": {
-        "points": 723,
-        "num_comments": 183,
+        "points": 744,
+        "num_comments": 185,
         "discussion_url": "https://news.ycombinator.com/item?id=48505231"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48511908",
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "description": "",
+      "signals": {
+        "points": 401,
+        "num_comments": 118,
+        "discussion_url": "https://news.ycombinator.com/item?id=48511908"
       },
       "category_hint": null
     },
@@ -44,8 +56,8 @@
       "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
       "description": "",
       "signals": {
-        "points": 338,
-        "num_comments": 276,
+        "points": 355,
+        "num_comments": 284,
         "discussion_url": "https://news.ycombinator.com/item?id=48507278"
       },
       "category_hint": null
@@ -56,8 +68,8 @@
       "url": "https://twitter.com/jsrailton/status/2064661778978533571",
       "description": "",
       "signals": {
-        "points": 327,
-        "num_comments": 192,
+        "points": 338,
+        "num_comments": 198,
         "discussion_url": "https://news.ycombinator.com/item?id=48495928"
       },
       "category_hint": null
@@ -68,8 +80,8 @@
       "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
       "description": "",
       "signals": {
-        "points": 288,
-        "num_comments": 73,
+        "points": 305,
+        "num_comments": 77,
         "discussion_url": "https://news.ycombinator.com/item?id=48507020"
       },
       "category_hint": null
@@ -80,8 +92,8 @@
       "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
       "description": "",
       "signals": {
-        "points": 251,
-        "num_comments": 67,
+        "points": 295,
+        "num_comments": 75,
         "discussion_url": "https://news.ycombinator.com/item?id=48510010"
       },
       "category_hint": null
@@ -92,8 +104,8 @@
       "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
       "description": "",
       "signals": {
-        "points": 226,
-        "num_comments": 48,
+        "points": 238,
+        "num_comments": 50,
         "discussion_url": "https://news.ycombinator.com/item?id=48509182"
       },
       "category_hint": null
@@ -104,9 +116,21 @@
       "url": "https://piwodlaiwo.github.io/pirates/",
       "description": "",
       "signals": {
-        "points": 208,
-        "num_comments": 73,
+        "points": 218,
+        "num_comments": 74,
         "discussion_url": "https://news.ycombinator.com/item?id=48506659"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48511121",
+      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+      "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+      "description": "",
+      "signals": {
+        "points": 203,
+        "num_comments": 85,
+        "discussion_url": "https://news.ycombinator.com/item?id=48511121"
       },
       "category_hint": null
     },
@@ -116,21 +140,9 @@
       "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
       "description": "",
       "signals": {
-        "points": 168,
-        "num_comments": 111,
+        "points": 171,
+        "num_comments": 112,
         "discussion_url": "https://news.ycombinator.com/item?id=48504912"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:48511908",
-      "title": "Open Source AI Must Win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "description": "",
-      "signals": {
-        "points": 165,
-        "num_comments": 37,
-        "discussion_url": "https://news.ycombinator.com/item?id=48511908"
       },
       "category_hint": null
     },
@@ -140,8 +152,8 @@
       "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
       "description": "",
       "signals": {
-        "points": 155,
-        "num_comments": 66,
+        "points": 170,
+        "num_comments": 67,
         "discussion_url": "https://news.ycombinator.com/item?id=48508726"
       },
       "category_hint": null
@@ -152,33 +164,9 @@
       "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
       "description": "",
       "signals": {
-        "points": 150,
-        "num_comments": 45,
+        "points": 170,
+        "num_comments": 54,
         "discussion_url": "https://news.ycombinator.com/item?id=48484496"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:48503014",
-      "title": "Maxproof",
-      "url": "https://arxiv.org/abs/2606.13473",
-      "description": "",
-      "signals": {
-        "points": 128,
-        "num_comments": 12,
-        "discussion_url": "https://news.ycombinator.com/item?id=48503014"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:48506209",
-      "title": "Adaptive PDFs",
-      "url": "https://sgaud.com/texts/pdf",
-      "description": "",
-      "signals": {
-        "points": 123,
-        "num_comments": 66,
-        "discussion_url": "https://news.ycombinator.com/item?id=48506209"
       },
       "category_hint": null
     },
@@ -188,9 +176,33 @@
       "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
       "description": "",
       "signals": {
-        "points": 122,
-        "num_comments": 59,
+        "points": 142,
+        "num_comments": 75,
         "discussion_url": "https://news.ycombinator.com/item?id=48510046"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48506209",
+      "title": "Adaptive PDFs",
+      "url": "https://sgaud.com/texts/pdf",
+      "description": "",
+      "signals": {
+        "points": 131,
+        "num_comments": 66,
+        "discussion_url": "https://news.ycombinator.com/item?id=48506209"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48503014",
+      "title": "Maxproof",
+      "url": "https://arxiv.org/abs/2606.13473",
+      "description": "",
+      "signals": {
+        "points": 131,
+        "num_comments": 13,
+        "discussion_url": "https://news.ycombinator.com/item?id=48503014"
       },
       "category_hint": null
     },
@@ -200,7 +212,7 @@
       "url": "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/",
       "description": "",
       "signals": {
-        "points": 114,
+        "points": 117,
         "num_comments": 61,
         "discussion_url": "https://news.ycombinator.com/item?id=48505452"
       },
@@ -212,21 +224,9 @@
       "url": "https://putt.day/",
       "description": "",
       "signals": {
-        "points": 86,
-        "num_comments": 56,
+        "points": 105,
+        "num_comments": 59,
         "discussion_url": "https://news.ycombinator.com/item?id=48510341"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:48511121",
-      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
-      "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
-      "description": "",
-      "signals": {
-        "points": 84,
-        "num_comments": 19,
-        "discussion_url": "https://news.ycombinator.com/item?id=48511121"
       },
       "category_hint": null
     },
@@ -236,8 +236,8 @@
       "url": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
       "description": "",
       "signals": {
-        "points": 81,
-        "num_comments": 26,
+        "points": 84,
+        "num_comments": 28,
         "discussion_url": "https://news.ycombinator.com/item?id=48504929"
       },
       "category_hint": null
@@ -248,8 +248,8 @@
       "url": "https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix",
       "description": "",
       "signals": {
-        "points": 73,
-        "num_comments": 6,
+        "points": 81,
+        "num_comments": 9,
         "discussion_url": "https://news.ycombinator.com/item?id=48510357"
       },
       "category_hint": null
@@ -260,7 +260,7 @@
       "url": "https://github.com/DanMcInerney/architect-loop",
       "description": "",
       "signals": {
-        "points": 62,
+        "points": 79,
         "num_comments": 30,
         "discussion_url": "https://news.ycombinator.com/item?id=48509133"
       },
@@ -272,8 +272,8 @@
       "url": "https://twitter.com/ClaudeDevs/status/2065597942602531163",
       "description": "",
       "signals": {
-        "points": 56,
-        "num_comments": 15,
+        "points": 72,
+        "num_comments": 16,
         "discussion_url": "https://news.ycombinator.com/item?id=48511168"
       },
       "category_hint": null
@@ -284,7 +284,7 @@
       "url": "https://paperspast.natlib.govt.nz/newspapers/DOM19360307.2.43",
       "description": "",
       "signals": {
-        "points": 51,
+        "points": 56,
         "num_comments": 13,
         "discussion_url": "https://news.ycombinator.com/item?id=48507499"
       },
@@ -296,9 +296,21 @@
       "url": "https://bitboard.work/",
       "description": "",
       "signals": {
-        "points": 35,
+        "points": 38,
         "num_comments": 19,
         "discussion_url": "https://news.ycombinator.com/item?id=48506545"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48467697",
+      "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+      "url": "https://tectonic-typesetting.github.io/en-US/",
+      "description": "",
+      "signals": {
+        "points": 25,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48467697"
       },
       "category_hint": null
     },
@@ -308,9 +320,21 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "",
       "signals": {
-        "points": 19,
+        "points": 23,
         "num_comments": 4,
         "discussion_url": "https://news.ycombinator.com/item?id=48509844"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48470152",
+      "title": "Why a Computer Science Degree Still Opens Hidden Doors",
+      "url": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
+      "description": "",
+      "signals": {
+        "points": 22,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48470152"
       },
       "category_hint": null
     },
@@ -320,8 +344,8 @@
       "url": "https://github.com/rvaiya/keyd",
       "description": "",
       "signals": {
-        "points": 13,
-        "num_comments": 9,
+        "points": 22,
+        "num_comments": 11,
         "discussion_url": "https://news.ycombinator.com/item?id=48479652"
       },
       "category_hint": null
@@ -335,30 +359,6 @@
         "points": 13,
         "num_comments": 0,
         "discussion_url": "https://news.ycombinator.com/item?id=47999020"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:47439821",
-      "title": "Conway's Game of Life, in real life",
-      "url": "https://lcamtuf.coredump.cx/blog/conway/",
-      "description": "",
-      "signals": {
-        "points": 12,
-        "num_comments": 1,
-        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
-      },
-      "category_hint": null
-    },
-    {
-      "id": "hn:48467697",
-      "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
-      "url": "https://tectonic-typesetting.github.io/en-US/",
-      "description": "",
-      "signals": {
-        "points": 10,
-        "num_comments": 2,
-        "discussion_url": "https://news.ycombinator.com/item?id=48467697"
       },
       "category_hint": null
     }

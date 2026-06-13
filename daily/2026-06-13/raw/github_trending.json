@@ -1,6 +1,6 @@
 {
   "source": "github_trending",
-  "fetched_at": "2026-06-13T12:18:12+09:00",
+  "fetched_at": "2026-06-13T13:30:20+09:00",
   "items": [
     {
       "id": "github:addyosmani/agent-skills",
@@ -8,7 +8,7 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "signals": {
-        "stars": 56946,
+        "stars": 57020,
         "stars_today": 2656,
         "language": "Shell"
       },
@@ -20,7 +20,7 @@
       "url": "https://github.com/music-assistant/server",
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "signals": {
-        "stars": 1806,
+        "stars": 1818,
         "stars_today": 20,
         "language": "Python"
       },
@@ -32,7 +32,7 @@
       "url": "https://github.com/mattermost/mattermost",
       "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
       "signals": {
-        "stars": 37652,
+        "stars": 37664,
         "stars_today": 388,
         "language": "TypeScript"
       },
@@ -44,7 +44,7 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "signals": {
-        "stars": 35224,
+        "stars": 35290,
         "stars_today": 3504,
         "language": "Swift"
       },
@@ -56,7 +56,7 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "signals": {
-        "stars": 118077,
+        "stars": 118104,
         "stars_today": 179,
         "language": "TypeScript"
       },
@@ -68,7 +68,7 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "signals": {
-        "stars": 226108,
+        "stars": 226150,
         "stars_today": 1275,
         "language": "Shell"
       },
@@ -80,7 +80,7 @@
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "signals": {
-        "stars": 15825,
+        "stars": 15860,
         "stars_today": 369,
         "language": "TypeScript"
       },
@@ -92,7 +92,7 @@
       "url": "https://github.com/maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "signals": {
-        "stars": 3216,
+        "stars": 3233,
         "stars_today": 515,
         "language": "Python"
       },
@@ -104,7 +104,7 @@
       "url": "https://github.com/LMCache/LMCache",
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "signals": {
-        "stars": 8653,
+        "stars": 8665,
         "stars_today": 28,
         "language": "Python"
       },
@@ -116,7 +116,7 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "signals": {
-        "stars": 17050,
+        "stars": 17103,
         "stars_today": 827,
         "language": ""
       },
@@ -128,7 +128,7 @@
       "url": "https://github.com/masterking32/MasterDnsVPN",
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
       "signals": {
-        "stars": 6039,
+        "stars": 6055,
         "stars_today": 400,
         "language": "Go"
       },
@@ -140,7 +140,7 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "signals": {
-        "stars": 112471,
+        "stars": 112511,
         "stars_today": 1026,
         "language": "Shell"
       },
@@ -152,7 +152,7 @@
       "url": "https://github.com/microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "signals": {
-        "stars": 134371,
+        "stars": 134387,
         "stars_today": 103,
         "language": "C"
       },

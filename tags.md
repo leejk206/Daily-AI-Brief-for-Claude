@@ -85,7 +85,13 @@ AI 생성 코드 기여·OSS 정책·거버넌스
 ### security
 AI 기반 취약점 탐지·보안 분석·코드 보안
 
+### model-release
+플래그십·신규 모델 공식 출시·런칭 발표
+
 ## Candidate
 
 ### voice-agent
 보이스·전화·음성 인터랙션 기반 에이전트
+
+### model-access
+모델 접속·규제·정부 지시 등 access/정책 이벤트

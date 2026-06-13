@@ -19,6 +19,7 @@ from fetchers import make_envelope
 FEEDS = [
     ("openai", "https://openai.com/news/rss.xml"),
     ("deepmind", "https://deepmind.google/blog/rss.xml"),
+    ("gemini", "https://blog.google/products/gemini/rss/"),
 ]
 
 TIMEOUT = 30

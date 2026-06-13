@@ -10,31 +10,45 @@ You are running the `/brief` command for `daily-ai-brief`. Follow this procedure
 - Create `daily/$TODAY/raw/` if it doesn't exist.
 
 ## Step 2 — Run fetchers in parallel
-Issue these four Bash commands in parallel (single message, multiple tool calls):
+Issue these six Bash commands in parallel (single message, multiple tool calls):
 
 ```
 .venv/bin/python -m fetchers.github_trending > daily/$TODAY/raw/github_trending.json
 .venv/bin/python -m fetchers.hacker_news > daily/$TODAY/raw/hacker_news.json
 .venv/bin/python -m fetchers.huggingface > daily/$TODAY/raw/huggingface.json
 .venv/bin/python -m fetchers.release_blogs > daily/$TODAY/raw/release_blogs.json
+.venv/bin/python -m fetchers.anthropic_news > daily/$TODAY/raw/anthropic_news.json
+.venv/bin/python -m fetchers.dcinside > daily/$TODAY/raw/dcinside.json
 ```
 
-Each fetcher has a 60-second timeout. If a fetcher exits non-zero, note the source as `unavailable` but continue. If all four fail, abort with a message to the user.
+`release_blogs`는 OpenAI(ChatGPT)·DeepMind·Gemini 공식 블로그 RSS를 합쳐서 낸다.
+`anthropic_news`는 Anthropic 공식 뉴스(RSS 부재 → HTML 스크래핑), `dcinside`는 특이점
+마이너 갤러리 개념글(커뮤니티 — 노이즈 많음)이다.
+
+Each fetcher has a 60-second timeout. If a fetcher exits non-zero, note the source as `unavailable` but continue. If all six fail, abort with a message to the user.
 
 ## Step 3 — Read context
 Read these files:
 - `interests.md`
 - `state/seen.json` (treat missing file or empty object as `{}`)
 - `state/archive.json` (treat missing file or empty object as `{}`) — permanent TOP 5 archive
-- All four raw JSON files from `daily/$TODAY/raw/`
+- All six raw JSON files from `daily/$TODAY/raw/`
 
 ## Step 4 — Filter by interests
-For each item across all four envelopes:
+For each item across all six envelopes:
 - **Hard exclude:** If the item's URL is present in `archive.json`, drop it immediately. These were past TOP 5s and must NEVER reappear in any future brief, even as a carousel item.
-- Check if it matches any of the five categories in `interests.md`.
+- Check if it matches any of the categories in `interests.md`.
 - Use keyword matching as a first pass, then apply semantic judgment. A hit on the single word "agent" is NOT enough — require a phrase like "agent framework", "multi-agent", or an explicit category keyword.
 - Respect each category's `Exclude` list and the `Global exclude` list.
 - Record the matched category for each kept item.
+- **`frontier-models`는 "반드시 잡는" 헤드라인 레인이다.** 플래그십 모델 출시 발표나 중대한 모델 접속·정책 사건이 ① 공식 벤더(anthropic_news / release_blogs)에서 발표됐거나 ② 2개 이상 출처에 떴으면, 다른 카테고리에 안 걸려도 **반드시 surface**하고 Step 6에서 TOP 5 상위로 올린다. 단 같은 사건이 여러 URL로 중복되면(공식 발표 + status + 트윗 등) 가장 표준적인 공식 URL 1개로 합친다. 원raw 체크포인트·양자화·파인튜닝 리포(예: `*/gemma-4-12B-it`, `*-GGUF`)는 출시 발표 본문이 아니므로 제외한다.
+
+### Step 4b — DCInside 커뮤니티 항목 큐레이션
+`dcinside` 소스 항목은 위 카테고리 필터를 강제하지 않고 **별도로 큐레이션**한다:
+- 공식/카테고리 항목과 섞지 말 것. brief.md의 별도 "커뮤니티 동향" 섹션(Step 7)에만 넣는다.
+- AI·특이점·모델 동향과 **실질적으로 관련 있고 읽을 가치가 있는 글만** 추린다(밈·잡담·단순 질문·정치 글 제외). 보통 **0~5개**면 충분하며, 없으면 섹션째 생략한다.
+- `recommend`/`replies`/`views` signals를 참고해 호응이 큰 글을 우선한다.
+- TOP 5에는 절대 넣지 않는다(커뮤니티 글은 공식 출처가 아님). seen/archive 상태 추적·태깅 대상도 아니다.
 
 ## Step 5 — Annotate dedup state
 For each kept item, look up its URL in `seen.json`:
@@ -66,6 +80,10 @@ Write to `daily/$TODAY/brief.md` using this exact template (fill the placeholder
 
 ## 📋 카테고리별 나머지
 
+### 프런티어 모델·주요 발표
+- **<title>** [<source>] — <1줄 한국어 요약> (<new | day N>)
+  <url>
+
 ### 에이전트 프레임워크
 - **<title>** [<source>] — <1줄 한국어 요약> (<new | day N>)
   <url>
@@ -86,17 +104,24 @@ Write to `daily/$TODAY/brief.md` using this exact template (fill the placeholder
 - **<title>** [day N] — <short reminder>
   <url>
 
+## 💬 커뮤니티 동향 (DCInside 특이점갤)
+- **<title>** — <1줄 한국어 요약: 무슨 얘기인지/왜 볼 만한지>
+  <url>
+
 ## ⚠️ 소스 상태
 - github_trending: ok (N items / M matched)
 - hacker_news: ok (N items / M matched)
 - huggingface: ok (N items / M matched)
 - release_blogs: ok (N items / M matched)
+- anthropic_news: ok (N items / M matched)
+- dcinside: ok (N items / K curated)
 ```
 
 Rules:
 - All summaries and commentary in Korean.
 - URLs on their own line.
 - Skip any empty category section.
+- "커뮤니티 동향" 섹션은 Step 4b에서 추린 DCInside 항목만 넣고, 추린 게 없으면 섹션째 생략한다.
 - If no items match interests at all, write a fallback section listing the raw top 3 of each source.
 
 ## Step 7.5 — 항목 태깅

@@ -6,6 +6,11 @@ not code.
 
 ## Categories
 
+### frontier-models
+플래그십 모델 출시·중대 모델 접속/정책 사건 등 반드시 잡아야 할 헤드라인급 뉴스. 공식 벤더 발표(Anthropic/OpenAI/Google)와 다중 출처 신호를 우선하고, 원raw 체크포인트·양자화·파인튜닝 리포는 제외(출시 발표 본문만).
+Keywords: claude opus, claude sonnet, claude haiku, claude fable, claude mythos, gpt-5, gpt-6, gemini 3, gemini omni, gemma 4, frontier model, flagship model, model launch, model release, introducing claude, introducing gemini, introducing gemma, suspend access, suspending access, government directive, model deprecation
+Exclude: gguf, unsloth, quantized, fine-tune, finetune, lora, abliterated, obliterated, uncensored, -GGUF
+
 ### agent-frameworks
 Keywords: langgraph, crewai, autogen, claude agent sdk, agent framework, multi-agent, agentic workflow, agent orchestration
 Exclude: —

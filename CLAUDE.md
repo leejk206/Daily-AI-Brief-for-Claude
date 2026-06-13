@@ -44,6 +44,7 @@ N. **<title>** — <summary>
 **3. 카테고리 판정**
 
 - 항목이 brief.md의 카테고리 섹션 아래에 있으면 그 섹션의 한국어 헤더를 슬러그로 변환:
+  - 프런티어 모델·주요 발표 → `frontier-models`
   - 에이전트 프레임워크 → `agent-frameworks`
   - LLM 하네스·평가 → `llm-harness-eval`
   - MCP → `mcp`

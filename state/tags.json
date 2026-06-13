@@ -1442,7 +1442,7 @@
         "agent-skill",
         "multi-agent"
       ],
-      "tagged_at": "2026-06-12T07:05:23+09:00"
+      "tagged_at": "2026-06-13T12:21:28+09:00"
     },
     "https://huggingface.co/papers/2604.24026": {
       "title": "From Skill Text to Skill Structure",
@@ -7526,7 +7526,7 @@
       "tags": [
         "agent-skill"
       ],
-      "tagged_at": "2026-06-12T07:05:23+09:00"
+      "tagged_at": "2026-06-13T12:21:28+09:00"
     },
     "https://huggingface.co/papers/2606.05761": {
       "title": "SubtleMemory",
@@ -7772,7 +7772,7 @@
         "coding-platform",
         "local-inference"
       ],
-      "tagged_at": "2026-06-12T07:05:23+09:00"
+      "tagged_at": "2026-06-13T12:21:28+09:00"
     },
     "https://blog.gitbutler.com/true-grit": {
       "title": "Grit: Rewriting Git in Rust with Agents",
@@ -8085,7 +8085,7 @@
         "agent-skill",
         "security"
       ],
-      "tagged_at": "2026-06-12T07:05:23+09:00"
+      "tagged_at": "2026-06-13T12:21:28+09:00"
     },
     "https://huggingface.co/papers/2606.07943": {
       "title": "POISE: Position-Aware Undetectable Skill Injection on LLM Agents",
@@ -8110,7 +8110,7 @@
         "computer-use",
         "paper"
       ],
-      "tagged_at": "2026-06-12T07:05:23+09:00"
+      "tagged_at": "2026-06-13T12:21:28+09:00"
     },
     "https://huggingface.co/papers/2606.10156": {
       "title": "τ-Rec: A Verifiable Benchmark for Agentic Recommender Systems",
@@ -8182,6 +8182,209 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-06-12T07:05:23+09:00"
+    },
+    "https://huggingface.co/papers/2606.13681": {
+      "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+      "summary": "동적 환경서 에이전트 메모리 진화를 추적·평가 (105 upvotes 화제)",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "agent-memory",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://huggingface.co/papers/2606.13392": {
+      "title": "MiniMax Sparse Attention",
+      "summary": "수백만 토큰 초장문맥을 푸는 희소 어텐션",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://huggingface.co/papers/2606.09426": {
+      "title": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents",
+      "summary": "멀티 인터페이스 장기 컴퓨터 사용 에이전트 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "benchmark",
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://huggingface.co/papers/2606.13174": {
+      "title": "Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents",
+      "summary": "코딩 에이전트가 사용자 교정을 영구 준수하도록 강제",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "agent-harness",
+        "cli-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://huggingface.co/papers/2606.12674": {
+      "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
+      "summary": "MCP식 도구 워크플로를 추론 시점에 진화시키는 소형 에이전트",
+      "category": "mcp",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "mcp-server",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://huggingface.co/papers/2606.12087": {
+      "title": "FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents",
+      "summary": "지름길 차단 과제로 딥서치 에이전트를 훈련",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "paper",
+        "retrieval",
+        "web-agent"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://huggingface.co/papers/2606.13662": {
+      "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+      "summary": "환경 엔지니어링으로 자율 과학 발견을 자동화",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "agent-harness",
+        "auto-research",
+        "paper"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://huggingface.co/papers/2606.12882": {
+      "title": "HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness",
+      "summary": "학습형 양방향 컨트롤러로 에이전트 하네스 제어",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://huggingface.co/papers/2606.13594": {
+      "title": "See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents",
+      "summary": "이기종 에이전트 간 KV 잠재 통신",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://huggingface.co/papers/2606.13120": {
+      "title": "EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge",
+      "summary": "변화하는 지식으로 오염 없는 서치 에이전트 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "benchmark",
+        "paper",
+        "web-agent"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://huggingface.co/papers/2606.11409": {
+      "title": "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models",
+      "summary": "연산비용을 반영한 적대적 강건성 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "benchmark",
+        "paper",
+        "security"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://huggingface.co/papers/2606.12451": {
+      "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+      "summary": "LLM 내장 도구 지식을 진단하는 프레임워크",
+      "category": "mcp",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "paper",
+        "retrieval",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos": {
+      "title": "How to setup a local coding agent on macOS",
+      "summary": "macOS 로컬 코딩 에이전트 구성 가이드",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "cli-agent",
+        "local-inference",
+        "tutorial"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://github.com/DanMcInerney/architect-loop": {
+      "title": "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
+      "summary": "Fable이 설계·리뷰, Codex가 구현하는 토큰 절감 오케스트레이션",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "cli-agent",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://huggingface.co/papers/2606.04261": {
+      "title": "Can Generalist Agents Automate Data Curation?",
+      "summary": "범용 코딩 에이전트로 학습데이터 큐레이션 자동화",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "auto-research",
+        "cli-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
+    },
+    "https://github.com/LMCache/LMCache": {
+      "title": "LMCache/LMCache",
+      "summary": "LLM용 최고속 KV 캐시 레이어로 장문맥 가속",
+      "category": "prompt-context-engineering",
+      "source": "github_trending",
+      "brief_date": "2026-06-13",
+      "tags": [
+        "local-inference",
+        "long-context"
+      ],
+      "tagged_at": "2026-06-13T12:21:28+09:00"
     }
   }
 }

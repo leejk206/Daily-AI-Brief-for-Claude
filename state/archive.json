@@ -1134,5 +1134,25 @@
   "https://mimo.xiaomi.com/mimocode": {
     "archived_on": "2026-06-12",
     "title": "MiMo Code is now released and open-source"
+  },
+  "https://huggingface.co/papers/2606.13681": {
+    "archived_on": "2026-06-13",
+    "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments"
+  },
+  "https://huggingface.co/papers/2606.13392": {
+    "archived_on": "2026-06-13",
+    "title": "MiniMax Sparse Attention"
+  },
+  "https://huggingface.co/papers/2606.09426": {
+    "archived_on": "2026-06-13",
+    "title": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents"
+  },
+  "https://huggingface.co/papers/2606.13174": {
+    "archived_on": "2026-06-13",
+    "title": "Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents"
+  },
+  "https://huggingface.co/papers/2606.12674": {
+    "archived_on": "2026-06-13",
+    "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents"
   }
 }

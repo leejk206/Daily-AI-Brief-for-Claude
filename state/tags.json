@@ -7750,7 +7750,7 @@
         "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-06-13T13:53:01+09:00"
+      "tagged_at": "2026-06-14T09:25:22+09:00"
     },
     "https://openai.com/index/nextdoor": {
       "title": "How engineers at Nextdoor use Codex to build without limits",
@@ -7762,7 +7762,7 @@
         "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-06-13T13:53:01+09:00"
+      "tagged_at": "2026-06-14T09:25:22+09:00"
     },
     "https://huggingface.co/CohereLabs/North-Mini-Code-1.0": {
       "title": "CohereLabs/North-Mini-Code-1.0",
@@ -8087,7 +8087,7 @@
         "agent-skill",
         "security"
       ],
-      "tagged_at": "2026-06-13T12:21:28+09:00"
+      "tagged_at": "2026-06-14T09:25:22+09:00"
     },
     "https://huggingface.co/papers/2606.07943": {
       "title": "POISE: Position-Aware Undetectable Skill Injection on LLM Agents",
@@ -8159,7 +8159,7 @@
         "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-06-12T07:05:23+09:00"
+      "tagged_at": "2026-06-14T09:25:22+09:00"
     },
     "https://huggingface.co/papers/2606.10728": {
       "title": "DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories",
@@ -8260,7 +8260,7 @@
         "retrieval",
         "web-agent"
       ],
-      "tagged_at": "2026-06-13T12:21:28+09:00"
+      "tagged_at": "2026-06-14T09:25:22+09:00"
     },
     "https://huggingface.co/papers/2606.13662": {
       "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
@@ -8273,7 +8273,7 @@
         "auto-research",
         "paper"
       ],
-      "tagged_at": "2026-06-13T12:21:28+09:00"
+      "tagged_at": "2026-06-14T09:25:22+09:00"
     },
     "https://huggingface.co/papers/2606.12882": {
       "title": "HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness",
@@ -8285,7 +8285,7 @@
         "agent-harness",
         "paper"
       ],
-      "tagged_at": "2026-06-13T12:21:28+09:00"
+      "tagged_at": "2026-06-14T09:25:22+09:00"
     },
     "https://huggingface.co/papers/2606.13594": {
       "title": "See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents",
@@ -8323,7 +8323,7 @@
         "paper",
         "security"
       ],
-      "tagged_at": "2026-06-13T13:53:01+09:00"
+      "tagged_at": "2026-06-14T09:25:22+09:00"
     },
     "https://huggingface.co/papers/2606.12451": {
       "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
@@ -8375,7 +8375,7 @@
         "cli-agent",
         "paper"
       ],
-      "tagged_at": "2026-06-13T12:21:28+09:00"
+      "tagged_at": "2026-06-14T09:25:22+09:00"
     },
     "https://github.com/LMCache/LMCache": {
       "title": "LMCache/LMCache",
@@ -8384,10 +8384,11 @@
       "source": "github_trending",
       "brief_date": "2026-06-13",
       "tags": [
+        "backend",
         "local-inference",
         "long-context"
       ],
-      "tagged_at": "2026-06-13T12:21:28+09:00"
+      "tagged_at": "2026-06-14T09:25:22+09:00"
     },
     "https://www.anthropic.com/news/fable-mythos-access": {
       "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
@@ -8453,9 +8454,115 @@
       "source": "openai",
       "brief_date": "2026-06-13",
       "tags": [
-        "cli-agent"
+        "cli-agent",
+        "coding-platform"
       ],
-      "tagged_at": "2026-06-13T13:53:01+09:00"
+      "tagged_at": "2026-06-14T09:25:22+09:00"
+    },
+    "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink": {
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "summary": "페이블·미토스 차단 배후에 아마존 로비 정황 (WSJ)",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-06-14",
+      "tags": [
+        "model-access"
+      ],
+      "tagged_at": "2026-06-14T09:25:22+09:00"
+    },
+    "https://twitter.com/jietang/status/2065784751345287314": {
+      "title": "GLM 5.2 Is Out",
+      "summary": "中 Zhipu, 완전 오픈소스 플래그십 GLM 5.2 정식 공개",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-06-14",
+      "tags": [
+        "model-release"
+      ],
+      "tagged_at": "2026-06-14T09:25:22+09:00"
+    },
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "summary": "구글 디퓨전 기반 Gemma, 텍스트 생성 4배 가속",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-06-14",
+      "tags": [
+        "model-release"
+      ],
+      "tagged_at": "2026-06-14T09:25:22+09:00"
+    },
+    "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/": {
+      "title": "AI coding at home without going broke",
+      "summary": "고가 구독 없이 집에서 코딩 에이전트 돌리는 법",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-14",
+      "tags": [
+        "cli-agent",
+        "local-inference"
+      ],
+      "tagged_at": "2026-06-14T09:25:22+09:00"
+    },
+    "https://openai.com/form/codex-for-oss/": {
+      "title": "Codex for open source",
+      "summary": "OpenAI, 오픈소스 메인테이너에게 Codex 무상 제공",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-14",
+      "tags": [
+        "ai-code-policy",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-14T09:25:22+09:00"
+    },
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "summary": "Gemini 3.5 기반 실시간 음성 번역, AI Studio·번역·Meet 적용",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-06-14",
+      "tags": [
+        "model-release",
+        "voice-agent"
+      ],
+      "tagged_at": "2026-06-14T09:25:22+09:00"
+    },
+    "https://huggingface.co/papers/2606.10423": {
+      "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent",
+      "summary": "저비용으로 강력한 범용 웹 에이전트 구현",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-14",
+      "tags": [
+        "paper",
+        "web-agent"
+      ],
+      "tagged_at": "2026-06-14T09:25:22+09:00"
+    },
+    "https://huggingface.co/papers/2606.07867": {
+      "title": "The Cold-Start Safety Gap in LLM Agents",
+      "summary": "세션 초반 도구호출 에이전트가 가장 취약하다는 발견",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-14",
+      "tags": [
+        "agent-harness",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-14T09:25:22+09:00"
+    },
+    "https://openai.com/index/openai-on-oracle-cloud": {
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "summary": "Oracle Cloud 약정으로 OpenAI·Codex 사용",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-06-14",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-14T09:25:22+09:00"
     }
   }
 }

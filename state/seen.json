@@ -5,12 +5,6 @@
     "days": 3,
     "title": "Codex for every role, tool, and workflow"
   },
-  "https://openai.com/index/codex-for-knowledge-work": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "days": 1,
-    "title": "Codex is becoming a productivity tool for everyone"
-  },
   "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking": {
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-10",
@@ -34,36 +28,6 @@
     "last_seen": "2026-06-10",
     "days": 1,
     "title": "OpenAI frontier models and Codex are now available on AWS"
-  },
-  "https://github.com/anthropics/defending-code-reference-harness": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "days": 1,
-    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery"
-  },
-  "https://github.com/alibaba/open-code-review": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "days": 1,
-    "title": "Open Code Review – An AI-powered code review CLI tool"
-  },
-  "https://huggingface.co/papers/2606.04743": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "days": 1,
-    "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration"
-  },
-  "https://huggingface.co/papers/2606.05622": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "days": 1,
-    "title": "AdaPlanBench: Evaluating Adaptive Planning in LLM Agents"
-  },
-  "https://huggingface.co/papers/2606.04465": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "days": 1,
-    "title": "SePO: Self-Evolving Prompt Agent for System Prompt Optimization"
   },
   "https://github.com/CopilotKit/CopilotKit": {
     "first_seen": "2026-06-06",
@@ -112,12 +76,6 @@
     "last_seen": "2026-06-07",
     "days": 2,
     "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution"
-  },
-  "https://github.com/openai/plugins": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "days": 1,
-    "title": "openai/plugins"
   },
   "https://huggingface.co/papers/2606.03092": {
     "first_seen": "2026-06-06",
@@ -385,14 +343,14 @@
   },
   "https://openai.com/index/notion": {
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
+    "last_seen": "2026-06-14",
+    "days": 2,
     "title": "What Codex unlocks for Notion"
   },
   "https://openai.com/index/nextdoor": {
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
+    "last_seen": "2026-06-14",
+    "days": 2,
     "title": "How engineers at Nextdoor use Codex to build without limits"
   },
   "https://huggingface.co/CohereLabs/North-Mini-Code-1.0": {
@@ -559,8 +517,8 @@
   },
   "https://github.com/NVIDIA/SkillSpector": {
     "first_seen": "2026-06-12",
-    "last_seen": "2026-06-13",
-    "days": 2,
+    "last_seen": "2026-06-14",
+    "days": 3,
     "title": "NVIDIA/SkillSpector"
   },
   "https://huggingface.co/papers/2606.07943": {
@@ -594,8 +552,8 @@
     "title": "Claude Fable 5: mid-tier results on coding tasks"
   },
   "https://github.com/kenn-io/agentsview": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
     "days": 1,
     "title": "kenn-io/agentsview"
   },
@@ -643,20 +601,20 @@
   },
   "https://huggingface.co/papers/2606.12087": {
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
+    "last_seen": "2026-06-14",
+    "days": 2,
     "title": "FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents"
   },
   "https://huggingface.co/papers/2606.13662": {
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
+    "last_seen": "2026-06-14",
+    "days": 2,
     "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery"
   },
   "https://huggingface.co/papers/2606.12882": {
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
+    "last_seen": "2026-06-14",
+    "days": 2,
     "title": "HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness"
   },
   "https://huggingface.co/papers/2606.13594": {
@@ -673,8 +631,8 @@
   },
   "https://huggingface.co/papers/2606.11409": {
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
+    "last_seen": "2026-06-14",
+    "days": 2,
     "title": "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models"
   },
   "https://huggingface.co/papers/2606.12451": {
@@ -697,14 +655,14 @@
   },
   "https://huggingface.co/papers/2606.04261": {
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
+    "last_seen": "2026-06-14",
+    "days": 2,
     "title": "Can Generalist Agents Automate Data Curation?"
   },
   "https://github.com/LMCache/LMCache": {
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
+    "last_seen": "2026-06-14",
+    "days": 2,
     "title": "LMCache/LMCache"
   },
   "https://www.anthropic.com/news/fable-mythos-access": {
@@ -739,8 +697,62 @@
   },
   "https://openai.com/index/using-codex-to-simulate-black-holes": {
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
+    "last_seen": "2026-06-14",
+    "days": 2,
     "title": "How an astrophysicist uses Codex to simulate black holes"
+  },
+  "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "days": 1,
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
+  },
+  "https://twitter.com/jietang/status/2065784751345287314": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "days": 1,
+    "title": "GLM 5.2 Is Out"
+  },
+  "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "days": 1,
+    "title": "DiffusionGemma: 4x faster text generation"
+  },
+  "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "days": 1,
+    "title": "AI coding at home without going broke"
+  },
+  "https://openai.com/form/codex-for-oss/": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "days": 1,
+    "title": "Codex for open source"
+  },
+  "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "days": 1,
+    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
+  },
+  "https://huggingface.co/papers/2606.10423": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "days": 1,
+    "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent"
+  },
+  "https://huggingface.co/papers/2606.07867": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "days": 1,
+    "title": "The Cold-Start Safety Gap in LLM Agents"
+  },
+  "https://openai.com/index/openai-on-oracle-cloud": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "days": 1,
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment"
   }
 }

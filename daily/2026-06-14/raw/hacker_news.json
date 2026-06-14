@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-14T09:19:35+09:00",
+  "items": [
+    {
+      "id": "hn:48517377",
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "description": "",
+      "signals": {
+        "points": 685,
+        "num_comments": 412,
+        "discussion_url": "https://news.ycombinator.com/item?id=48517377"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48514560",
+      "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+      "url": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
+      "description": "",
+      "signals": {
+        "points": 511,
+        "num_comments": 298,
+        "discussion_url": "https://news.ycombinator.com/item?id=48514560"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48516251",
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "description": "",
+      "signals": {
+        "points": 500,
+        "num_comments": 167,
+        "discussion_url": "https://news.ycombinator.com/item?id=48516251"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48519092",
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "description": "",
+      "signals": {
+        "points": 490,
+        "num_comments": 362,
+        "discussion_url": "https://news.ycombinator.com/item?id=48519092"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48517199",
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "description": "",
+      "signals": {
+        "points": 280,
+        "num_comments": 93,
+        "discussion_url": "https://news.ycombinator.com/item?id=48517199"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48518684",
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "description": "",
+      "signals": {
+        "points": 274,
+        "num_comments": 148,
+        "discussion_url": "https://news.ycombinator.com/item?id=48518684"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48516504",
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "",
+      "signals": {
+        "points": 234,
+        "num_comments": 152,
+        "discussion_url": "https://news.ycombinator.com/item?id=48516504"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48515336",
+      "title": "A low-carbon computing platform from your retired phones",
+      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+      "description": "",
+      "signals": {
+        "points": 230,
+        "num_comments": 128,
+        "discussion_url": "https://news.ycombinator.com/item?id=48515336"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48518969",
+      "title": "AI coding at home without going broke",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "description": "",
+      "signals": {
+        "points": 216,
+        "num_comments": 199,
+        "discussion_url": "https://news.ycombinator.com/item?id=48518969"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48520807",
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+      "description": "",
+      "signals": {
+        "points": 183,
+        "num_comments": 75,
+        "discussion_url": "https://news.ycombinator.com/item?id=48520807"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48515454",
+      "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+      "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+      "description": "",
+      "signals": {
+        "points": 181,
+        "num_comments": 62,
+        "discussion_url": "https://news.ycombinator.com/item?id=48515454"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48516710",
+      "title": "The experience of rendering Arabic typography and its technical debt",
+      "url": "https://lr0.org/blog/p/arabic/",
+      "description": "",
+      "signals": {
+        "points": 176,
+        "num_comments": 44,
+        "discussion_url": "https://news.ycombinator.com/item?id=48516710"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48479008",
+      "title": "The state of building user interfaces in Rust",
+      "url": "https://areweguiyet.com/#ecosystem",
+      "description": "",
+      "signals": {
+        "points": 163,
+        "num_comments": 112,
+        "discussion_url": "https://news.ycombinator.com/item?id=48479008"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48519552",
+      "title": "GameBoy Workboy",
+      "url": "https://tcrf.net/Workboy",
+      "description": "",
+      "signals": {
+        "points": 149,
+        "num_comments": 52,
+        "discussion_url": "https://news.ycombinator.com/item?id=48519552"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48481400",
+      "title": "Show HN: I am building a map of people who lived in the Roman Empire",
+      "url": "https://new.roman-names.com/",
+      "description": "",
+      "signals": {
+        "points": 148,
+        "num_comments": 36,
+        "discussion_url": "https://news.ycombinator.com/item?id=48481400"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48497195",
+      "title": "Codex for open source",
+      "url": "https://openai.com/form/codex-for-oss/",
+      "description": "",
+      "signals": {
+        "points": 140,
+        "num_comments": 39,
+        "discussion_url": "https://news.ycombinator.com/item?id=48497195"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48515385",
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "url": "https://github.com/Paca-AI/paca",
+      "description": "",
+      "signals": {
+        "points": 129,
+        "num_comments": 51,
+        "discussion_url": "https://news.ycombinator.com/item?id=48515385"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48467437",
+      "title": "Appreciating Exif",
+      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+      "description": "",
+      "signals": {
+        "points": 124,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=48467437"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48519011",
+      "title": "The adder at the heart of Intel's 8087 floating-point chip",
+      "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+      "description": "",
+      "signals": {
+        "points": 86,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=48519011"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48517412",
+      "title": "Orthodox C++ (2016)",
+      "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
+      "description": "",
+      "signals": {
+        "points": 77,
+        "num_comments": 133,
+        "discussion_url": "https://news.ycombinator.com/item?id=48517412"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48520080",
+      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+      "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+      "description": "",
+      "signals": {
+        "points": 68,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48520080"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48462759",
+      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+      "url": "https://blog.pyodide.org/posts/314-release/",
+      "description": "",
+      "signals": {
+        "points": 53,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48462759"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48494270",
+      "title": "The MilkV Jupiter 2/SpacemiT K3 (RISC-V vector compute)",
+      "url": "https://taoofmac.com/space/reviews/2026/06/11/1830",
+      "description": "",
+      "signals": {
+        "points": 29,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48494270"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48468352",
+      "title": "Trophic memory, deer, and a unique scientific object",
+      "url": "https://thoughtforms.life/trophic-memory-deer-and-a-truly-unique-scientific-object/",
+      "description": "",
+      "signals": {
+        "points": 27,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48468352"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48522237",
+      "title": "Derbyshire Police officer accused of using AI to 'create evidence'",
+      "url": "https://www.bbc.com/news/articles/cy8wppwdxl6o",
+      "description": "",
+      "signals": {
+        "points": 26,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48522237"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48481385",
+      "title": "C47/R47 Calculators",
+      "url": "https://47calc.com/index.html",
+      "description": "",
+      "signals": {
+        "points": 20,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48481385"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48491968",
+      "title": "Resurrecting a Soaked, corroded, and damaged Commodore SX‑64 (2025)",
+      "url": "https://jerrylparker.com/blogs/posts/sx-64.html",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48491968"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48522486",
+      "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+      "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+      "description": "",
+      "signals": {
+        "points": 10,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48522486"
+      },
+      "category_hint": null
+    }
+  ]
+}

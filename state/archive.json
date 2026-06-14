@@ -1174,5 +1174,25 @@
   "https://huggingface.co/papers/2606.13120": {
     "archived_on": "2026-06-13",
     "title": "EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge"
+  },
+  "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink": {
+    "archived_on": "2026-06-14",
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
+  },
+  "https://twitter.com/jietang/status/2065784751345287314": {
+    "archived_on": "2026-06-14",
+    "title": "GLM 5.2 Is Out"
+  },
+  "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": {
+    "archived_on": "2026-06-14",
+    "title": "DiffusionGemma: 4x faster text generation"
+  },
+  "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/": {
+    "archived_on": "2026-06-14",
+    "title": "AI coding at home without going broke"
+  },
+  "https://openai.com/form/codex-for-oss/": {
+    "archived_on": "2026-06-14",
+    "title": "Codex for open source"
   }
 }

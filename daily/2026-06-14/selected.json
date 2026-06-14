@@ -1,0 +1,22 @@
+[
+  {"url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink", "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"},
+  {"url": "https://twitter.com/jietang/status/2065784751345287314", "title": "GLM 5.2 Is Out"},
+  {"url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/", "title": "DiffusionGemma: 4x faster text generation"},
+  {"url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/", "title": "AI coding at home without going broke"},
+  {"url": "https://openai.com/form/codex-for-oss/", "title": "Codex for open source"},
+  {"url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/", "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate"},
+  {"url": "https://huggingface.co/papers/2606.12087", "title": "FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents"},
+  {"url": "https://huggingface.co/papers/2606.13662", "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery"},
+  {"url": "https://huggingface.co/papers/2606.10423", "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent"},
+  {"url": "https://huggingface.co/papers/2606.11409", "title": "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models"},
+  {"url": "https://huggingface.co/papers/2606.12882", "title": "HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness"},
+  {"url": "https://huggingface.co/papers/2606.07867", "title": "The Cold-Start Safety Gap in LLM Agents"},
+  {"url": "https://openai.com/index/openai-on-oracle-cloud", "title": "Access OpenAI models and Codex through your Oracle cloud commitment"},
+  {"url": "https://github.com/kenn-io/agentsview", "title": "kenn-io/agentsview"},
+  {"url": "https://openai.com/index/using-codex-to-simulate-black-holes", "title": "How an astrophysicist uses Codex to help simulate black holes"},
+  {"url": "https://huggingface.co/papers/2606.04261", "title": "Can Generalist Agents Automate Data Curation?"},
+  {"url": "https://github.com/LMCache/LMCache", "title": "LMCache/LMCache"},
+  {"url": "https://github.com/NVIDIA/SkillSpector", "title": "NVIDIA/SkillSpector"},
+  {"url": "https://openai.com/index/notion", "title": "What Codex unlocks for Notion"},
+  {"url": "https://openai.com/index/nextdoor", "title": "How engineers at Nextdoor use Codex to build without limits"}
+]

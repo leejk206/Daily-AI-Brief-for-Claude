@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-15T13:03:50+09:00",
+  "items": [
+    {
+      "id": "hn:48471638",
+      "title": "Firewood Splitting Simulator",
+      "url": "https://screen.toys/firewood/",
+      "description": "",
+      "signals": {
+        "points": 696,
+        "num_comments": 222,
+        "discussion_url": "https://news.ycombinator.com/item?id=48471638"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48526360",
+      "title": "How to earn a billion dollars",
+      "url": "https://paulgraham.com/earn.html",
+      "description": "",
+      "signals": {
+        "points": 496,
+        "num_comments": 1478,
+        "discussion_url": "https://news.ycombinator.com/item?id=48526360"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48529990",
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "url": "https://github.com/tamnd/kage",
+      "description": "",
+      "signals": {
+        "points": 450,
+        "num_comments": 99,
+        "discussion_url": "https://news.ycombinator.com/item?id=48529990"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48528029",
+      "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+      "url": "https://news.ycombinator.com/item?id=48528029",
+      "description": "",
+      "signals": {
+        "points": 303,
+        "num_comments": 74,
+        "discussion_url": "https://news.ycombinator.com/item?id=48528029"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48528371",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "description": "",
+      "signals": {
+        "points": 302,
+        "num_comments": 159,
+        "discussion_url": "https://news.ycombinator.com/item?id=48528371"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48533848",
+      "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "description": "",
+      "signals": {
+        "points": 275,
+        "num_comments": 116,
+        "discussion_url": "https://news.ycombinator.com/item?id=48533848"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48528729",
+      "title": "Linux 7.1",
+      "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
+      "description": "",
+      "signals": {
+        "points": 268,
+        "num_comments": 104,
+        "discussion_url": "https://news.ycombinator.com/item?id=48528729"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48491048",
+      "title": "Lisp's Influence on Ruby",
+      "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
+      "description": "",
+      "signals": {
+        "points": 227,
+        "num_comments": 65,
+        "discussion_url": "https://news.ycombinator.com/item?id=48491048"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48526661",
+      "title": "The Birth and Death of JavaScript (2014)",
+      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+      "description": "",
+      "signals": {
+        "points": 217,
+        "num_comments": 124,
+        "discussion_url": "https://news.ycombinator.com/item?id=48526661"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48526633",
+      "title": "Formal methods and the future of programming",
+      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+      "description": "",
+      "signals": {
+        "points": 217,
+        "num_comments": 79,
+        "discussion_url": "https://news.ycombinator.com/item?id=48526633"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48528779",
+      "title": "Ask HN: What are you working on? (June 2026)",
+      "url": "https://news.ycombinator.com/item?id=48528779",
+      "description": "",
+      "signals": {
+        "points": 176,
+        "num_comments": 661,
+        "discussion_url": "https://news.ycombinator.com/item?id=48528779"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48527145",
+      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+      "url": "https://su3.io/posts/zeroserve-caddy-compat",
+      "description": "",
+      "signals": {
+        "points": 164,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=48527145"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48507039",
+      "title": "Write for One Person",
+      "url": "https://wizardzines.com/comics/write-for-one-person/",
+      "description": "",
+      "signals": {
+        "points": 145,
+        "num_comments": 47,
+        "discussion_url": "https://news.ycombinator.com/item?id=48507039"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48492822",
+      "title": "The only scalable delete in Postgres is DROP TABLE",
+      "url": "https://planetscale.com/blog/the-only-scalable-delete",
+      "description": "",
+      "signals": {
+        "points": 141,
+        "num_comments": 52,
+        "discussion_url": "https://news.ycombinator.com/item?id=48492822"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48533101",
+      "title": "Windows 11 users are tired of MS account requirements creeping into everything",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
+      "description": "",
+      "signals": {
+        "points": 129,
+        "num_comments": 58,
+        "discussion_url": "https://news.ycombinator.com/item?id=48533101"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48521236",
+      "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+      "url": "https://traceapp.info",
+      "description": "",
+      "signals": {
+        "points": 119,
+        "num_comments": 46,
+        "discussion_url": "https://news.ycombinator.com/item?id=48521236"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48532178",
+      "title": "AI is code – and can't be prompted into being smarter",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "description": "",
+      "signals": {
+        "points": 110,
+        "num_comments": 72,
+        "discussion_url": "https://news.ycombinator.com/item?id=48532178"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48527360",
+      "title": "FarOutCompany",
+      "url": "https://faroutcompany.com/",
+      "description": "",
+      "signals": {
+        "points": 107,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48527360"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48527820",
+      "title": "Perlisisms (1982)",
+      "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+      "description": "",
+      "signals": {
+        "points": 101,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=48527820"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48530382",
+      "title": "Show HN: Discover Wikipedia articles popular on Hacker News",
+      "url": "https://www.orangecrumbs.com/",
+      "description": "",
+      "signals": {
+        "points": 73,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=48530382"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48531449",
+      "title": "Chaosnet (1981)",
+      "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+      "description": "",
+      "signals": {
+        "points": 70,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48531449"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48489636",
+      "title": "Segmented type appreciation corner (2018)",
+      "url": "https://aresluna.org/segmented-type/",
+      "description": "",
+      "signals": {
+        "points": 66,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48489636"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48496290",
+      "title": "Bitsy",
+      "url": "https://bitsy.org/",
+      "description": "",
+      "signals": {
+        "points": 62,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48496290"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48535215",
+      "title": "The hallucinogenic mushroom that contains no known psychedelic",
+      "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
+      "description": "",
+      "signals": {
+        "points": 42,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48535215"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48489309",
+      "title": "USB Power Delivery: Plugging into the Benefits",
+      "url": "https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits",
+      "description": "",
+      "signals": {
+        "points": 38,
+        "num_comments": 86,
+        "discussion_url": "https://news.ycombinator.com/item?id=48489309"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48476539",
+      "title": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
+      "url": "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0",
+      "description": "",
+      "signals": {
+        "points": 32,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48476539"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48482951",
+      "title": "Chopped, Stored, Secured – The Story of the Hash Function",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html",
+      "description": "",
+      "signals": {
+        "points": 31,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48482951"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48534628",
+      "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+      "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+      "description": "",
+      "signals": {
+        "points": 29,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48534628"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48535886",
+      "title": "Even More Batteries Included with Emacs",
+      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "description": "",
+      "signals": {
+        "points": 23,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48535886"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

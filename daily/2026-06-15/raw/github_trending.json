@@ -1,0 +1,186 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-06-15T13:03:49+09:00",
+  "items": [
+    {
+      "id": "github:iptv-org/iptv",
+      "title": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "signals": {
+        "stars": 121372,
+        "stars_today": 1528,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:freeCodeCamp/freeCodeCamp",
+      "title": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "signals": {
+        "stars": 447337,
+        "stars_today": 146,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:pytest-dev/pytest",
+      "title": "pytest-dev/pytest",
+      "url": "https://github.com/pytest-dev/pytest",
+      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+      "signals": {
+        "stars": 14073,
+        "stars_today": 14,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:swc-project/swc",
+      "title": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "signals": {
+        "stars": 33808,
+        "stars_today": 163,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:chatwoot/chatwoot",
+      "title": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "signals": {
+        "stars": 31312,
+        "stars_today": 400,
+        "language": "Ruby"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:NVIDIA/SkillSpector",
+      "title": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "signals": {
+        "stars": 5503,
+        "stars_today": 964,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:meshery/meshery",
+      "title": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "signals": {
+        "stars": 10445,
+        "stars_today": 20,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:cypress-io/cypress",
+      "title": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "signals": {
+        "stars": 49996,
+        "stars_today": 39,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:GorvGoyl/Clone-Wars",
+      "title": "GorvGoyl/Clone-Wars",
+      "url": "https://github.com/GorvGoyl/Clone-Wars",
+      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+      "signals": {
+        "stars": 35567,
+        "stars_today": 269,
+        "language": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "description": "Introduction to Autonomous Robots",
+      "signals": {
+        "stars": 2795,
+        "stars_today": 293,
+        "language": "TeX"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:shiyu-coder/Kronos",
+      "title": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "signals": {
+        "stars": 29983,
+        "stars_today": 244,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:music-assistant/server",
+      "title": "music-assistant/server",
+      "url": "https://github.com/music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "signals": {
+        "stars": 2223,
+        "stars_today": 197,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Free-TV/IPTV",
+      "title": "Free-TV/IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "signals": {
+        "stars": 16999,
+        "stars_today": 70,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:puppeteer/puppeteer",
+      "title": "puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "signals": {
+        "stars": 94675,
+        "stars_today": 29,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:andrewyng/aisuite",
+      "title": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "signals": {
+        "stars": 14440,
+        "stars_today": 291,
+        "language": "Python"
+      },
+      "category_hint": null
+    }
+  ]
+}

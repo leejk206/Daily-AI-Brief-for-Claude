@@ -1,0 +1,14 @@
+[
+  {"url": "https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B", "title": "브라질 국산 오픈모델 Rio-3.5-Open / Nex-N2 '머지 의혹'"},
+  {"url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code", "title": "Kimi-K2.7-Code 공개"},
+  {"url": "https://huggingface.co/papers/2606.06036", "title": "Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents"},
+  {"url": "https://huggingface.co/papers/2606.13707", "title": "Orchestra-o1: Omnimodal Agent Orchestration"},
+  {"url": "https://huggingface.co/papers/2606.14249", "title": "HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry"},
+  {"url": "https://huggingface.co/MiniMaxAI/MiniMax-M3", "title": "MiniMax-M3"},
+  {"url": "https://huggingface.co/papers/2606.14502", "title": "From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI"},
+  {"url": "https://huggingface.co/papers/2606.14061", "title": "LLM Agents Can See Code Repositories"},
+  {"url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0", "title": "North-Mini-Code-1.0"},
+  {"url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/", "title": "Gemini 3.5 Live Translate"},
+  {"url": "https://huggingface.co/papers/2606.10423", "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent"},
+  {"url": "https://huggingface.co/papers/2606.07867", "title": "The Cold-Start Safety Gap in LLM Agents"}
+]

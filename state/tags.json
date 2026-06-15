@@ -7772,9 +7772,10 @@
       "brief_date": "2026-06-10",
       "tags": [
         "coding-platform",
-        "local-inference"
+        "local-inference",
+        "model-release"
       ],
-      "tagged_at": "2026-06-13T12:21:28+09:00"
+      "tagged_at": "2026-06-15T13:08:03+09:00"
     },
     "https://blog.gitbutler.com/true-grit": {
       "title": "Grit: Rewriting Git in Rust with Agents",
@@ -8526,7 +8527,7 @@
         "model-release",
         "voice-agent"
       ],
-      "tagged_at": "2026-06-14T09:25:22+09:00"
+      "tagged_at": "2026-06-15T13:08:03+09:00"
     },
     "https://huggingface.co/papers/2606.10423": {
       "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent",
@@ -8535,10 +8536,11 @@
       "source": "huggingface",
       "brief_date": "2026-06-14",
       "tags": [
+        "benchmark",
         "paper",
         "web-agent"
       ],
-      "tagged_at": "2026-06-14T09:25:22+09:00"
+      "tagged_at": "2026-06-15T13:08:03+09:00"
     },
     "https://huggingface.co/papers/2606.07867": {
       "title": "The Cold-Start Safety Gap in LLM Agents",
@@ -8549,9 +8551,10 @@
       "tags": [
         "agent-harness",
         "benchmark",
-        "paper"
+        "paper",
+        "security"
       ],
-      "tagged_at": "2026-06-14T09:25:22+09:00"
+      "tagged_at": "2026-06-15T13:08:03+09:00"
     },
     "https://openai.com/index/openai-on-oracle-cloud": {
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
@@ -8563,6 +8566,100 @@
         "coding-platform"
       ],
       "tagged_at": "2026-06-14T09:25:22+09:00"
+    },
+    "https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B": {
+      "title": "브라질 국산 오픈모델 Rio-3.5-Open / Nex-N2 '머지 의혹'",
+      "summary": "딥시크 V4급 주장했지만 기존 모델 짜깁기 정황",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-06-15",
+      "tags": [
+        "ai-code-policy",
+        "model-release"
+      ],
+      "tagged_at": "2026-06-15T13:08:03+09:00"
+    },
+    "https://huggingface.co/moonshotai/Kimi-K2.7-Code": {
+      "title": "Kimi-K2.7-Code 공개",
+      "summary": "문샷 코딩 특화 모델, 출시 직후 645 likes로 급부상",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-06-15",
+      "tags": [
+        "model-release"
+      ],
+      "tagged_at": "2026-06-15T13:08:03+09:00"
+    },
+    "https://huggingface.co/papers/2606.06036": {
+      "title": "Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents",
+      "summary": "검색 대신 그래프로 메모리를 재구성하는 새 패러다임",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-15",
+      "tags": [
+        "agent-memory",
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-15T13:08:03+09:00"
+    },
+    "https://huggingface.co/papers/2606.13707": {
+      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+      "summary": "옴니모달 멀티에이전트 오케스트레이션 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-15",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-15T13:08:03+09:00"
+    },
+    "https://huggingface.co/papers/2606.14249": {
+      "title": "HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry",
+      "summary": "모델·태스크별 수작업 하네스를 자동 조립하는 파운드리",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-15",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-06-15T13:08:03+09:00"
+    },
+    "https://huggingface.co/MiniMaxAI/MiniMax-M3": {
+      "title": "MiniMax-M3",
+      "summary": "MiniMax 신규 플래그십 모델, 출시 직후 508 likes",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-06-15",
+      "tags": [
+        "model-release"
+      ],
+      "tagged_at": "2026-06-15T13:08:03+09:00"
+    },
+    "https://huggingface.co/papers/2606.14502": {
+      "title": "From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI",
+      "summary": "챗봇에서 추론·행동·기억·자기개선형 '디지털 동료'로의 전환 정리",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-15",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-06-15T13:08:03+09:00"
+    },
+    "https://huggingface.co/papers/2606.14061": {
+      "title": "LLM Agents Can See Code Repositories",
+      "summary": "폴더 구조·의존성을 시각적으로 인지하는 코딩 에이전트",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-06-15",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-06-15T13:08:03+09:00"
     }
   }
 }

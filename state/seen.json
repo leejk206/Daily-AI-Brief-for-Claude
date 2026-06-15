@@ -17,23 +17,11 @@
     "days": 1,
     "title": "mvanhorn/last30days-skill"
   },
-  "https://openai.com/index/endava-frontiers": {
-    "first_seen": "2026-06-05",
-    "last_seen": "2026-06-07",
-    "days": 3,
-    "title": "How Endava is redesigning software delivery around AI agents"
-  },
   "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": {
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-10",
     "days": 1,
     "title": "OpenAI frontier models and Codex are now available on AWS"
-  },
-  "https://github.com/CopilotKit/CopilotKit": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-07",
-    "days": 2,
-    "title": "CopilotKit/CopilotKit"
   },
   "https://huggingface.co/papers/2606.04703": {
     "first_seen": "2026-06-08",
@@ -59,54 +47,6 @@
     "days": 3,
     "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces"
   },
-  "https://huggingface.co/papers/2606.06462": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-07",
-    "days": 2,
-    "title": "Benchmark Everything Everywhere All at Once"
-  },
-  "https://huggingface.co/papers/2606.00644": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-07",
-    "days": 2,
-    "title": "ForeSci: Evaluating LLM Agents for Forward-Looking AI Research Judgment"
-  },
-  "https://huggingface.co/papers/2606.06492": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-07",
-    "days": 2,
-    "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution"
-  },
-  "https://huggingface.co/papers/2606.03092": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-07",
-    "days": 2,
-    "title": "The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs"
-  },
-  "https://openai.com/index/harness-engineering/": {
-    "first_seen": "2026-06-07",
-    "last_seen": "2026-06-07",
-    "days": 1,
-    "title": "Harness engineering: Leveraging Codex in an agent-first world"
-  },
-  "https://github.com/danielmiessler/Personal_AI_Infrastructure": {
-    "first_seen": "2026-06-07",
-    "last_seen": "2026-06-07",
-    "days": 1,
-    "title": "danielmiessler/Personal_AI_Infrastructure"
-  },
-  "https://github.com/Panniantong/Agent-Reach": {
-    "first_seen": "2026-06-07",
-    "last_seen": "2026-06-07",
-    "days": 1,
-    "title": "Panniantong/Agent-Reach"
-  },
-  "https://github.com/santifer/career-ops": {
-    "first_seen": "2026-06-07",
-    "last_seen": "2026-06-07",
-    "days": 1,
-    "title": "santifer/career-ops"
-  },
   "https://huggingface.co/papers/2605.30159": {
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-08",
@@ -118,18 +58,6 @@
     "last_seen": "2026-06-08",
     "days": 2,
     "title": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents"
-  },
-  "https://huggingface.co/papers/2606.05553": {
-    "first_seen": "2026-06-07",
-    "last_seen": "2026-06-07",
-    "days": 1,
-    "title": "ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?"
-  },
-  "https://huggingface.co/papers/2606.05275": {
-    "first_seen": "2026-06-07",
-    "last_seen": "2026-06-07",
-    "days": 1,
-    "title": "Personal AI Agent for Camera Roll VQA"
   },
   "https://huggingface.co/papers/2606.06473": {
     "first_seen": "2026-06-07",
@@ -354,10 +282,10 @@
     "title": "How engineers at Nextdoor use Codex to build without limits"
   },
   "https://huggingface.co/CohereLabs/North-Mini-Code-1.0": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-13",
-    "days": 2,
-    "title": "CohereLabs/North-Mini-Code-1.0"
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "days": 1,
+    "title": "North-Mini-Code-1.0"
   },
   "https://blog.gitbutler.com/true-grit": {
     "first_seen": "2026-06-10",
@@ -733,20 +661,20 @@
   },
   "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": {
     "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
-    "days": 1,
+    "last_seen": "2026-06-15",
+    "days": 2,
     "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
   },
   "https://huggingface.co/papers/2606.10423": {
     "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
-    "days": 1,
+    "last_seen": "2026-06-15",
+    "days": 2,
     "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent"
   },
   "https://huggingface.co/papers/2606.07867": {
     "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
-    "days": 1,
+    "last_seen": "2026-06-15",
+    "days": 2,
     "title": "The Cold-Start Safety Gap in LLM Agents"
   },
   "https://openai.com/index/openai-on-oracle-cloud": {
@@ -754,5 +682,53 @@
     "last_seen": "2026-06-14",
     "days": 1,
     "title": "Access OpenAI models and Codex through your Oracle cloud commitment"
+  },
+  "https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B": {
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "days": 1,
+    "title": "브라질 국산 오픈모델 Rio-3.5-Open / Nex-N2 '머지 의혹'"
+  },
+  "https://huggingface.co/moonshotai/Kimi-K2.7-Code": {
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "days": 1,
+    "title": "Kimi-K2.7-Code 공개"
+  },
+  "https://huggingface.co/papers/2606.06036": {
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "days": 1,
+    "title": "Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents"
+  },
+  "https://huggingface.co/papers/2606.13707": {
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "days": 1,
+    "title": "Orchestra-o1: Omnimodal Agent Orchestration"
+  },
+  "https://huggingface.co/papers/2606.14249": {
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "days": 1,
+    "title": "HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry"
+  },
+  "https://huggingface.co/MiniMaxAI/MiniMax-M3": {
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "days": 1,
+    "title": "MiniMax-M3"
+  },
+  "https://huggingface.co/papers/2606.14502": {
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "days": 1,
+    "title": "From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI"
+  },
+  "https://huggingface.co/papers/2606.14061": {
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "days": 1,
+    "title": "LLM Agents Can See Code Repositories"
   }
 }

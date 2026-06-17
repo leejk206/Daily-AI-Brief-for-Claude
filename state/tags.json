@@ -8434,7 +8434,7 @@
       "tags": [
         "model-release"
       ],
-      "tagged_at": "2026-06-13T13:53:01+09:00"
+      "tagged_at": "2026-06-17T10:30:26+09:00"
     },
     "https://huggingface.co/papers/2606.09290": {
       "title": "Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning",
@@ -8660,6 +8660,175 @@
         "paper"
       ],
       "tagged_at": "2026-06-15T13:08:03+09:00"
+    },
+    "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/": {
+      "title": "SpaceX, Cursor(Anysphere)를 600억 달러에 인수",
+      "summary": "코딩 에이전트 1위 업체의 초대형 인수",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-17",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-17T10:30:26+09:00"
+    },
+    "https://huggingface.co/papers/2606.11176": {
+      "title": "Data Journalist Agent: 데이터를 검증가능한 멀티모달 기사로",
+      "summary": "뉴스룸 작업을 자동화하는 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-17",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-17T10:30:26+09:00"
+    },
+    "https://huggingface.co/papers/2606.14066": {
+      "title": "FastContext: 코딩 에이전트용 효율적 레포 탐색기 학습",
+      "summary": "레포 탐색 토큰 낭비를 줄이는 코딩 에이전트 기법",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-06-17",
+      "tags": [
+        "cli-agent",
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-17T10:30:26+09:00"
+    },
+    "https://openai.com/index/deployment-simulation": {
+      "title": "OpenAI Deployment Simulation: 배포 전 모델 행동 예측",
+      "summary": "실제 대화 데이터로 출시 전 안전성·평가 정확도 개선",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-06-17",
+      "tags": [
+        "benchmark"
+      ],
+      "tagged_at": "2026-06-17T10:30:26+09:00"
+    },
+    "https://huggingface.co/papers/2606.15300": {
+      "title": "CODA-BENCH: 코드 에이전트는 데이터 집약 작업을 다룰 수 있나",
+      "summary": "대규모 데이터+복잡 코드 환경에서 에이전트 평가 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-17",
+      "tags": [
+        "benchmark",
+        "cli-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-17T10:30:26+09:00"
+    },
+    "https://huggingface.co/papers/2606.16140": {
+      "title": "VibeThinker-3B: 소형 모델의 검증가능한 추론 한계 탐색",
+      "summary": "3B 규모로 검증 추론 성능을 끌어올린 리포트",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-06-17",
+      "tags": [
+        "model-release",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-17T10:30:26+09:00"
+    },
+    "https://huggingface.co/papers/2604.18401": {
+      "title": "StepPO: 에이전트형 RL을 위한 스텝 정렬 정책 최적화",
+      "summary": "토큰 단위 대신 스텝 단위로 에이전트 RL 최적화",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-17",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-17T10:30:26+09:00"
+    },
+    "https://huggingface.co/papers/2606.15079": {
+      "title": "Ling·Ring 2.6: 조 단위 파라미터의 즉응형 에이전트 지능",
+      "summary": "저지연·강추론을 함께 노린 MoE 모델군 리포트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-17",
+      "tags": [
+        "model-release",
+        "paper"
+      ],
+      "tagged_at": "2026-06-17T10:30:26+09:00"
+    },
+    "https://huggingface.co/papers/2606.15673": {
+      "title": "WebStep: 시맨틱 상태 추적 기반 웹 에이전트 공정 평가",
+      "summary": "최종 성공만 보던 평가를 과정 단위로 분석",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-17",
+      "tags": [
+        "benchmark",
+        "paper",
+        "web-agent"
+      ],
+      "tagged_at": "2026-06-17T10:30:26+09:00"
+    },
+    "https://huggingface.co/papers/2606.15708": {
+      "title": "Artificial Intelligence Index Report 2026",
+      "summary": "AI 거버넌스·평가·교육 인프라를 짚는 9번째 연례 리포트",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-17",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-06-17T10:30:26+09:00"
+    },
+    "https://huggingface.co/papers/2606.16011": {
+      "title": "Who Flips? 반론 앞에서 흔들리는 LLM 답변 안정성",
+      "summary": "그럴듯한 반론에 답을 바꾸는지 측정하는 프로토콜",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-17",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-17T10:30:26+09:00"
+    },
+    "https://huggingface.co/papers/2606.13044": {
+      "title": "No Hidden Prompts Needed: 표현만 바꿔도 AI 동료심사 게이밍 가능",
+      "summary": "숨은 지시 없이도 AI 리뷰를 조작하는 실패 모드",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-17",
+      "tags": [
+        "auto-research",
+        "paper"
+      ],
+      "tagged_at": "2026-06-17T10:30:26+09:00"
+    },
+    "https://huggingface.co/papers/2606.17016": {
+      "title": "TokenPilot: LLM 에이전트용 캐시 효율적 컨텍스트 관리",
+      "summary": "프리픽스 불일치 없이 토큰 풋프린트를 줄이는 기법",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-17",
+      "tags": [
+        "long-context",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-17T10:30:26+09:00"
+    },
+    "https://huggingface.co/papers/2606.06302": {
+      "title": "Tangram: 멀티턴 LLM 서빙을 위한 비균일 KV 캐시 압축",
+      "summary": "메모리 병목을 푸는 이종 KV 압축",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-17",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-06-17T10:30:26+09:00"
     }
   }
 }

@@ -1,10 +1,4 @@
 {
-  "https://openai.com/index/codex-for-every-role-tool-workflow": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-08",
-    "days": 3,
-    "title": "Codex for every role, tool, and workflow"
-  },
   "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking": {
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-10",
@@ -23,138 +17,6 @@
     "days": 1,
     "title": "OpenAI frontier models and Codex are now available on AWS"
   },
-  "https://huggingface.co/papers/2606.04703": {
-    "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "days": 1,
-    "title": "Rethinking Continual Experience Internalization for Self-Evolving LLM Agents"
-  },
-  "https://huggingface.co/papers/2606.06416": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-08",
-    "days": 3,
-    "title": "Unsupervised Skill Discovery for Agentic Data Analysis"
-  },
-  "https://huggingface.co/papers/2606.03841": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-08",
-    "days": 3,
-    "title": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management"
-  },
-  "https://huggingface.co/papers/2606.01317": {
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-08",
-    "days": 3,
-    "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces"
-  },
-  "https://huggingface.co/papers/2605.30159": {
-    "first_seen": "2026-06-07",
-    "last_seen": "2026-06-08",
-    "days": 2,
-    "title": "Meta-Cognitive Memory Policy Optimization for Long-Horizon LLM Agents"
-  },
-  "https://huggingface.co/papers/2606.05557": {
-    "first_seen": "2026-06-07",
-    "last_seen": "2026-06-08",
-    "days": 2,
-    "title": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents"
-  },
-  "https://huggingface.co/papers/2606.06473": {
-    "first_seen": "2026-06-07",
-    "last_seen": "2026-06-08",
-    "days": 2,
-    "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery"
-  },
-  "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/": {
-    "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "days": 1,
-    "title": "LLMs are eroding my software engineering career and I don't know what to do"
-  },
-  "https://github.com/aaif-goose/goose": {
-    "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "days": 1,
-    "title": "aaif-goose/goose"
-  },
-  "https://arxiv.org/abs/2601.14470": {
-    "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "days": 1,
-    "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering"
-  },
-  "https://fergusfinn.com/blog/kv-entropy-coder/": {
-    "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "days": 1,
-    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4x"
-  },
-  "https://huggingface.co/papers/2605.30848": {
-    "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "days": 1,
-    "title": "LLM Anonymization Against Agentic Re-Identification"
-  },
-  "https://huggingface.co/papers/2606.01886": {
-    "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "days": 1,
-    "title": "Absorbing Complexity: An Interaction-Native Knowledge Harness for Financial LLM Agents"
-  },
-  "https://github.com/anthropics/claude-code/issues/65697": {
-    "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "days": 1,
-    "title": "Anthropic, please ship an official Claude Desktop for Linux"
-  },
-  "https://github.com/RyanCodrai/turbovec": {
-    "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "days": 1,
-    "title": "RyanCodrai/turbovec"
-  },
-  "https://huggingface.co/papers/2606.05806": {
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
-    "days": 1,
-    "title": "When Tools Fail (ToolMaze)"
-  },
-  "https://huggingface.co/papers/2606.06741": {
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
-    "days": 1,
-    "title": "OpenSkill: Open-World Self-Evolution for LLM Agents"
-  },
-  "https://huggingface.co/papers/2606.07412": {
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
-    "days": 1,
-    "title": "Socratic-SWE: Self-Evolving Coding Agents"
-  },
-  "https://huggingface.co/papers/2606.05563": {
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
-    "days": 1,
-    "title": "SoCRATES"
-  },
-  "https://huggingface.co/papers/2605.26046": {
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
-    "days": 1,
-    "title": "When Gradients Collide"
-  },
-  "https://huggingface.co/papers/2605.27276": {
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
-    "days": 1,
-    "title": "SIA: Self Improving AI with Harness & Weight Updates"
-  },
-  "https://huggingface.co/papers/2606.01779": {
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
-    "days": 1,
-    "title": "HarnessForge"
-  },
   "https://github.com/google/skills": {
     "first_seen": "2026-06-11",
     "last_seen": "2026-06-11",
@@ -167,35 +29,11 @@
     "days": 3,
     "title": "phuryn/pm-skills"
   },
-  "https://huggingface.co/papers/2606.05761": {
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
-    "days": 1,
-    "title": "SubtleMemory"
-  },
-  "https://huggingface.co/papers/2606.06622": {
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
-    "days": 1,
-    "title": "UnpredictaBench"
-  },
-  "https://github.com/Andyyyy64/whichllm": {
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
-    "days": 1,
-    "title": "Andyyyy64/whichllm"
-  },
   "https://github.com/luongnv89/claude-howto": {
     "first_seen": "2026-06-11",
     "last_seen": "2026-06-11",
     "days": 1,
     "title": "luongnv89/claude-howto"
-  },
-  "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/": {
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
-    "days": 1,
-    "title": "Replies to comments on my LLMs are eroding my career post"
   },
   "https://huggingface.co/papers/2606.05405": {
     "first_seen": "2026-06-10",
@@ -612,10 +450,10 @@
     "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning"
   },
   "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
     "days": 1,
-    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model"
+    "title": "Introducing Gemma 4 12B"
   },
   "https://huggingface.co/papers/2606.09290": {
     "first_seen": "2026-06-13",
@@ -730,5 +568,89 @@
     "last_seen": "2026-06-15",
     "days": 1,
     "title": "LLM Agents Can See Code Repositories"
+  },
+  "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "days": 1,
+    "title": "SpaceX, Cursor(Anysphere)를 600억 달러에 인수"
+  },
+  "https://huggingface.co/papers/2606.11176": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "days": 1,
+    "title": "Data Journalist Agent: 데이터를 검증가능한 멀티모달 기사로"
+  },
+  "https://huggingface.co/papers/2606.14066": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "days": 1,
+    "title": "FastContext: 코딩 에이전트용 효율적 레포 탐색기 학습"
+  },
+  "https://openai.com/index/deployment-simulation": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "days": 1,
+    "title": "OpenAI Deployment Simulation: 배포 전 모델 행동 예측"
+  },
+  "https://huggingface.co/papers/2606.15300": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "days": 1,
+    "title": "CODA-BENCH: 코드 에이전트는 데이터 집약 작업을 다룰 수 있나"
+  },
+  "https://huggingface.co/papers/2606.16140": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "days": 1,
+    "title": "VibeThinker-3B: 소형 모델의 검증가능한 추론 한계 탐색"
+  },
+  "https://huggingface.co/papers/2604.18401": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "days": 1,
+    "title": "StepPO: 에이전트형 RL을 위한 스텝 정렬 정책 최적화"
+  },
+  "https://huggingface.co/papers/2606.15079": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "days": 1,
+    "title": "Ling·Ring 2.6: 조 단위 파라미터의 즉응형 에이전트 지능"
+  },
+  "https://huggingface.co/papers/2606.15673": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "days": 1,
+    "title": "WebStep: 시맨틱 상태 추적 기반 웹 에이전트 공정 평가"
+  },
+  "https://huggingface.co/papers/2606.15708": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "days": 1,
+    "title": "Artificial Intelligence Index Report 2026"
+  },
+  "https://huggingface.co/papers/2606.16011": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "days": 1,
+    "title": "Who Flips? 반론 앞에서 흔들리는 LLM 답변 안정성"
+  },
+  "https://huggingface.co/papers/2606.13044": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "days": 1,
+    "title": "No Hidden Prompts Needed: 표현만 바꿔도 AI 동료심사 게이밍 가능"
+  },
+  "https://huggingface.co/papers/2606.17016": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "days": 1,
+    "title": "TokenPilot: LLM 에이전트용 캐시 효율적 컨텍스트 관리"
+  },
+  "https://huggingface.co/papers/2606.06302": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "days": 1,
+    "title": "Tangram: 멀티턴 LLM 서빙을 위한 비균일 KV 캐시 압축"
   }
 }

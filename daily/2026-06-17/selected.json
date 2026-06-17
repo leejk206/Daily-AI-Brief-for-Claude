@@ -1,0 +1,17 @@
+[
+  {"url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/", "title": "SpaceX, Cursor(Anysphere)를 600억 달러에 인수"},
+  {"url": "https://huggingface.co/papers/2606.11176", "title": "Data Journalist Agent: 데이터를 검증가능한 멀티모달 기사로"},
+  {"url": "https://huggingface.co/papers/2606.14066", "title": "FastContext: 코딩 에이전트용 효율적 레포 탐색기 학습"},
+  {"url": "https://openai.com/index/deployment-simulation", "title": "OpenAI Deployment Simulation: 배포 전 모델 행동 예측"},
+  {"url": "https://huggingface.co/papers/2606.15300", "title": "CODA-BENCH: 코드 에이전트는 데이터 집약 작업을 다룰 수 있나"},
+  {"url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/", "title": "Introducing Gemma 4 12B"},
+  {"url": "https://huggingface.co/papers/2606.16140", "title": "VibeThinker-3B: 소형 모델의 검증가능한 추론 한계 탐색"},
+  {"url": "https://huggingface.co/papers/2604.18401", "title": "StepPO: 에이전트형 RL을 위한 스텝 정렬 정책 최적화"},
+  {"url": "https://huggingface.co/papers/2606.15079", "title": "Ling·Ring 2.6: 조 단위 파라미터의 즉응형 에이전트 지능"},
+  {"url": "https://huggingface.co/papers/2606.15673", "title": "WebStep: 시맨틱 상태 추적 기반 웹 에이전트 공정 평가"},
+  {"url": "https://huggingface.co/papers/2606.15708", "title": "Artificial Intelligence Index Report 2026"},
+  {"url": "https://huggingface.co/papers/2606.16011", "title": "Who Flips? 반론 앞에서 흔들리는 LLM 답변 안정성"},
+  {"url": "https://huggingface.co/papers/2606.13044", "title": "No Hidden Prompts Needed: 표현만 바꿔도 AI 동료심사 게이밍 가능"},
+  {"url": "https://huggingface.co/papers/2606.17016", "title": "TokenPilot: LLM 에이전트용 캐시 효율적 컨텍스트 관리"},
+  {"url": "https://huggingface.co/papers/2606.06302", "title": "Tangram: 멀티턴 LLM 서빙을 위한 비균일 KV 캐시 압축"}
+]

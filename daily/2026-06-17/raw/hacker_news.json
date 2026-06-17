@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-17T10:26:25+09:00",
+  "items": [
+    {
+      "id": "hn:48555993",
+      "title": "Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "description": "",
+      "signals": {
+        "points": 1003,
+        "num_comments": 426,
+        "discussion_url": "https://news.ycombinator.com/item?id=48555993"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48553224",
+      "title": "SpaceX to buy Cursor for $60B",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "description": "",
+      "signals": {
+        "points": 866,
+        "num_comments": 1323,
+        "discussion_url": "https://news.ycombinator.com/item?id=48553224"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48553550",
+      "title": "Mechanical Watch (2022)",
+      "url": "https://ciechanow.ski/mechanical-watch/",
+      "description": "",
+      "signals": {
+        "points": 623,
+        "num_comments": 114,
+        "discussion_url": "https://news.ycombinator.com/item?id=48553550"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48557530",
+      "title": "Apple's weird anti-nausea dots cured my car sickness",
+      "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+      "description": "",
+      "signals": {
+        "points": 568,
+        "num_comments": 185,
+        "discussion_url": "https://news.ycombinator.com/item?id=48557530"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48558045",
+      "title": "Is Meta destroying its engineering organization?",
+      "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "description": "",
+      "signals": {
+        "points": 400,
+        "num_comments": 370,
+        "discussion_url": "https://news.ycombinator.com/item?id=48558045"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48559935",
+      "title": "Apple is about to make Hide My Email useless",
+      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "description": "",
+      "signals": {
+        "points": 381,
+        "num_comments": 232,
+        "discussion_url": "https://news.ycombinator.com/item?id=48559935"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48561654",
+      "title": "GrapheneOS has been ported to Android 17",
+      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "description": "",
+      "signals": {
+        "points": 358,
+        "num_comments": 146,
+        "discussion_url": "https://news.ycombinator.com/item?id=48561654"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48552844",
+      "title": "Correlated randomness in Slay the Spire 2",
+      "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+      "description": "",
+      "signals": {
+        "points": 277,
+        "num_comments": 87,
+        "discussion_url": "https://news.ycombinator.com/item?id=48552844"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48557079",
+      "title": "Calvin and Hobbes and the price of integrity",
+      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+      "description": "",
+      "signals": {
+        "points": 270,
+        "num_comments": 120,
+        "discussion_url": "https://news.ycombinator.com/item?id=48557079"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48558018",
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "description": "",
+      "signals": {
+        "points": 254,
+        "num_comments": 141,
+        "discussion_url": "https://news.ycombinator.com/item?id=48558018"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48558147",
+      "title": "Stop Using JWTs",
+      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+      "description": "",
+      "signals": {
+        "points": 241,
+        "num_comments": 141,
+        "discussion_url": "https://news.ycombinator.com/item?id=48558147"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48555838",
+      "title": "But yak shaving is fun (2019)",
+      "url": "https://parksb.github.io/en/article/32.html",
+      "description": "",
+      "signals": {
+        "points": 207,
+        "num_comments": 61,
+        "discussion_url": "https://news.ycombinator.com/item?id=48555838"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48558489",
+      "title": "Has AI already killed self-help nonfiction books?",
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "description": "",
+      "signals": {
+        "points": 155,
+        "num_comments": 156,
+        "discussion_url": "https://news.ycombinator.com/item?id=48558489"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48559188",
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "description": "",
+      "signals": {
+        "points": 127,
+        "num_comments": 135,
+        "discussion_url": "https://news.ycombinator.com/item?id=48559188"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48554814",
+      "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+      "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+      "description": "",
+      "signals": {
+        "points": 122,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48554814"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48519723",
+      "title": "An interview with an Apple emoji designer",
+      "url": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
+      "description": "",
+      "signals": {
+        "points": 104,
+        "num_comments": 59,
+        "discussion_url": "https://news.ycombinator.com/item?id=48519723"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48562957",
+      "title": "The UK's Teen Social Media Ban Is Political Theater, Not Child Safety Policy",
+      "url": "https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/",
+      "description": "",
+      "signals": {
+        "points": 94,
+        "num_comments": 85,
+        "discussion_url": "https://news.ycombinator.com/item?id=48562957"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48559083",
+      "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
+      "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
+      "description": "",
+      "signals": {
+        "points": 94,
+        "num_comments": 72,
+        "discussion_url": "https://news.ycombinator.com/item?id=48559083"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48557768",
+      "title": "Making ast.walk 220x Faster",
+      "url": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/",
+      "description": "",
+      "signals": {
+        "points": 90,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48557768"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48497067",
+      "title": "Formal Methods and the Future of Programming",
+      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
+      "description": "",
+      "signals": {
+        "points": 77,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48497067"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48563394",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "description": "",
+      "signals": {
+        "points": 69,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48563394"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48563569",
+      "title": "NLnet announces funding for 67 more open-source projects",
+      "url": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
+      "description": "",
+      "signals": {
+        "points": 54,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48563569"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48563609",
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "description": "",
+      "signals": {
+        "points": 49,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48563609"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48560454",
+      "title": "Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
+      "url": "https://voicedraw.com/",
+      "description": "",
+      "signals": {
+        "points": 31,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48560454"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48536660",
+      "title": "A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",
+      "url": "https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/",
+      "description": "",
+      "signals": {
+        "points": 31,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48536660"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48561402",
+      "title": "Frood, an Alpine Initramfs NAS (2024)",
+      "url": "https://words.filippo.io/frood/",
+      "description": "",
+      "signals": {
+        "points": 27,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48561402"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48561410",
+      "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+      "url": "https://github.com/nvlabs/cutile-rs",
+      "description": "",
+      "signals": {
+        "points": 24,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48561410"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48526256",
+      "title": "A Nipkow Disk Mechanical TV Simulator",
+      "url": "https://analogtv.net/mechanical-lab",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48526256"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48533098",
+      "title": "The Magic Roundabout of Seattle Area",
+      "url": "https://kirklandroundabouts.com",
+      "description": "",
+      "signals": {
+        "points": 17,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48533098"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

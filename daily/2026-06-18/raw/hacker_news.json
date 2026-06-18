@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-18T14:32:06+09:00",
+  "items": [
+    {
+      "id": "hn:48571081",
+      "title": "Lore – Open source version control system designed for scalability",
+      "url": "https://lore.org/",
+      "description": "",
+      "signals": {
+        "points": 1065,
+        "num_comments": 566,
+        "discussion_url": "https://news.ycombinator.com/item?id=48571081"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48567759",
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "description": "",
+      "signals": {
+        "points": 826,
+        "num_comments": 400,
+        "discussion_url": "https://news.ycombinator.com/item?id=48567759"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48568058",
+      "title": "U.S. science is in chaos",
+      "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+      "description": "",
+      "signals": {
+        "points": 770,
+        "num_comments": 927,
+        "discussion_url": "https://news.ycombinator.com/item?id=48568058"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48571526",
+      "title": "Volkswagen started blocking GrapheneOS users",
+      "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+      "description": "",
+      "signals": {
+        "points": 565,
+        "num_comments": 355,
+        "discussion_url": "https://news.ycombinator.com/item?id=48571526"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48565498",
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "description": "",
+      "signals": {
+        "points": 418,
+        "num_comments": 471,
+        "discussion_url": "https://news.ycombinator.com/item?id=48565498"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48579650",
+      "title": "Midjourney Medical",
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "description": "",
+      "signals": {
+        "points": 387,
+        "num_comments": 303,
+        "discussion_url": "https://news.ycombinator.com/item?id=48579650"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48568502",
+      "title": "RFC 10008: The new HTTP Query Method",
+      "url": "https://www.rfc-editor.org/info/rfc10008/",
+      "description": "",
+      "signals": {
+        "points": 346,
+        "num_comments": 147,
+        "discussion_url": "https://news.ycombinator.com/item?id=48568502"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48556561",
+      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "url": "https://browser-use.com/posts/firecracker-browser-infra",
+      "description": "",
+      "signals": {
+        "points": 244,
+        "num_comments": 156,
+        "discussion_url": "https://news.ycombinator.com/item?id=48556561"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48576838",
+      "title": "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
+      "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+      "description": "",
+      "signals": {
+        "points": 238,
+        "num_comments": 132,
+        "discussion_url": "https://news.ycombinator.com/item?id=48576838"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48573012",
+      "title": "Show HN: An 8-bit live gamecast for baseball",
+      "url": "https://ribbie.tv/watch",
+      "description": "",
+      "signals": {
+        "points": 220,
+        "num_comments": 121,
+        "discussion_url": "https://news.ycombinator.com/item?id=48573012"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48569894",
+      "title": "Why thinking out loud with someone beats thinking alone",
+      "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
+      "description": "",
+      "signals": {
+        "points": 217,
+        "num_comments": 97,
+        "discussion_url": "https://news.ycombinator.com/item?id=48569894"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48569205",
+      "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
+      "url": "https://github.com/rxi/microui",
+      "description": "",
+      "signals": {
+        "points": 213,
+        "num_comments": 73,
+        "discussion_url": "https://news.ycombinator.com/item?id=48569205"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48523534",
+      "title": "Show HN: Inkwash, a watercolor sketching app and explanation",
+      "url": "https://johnowhitaker.github.io/inkwash/about",
+      "description": "",
+      "signals": {
+        "points": 197,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48523534"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48522927",
+      "title": "Image Compression",
+      "url": "https://www.makingsoftware.com/chapters/image-compression",
+      "description": "",
+      "signals": {
+        "points": 186,
+        "num_comments": 28,
+        "discussion_url": "https://news.ycombinator.com/item?id=48522927"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48572553",
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "description": "",
+      "signals": {
+        "points": 172,
+        "num_comments": 84,
+        "discussion_url": "https://news.ycombinator.com/item?id=48572553"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48577374",
+      "title": "Storied Colors – a catalogue of named colors",
+      "url": "https://storiedcolors.com/",
+      "description": "",
+      "signals": {
+        "points": 130,
+        "num_comments": 28,
+        "discussion_url": "https://news.ycombinator.com/item?id=48577374"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48578388",
+      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+      "url": "https://www.horg.com/horg/?page_id=921",
+      "description": "",
+      "signals": {
+        "points": 113,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48578388"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48576395",
+      "title": "Loreline – Tools for writing interactive fiction",
+      "url": "https://loreline.app/en/",
+      "description": "",
+      "signals": {
+        "points": 109,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48576395"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48575997",
+      "title": "How Madrid built its metro cheaply (2024)",
+      "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
+      "description": "",
+      "signals": {
+        "points": 76,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48575997"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48578326",
+      "title": "Clojure Hosted on Go",
+      "url": "https://github.com/glojurelang/glojure",
+      "description": "",
+      "signals": {
+        "points": 74,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48578326"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48580209",
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "description": "",
+      "signals": {
+        "points": 56,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48580209"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48546549",
+      "title": "Show HN: We built an 8-bit CPU as 2nd year EE students",
+      "url": "https://github.com/c0rRupT9/STEPLA-1",
+      "description": "",
+      "signals": {
+        "points": 54,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48546549"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48551069",
+      "title": "The Return of Rigorous Full-System Timing Simulation",
+      "url": "https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/",
+      "description": "",
+      "signals": {
+        "points": 39,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48551069"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48497873",
+      "title": "Biological evolution and information acquisition",
+      "url": "https://www.construction-physics.com/p/biological-evolution-and-information",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48497873"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48554044",
+      "title": "Show HN: Spin Lab",
+      "url": "https://srijanshukla.com/artifacts/spin-lab/",
+      "description": "",
+      "signals": {
+        "points": 26,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48554044"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48580686",
+      "title": "SteamOS Linux 3.8 released as stable",
+      "url": "https://store.steampowered.com/news/app/1675200/view/697641379212298072",
+      "description": "",
+      "signals": {
+        "points": 26,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48580686"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48579913",
+      "title": "[x86] AI Compute Extensions (ACE) Specification",
+      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+      "description": "",
+      "signals": {
+        "points": 23,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48579913"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48579915",
+      "title": "Scaling opencomputer from 1 VM to 1 million sandboxes",
+      "url": "https://opencomputer.dev/blog/scaling-one-vm-to-million-sandboxes/",
+      "description": "",
+      "signals": {
+        "points": 10,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48579915"
+      },
+      "category_hint": null
+    }
+  ]
+}

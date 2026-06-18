@@ -96,4 +96,5 @@ AI 기반 취약점 탐지·보안 분석·코드 보안
 
 ## Candidate
 
-_(현재 candidate 없음)_
+### partnership
+벤더 간 제휴·지역 진출·생태계 파트너십 발표

@@ -1234,5 +1234,25 @@
   "https://huggingface.co/papers/2606.15300": {
     "archived_on": "2026-06-17",
     "title": "CODA-BENCH: 코드 에이전트는 데이터 집약 작업을 다룰 수 있나"
+  },
+  "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index": {
+    "archived_on": "2026-06-18",
+    "title": "GLM-5.2, 오픈웨이트 1위 등극"
+  },
+  "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem": {
+    "archived_on": "2026-06-18",
+    "title": "앤트로픽, 서울 오피스 개소·한국 파트너십"
+  },
+  "https://github.com/DeusData/codebase-memory-mcp": {
+    "archived_on": "2026-06-18",
+    "title": "codebase-memory-mcp"
+  },
+  "https://huggingface.co/papers/2606.18023": {
+    "archived_on": "2026-06-18",
+    "title": "LoopCoder-v2"
+  },
+  "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/": {
+    "archived_on": "2026-06-18",
+    "title": "美, 딥시크 블랙리스트 보류"
   }
 }

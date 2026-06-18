@@ -1,21 +1,9 @@
 {
-  "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "JetBrains/Mellum2-12B-A2.5B-Thinking"
-  },
   "https://github.com/mvanhorn/last30days-skill": {
     "first_seen": "2026-06-11",
     "last_seen": "2026-06-11",
     "days": 1,
     "title": "mvanhorn/last30days-skill"
-  },
-  "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "OpenAI frontier models and Codex are now available on AWS"
   },
   "https://github.com/google/skills": {
     "first_seen": "2026-06-11",
@@ -35,78 +23,6 @@
     "days": 1,
     "title": "luongnv89/claude-howto"
   },
-  "https://huggingface.co/papers/2606.05405": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "Agents' Last Exam"
-  },
-  "https://huggingface.co/papers/2606.09079": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention"
-  },
-  "https://huggingface.co/papers/2606.06087": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents"
-  },
-  "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "x1xhlol/system-prompts-and-models-of-ai-tools"
-  },
-  "https://huggingface.co/papers/2606.07299": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning"
-  },
-  "https://huggingface.co/papers/2606.08348": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "Bayesian-Agent: Posterior-Guided Skill Evolution for LLM Agent Harnesses"
-  },
-  "https://huggingface.co/papers/2606.06523": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory"
-  },
-  "https://arxiv.org/abs/2605.15184": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search"
-  },
-  "https://huggingface.co/papers/2606.09826": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics"
-  },
-  "https://huggingface.co/papers/2606.03980": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill"
-  },
-  "https://huggingface.co/papers/2606.08960": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "Hardening Agent Benchmarks with Adversarial Hacker-Fixer Loops"
-  },
-  "https://huggingface.co/papers/2606.09809": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting"
-  },
   "https://openai.com/index/notion": {
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -124,24 +40,6 @@
     "last_seen": "2026-06-15",
     "days": 1,
     "title": "North-Mini-Code-1.0"
-  },
-  "https://blog.gitbutler.com/true-grit": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "Grit: Rewriting Git in Rust with Agents"
-  },
-  "https://huggingface.co/papers/2606.09659": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "End-to-End Context Compression at Scale"
-  },
-  "https://huggingface.co/papers/2606.05633": {
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "days": 1,
-    "title": "Answer Presence Drives RAG Rewriting Gains"
   },
   "https://burr.apache.org/": {
     "first_seen": "2026-06-11",
@@ -652,5 +550,65 @@
     "last_seen": "2026-06-17",
     "days": 1,
     "title": "Tangram: 멀티턴 LLM 서빙을 위한 비균일 KV 캐시 압축"
+  },
+  "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index": {
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "days": 1,
+    "title": "GLM-5.2, 오픈웨이트 1위 등극"
+  },
+  "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem": {
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "days": 1,
+    "title": "앤트로픽, 서울 오피스 개소·한국 파트너십"
+  },
+  "https://github.com/DeusData/codebase-memory-mcp": {
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "days": 1,
+    "title": "codebase-memory-mcp"
+  },
+  "https://huggingface.co/papers/2606.18023": {
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "days": 1,
+    "title": "LoopCoder-v2"
+  },
+  "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/": {
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "days": 1,
+    "title": "美, 딥시크 블랙리스트 보류"
+  },
+  "https://huggingface.co/papers/2606.16428": {
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "days": 1,
+    "title": "LectūraAgents"
+  },
+  "https://huggingface.co/papers/2606.17861": {
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "days": 1,
+    "title": "GameCraft-Bench"
+  },
+  "https://huggingface.co/papers/2606.15345": {
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "days": 1,
+    "title": "BrowseComp-Plus (교차언어 딥리서치)"
+  },
+  "https://github.com/continuedev/continue": {
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "days": 1,
+    "title": "continuedev/continue"
+  },
+  "https://github.com/alexzhang13/rlm": {
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "days": 1,
+    "title": "alexzhang13/rlm"
   }
 }

@@ -8829,6 +8829,129 @@
         "paper"
       ],
       "tagged_at": "2026-06-17T10:30:26+09:00"
+    },
+    "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index": {
+      "title": "GLM-5.2, 오픈웨이트 1위 등극",
+      "summary": "Artificial Analysis 지능 지수서 공개 모델 선두",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-06-18",
+      "tags": [
+        "benchmark",
+        "local-inference",
+        "model-release"
+      ],
+      "tagged_at": "2026-06-18T14:37:50+09:00"
+    },
+    "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem": {
+      "title": "앤트로픽, 서울 오피스 개소·한국 파트너십",
+      "summary": "국내 AI 생태계 본격 진출 공식 발표",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-06-18",
+      "tags": [
+        "partnership"
+      ],
+      "tagged_at": "2026-06-18T14:37:50+09:00"
+    },
+    "https://github.com/DeusData/codebase-memory-mcp": {
+      "title": "codebase-memory-mcp",
+      "summary": "코드베이스를 지식 그래프로 색인하는 고성능 MCP 서버",
+      "category": "mcp",
+      "source": "github_trending",
+      "brief_date": "2026-06-18",
+      "tags": [
+        "agent-memory",
+        "mcp-server",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-18T14:37:50+09:00"
+    },
+    "https://huggingface.co/papers/2606.18023": {
+      "title": "LoopCoder-v2",
+      "summary": "루프 1회로 테스트타임 연산을 효율적으로 스케일하는 코딩 모델",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-06-18",
+      "tags": [
+        "coding-platform",
+        "paper"
+      ],
+      "tagged_at": "2026-06-18T14:37:50+09:00"
+    },
+    "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/": {
+      "title": "美, 딥시크 블랙리스트 보류",
+      "summary": "100여 기업 보안 위험 지정 속 접속 규제 유예",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-06-18",
+      "tags": [
+        "model-access"
+      ],
+      "tagged_at": "2026-06-18T14:37:50+09:00"
+    },
+    "https://huggingface.co/papers/2606.16428": {
+      "title": "LectūraAgents",
+      "summary": "학습자 맞춤 적응형 교육을 위한 멀티에이전트 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-18",
+      "tags": [
+        "multi-agent",
+        "paper",
+        "tutorial"
+      ],
+      "tagged_at": "2026-06-18T14:37:50+09:00"
+    },
+    "https://huggingface.co/papers/2606.17861": {
+      "title": "GameCraft-Bench",
+      "summary": "실제 게임 엔진에서 에이전트가 플레이 가능한 게임을 끝까지 만드는지 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-18",
+      "tags": [
+        "benchmark",
+        "game",
+        "paper"
+      ],
+      "tagged_at": "2026-06-18T14:37:50+09:00"
+    },
+    "https://huggingface.co/papers/2606.15345": {
+      "title": "BrowseComp-Plus (교차언어 딥리서치)",
+      "summary": "질의·근거 언어가 다른 상황의 에이전트·검색기 평가 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-18",
+      "tags": [
+        "benchmark",
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-18T14:37:50+09:00"
+    },
+    "https://github.com/continuedev/continue": {
+      "title": "continuedev/continue",
+      "summary": "오픈소스 코딩 에이전트, 꾸준히 트렌딩",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-06-18",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-18T14:37:50+09:00"
+    },
+    "https://github.com/alexzhang13/rlm": {
+      "title": "alexzhang13/rlm",
+      "summary": "재귀적 언어 모델(RLM) 플러그앤플레이 추론 라이브러리",
+      "category": "prompt-context-engineering",
+      "source": "github_trending",
+      "brief_date": "2026-06-18",
+      "tags": [
+        "long-context",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-18T14:37:50+09:00"
     }
   }
 }

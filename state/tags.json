@@ -8434,7 +8434,7 @@
       "tags": [
         "model-release"
       ],
-      "tagged_at": "2026-06-17T10:30:26+09:00"
+      "tagged_at": "2026-06-19T12:04:17+09:00"
     },
     "https://huggingface.co/papers/2606.09290": {
       "title": "Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning",
@@ -8527,7 +8527,7 @@
         "model-release",
         "voice-agent"
       ],
-      "tagged_at": "2026-06-15T13:08:03+09:00"
+      "tagged_at": "2026-06-19T12:04:17+09:00"
     },
     "https://huggingface.co/papers/2606.10423": {
       "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent",
@@ -8952,6 +8952,113 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-06-18T14:37:50+09:00"
+    },
+    "https://deepmind.google/blog/introducing-gemini-omni/": {
+      "title": "Introducing Gemini Omni",
+      "summary": "구글의 새 옴니모달 플래그십, I/O 후속 공식 발표",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-06-19",
+      "tags": [
+        "model-release"
+      ],
+      "tagged_at": "2026-06-19T12:04:17+09:00"
+    },
+    "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/": {
+      "title": "Zero-Touch OAuth for MCP",
+      "summary": "MCP 엔터프라이즈 관리형 인증 표준, 공식 블로그",
+      "category": "mcp",
+      "source": "hacker_news",
+      "brief_date": "2026-06-19",
+      "tags": [
+        "mcp-server",
+        "security"
+      ],
+      "tagged_at": "2026-06-19T12:04:17+09:00"
+    },
+    "https://github.com/Kilo-Org/kilocode": {
+      "title": "Kilo-Org/kilocode",
+      "summary": "오픈소스 AI 코딩 에이전트, GitHub 트렌딩 급부상",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-06-19",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-19T12:04:17+09:00"
+    },
+    "https://huggingface.co/papers/2606.19704": {
+      "title": "Beyond Static Leaderboards: Predictive Validity for LLM Agent Evaluation",
+      "summary": "정적 리더보드의 한계, 에이전트 평가 예측타당성 제안",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-19",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-19T12:04:17+09:00"
+    },
+    "https://huggingface.co/papers/2606.17682": {
+      "title": "From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning",
+      "summary": "LLM이 직접 설계하는 멀티에이전트 RL 학습 환경",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-19",
+      "tags": [
+        "multi-agent",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-19T12:04:17+09:00"
+    },
+    "https://huggingface.co/papers/2606.19047": {
+      "title": "RODS: Reward-Driven Online Data Synthesis for Multi-Turn Tool-Use Agents",
+      "summary": "멀티턴 도구사용 에이전트용 온라인 데이터 합성",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-19",
+      "tags": [
+        "paper",
+        "rl",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-19T12:04:17+09:00"
+    },
+    "https://huggingface.co/papers/2606.18543": {
+      "title": "CEO-Bench: Can Agents Play the Long Game?",
+      "summary": "장기 의사결정 에이전트 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-19",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-19T12:04:17+09:00"
+    },
+    "https://openai.com/index/introducing-life-sci-bench": {
+      "title": "Introducing LifeSciBench",
+      "summary": "OpenAI의 생명과학 모델 평가 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "release_blogs",
+      "brief_date": "2026-06-19",
+      "tags": [
+        "benchmark"
+      ],
+      "tagged_at": "2026-06-19T12:04:17+09:00"
+    },
+    "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/": {
+      "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
+      "summary": "토큰 압축(RTK)에 대한 회의적 분석",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-06-19",
+      "tags": [
+        "long-context",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-19T12:04:17+09:00"
     }
   }
 }

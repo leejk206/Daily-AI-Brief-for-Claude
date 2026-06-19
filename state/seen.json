@@ -1,27 +1,9 @@
 {
-  "https://github.com/mvanhorn/last30days-skill": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-11",
-    "days": 1,
-    "title": "mvanhorn/last30days-skill"
-  },
-  "https://github.com/google/skills": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-11",
-    "days": 1,
-    "title": "google/skills"
-  },
   "https://github.com/phuryn/pm-skills": {
     "first_seen": "2026-06-11",
     "last_seen": "2026-06-13",
     "days": 3,
     "title": "phuryn/pm-skills"
-  },
-  "https://github.com/luongnv89/claude-howto": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-11",
-    "days": 1,
-    "title": "luongnv89/claude-howto"
   },
   "https://openai.com/index/notion": {
     "first_seen": "2026-06-13",
@@ -41,83 +23,17 @@
     "days": 1,
     "title": "North-Mini-Code-1.0"
   },
-  "https://burr.apache.org/": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-11",
-    "days": 1,
-    "title": "Apache Burr: Build reliable AI agents and applications"
-  },
-  "https://huggingface.co/papers/2606.10917": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-11",
-    "days": 1,
-    "title": "Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution"
-  },
-  "https://huggingface.co/papers/2606.05922": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-11",
-    "days": 1,
-    "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference"
-  },
-  "https://github.com/anthropics/claude-code/issues/29045": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-11",
-    "days": 1,
-    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch"
-  },
-  "https://huggingface.co/papers/2606.11182": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-11",
-    "days": 1,
-    "title": "EEVEE: Test-time Prompt Learning in the Real World for Self-Improving Agents"
-  },
-  "https://huggingface.co/papers/2606.09730": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-11",
-    "days": 1,
-    "title": "SearchSwarm: Delegation Intelligence in Agentic LLMs for Deep Research"
-  },
   "https://huggingface.co/papers/2606.10662": {
     "first_seen": "2026-06-11",
     "last_seen": "2026-06-12",
     "days": 2,
     "title": "Decentralized Multi-Agent Systems with Shared Context"
   },
-  "https://huggingface.co/papers/2606.05304": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-11",
-    "days": 1,
-    "title": "What Should Agents Say? Action-state Communication for Multi-Agent Systems"
-  },
-  "https://huggingface.co/papers/2606.07689": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-11",
-    "days": 1,
-    "title": "Struct-Searcher: Agentic Structural Thinking for Multimodal Deep Search"
-  },
-  "https://huggingface.co/papers/2606.09032": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-11",
-    "days": 1,
-    "title": "Bridging the Agent-World Gap: Text World Models for LLM-based Agents"
-  },
   "https://huggingface.co/papers/2606.02540": {
     "first_seen": "2026-06-11",
     "last_seen": "2026-06-12",
     "days": 2,
     "title": "SkillHarm: Lifecycle-Aware Skill-Based Attacks via Automated Construction"
-  },
-  "https://huggingface.co/papers/2606.04391": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-11",
-    "days": 1,
-    "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval"
-  },
-  "https://huggingface.co/papers/2606.11042": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-11",
-    "days": 1,
-    "title": "Workflow-GYM: Long-Horizon Evaluation of Computer-use Agentic Tasks"
   },
   "https://huggingface.co/papers/2606.07379": {
     "first_seen": "2026-06-11",
@@ -348,8 +264,8 @@
     "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning"
   },
   "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
     "days": 1,
     "title": "Introducing Gemma 4 12B"
   },
@@ -396,9 +312,9 @@
     "title": "Codex for open source"
   },
   "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": {
-    "first_seen": "2026-06-14",
-    "last_seen": "2026-06-15",
-    "days": 2,
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "days": 1,
     "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
   },
   "https://huggingface.co/papers/2606.10423": {
@@ -610,5 +526,59 @@
     "last_seen": "2026-06-18",
     "days": 1,
     "title": "alexzhang13/rlm"
+  },
+  "https://deepmind.google/blog/introducing-gemini-omni/": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "days": 1,
+    "title": "Introducing Gemini Omni"
+  },
+  "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "days": 1,
+    "title": "Zero-Touch OAuth for MCP"
+  },
+  "https://github.com/Kilo-Org/kilocode": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "days": 1,
+    "title": "Kilo-Org/kilocode"
+  },
+  "https://huggingface.co/papers/2606.19704": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "days": 1,
+    "title": "Beyond Static Leaderboards: Predictive Validity for LLM Agent Evaluation"
+  },
+  "https://huggingface.co/papers/2606.17682": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "days": 1,
+    "title": "From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning"
+  },
+  "https://huggingface.co/papers/2606.19047": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "days": 1,
+    "title": "RODS: Reward-Driven Online Data Synthesis for Multi-Turn Tool-Use Agents"
+  },
+  "https://huggingface.co/papers/2606.18543": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "days": 1,
+    "title": "CEO-Bench: Can Agents Play the Long Game?"
+  },
+  "https://openai.com/index/introducing-life-sci-bench": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "days": 1,
+    "title": "Introducing LifeSciBench"
+  },
+  "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "days": 1,
+    "title": "The Token Compression Illusion: Why I'm Skeptical of RTK"
   }
 }

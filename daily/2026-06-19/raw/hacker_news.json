@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-19T12:00:47+09:00",
+  "items": [
+    {
+      "id": "hn:48585746",
+      "title": "Swiss parliament lifts ban on new nuclear power plants",
+      "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+      "description": "",
+      "signals": {
+        "points": 708,
+        "num_comments": 590,
+        "discussion_url": "https://news.ycombinator.com/item?id=48585746"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48583928",
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "description": "",
+      "signals": {
+        "points": 679,
+        "num_comments": 157,
+        "discussion_url": "https://news.ycombinator.com/item?id=48583928"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48583606",
+      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+      "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+      "description": "",
+      "signals": {
+        "points": 320,
+        "num_comments": 46,
+        "discussion_url": "https://news.ycombinator.com/item?id=48583606"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48583356",
+      "title": ".gitignore Isn't the only way to ignore files in Git",
+      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+      "description": "",
+      "signals": {
+        "points": 297,
+        "num_comments": 101,
+        "discussion_url": "https://news.ycombinator.com/item?id=48583356"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48578913",
+      "title": "Noam Shazeer Joins OpenAI",
+      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+      "description": "",
+      "signals": {
+        "points": 296,
+        "num_comments": 285,
+        "discussion_url": "https://news.ycombinator.com/item?id=48578913"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48583386",
+      "title": "Hospitals and universities repurposing drugs at lower cost",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "description": "",
+      "signals": {
+        "points": 286,
+        "num_comments": 124,
+        "discussion_url": "https://news.ycombinator.com/item?id=48583386"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48585866",
+      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+      "description": "",
+      "signals": {
+        "points": 267,
+        "num_comments": 247,
+        "discussion_url": "https://news.ycombinator.com/item?id=48585866"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48589501",
+      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+      "description": "",
+      "signals": {
+        "points": 252,
+        "num_comments": 106,
+        "discussion_url": "https://news.ycombinator.com/item?id=48589501"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48583897",
+      "title": "Modos Color Monitor Pushes E-Paper Displays Further",
+      "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
+      "description": "",
+      "signals": {
+        "points": 232,
+        "num_comments": 66,
+        "discussion_url": "https://news.ycombinator.com/item?id=48583897"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48591348",
+      "title": "Show HN: Are You in the Weights?",
+      "url": "https://www.intheweights.com/",
+      "description": "",
+      "signals": {
+        "points": 201,
+        "num_comments": 127,
+        "discussion_url": "https://news.ycombinator.com/item?id=48591348"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48584497",
+      "title": "W Social, public institutions and the theater of European digital sovereignty",
+      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+      "description": "",
+      "signals": {
+        "points": 177,
+        "num_comments": 118,
+        "discussion_url": "https://news.ycombinator.com/item?id=48584497"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48585739",
+      "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+      "url": "https://gerrymandle.cc/",
+      "description": "",
+      "signals": {
+        "points": 143,
+        "num_comments": 64,
+        "discussion_url": "https://news.ycombinator.com/item?id=48585739"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48584709",
+      "title": "How Alberta Eradicated Rats",
+      "url": "https://worksinprogress.co/issue/albertas-war-on-rats/",
+      "description": "",
+      "signals": {
+        "points": 140,
+        "num_comments": 104,
+        "discussion_url": "https://news.ycombinator.com/item?id=48584709"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48592163",
+      "title": "Zero-Touch OAuth for MCP",
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "description": "",
+      "signals": {
+        "points": 113,
+        "num_comments": 48,
+        "discussion_url": "https://news.ycombinator.com/item?id=48592163"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48586299",
+      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "url": "https://tester.army",
+      "description": "",
+      "signals": {
+        "points": 106,
+        "num_comments": 46,
+        "discussion_url": "https://news.ycombinator.com/item?id=48586299"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48588413",
+      "title": "Migrating from GNU Stow to Chezmoi",
+      "url": "https://rednafi.com/misc/chezmoi/",
+      "description": "",
+      "signals": {
+        "points": 105,
+        "num_comments": 105,
+        "discussion_url": "https://news.ycombinator.com/item?id=48588413"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48593093",
+      "title": "Update on Ocean Observatories Initiative",
+      "url": "https://www.nsf.gov/news/update-ocean-observatories-initiative",
+      "description": "",
+      "signals": {
+        "points": 103,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48593093"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48547969",
+      "title": "Cell-based architecture for resilient payment systems",
+      "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
+      "description": "",
+      "signals": {
+        "points": 94,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=48547969"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48588755",
+      "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
+      "url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
+      "description": "",
+      "signals": {
+        "points": 79,
+        "num_comments": 89,
+        "discussion_url": "https://news.ycombinator.com/item?id=48588755"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48591066",
+      "title": "Zork name origin got an update on Wikipedia",
+      "url": "https://www.dpolakovic.space/blogs/zork-part2#update",
+      "description": "",
+      "signals": {
+        "points": 62,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48591066"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48573268",
+      "title": "Agentic Resource Discovery Specification",
+      "url": "https://agenticresourcediscovery.org/introduction/",
+      "description": "",
+      "signals": {
+        "points": 53,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48573268"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48570730",
+      "title": "How Japan's railways stayed one while splitting apart",
+      "url": "https://arun.is/blog/jr-logo/",
+      "description": "",
+      "signals": {
+        "points": 45,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48570730"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48544429",
+      "title": "If your product is Great, it doesn't need to be Good (2010)",
+      "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
+      "description": "",
+      "signals": {
+        "points": 32,
+        "num_comments": 28,
+        "discussion_url": "https://news.ycombinator.com/item?id=48544429"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48593731",
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "description": "",
+      "signals": {
+        "points": 31,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48593731"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48523800",
+      "title": "Automating my job away",
+      "url": "https://austinhenley.com/blog/automatingmyjob.html",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48523800"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48543311",
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48543311"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48584761",
+      "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+      "url": "https://github.com/cajal-technologies/talos",
+      "description": "",
+      "signals": {
+        "points": 15,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48584761"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48564763",
+      "title": "NOLA 'Nacular: One man's crusade to preserve New Orleans's vernacular signage",
+      "url": "https://countryroadsmagazine.com/art-and-culture/people-places/nola-nacular/",
+      "description": "",
+      "signals": {
+        "points": 10,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48564763"
+      },
+      "category_hint": null
+    }
+  ]
+}

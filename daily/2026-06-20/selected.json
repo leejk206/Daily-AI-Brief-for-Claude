@@ -1,0 +1,18 @@
+[
+  {"url": "https://huggingface.co/zai-org/GLM-5.2", "title": "zai-org/GLM-5.2"},
+  {"url": "https://huggingface.co/papers/2606.20517", "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages"},
+  {"url": "https://github.com/withastro/flue", "title": "withastro/flue"},
+  {"url": "https://huggingface.co/papers/2606.19605", "title": "FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines"},
+  {"url": "https://huggingface.co/MiniMaxAI/MiniMax-M3", "title": "MiniMaxAI/MiniMax-M3"},
+  {"url": "https://huggingface.co/papers/2606.20529", "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents"},
+  {"url": "https://huggingface.co/papers/2606.17053", "title": "Context-Aware RL for Agentic and Multimodal LLMs"},
+  {"url": "https://github.com/BuilderIO/agent-native", "title": "BuilderIO/agent-native"},
+  {"url": "https://huggingface.co/papers/2606.16748", "title": "MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents"},
+  {"url": "https://huggingface.co/papers/2606.09764", "title": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents"},
+  {"url": "https://huggingface.co/papers/2606.19830", "title": "JAMER: Project-Level Code Framework Dataset and Benchmark on Professional Game Engines"},
+  {"url": "https://github.com/zai-org/GLM-5", "title": "zai-org/GLM-5"},
+  {"url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0", "title": "CohereLabs/North-Mini-Code-1.0"},
+  {"url": "https://huggingface.co/papers/2606.19047", "title": "RODS: Reward-Driven Online Data Synthesis for Multi-Turn Tool-Use Agents"},
+  {"url": "https://openai.com/index/introducing-life-sci-bench", "title": "LifeSciBench"},
+  {"url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/", "title": "Gemini 3.5 Live Translate"}
+]

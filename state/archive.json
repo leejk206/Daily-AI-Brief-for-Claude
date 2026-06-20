@@ -1274,5 +1274,25 @@
   "https://huggingface.co/papers/2606.19704": {
     "archived_on": "2026-06-19",
     "title": "Beyond Static Leaderboards: Predictive Validity for LLM Agent Evaluation"
+  },
+  "https://huggingface.co/zai-org/GLM-5.2": {
+    "archived_on": "2026-06-20",
+    "title": "zai-org/GLM-5.2"
+  },
+  "https://huggingface.co/papers/2606.20517": {
+    "archived_on": "2026-06-20",
+    "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages"
+  },
+  "https://github.com/withastro/flue": {
+    "archived_on": "2026-06-20",
+    "title": "withastro/flue"
+  },
+  "https://huggingface.co/papers/2606.19605": {
+    "archived_on": "2026-06-20",
+    "title": "FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines"
+  },
+  "https://huggingface.co/CohereLabs/North-Mini-Code-1.0": {
+    "archived_on": "2026-06-20",
+    "title": "CohereLabs/North-Mini-Code-1.0"
   }
 }

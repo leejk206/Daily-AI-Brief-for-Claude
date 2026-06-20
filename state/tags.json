@@ -7775,7 +7775,7 @@
         "local-inference",
         "model-release"
       ],
-      "tagged_at": "2026-06-15T13:08:03+09:00"
+      "tagged_at": "2026-06-20T12:14:45+09:00"
     },
     "https://blog.gitbutler.com/true-grit": {
       "title": "Grit: Rewriting Git in Rust with Agents",
@@ -8527,7 +8527,7 @@
         "model-release",
         "voice-agent"
       ],
-      "tagged_at": "2026-06-19T12:04:17+09:00"
+      "tagged_at": "2026-06-20T12:14:45+09:00"
     },
     "https://huggingface.co/papers/2606.10423": {
       "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent",
@@ -8586,9 +8586,10 @@
       "source": "huggingface",
       "brief_date": "2026-06-15",
       "tags": [
+        "local-inference",
         "model-release"
       ],
-      "tagged_at": "2026-06-15T13:08:03+09:00"
+      "tagged_at": "2026-06-20T12:14:45+09:00"
     },
     "https://huggingface.co/papers/2606.06036": {
       "title": "Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents",
@@ -8634,9 +8635,10 @@
       "source": "huggingface",
       "brief_date": "2026-06-15",
       "tags": [
+        "local-inference",
         "model-release"
       ],
-      "tagged_at": "2026-06-15T13:08:03+09:00"
+      "tagged_at": "2026-06-20T12:14:45+09:00"
     },
     "https://huggingface.co/papers/2606.14502": {
       "title": "From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI",
@@ -9023,7 +9025,7 @@
         "rl",
         "tool-use"
       ],
-      "tagged_at": "2026-06-19T12:04:17+09:00"
+      "tagged_at": "2026-06-20T12:14:45+09:00"
     },
     "https://huggingface.co/papers/2606.18543": {
       "title": "CEO-Bench: Can Agents Play the Long Game?",
@@ -9044,9 +9046,10 @@
       "source": "release_blogs",
       "brief_date": "2026-06-19",
       "tags": [
-        "benchmark"
+        "benchmark",
+        "paper"
       ],
-      "tagged_at": "2026-06-19T12:04:17+09:00"
+      "tagged_at": "2026-06-20T12:14:45+09:00"
     },
     "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/": {
       "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
@@ -9059,6 +9062,140 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-06-19T12:04:17+09:00"
+    },
+    "https://huggingface.co/zai-org/GLM-5.2": {
+      "title": "zai-org/GLM-5.2",
+      "summary": "오픈웨이트 선두 모델, 코딩·에이전트 강조",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-06-20",
+      "tags": [
+        "local-inference",
+        "model-release"
+      ],
+      "tagged_at": "2026-06-20T12:14:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.20517": {
+      "title": "Multi-LCB: LiveCodeBench 다국어 확장",
+      "summary": "코드생성 벤치를 여러 언어로 넓힌 오염방지 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-20",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-20T12:14:45+09:00"
+    },
+    "https://github.com/withastro/flue": {
+      "title": "withastro/flue",
+      "summary": "Astro의 샌드박스 에이전트 프레임워크",
+      "category": "agent-frameworks",
+      "source": "github",
+      "brief_date": "2026-06-20",
+      "tags": [
+        "agent-harness"
+      ],
+      "tagged_at": "2026-06-20T12:14:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.19605": {
+      "title": "FAPO: 완전자동 프롬프트 최적화",
+      "summary": "Claude Code로 멀티스텝 LLM 파이프라인 자동 튜닝",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-20",
+      "tags": [
+        "claude-code",
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-20T12:14:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.20529": {
+      "title": "LedgerAgent: 정책 준수 툴콜 에이전트의 구조적 상태",
+      "summary": "턴 간 작업 상태를 명시적으로 유지",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-20",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-20T12:14:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.17053": {
+      "title": "Context-Aware RL for Agentic and Multimodal LLMs",
+      "summary": "긴 컨텍스트 속 결정적 증거 포착 RL",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-20",
+      "tags": [
+        "long-context",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-20T12:14:45+09:00"
+    },
+    "https://github.com/BuilderIO/agent-native": {
+      "title": "BuilderIO/agent-native",
+      "summary": "에이전트 네이티브 앱 구축 프레임워크",
+      "category": "agent-frameworks",
+      "source": "github",
+      "brief_date": "2026-06-20",
+      "tags": [
+        "agent-harness"
+      ],
+      "tagged_at": "2026-06-20T12:14:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.16748": {
+      "title": "MyPCBench: 개인화 컴퓨터유즈 에이전트 벤치",
+      "summary": "개인 데이터·로그인 환경 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-20",
+      "tags": [
+        "benchmark",
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-06-20T12:14:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.09764": {
+      "title": "iOSWorld: 개인지능형 폰 에이전트 벤치",
+      "summary": "사용자 정체성·이력 기반 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-20",
+      "tags": [
+        "benchmark",
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-06-20T12:14:45+09:00"
+    },
+    "https://huggingface.co/papers/2606.19830": {
+      "title": "JAMER: 상용 게임엔진 프로젝트레벨 코드 벤치",
+      "summary": "게임엔진 코드 엔지니어링 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-20",
+      "tags": [
+        "benchmark",
+        "game",
+        "paper"
+      ],
+      "tagged_at": "2026-06-20T12:14:45+09:00"
+    },
+    "https://github.com/zai-org/GLM-5": {
+      "title": "zai-org/GLM-5",
+      "summary": "Vibe Coding에서 Agentic Engineering으로 공식 레포",
+      "category": "coding-agents",
+      "source": "github",
+      "brief_date": "2026-06-20",
+      "tags": [
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-20T12:14:45+09:00"
     }
   }
 }

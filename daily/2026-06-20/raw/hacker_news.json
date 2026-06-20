@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-20T12:10:34+09:00",
+  "items": [
+    {
+      "id": "hn:48600312",
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "description": "",
+      "signals": {
+        "points": 683,
+        "num_comments": 318,
+        "discussion_url": "https://news.ycombinator.com/item?id=48600312"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48595511",
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "description": "",
+      "signals": {
+        "points": 544,
+        "num_comments": 336,
+        "discussion_url": "https://news.ycombinator.com/item?id=48595511"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48600093",
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "description": "",
+      "signals": {
+        "points": 477,
+        "num_comments": 330,
+        "discussion_url": "https://news.ycombinator.com/item?id=48600093"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48553388",
+      "title": "DuckDB Internals Part 1",
+      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "description": "",
+      "signals": {
+        "points": 440,
+        "num_comments": 130,
+        "discussion_url": "https://news.ycombinator.com/item?id=48553388"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48599515",
+      "title": "There are no instances in ATProto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "description": "",
+      "signals": {
+        "points": 357,
+        "num_comments": 198,
+        "discussion_url": "https://news.ycombinator.com/item?id=48599515"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48546890",
+      "title": "Ten years of ClickHouse in open source",
+      "url": "https://clickhouse.com/blog/open-source-10",
+      "description": "",
+      "signals": {
+        "points": 281,
+        "num_comments": 72,
+        "discussion_url": "https://news.ycombinator.com/item?id=48546890"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48600946",
+      "title": "Court Records Should Be Free",
+      "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+      "description": "",
+      "signals": {
+        "points": 263,
+        "num_comments": 52,
+        "discussion_url": "https://news.ycombinator.com/item?id=48600946"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48598586",
+      "title": "How many of the 170k English words do you know?",
+      "url": "https://vocabowl-870366514258.us-west1.run.app/",
+      "description": "",
+      "signals": {
+        "points": 244,
+        "num_comments": 363,
+        "discussion_url": "https://news.ycombinator.com/item?id=48598586"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48549118",
+      "title": "Zen and the Art of Machine Learning Research",
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "description": "",
+      "signals": {
+        "points": 238,
+        "num_comments": 81,
+        "discussion_url": "https://news.ycombinator.com/item?id=48549118"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48602352",
+      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+      "description": "",
+      "signals": {
+        "points": 231,
+        "num_comments": 27,
+        "discussion_url": "https://news.ycombinator.com/item?id=48602352"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48514843",
+      "title": "I used sound waves to make espresso",
+      "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
+      "description": "",
+      "signals": {
+        "points": 207,
+        "num_comments": 140,
+        "discussion_url": "https://news.ycombinator.com/item?id=48514843"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48602817",
+      "title": "Think of the children: How to force real ID for all internet traffic (2023)",
+      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
+      "description": "",
+      "signals": {
+        "points": 131,
+        "num_comments": 76,
+        "discussion_url": "https://news.ycombinator.com/item?id=48602817"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48601420",
+      "title": "Big Banana Car",
+      "url": "https://bigbananacar.com/",
+      "description": "",
+      "signals": {
+        "points": 120,
+        "num_comments": 70,
+        "discussion_url": "https://news.ycombinator.com/item?id=48601420"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48586329",
+      "title": "Building a robotics research setup that lives next to my desk",
+      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+      "description": "",
+      "signals": {
+        "points": 120,
+        "num_comments": 40,
+        "discussion_url": "https://news.ycombinator.com/item?id=48586329"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48553161",
+      "title": "Telescope Ranchers",
+      "url": "https://kottke.org/26/06/telescope-ranchers",
+      "description": "",
+      "signals": {
+        "points": 106,
+        "num_comments": 42,
+        "discussion_url": "https://news.ycombinator.com/item?id=48553161"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48556082",
+      "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
+      "url": "https://metiq.space",
+      "description": "",
+      "signals": {
+        "points": 94,
+        "num_comments": 28,
+        "discussion_url": "https://news.ycombinator.com/item?id=48556082"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48604851",
+      "title": "Hey, n00b, we didn't hire you to complete tasks",
+      "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
+      "description": "",
+      "signals": {
+        "points": 88,
+        "num_comments": 45,
+        "discussion_url": "https://news.ycombinator.com/item?id=48604851"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48601162",
+      "title": "John Jumper to join Anthropic",
+      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+      "description": "",
+      "signals": {
+        "points": 79,
+        "num_comments": 58,
+        "discussion_url": "https://news.ycombinator.com/item?id=48601162"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48603664",
+      "title": "Zenzizenzizenzic",
+      "url": "https://en.wikipedia.org/wiki/Zenzizenzizenzic",
+      "description": "",
+      "signals": {
+        "points": 78,
+        "num_comments": 22,
+        "discussion_url": "https://news.ycombinator.com/item?id=48603664"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48541777",
+      "title": "A 1976 university experiment spun up the U.S. wind industry",
+      "url": "https://spectrum.ieee.org/william-heronemus-wind-energy",
+      "description": "",
+      "signals": {
+        "points": 73,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48541777"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48605301",
+      "title": "How to feed a dictator",
+      "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+      "description": "",
+      "signals": {
+        "points": 70,
+        "num_comments": 24,
+        "discussion_url": "https://news.ycombinator.com/item?id=48605301"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48548612",
+      "title": "Egyptian Fractions",
+      "url": "https://blog.plover.com/math/egyptian-fractions.html",
+      "description": "",
+      "signals": {
+        "points": 69,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48548612"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48602918",
+      "title": "Surprising Economics of Load-Balanced Systems",
+      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+      "description": "",
+      "signals": {
+        "points": 52,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48602918"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48604232",
+      "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
+      "url": "https://news.ycombinator.com/item?id=48604232",
+      "description": "",
+      "signals": {
+        "points": 41,
+        "num_comments": 61,
+        "discussion_url": "https://news.ycombinator.com/item?id=48604232"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48582180",
+      "title": "A Perceptron in Age of Empires II",
+      "url": "https://adewynter.github.io/notes/aoe2-circuits",
+      "description": "",
+      "signals": {
+        "points": 30,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48582180"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48563047",
+      "title": "Digital Printing of Arabic: explaining the problem",
+      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+      "description": "",
+      "signals": {
+        "points": 26,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48563047"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48532447",
+      "title": "RhinoCollab a plugin for real-time editing for Rhino 3D",
+      "url": "https://rhinocollab.com",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48532447"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48604741",
+      "title": "Aikido Code Audit",
+      "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+      "description": "",
+      "signals": {
+        "points": 20,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48604741"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    }
+  ]
+}

@@ -18,58 +18,10 @@
     "title": "How engineers at Nextdoor use Codex to build without limits"
   },
   "https://huggingface.co/CohereLabs/North-Mini-Code-1.0": {
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
     "days": 1,
-    "title": "North-Mini-Code-1.0"
-  },
-  "https://huggingface.co/papers/2606.10662": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-12",
-    "days": 2,
-    "title": "Decentralized Multi-Agent Systems with Shared Context"
-  },
-  "https://huggingface.co/papers/2606.02540": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-12",
-    "days": 2,
-    "title": "SkillHarm: Lifecycle-Aware Skill-Based Attacks via Automated Construction"
-  },
-  "https://huggingface.co/papers/2606.07379": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-12",
-    "days": 2,
-    "title": "Do Coding Agents Deceive Us? Capped Evaluation with Randomized Tests"
-  },
-  "https://openai.com/index/openai-to-acquire-ona": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
-    "days": 1,
-    "title": "OpenAI to acquire Ona"
-  },
-  "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
-    "days": 1,
-    "title": "Investing in multi-agent AI safety research"
-  },
-  "https://huggingface.co/papers/2606.12344": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
-    "days": 1,
-    "title": "Claw-SWE-Bench: Evaluating OpenClaw-style Agent Harnesses on Coding Tasks"
-  },
-  "https://huggingface.co/papers/2606.11926": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
-    "days": 1,
-    "title": "Toward Generalist Autonomous Research via Hypothesis-Tree Refinement"
-  },
-  "https://mimo.xiaomi.com/mimocode": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
-    "days": 1,
-    "title": "MiMo Code is now released and open-source"
+    "title": "CohereLabs/North-Mini-Code-1.0"
   },
   "https://github.com/msitarzewski/agency-agents": {
     "first_seen": "2026-06-12",
@@ -77,35 +29,11 @@
     "days": 2,
     "title": "msitarzewski/agency-agents"
   },
-  "https://github.com/hexo-ai/sia": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
-    "days": 1,
-    "title": "hexo-ai/sia"
-  },
-  "https://huggingface.co/papers/2606.12191": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
-    "days": 1,
-    "title": "Agentic Environment Engineering for LLMs: A Survey"
-  },
-  "https://github.com/denoland/clawpatrol": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
-    "days": 1,
-    "title": "Show HN: Claw Patrol, a security firewall for agents"
-  },
   "https://github.com/NVIDIA/SkillSpector": {
     "first_seen": "2026-06-12",
     "last_seen": "2026-06-14",
     "days": 3,
     "title": "NVIDIA/SkillSpector"
-  },
-  "https://huggingface.co/papers/2606.07943": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
-    "days": 1,
-    "title": "POISE: Position-Aware Undetectable Skill Injection on LLM Agents"
   },
   "https://huggingface.co/papers/2605.11212": {
     "first_seen": "2026-06-12",
@@ -113,41 +41,11 @@
     "days": 2,
     "title": "ReVision: Scaling Computer-Use Agents via Temporal Visual Redundancy Reduction"
   },
-  "https://huggingface.co/papers/2606.10156": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
-    "days": 1,
-    "title": "τ-Rec: A Verifiable Benchmark for Agentic Recommender Systems"
-  },
-  "https://huggingface.co/papers/2606.12071": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
-    "days": 1,
-    "title": "On the Limits of LLM-as-Judge for Scientific Novelty Assessment"
-  },
-  "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
-    "days": 1,
-    "title": "Claude Fable 5: mid-tier results on coding tasks"
-  },
   "https://github.com/kenn-io/agentsview": {
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
     "days": 1,
     "title": "kenn-io/agentsview"
-  },
-  "https://huggingface.co/papers/2606.10728": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
-    "days": 1,
-    "title": "DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories"
-  },
-  "https://huggingface.co/papers/2606.12203": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-12",
-    "days": 1,
-    "title": "Adaptive Multi-Resolution Procedural Knowledge Compression for LLMs"
   },
   "https://huggingface.co/papers/2606.13681": {
     "first_seen": "2026-06-13",
@@ -313,8 +211,8 @@
   },
   "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": {
     "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
-    "days": 1,
+    "last_seen": "2026-06-20",
+    "days": 2,
     "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
   },
   "https://huggingface.co/papers/2606.10423": {
@@ -342,10 +240,10 @@
     "title": "브라질 국산 오픈모델 Rio-3.5-Open / Nex-N2 '머지 의혹'"
   },
   "https://huggingface.co/moonshotai/Kimi-K2.7-Code": {
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
     "days": 1,
-    "title": "Kimi-K2.7-Code 공개"
+    "title": "moonshotai/Kimi-K2.7-Code"
   },
   "https://huggingface.co/papers/2606.06036": {
     "first_seen": "2026-06-15",
@@ -366,10 +264,10 @@
     "title": "HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry"
   },
   "https://huggingface.co/MiniMaxAI/MiniMax-M3": {
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
     "days": 1,
-    "title": "MiniMax-M3"
+    "title": "MiniMaxAI/MiniMax-M3"
   },
   "https://huggingface.co/papers/2606.14502": {
     "first_seen": "2026-06-15",
@@ -559,8 +457,8 @@
   },
   "https://huggingface.co/papers/2606.19047": {
     "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
-    "days": 1,
+    "last_seen": "2026-06-20",
+    "days": 2,
     "title": "RODS: Reward-Driven Online Data Synthesis for Multi-Turn Tool-Use Agents"
   },
   "https://huggingface.co/papers/2606.18543": {
@@ -571,8 +469,8 @@
   },
   "https://openai.com/index/introducing-life-sci-bench": {
     "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
-    "days": 1,
+    "last_seen": "2026-06-20",
+    "days": 2,
     "title": "Introducing LifeSciBench"
   },
   "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/": {
@@ -580,5 +478,71 @@
     "last_seen": "2026-06-19",
     "days": 1,
     "title": "The Token Compression Illusion: Why I'm Skeptical of RTK"
+  },
+  "https://huggingface.co/zai-org/GLM-5.2": {
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
+    "days": 1,
+    "title": "zai-org/GLM-5.2"
+  },
+  "https://huggingface.co/papers/2606.20517": {
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
+    "days": 1,
+    "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages"
+  },
+  "https://github.com/withastro/flue": {
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
+    "days": 1,
+    "title": "withastro/flue"
+  },
+  "https://huggingface.co/papers/2606.19605": {
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
+    "days": 1,
+    "title": "FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines"
+  },
+  "https://huggingface.co/papers/2606.20529": {
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
+    "days": 1,
+    "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents"
+  },
+  "https://huggingface.co/papers/2606.17053": {
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
+    "days": 1,
+    "title": "Context-Aware RL for Agentic and Multimodal LLMs"
+  },
+  "https://github.com/BuilderIO/agent-native": {
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
+    "days": 1,
+    "title": "BuilderIO/agent-native"
+  },
+  "https://huggingface.co/papers/2606.16748": {
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
+    "days": 1,
+    "title": "MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents"
+  },
+  "https://huggingface.co/papers/2606.09764": {
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
+    "days": 1,
+    "title": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents"
+  },
+  "https://huggingface.co/papers/2606.19830": {
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
+    "days": 1,
+    "title": "JAMER: Project-Level Code Framework Dataset and Benchmark on Professional Game Engines"
+  },
+  "https://github.com/zai-org/GLM-5": {
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20",
+    "days": 1,
+    "title": "zai-org/GLM-5"
   }
 }

@@ -1,213 +1,15 @@
 {
-  "https://github.com/phuryn/pm-skills": {
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-06-13",
-    "days": 3,
-    "title": "phuryn/pm-skills"
-  },
-  "https://openai.com/index/notion": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-14",
-    "days": 2,
-    "title": "What Codex unlocks for Notion"
-  },
-  "https://openai.com/index/nextdoor": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-14",
-    "days": 2,
-    "title": "How engineers at Nextdoor use Codex to build without limits"
-  },
   "https://huggingface.co/CohereLabs/North-Mini-Code-1.0": {
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
     "days": 1,
     "title": "CohereLabs/North-Mini-Code-1.0"
-  },
-  "https://github.com/msitarzewski/agency-agents": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-13",
-    "days": 2,
-    "title": "msitarzewski/agency-agents"
-  },
-  "https://github.com/NVIDIA/SkillSpector": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-14",
-    "days": 3,
-    "title": "NVIDIA/SkillSpector"
-  },
-  "https://huggingface.co/papers/2605.11212": {
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-06-13",
-    "days": 2,
-    "title": "ReVision: Scaling Computer-Use Agents via Temporal Visual Redundancy Reduction"
-  },
-  "https://github.com/kenn-io/agentsview": {
-    "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
-    "days": 1,
-    "title": "kenn-io/agentsview"
-  },
-  "https://huggingface.co/papers/2606.13681": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
-    "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments"
-  },
-  "https://huggingface.co/papers/2606.13392": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
-    "title": "MiniMax Sparse Attention"
-  },
-  "https://huggingface.co/papers/2606.09426": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
-    "title": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents"
-  },
-  "https://huggingface.co/papers/2606.13174": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
-    "title": "Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents"
-  },
-  "https://huggingface.co/papers/2606.12674": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
-    "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents"
-  },
-  "https://huggingface.co/papers/2606.12087": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-14",
-    "days": 2,
-    "title": "FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents"
-  },
-  "https://huggingface.co/papers/2606.13662": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-14",
-    "days": 2,
-    "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery"
-  },
-  "https://huggingface.co/papers/2606.12882": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-14",
-    "days": 2,
-    "title": "HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness"
-  },
-  "https://huggingface.co/papers/2606.13594": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
-    "title": "See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents"
-  },
-  "https://huggingface.co/papers/2606.13120": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
-    "title": "EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge"
-  },
-  "https://huggingface.co/papers/2606.11409": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-14",
-    "days": 2,
-    "title": "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models"
-  },
-  "https://huggingface.co/papers/2606.12451": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
-    "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs"
-  },
-  "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
-    "title": "How to setup a local coding agent on macOS"
-  },
-  "https://github.com/DanMcInerney/architect-loop": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
-    "title": "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds"
-  },
-  "https://huggingface.co/papers/2606.04261": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-14",
-    "days": 2,
-    "title": "Can Generalist Agents Automate Data Curation?"
-  },
-  "https://github.com/LMCache/LMCache": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-14",
-    "days": 2,
-    "title": "LMCache/LMCache"
-  },
-  "https://www.anthropic.com/news/fable-mythos-access": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
-    "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5"
-  },
-  "https://www.anthropic.com/news/claude-fable-5-mythos-5": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
-    "title": "Claude Fable 5 and Claude Mythos 5"
-  },
-  "https://huggingface.co/papers/2606.13572": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
-    "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning"
   },
   "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/": {
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-19",
     "days": 1,
     "title": "Introducing Gemma 4 12B"
-  },
-  "https://huggingface.co/papers/2606.09290": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "days": 1,
-    "title": "Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning"
-  },
-  "https://openai.com/index/using-codex-to-simulate-black-holes": {
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-14",
-    "days": 2,
-    "title": "How an astrophysicist uses Codex to simulate black holes"
-  },
-  "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink": {
-    "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
-    "days": 1,
-    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
-  },
-  "https://twitter.com/jietang/status/2065784751345287314": {
-    "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
-    "days": 1,
-    "title": "GLM 5.2 Is Out"
-  },
-  "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": {
-    "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
-    "days": 1,
-    "title": "DiffusionGemma: 4x faster text generation"
-  },
-  "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/": {
-    "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
-    "days": 1,
-    "title": "AI coding at home without going broke"
-  },
-  "https://openai.com/form/codex-for-oss/": {
-    "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
-    "days": 1,
-    "title": "Codex for open source"
   },
   "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": {
     "first_seen": "2026-06-19",
@@ -226,12 +28,6 @@
     "last_seen": "2026-06-15",
     "days": 2,
     "title": "The Cold-Start Safety Gap in LLM Agents"
-  },
-  "https://openai.com/index/openai-on-oracle-cloud": {
-    "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
-    "days": 1,
-    "title": "Access OpenAI models and Codex through your Oracle cloud commitment"
   },
   "https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B": {
     "first_seen": "2026-06-15",
@@ -264,10 +60,10 @@
     "title": "HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry"
   },
   "https://huggingface.co/MiniMaxAI/MiniMax-M3": {
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
     "days": 1,
-    "title": "MiniMaxAI/MiniMax-M3"
+    "title": "MiniMax-M3"
   },
   "https://huggingface.co/papers/2606.14502": {
     "first_seen": "2026-06-15",
@@ -300,10 +96,10 @@
     "title": "FastContext: 코딩 에이전트용 효율적 레포 탐색기 학습"
   },
   "https://openai.com/index/deployment-simulation": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
     "days": 1,
-    "title": "OpenAI Deployment Simulation: 배포 전 모델 행동 예측"
+    "title": "Predicting model behavior before release by simulating deployment"
   },
   "https://huggingface.co/papers/2606.15300": {
     "first_seen": "2026-06-17",
@@ -444,10 +240,10 @@
     "title": "Kilo-Org/kilocode"
   },
   "https://huggingface.co/papers/2606.19704": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
     "days": 1,
-    "title": "Beyond Static Leaderboards: Predictive Validity for LLM Agent Evaluation"
+    "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents"
   },
   "https://huggingface.co/papers/2606.17682": {
     "first_seen": "2026-06-19",
@@ -468,9 +264,9 @@
     "title": "CEO-Bench: Can Agents Play the Long Game?"
   },
   "https://openai.com/index/introducing-life-sci-bench": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-20",
-    "days": 2,
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "days": 1,
     "title": "Introducing LifeSciBench"
   },
   "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/": {
@@ -498,8 +294,8 @@
     "title": "withastro/flue"
   },
   "https://huggingface.co/papers/2606.19605": {
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
     "days": 1,
     "title": "FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines"
   },
@@ -544,5 +340,53 @@
     "last_seen": "2026-06-20",
     "days": 1,
     "title": "zai-org/GLM-5"
+  },
+  "https://support.claude.com/en/articles/14328960-identity-verification-on-claude": {
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "days": 1,
+    "title": "Identity verification on Claude"
+  },
+  "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack": {
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "days": 1,
+    "title": "What we learned mapping a year's worth of AI-enabled cyber threats"
+  },
+  "https://deepmind.google/blog/securing-the-future-of-ai-agents/": {
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "days": 1,
+    "title": "Securing the future of AI agents"
+  },
+  "https://github.com/raiyanyahya/recall": {
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "days": 1,
+    "title": "Recall – Local project memory for Claude Code"
+  },
+  "https://www.anthropic.com/news/claude-corps": {
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "days": 1,
+    "title": "Introducing Claude Corps"
+  },
+  "https://www.anthropic.com/news/expanding-project-glasswing": {
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "days": 1,
+    "title": "Expanding Project Glasswing"
+  },
+  "https://github.com/topoteretes/cognee": {
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "days": 1,
+    "title": "topoteretes/cognee"
+  },
+  "https://github.com/asgeirtj/system_prompts_leaks": {
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "days": 1,
+    "title": "asgeirtj/system_prompts_leaks"
   }
 }

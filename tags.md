@@ -94,7 +94,7 @@ AI 기반 취약점 탐지·보안 분석·코드 보안
 ### voice-agent
 보이스·전화·음성 인터랙션 기반 에이전트
 
-## Candidate
-
 ### partnership
 벤더 간 제휴·지역 진출·생태계 파트너십 발표
+
+## Candidate

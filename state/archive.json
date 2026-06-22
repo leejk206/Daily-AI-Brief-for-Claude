@@ -1294,5 +1294,25 @@
   "https://huggingface.co/CohereLabs/North-Mini-Code-1.0": {
     "archived_on": "2026-06-20",
     "title": "CohereLabs/North-Mini-Code-1.0"
+  },
+  "https://support.claude.com/en/articles/14328960-identity-verification-on-claude": {
+    "archived_on": "2026-06-22",
+    "title": "Identity verification on Claude"
+  },
+  "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack": {
+    "archived_on": "2026-06-22",
+    "title": "What we learned mapping a year's worth of AI-enabled cyber threats"
+  },
+  "https://deepmind.google/blog/securing-the-future-of-ai-agents/": {
+    "archived_on": "2026-06-22",
+    "title": "Securing the future of AI agents"
+  },
+  "https://huggingface.co/MiniMaxAI/MiniMax-M3": {
+    "archived_on": "2026-06-22",
+    "title": "MiniMax-M3"
+  },
+  "https://github.com/raiyanyahya/recall": {
+    "archived_on": "2026-06-22",
+    "title": "Recall – Local project memory for Claude Code"
   }
 }

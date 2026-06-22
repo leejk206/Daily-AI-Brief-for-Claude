@@ -7775,7 +7775,7 @@
         "local-inference",
         "model-release"
       ],
-      "tagged_at": "2026-06-20T12:14:45+09:00"
+      "tagged_at": "2026-06-22T14:46:28+09:00"
     },
     "https://blog.gitbutler.com/true-grit": {
       "title": "Grit: Rewriting Git in Rust with Agents",
@@ -8638,7 +8638,7 @@
         "local-inference",
         "model-release"
       ],
-      "tagged_at": "2026-06-20T12:14:45+09:00"
+      "tagged_at": "2026-06-22T14:46:28+09:00"
     },
     "https://huggingface.co/papers/2606.14502": {
       "title": "From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI",
@@ -8708,7 +8708,7 @@
       "tags": [
         "benchmark"
       ],
-      "tagged_at": "2026-06-17T10:30:26+09:00"
+      "tagged_at": "2026-06-22T14:46:28+09:00"
     },
     "https://huggingface.co/papers/2606.15300": {
       "title": "CODA-BENCH: 코드 에이전트는 데이터 집약 작업을 다룰 수 있나",
@@ -8999,7 +8999,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-06-19T12:04:17+09:00"
+      "tagged_at": "2026-06-22T14:46:28+09:00"
     },
     "https://huggingface.co/papers/2606.17682": {
       "title": "From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning",
@@ -9049,7 +9049,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-06-20T12:14:45+09:00"
+      "tagged_at": "2026-06-22T14:46:28+09:00"
     },
     "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/": {
       "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
@@ -9109,7 +9109,7 @@
         "paper",
         "prompt-engineering"
       ],
-      "tagged_at": "2026-06-20T12:14:45+09:00"
+      "tagged_at": "2026-06-22T14:46:28+09:00"
     },
     "https://huggingface.co/papers/2606.20529": {
       "title": "LedgerAgent: 정책 준수 툴콜 에이전트의 구조적 상태",
@@ -9196,6 +9196,97 @@
         "coding-platform"
       ],
       "tagged_at": "2026-06-20T12:14:45+09:00"
+    },
+    "https://support.claude.com/en/articles/14328960-identity-verification-on-claude": {
+      "title": "Identity verification on Claude",
+      "summary": "Claude 신원 인증 정책 도입, HN서 화제",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-06-22",
+      "tags": [
+        "model-access",
+        "security"
+      ],
+      "tagged_at": "2026-06-22T14:46:28+09:00"
+    },
+    "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack": {
+      "title": "What we learned mapping a year's worth of AI-enabled cyber threats",
+      "summary": "1년치 AI 사이버 위협을 MITRE ATT&CK로 매핑한 앤트로픽 보고서",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-06-22",
+      "tags": [
+        "security"
+      ],
+      "tagged_at": "2026-06-22T14:46:28+09:00"
+    },
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/": {
+      "title": "Securing the future of AI agents",
+      "summary": "딥마인드의 에이전트 보안 프레임워크 제안",
+      "category": "agent-frameworks",
+      "source": "release_blogs",
+      "brief_date": "2026-06-22",
+      "tags": [
+        "agent-harness",
+        "security"
+      ],
+      "tagged_at": "2026-06-22T14:46:28+09:00"
+    },
+    "https://github.com/raiyanyahya/recall": {
+      "title": "Recall – Local project memory for Claude Code",
+      "summary": "Claude Code용 로컬 프로젝트 메모리 도구",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-22",
+      "tags": [
+        "agent-memory",
+        "claude-code"
+      ],
+      "tagged_at": "2026-06-22T14:46:28+09:00"
+    },
+    "https://www.anthropic.com/news/claude-corps": {
+      "title": "Introducing Claude Corps",
+      "summary": "앤트로픽의 신규 프로그램 발표",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-06-22",
+      "tags": [
+        "partnership"
+      ],
+      "tagged_at": "2026-06-22T14:46:28+09:00"
+    },
+    "https://www.anthropic.com/news/expanding-project-glasswing": {
+      "title": "Expanding Project Glasswing",
+      "summary": "Project Glasswing 확대",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-06-22",
+      "tags": [
+        "partnership"
+      ],
+      "tagged_at": "2026-06-22T14:46:28+09:00"
+    },
+    "https://github.com/topoteretes/cognee": {
+      "title": "topoteretes/cognee",
+      "summary": "AI 에이전트용 메모리 레이어, 깃헙 트렌딩",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-06-22",
+      "tags": [
+        "agent-memory"
+      ],
+      "tagged_at": "2026-06-22T14:46:28+09:00"
+    },
+    "https://github.com/asgeirtj/system_prompts_leaks": {
+      "title": "asgeirtj/system_prompts_leaks",
+      "summary": "주요 서비스 시스템 프롬프트 유출 모음, 깃헙 트렌딩",
+      "category": "prompt-context-engineering",
+      "source": "github_trending",
+      "brief_date": "2026-06-22",
+      "tags": [
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-22T14:46:28+09:00"
     }
   }
 }

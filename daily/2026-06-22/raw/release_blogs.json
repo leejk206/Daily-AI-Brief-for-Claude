@@ -1,0 +1,666 @@
+{
+  "source": "release_blogs",
+  "fetched_at": "2026-06-22T14:42:58+09:00",
+  "items": [
+    {
+      "id": "rss:openai:https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Sun, 21 Jun 2026 23:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 18 Jun 2026 17:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "description": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 18 Jun 2026 11:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/diagnose-rare-childhood-diseases",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "description": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 18 Jun 2026 08:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/ai-chemist-improves-reaction",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 17 Jun 2026 10:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/introducing-life-sci-bench",
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 17 Jun 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/deployment-simulation",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "description": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Tue, 16 Jun 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/introducing-openai-partner-network",
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "description": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Sun, 14 Jun 2026 17:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/academy-courses-applying-ai-at-work",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "description": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 12 Jun 2026 10:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/preply",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Fri, 12 Jun 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/bbva",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 11 Jun 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/using-codex-to-simulate-black-holes",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 11 Jun 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/openai-to-acquire-ona",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 11 Jun 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Thu, 11 Jun 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/openai-on-oracle-cloud",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 10 Jun 2026 20:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "description": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 10 Jun 2026 12:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/lseg",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
+      "description": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Wed, 10 Jun 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/nextdoor",
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "url": "https://openai.com/index/nextdoor",
+      "description": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Tue, 09 Jun 2026 12:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/notion",
+      "title": "What Codex unlocks for Notion",
+      "url": "https://openai.com/index/notion",
+      "description": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Tue, 09 Jun 2026 10:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:openai:https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "title": "Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "description": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "signals": {
+        "vendor": "openai",
+        "published": "Tue, 09 Jun 2026 00:00:00 GMT"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 16 Jun 2026 21:29:50 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "title": "Securing the future of AI agents",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "description": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 16 Jun 2026 15:46:31 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "description": "",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Wed, 10 Jun 2026 16:24:11 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "title": "Investing in multi-agent AI safety research",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "description": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Wed, 10 Jun 2026 10:21:19 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "description": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 09 Jun 2026 15:16:25 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "description": "",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 09 Jun 2026 14:10:19 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "title": "Powering the future of robotics in Europe",
+      "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "description": "",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Tue, 09 Jun 2026 14:02:33 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "description": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Mon, 08 Jun 2026 13:04:59 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "description": "",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Thu, 21 May 2026 19:46:42 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "description": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Mon, 18 May 2026 18:21:39 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "description": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sun, 17 May 2026 19:53:18 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/introducing-gemini-omni/",
+      "title": "Introducing Gemini Omni",
+      "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "description": "",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sun, 17 May 2026 19:50:57 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "title": "Introducing Google Antigravity 2.0",
+      "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "description": "",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sun, 17 May 2026 19:43:45 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "description": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sun, 17 May 2026 13:50:34 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "title": "Making it easier to understand how content was created and edited",
+      "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "description": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sun, 17 May 2026 13:43:50 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "description": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sat, 16 May 2026 09:13:34 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+      "title": "Finding the molecular switches behind new infectious diseases",
+      "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+      "description": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sat, 16 May 2026 08:16:06 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+      "title": "Opening new paths in aging research",
+      "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+      "description": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sat, 16 May 2026 08:08:44 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+      "title": "Accelerating discovery of liver disease mechanisms",
+      "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+      "description": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sat, 16 May 2026 08:00:15 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:deepmind:https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+      "title": "Uniting biological toolkits for a new approach to ALS",
+      "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+      "description": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+      "signals": {
+        "vendor": "deepmind",
+        "published": "Sat, 16 May 2026 07:53:11 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/",
+      "title": "Powering the world’s first AI arts museum",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/",
+      "description": "AI-generated Infinity Room",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Thu, 18 Jun 2026 15:00:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
+      "title": "June Pixel Drop: New features for creators, Gemini upgrades and more",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
+      "description": "The words \"Pixel Drop,\" where the black text is overlaid with 3D, glossy light-purple balloon letters spelling out \"Pixel.\"",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Tue, 16 Jun 2026 18:00:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/innovation-and-ai/products/gemini-app/gemini-features-for-businesses/",
+      "title": "Save time and grow your business with new Gemini tools",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-features-for-businesses/",
+      "description": "UI with \"Connecting to Google Business Profile\" notification",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Wed, 10 Jun 2026 15:00:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
+      "description": "Sparkle next to text \"Gemini 3.5 Live Translate\"",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Tue, 09 Jun 2026 15:00:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/products-and-platforms/products/search/soccer-tournament-google-tools-2026/",
+      "title": "4 ways soccer fans can catch every moment of the tournament",
+      "url": "https://blog.google/products-and-platforms/products/search/soccer-tournament-google-tools-2026/",
+      "description": "Illustration of two people playing soccer",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Mon, 08 Jun 2026 13:00:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "title": "The latest AI news we announced in May 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "description": "May AI recap",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Fri, 05 Jun 2026 14:45:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "description": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Mon, 01 Jun 2026 16:00:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "description": "Gemini Omni & Gemini 3.5 hero",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Fri, 29 May 2026 17:30:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "description": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Thu, 28 May 2026 15:00:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "title": "100 things we announced at I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "description": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Wed, 20 May 2026 19:30:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
+      "title": "Making it easier to understand how content was created and edited",
+      "url": "https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
+      "description": "A chat input box mockup featuring an uploaded thumbnail of dog-themed latte art, the text \"Is this generated with AI?\", and action icons for adding files, voice input, and sending.",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Tue, 19 May 2026 17:45:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "title": "I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif\" />At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Tue, 19 May 2026 17:45:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
+      "title": "Introducing Gemini Omni",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
+      "description": "a YouTube video showing Gemini Omni",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Tue, 19 May 2026 17:45:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "description": "a series of colorful icons representing Google I/O against a black background",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Tue, 19 May 2026 17:45:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "description": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Tue, 19 May 2026 17:45:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "url": "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
+      "description": "Person using a microscope with \"Gemini for Science\" text and star icon.",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Tue, 19 May 2026 17:45:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
+      "title": "The Gemini app becomes more agentic, delivering proactive, 24/7 help",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
+      "description": "Collage of Google Gemini interface tiles, icons, and feature cards showcasing the logo, Gemini Flash, Omni, and Spark.",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Tue, 19 May 2026 17:45:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "description": "The image shows colorful icons. The copy reads: More magic in one plan. More power, more perks, same price.",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Tue, 19 May 2026 17:45:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
+      "title": "The Android Show: I/O Edition 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
+      "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/GIF_Keyword_header.gif\" />Your front-row seat to the latest breakthroughs on the world’s most popular operating system.",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Tue, 12 May 2026 17:00:00 +0000"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "rss:gemini:https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/",
+      "title": "A smarter, more proactive Android with Gemini Intelligence",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/",
+      "description": "Gemini Intelligence blog header showing Intelligent autofill, new devices, Rambler, Watch widgets, and more.",
+      "signals": {
+        "vendor": "gemini",
+        "published": "Tue, 12 May 2026 17:00:00 +0000"
+      },
+      "category_hint": null
+    }
+  ]
+}

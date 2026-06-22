@@ -1,0 +1,198 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-06-22T14:42:54+09:00",
+  "items": [
+    {
+      "id": "github:palmier-io/palmier-pro",
+      "title": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "signals": {
+        "stars": 5727,
+        "stars_today": 1834,
+        "language": "Swift"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:calesthio/OpenMontage",
+      "title": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "signals": {
+        "stars": 9395,
+        "stars_today": 987,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:chopratejas/headroom",
+      "title": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "signals": {
+        "stars": 45068,
+        "stars_today": 2624,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:tursodatabase/turso",
+      "title": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "signals": {
+        "stars": 20930,
+        "stars_today": 548,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:penpot/penpot",
+      "title": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "signals": {
+        "stars": 52422,
+        "stars_today": 1135,
+        "language": "Clojure"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "signals": {
+        "stars": 44872,
+        "stars_today": 568,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:koala73/worldmonitor",
+      "title": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "signals": {
+        "stars": 58255,
+        "stars_today": 163,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:bytedance/deer-flow",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "signals": {
+        "stars": 72749,
+        "stars_today": 442,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:DeusData/codebase-memory-mcp",
+      "title": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "signals": {
+        "stars": 10600,
+        "stars_today": 1032,
+        "language": "C"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:mukul975/Anthropic-Cybersecurity-Skills",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "signals": {
+        "stars": 17884,
+        "stars_today": 361,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:mikumifa/biliTickerBuy",
+      "title": "mikumifa/biliTickerBuy",
+      "url": "https://github.com/mikumifa/biliTickerBuy",
+      "description": "b站会员购购票辅助工具",
+      "signals": {
+        "stars": 3747,
+        "stars_today": 67,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:smicallef/spiderfoot",
+      "title": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "signals": {
+        "stars": 18857,
+        "stars_today": 294,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:topoteretes/cognee",
+      "title": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "signals": {
+        "stars": 18757,
+        "stars_today": 347,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:byoungd/English-level-up-tips",
+      "title": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "signals": {
+        "stars": 54125,
+        "stars_today": 125,
+        "language": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:asgeirtj/system_prompts_leaks",
+      "title": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "signals": {
+        "stars": 44621,
+        "stars_today": 282,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:mattpocock/skills",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "signals": {
+        "stars": 140194,
+        "stars_today": 1443,
+        "language": "Shell"
+      },
+      "category_hint": null
+    }
+  ]
+}

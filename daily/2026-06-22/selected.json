@@ -1,0 +1,16 @@
+[
+  {"url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude", "title": "Identity verification on Claude"},
+  {"url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack", "title": "What we learned mapping a year's worth of AI-enabled cyber threats"},
+  {"url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/", "title": "Securing the future of AI agents"},
+  {"url": "https://huggingface.co/MiniMaxAI/MiniMax-M3", "title": "MiniMax-M3"},
+  {"url": "https://github.com/raiyanyahya/recall", "title": "Recall – Local project memory for Claude Code"},
+  {"url": "https://www.anthropic.com/news/claude-corps", "title": "Introducing Claude Corps"},
+  {"url": "https://www.anthropic.com/news/expanding-project-glasswing", "title": "Expanding Project Glasswing"},
+  {"url": "https://github.com/topoteretes/cognee", "title": "topoteretes/cognee"},
+  {"url": "https://openai.com/index/introducing-life-sci-bench", "title": "Introducing LifeSciBench"},
+  {"url": "https://huggingface.co/papers/2606.19704", "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents"},
+  {"url": "https://openai.com/index/deployment-simulation", "title": "Predicting model behavior before release by simulating deployment"},
+  {"url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0", "title": "CohereLabs/North-Mini-Code-1.0"},
+  {"url": "https://github.com/asgeirtj/system_prompts_leaks", "title": "asgeirtj/system_prompts_leaks"},
+  {"url": "https://huggingface.co/papers/2606.19605", "title": "FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines"}
+]

@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-22T14:42:55+09:00",
+  "items": [
+    {
+      "id": "hn:48618455",
+      "title": "Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "description": "",
+      "signals": {
+        "points": 668,
+        "num_comments": 567,
+        "discussion_url": "https://news.ycombinator.com/item?id=48618455"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48617990",
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "url": "https://www.beyondallreason.info",
+      "description": "",
+      "signals": {
+        "points": 460,
+        "num_comments": 271,
+        "discussion_url": "https://news.ycombinator.com/item?id=48617990"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48620090",
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "description": "",
+      "signals": {
+        "points": 449,
+        "num_comments": 307,
+        "discussion_url": "https://news.ycombinator.com/item?id=48620090"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48622867",
+      "title": "Did my old job only exist because of fraud?",
+      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "description": "",
+      "signals": {
+        "points": 387,
+        "num_comments": 170,
+        "discussion_url": "https://news.ycombinator.com/item?id=48622867"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48622778",
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "description": "",
+      "signals": {
+        "points": 294,
+        "num_comments": 108,
+        "discussion_url": "https://news.ycombinator.com/item?id=48622778"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48621517",
+      "title": "JSON-LD explained for personal websites",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "description": "",
+      "signals": {
+        "points": 188,
+        "num_comments": 56,
+        "discussion_url": "https://news.ycombinator.com/item?id=48621517"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48622626",
+      "title": "Everything is logarithms",
+      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "description": "",
+      "signals": {
+        "points": 176,
+        "num_comments": 36,
+        "discussion_url": "https://news.ycombinator.com/item?id=48622626"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48619831",
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "url": "https://norvig.com/lispy.html",
+      "description": "",
+      "signals": {
+        "points": 173,
+        "num_comments": 57,
+        "discussion_url": "https://news.ycombinator.com/item?id=48619831"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48622788",
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+      "description": "",
+      "signals": {
+        "points": 158,
+        "num_comments": 87,
+        "discussion_url": "https://news.ycombinator.com/item?id=48622788"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48620342",
+      "title": "The minimum viable unit of saleable software",
+      "url": "https://brandur.org/minimum-viable-unit",
+      "description": "",
+      "signals": {
+        "points": 148,
+        "num_comments": 56,
+        "discussion_url": "https://news.ycombinator.com/item?id=48620342"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48622518",
+      "title": "There is minimal downside to switching to open models",
+      "url": "https://www.marble.onl/posts/cancel_claude.html",
+      "description": "",
+      "signals": {
+        "points": 133,
+        "num_comments": 84,
+        "discussion_url": "https://news.ycombinator.com/item?id=48622518"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48567028",
+      "title": "Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2",
+      "description": "",
+      "signals": {
+        "points": 108,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48567028"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48622731",
+      "title": "PowerFox Browser",
+      "url": "https://powerfox.jazzzny.me/",
+      "description": "",
+      "signals": {
+        "points": 106,
+        "num_comments": 30,
+        "discussion_url": "https://news.ycombinator.com/item?id=48622731"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48622590",
+      "title": "Show HN: Recall – Local project memory for Claude Code",
+      "url": "https://github.com/raiyanyahya/recall",
+      "description": "",
+      "signals": {
+        "points": 95,
+        "num_comments": 62,
+        "discussion_url": "https://news.ycombinator.com/item?id=48622590"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48618488",
+      "title": "Show HN: Teach your kids perfect pitch",
+      "url": "https://github.com/paytonjjones/bsharp",
+      "description": "",
+      "signals": {
+        "points": 92,
+        "num_comments": 58,
+        "discussion_url": "https://news.ycombinator.com/item?id=48618488"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48605561",
+      "title": "Help I accidentally a wigglegram",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "description": "",
+      "signals": {
+        "points": 88,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48605561"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48623434",
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "description": "",
+      "signals": {
+        "points": 79,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48623434"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48589687",
+      "title": "How I play video games with spinal muscular atrophy",
+      "url": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
+      "description": "",
+      "signals": {
+        "points": 78,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48589687"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48624782",
+      "title": "Sakana Fugu",
+      "url": "https://sakana.ai/fugu/",
+      "description": "",
+      "signals": {
+        "points": 76,
+        "num_comments": 36,
+        "discussion_url": "https://news.ycombinator.com/item?id=48624782"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48609054",
+      "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",
+      "url": "https://the-criterion-closet.vercel.app",
+      "description": "",
+      "signals": {
+        "points": 72,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48609054"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48594090",
+      "title": "An Embedded Linux on a Single Floppy",
+      "url": "https://github.com/w84death/floppinux",
+      "description": "",
+      "signals": {
+        "points": 71,
+        "num_comments": 41,
+        "discussion_url": "https://news.ycombinator.com/item?id=48594090"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48606096",
+      "title": "Memory Safe Inline Assembly",
+      "url": "https://fil-c.org/inlineasm",
+      "description": "",
+      "signals": {
+        "points": 67,
+        "num_comments": 13,
+        "discussion_url": "https://news.ycombinator.com/item?id=48606096"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48622987",
+      "title": "Rent collections are down in New York",
+      "url": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
+      "description": "",
+      "signals": {
+        "points": 62,
+        "num_comments": 202,
+        "discussion_url": "https://news.ycombinator.com/item?id=48622987"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48623419",
+      "title": "Japanese verb conjugation the simple hard way",
+      "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
+      "description": "",
+      "signals": {
+        "points": 61,
+        "num_comments": 82,
+        "discussion_url": "https://news.ycombinator.com/item?id=48623419"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48625823",
+      "title": "Danish privacy activist Lars Andersen raided by police",
+      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+      "description": "",
+      "signals": {
+        "points": 59,
+        "num_comments": 27,
+        "discussion_url": "https://news.ycombinator.com/item?id=48625823"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48624114",
+      "title": "1983 Northern Telecom Commodore Phone",
+      "url": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
+      "description": "",
+      "signals": {
+        "points": 38,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48624114"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48605085",
+      "title": "Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
+      "url": "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736",
+      "description": "",
+      "signals": {
+        "points": 27,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48605085"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48568487",
+      "title": "Architecting a Conversion Engine in Swift",
+      "url": "https://blog.minimal.app/conversion-engine/",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48568487"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    }
+  ]
+}

@@ -1314,5 +1314,25 @@
   "https://github.com/raiyanyahya/recall": {
     "archived_on": "2026-06-22",
     "title": "Recall – Local project memory for Claude Code"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/": {
+    "archived_on": "2026-06-23",
+    "title": "Gemini 3.5: frontier intelligence with action"
+  },
+  "https://huggingface.co/WeiboAI/VibeThinker-3B": {
+    "archived_on": "2026-06-23",
+    "title": "VibeThinker-3B"
+  },
+  "https://openai.com/index/codex-maxxing-long-running-work": {
+    "archived_on": "2026-06-23",
+    "title": "Codex-maxxing for long-running work"
+  },
+  "https://role-confusion.github.io": {
+    "archived_on": "2026-06-23",
+    "title": "Prompt Injection as Role Confusion"
+  },
+  "https://huggingface.co/papers/2606.23654": {
+    "archived_on": "2026-06-23",
+    "title": "EnterpriseClawBench"
   }
 }

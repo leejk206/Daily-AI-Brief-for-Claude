@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "title": "Gemini 3.5: frontier intelligence with action"
+  },
+  {
+    "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+    "title": "VibeThinker-3B"
+  },
+  {
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "title": "Codex-maxxing for long-running work"
+  },
+  {
+    "url": "https://role-confusion.github.io",
+    "title": "Prompt Injection as Role Confusion"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.23654",
+    "title": "EnterpriseClawBench"
+  }
+]

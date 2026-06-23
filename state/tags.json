@@ -9049,7 +9049,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-06-22T14:46:28+09:00"
+      "tagged_at": "2026-06-23T13:05:02+09:00"
     },
     "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/": {
       "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
@@ -9253,7 +9253,7 @@
       "tags": [
         "partnership"
       ],
-      "tagged_at": "2026-06-22T14:46:28+09:00"
+      "tagged_at": "2026-06-23T13:05:02+09:00"
     },
     "https://www.anthropic.com/news/expanding-project-glasswing": {
       "title": "Expanding Project Glasswing",
@@ -9264,7 +9264,7 @@
       "tags": [
         "partnership"
       ],
-      "tagged_at": "2026-06-22T14:46:28+09:00"
+      "tagged_at": "2026-06-23T13:05:02+09:00"
     },
     "https://github.com/topoteretes/cognee": {
       "title": "topoteretes/cognee",
@@ -9287,6 +9287,204 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-06-22T14:46:28+09:00"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/": {
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "summary": "구글 I/O 2026 플래그십, 행동하는 에이전트형 프런티어 모델",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "model-release",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://huggingface.co/WeiboAI/VibeThinker-3B": {
+      "title": "VibeThinker-3B",
+      "summary": "3B로 Opus 4.5 추론을 능가, 새 SFT+GRPO 기법",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "benchmark",
+        "model-release",
+        "rl"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://openai.com/index/codex-maxxing-long-running-work": {
+      "title": "Codex-maxxing for long-running work",
+      "summary": "OpenAI, 장시간 자율 작업용 Codex 운용 전략 공개",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "agent-harness",
+        "cli-agent"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://role-confusion.github.io": {
+      "title": "Prompt Injection as Role Confusion",
+      "summary": "프롬프트 인젝션을 역할 혼동으로 재정의한 연구",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "prompt-engineering",
+        "security"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://huggingface.co/papers/2606.23654": {
+      "title": "EnterpriseClawBench",
+      "summary": "실제 업무 세션 기반 에이전트 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/": {
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "summary": "순다르 피차이 키노트, 에이전트 시대 선언",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "model-release",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-translate/": {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "summary": "실시간 자연스러운 음성 번역",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "voice-agent"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/": {
+      "title": "The Gemini app becomes more agentic, delivering proactive, 24/7 help",
+      "summary": "제미나이 앱이 능동적 24/7 에이전트로 진화",
+      "category": "agent-frameworks",
+      "source": "release_blogs",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "agent-harness",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://huggingface.co/papers/2606.19409": {
+      "title": "OpenRath: Session-Centered Runtime State for Agent Systems",
+      "summary": "에이전트용 세션 중심 런타임 상태 관리",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "agent-harness",
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://huggingface.co/papers/2606.18648": {
+      "title": "Deep Research in Physical Sciences: A Multi-Agent Framework",
+      "summary": "물리과학 딥리서치 멀티에이전트 프레임워크·벤치",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "auto-research",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://huggingface.co/papers/2606.22388": {
+      "title": "PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents",
+      "summary": "대규모 툴 사용 에이전트의 장기 계획 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "benchmark",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://huggingface.co/papers/2606.12871": {
+      "title": "DailyReport: Benchmark for Evaluating Search Agents on Daily Search Tasks",
+      "summary": "일상 검색 과제 기반 검색 에이전트 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "benchmark",
+        "paper",
+        "web-agent"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "summary": "삼성전자 전사 ChatGPT·Codex 도입",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "cli-agent",
+        "partnership"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://oak.space/oak/oak": {
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "summary": "에이전트를 위해 설계된 Git 대체 버전관리",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "agent-harness",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT": {
+      "title": "microsoft/FastContext-1.0-4B-SFT",
+      "summary": "MS의 빠른 컨텍스트 처리 4B 모델",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "long-context",
+        "model-release"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://huggingface.co/papers/2606.21649": {
+      "title": "EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory",
+      "summary": "장문맥 검색·에이전트 메모리용 진화형 임베딩",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-23",
+      "tags": [
+        "agent-memory",
+        "long-context",
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-23T13:05:02+09:00"
     }
   }
 }

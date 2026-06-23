@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-23T13:01:55+09:00",
+  "items": [
+    {
+      "id": "hn:48632884",
+      "title": "Steam Machine launches today",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "description": "",
+      "signals": {
+        "points": 1319,
+        "num_comments": 1192,
+        "discussion_url": "https://news.ycombinator.com/item?id=48632884"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48605561",
+      "title": "Help I accidentally a wigglegram",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "description": "",
+      "signals": {
+        "points": 502,
+        "num_comments": 120,
+        "discussion_url": "https://news.ycombinator.com/item?id=48605561"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48634694",
+      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+      "url": "https://ipvm.com/reports/police-chiefs-track",
+      "description": "",
+      "signals": {
+        "points": 427,
+        "num_comments": 170,
+        "discussion_url": "https://news.ycombinator.com/item?id=48634694"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48634585",
+      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+      "description": "",
+      "signals": {
+        "points": 367,
+        "num_comments": 220,
+        "discussion_url": "https://news.ycombinator.com/item?id=48634585"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48630171",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "description": "",
+      "signals": {
+        "points": 249,
+        "num_comments": 65,
+        "discussion_url": "https://news.ycombinator.com/item?id=48630171"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48636377",
+      "title": "Runing GLM-5.2 on local hardware",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "description": "",
+      "signals": {
+        "points": 237,
+        "num_comments": 108,
+        "discussion_url": "https://news.ycombinator.com/item?id=48636377"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48597221",
+      "title": "My Mathematical Regression",
+      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+      "description": "",
+      "signals": {
+        "points": 233,
+        "num_comments": 85,
+        "discussion_url": "https://news.ycombinator.com/item?id=48597221"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48631888",
+      "title": "Prompt Injection as Role Confusion",
+      "url": "https://role-confusion.github.io",
+      "description": "",
+      "signals": {
+        "points": 164,
+        "num_comments": 87,
+        "discussion_url": "https://news.ycombinator.com/item?id=48631888"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48631726",
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "url": "https://oak.space/oak/oak",
+      "description": "",
+      "signals": {
+        "points": 161,
+        "num_comments": 154,
+        "discussion_url": "https://news.ycombinator.com/item?id=48631726"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48629213",
+      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+      "url": "https://puzzlelair.com/",
+      "description": "",
+      "signals": {
+        "points": 156,
+        "num_comments": 105,
+        "discussion_url": "https://news.ycombinator.com/item?id=48629213"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48630029",
+      "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
+      "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+      "description": "",
+      "signals": {
+        "points": 130,
+        "num_comments": 118,
+        "discussion_url": "https://news.ycombinator.com/item?id=48630029"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48634803",
+      "title": "Japanese symbols that speak without words",
+      "url": "https://arun.is/blog/japan-symbols/",
+      "description": "",
+      "signals": {
+        "points": 128,
+        "num_comments": 53,
+        "discussion_url": "https://news.ycombinator.com/item?id=48634803"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48634778",
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+      "url": "https://github.com/dorukkumkumoglu/optocamzero",
+      "description": "",
+      "signals": {
+        "points": 125,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=48634778"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48634787",
+      "title": "British Columbia, Time Zones, and Postgres",
+      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "description": "",
+      "signals": {
+        "points": 122,
+        "num_comments": 80,
+        "discussion_url": "https://news.ycombinator.com/item?id=48634787"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48636062",
+      "title": "Job application asked for my SAT scores",
+      "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
+      "description": "",
+      "signals": {
+        "points": 105,
+        "num_comments": 261,
+        "discussion_url": "https://news.ycombinator.com/item?id=48636062"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48639184",
+      "title": "1,700 free online courses from top universities",
+      "url": "https://www.openculture.com/freeonlinecourses",
+      "description": "",
+      "signals": {
+        "points": 88,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48639184"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48609129",
+      "title": "Canyon HUD helmet for road riding",
+      "url": "https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/",
+      "description": "",
+      "signals": {
+        "points": 75,
+        "num_comments": 88,
+        "discussion_url": "https://news.ycombinator.com/item?id=48609129"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48638886",
+      "title": "In praise of memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "description": "",
+      "signals": {
+        "points": 70,
+        "num_comments": 24,
+        "discussion_url": "https://news.ycombinator.com/item?id=48638886"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48636380",
+      "title": "ytr: YouTube Radio for Emacs",
+      "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+      "description": "",
+      "signals": {
+        "points": 69,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48636380"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48614715",
+      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+      "description": "",
+      "signals": {
+        "points": 65,
+        "num_comments": 71,
+        "discussion_url": "https://news.ycombinator.com/item?id=48614715"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48605776",
+      "title": "Cyberdecks, going analog, and convivial technology",
+      "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+      "description": "",
+      "signals": {
+        "points": 60,
+        "num_comments": 30,
+        "discussion_url": "https://news.ycombinator.com/item?id=48605776"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48588247",
+      "title": "Is it time for a new Embedded Linux build system?",
+      "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
+      "description": "",
+      "signals": {
+        "points": 46,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48588247"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48639057",
+      "title": "SpaceX sheds $400B in market value as debut rally hits reverse",
+      "url": "https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4",
+      "description": "",
+      "signals": {
+        "points": 39,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48639057"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48590505",
+      "title": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
+      "url": "https://github.com/Amal-David/pagecast",
+      "description": "",
+      "signals": {
+        "points": 37,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48590505"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48639240",
+      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "url": "https://arxiv.org/abs/2606.16140",
+      "description": "",
+      "signals": {
+        "points": 35,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48639240"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48598591",
+      "title": "Windows NT for GameCube/Wii",
+      "url": "https://github.com/Wack0/entii-for-workcubes",
+      "description": "",
+      "signals": {
+        "points": 32,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48598591"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47320921",
+      "title": "Making your JITted Code known: Let me count the ways",
+      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47320921"
+      },
+      "category_hint": null
+    }
+  ]
+}

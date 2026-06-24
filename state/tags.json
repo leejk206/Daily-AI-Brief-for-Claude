@@ -9485,6 +9485,179 @@
         "retrieval"
       ],
       "tagged_at": "2026-06-23T13:05:02+09:00"
+    },
+    "https://huggingface.co/papers/2606.24597": {
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "summary": "HN·HF 동시 화제, 범용 에이전트용 언어 월드모델",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-24",
+      "tags": [
+        "agent-harness",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-24T15:58:52+09:00"
+    },
+    "https://openai.com/index/daybreak-securing-the-world": {
+      "title": "Daybreak: GPT-5.5-Cyber & Codex Security",
+      "summary": "OpenAI 보안 스위트+사이버 전용 모델 공개",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-06-24",
+      "tags": [
+        "cli-agent",
+        "model-release",
+        "security"
+      ],
+      "tagged_at": "2026-06-24T15:58:52+09:00"
+    },
+    "https://www.anthropic.com/news/introducing-claude-tag": {
+      "title": "Introducing Claude Tag",
+      "summary": "앤트로픽, 팀 협업용 신제품 공개",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-06-24",
+      "tags": [
+        "claude-code"
+      ],
+      "tagged_at": "2026-06-24T15:58:52+09:00"
+    },
+    "https://huggingface.co/papers/2606.24530": {
+      "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
+      "summary": "90개 과제로 코딩 에이전트 과학 재현력 측정",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-24",
+      "tags": [
+        "auto-research",
+        "benchmark",
+        "cli-agent"
+      ],
+      "tagged_at": "2026-06-24T15:58:52+09:00"
+    },
+    "https://github.com/shanraisshan/claude-code-best-practice": {
+      "title": "shanraisshan/claude-code-best-practice",
+      "summary": "Claude Code 베스트프랙티스 모음, 깃헙 급상승",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-06-24",
+      "tags": [
+        "claude-code",
+        "tutorial"
+      ],
+      "tagged_at": "2026-06-24T15:58:52+09:00"
+    },
+    "https://openai.com/index/patch-the-planet": {
+      "title": "Patch the Planet",
+      "summary": "Daybreak 이니셔티브, OSS 메인테이너 취약점 수정 지원",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-06-24",
+      "tags": [
+        "ai-code-policy",
+        "security"
+      ],
+      "tagged_at": "2026-06-24T15:58:52+09:00"
+    },
+    "https://www.anthropic.com/news/tcs-anthropic-partnership": {
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "summary": "규제 산업에 Claude 도입 협력",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-06-24",
+      "tags": [
+        "partnership"
+      ],
+      "tagged_at": "2026-06-24T15:58:52+09:00"
+    },
+    "https://huggingface.co/papers/2606.23449": {
+      "title": "AOHP: An Open-Source OS-Level Agent Harness",
+      "summary": "개인화·효율·보안 강화한 OS급 에이전트 하네스",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-24",
+      "tags": [
+        "agent-harness",
+        "paper",
+        "security"
+      ],
+      "tagged_at": "2026-06-24T15:58:52+09:00"
+    },
+    "https://huggingface.co/papers/2606.21337": {
+      "title": "DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams",
+      "summary": "원시 스트림에서 에이전트가 멀티모달 데이터 선별",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-24",
+      "tags": [
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-24T15:58:52+09:00"
+    },
+    "https://huggingface.co/papers/2606.20636": {
+      "title": "SkillHarness: Harnessing Safe Skills for Computer-Use Agents",
+      "summary": "컴퓨터 사용 에이전트용 안전 스킬 하네스",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-24",
+      "tags": [
+        "agent-skill",
+        "computer-use",
+        "paper",
+        "security"
+      ],
+      "tagged_at": "2026-06-24T15:58:52+09:00"
+    },
+    "https://huggingface.co/papers/2606.24855": {
+      "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
+      "summary": "에이전트 모델 학습 데이터 레시피 공개",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-24",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-06-24T15:58:52+09:00"
+    },
+    "https://huggingface.co/papers/2606.21627": {
+      "title": "Counsel: A Meta-Evaluation Dataset for Agentic Tasks",
+      "summary": "에이전트 궤적 평가를 위한 메타평가 데이터셋",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-24",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-24T15:58:52+09:00"
+    },
+    "https://huggingface.co/papers/2606.22936": {
+      "title": "When Agents Commit Too Soon: Diagnosing Premature Commitment in LLM Agents",
+      "summary": "LLM 에이전트의 조기확정 실패 모드 진단",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-24",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-06-24T15:58:52+09:00"
+    },
+    "https://huggingface.co/papers/2606.23321": {
+      "title": "Tmax: A simple recipe for terminal agents",
+      "summary": "터미널 사용 에이전트 간단 제작 레시피",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-06-24",
+      "tags": [
+        "agent-harness",
+        "cli-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-24T15:58:52+09:00"
     }
   }
 }

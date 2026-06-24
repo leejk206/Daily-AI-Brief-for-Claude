@@ -1,0 +1,16 @@
+[
+  {"url": "https://huggingface.co/papers/2606.24597", "title": "Qwen-AgentWorld: Language World Models for General Agents"},
+  {"url": "https://openai.com/index/daybreak-securing-the-world", "title": "Daybreak: GPT-5.5-Cyber & Codex Security"},
+  {"url": "https://www.anthropic.com/news/introducing-claude-tag", "title": "Introducing Claude Tag"},
+  {"url": "https://huggingface.co/papers/2606.24530", "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?"},
+  {"url": "https://github.com/shanraisshan/claude-code-best-practice", "title": "shanraisshan/claude-code-best-practice"},
+  {"url": "https://openai.com/index/patch-the-planet", "title": "Patch the Planet"},
+  {"url": "https://www.anthropic.com/news/tcs-anthropic-partnership", "title": "TCS and Anthropic partner to bring Claude to regulated industries"},
+  {"url": "https://huggingface.co/papers/2606.23449", "title": "AOHP: An Open-Source OS-Level Agent Harness"},
+  {"url": "https://huggingface.co/papers/2606.21337", "title": "DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams"},
+  {"url": "https://huggingface.co/papers/2606.20636", "title": "SkillHarness: Harnessing Safe Skills for Computer-Use Agents"},
+  {"url": "https://huggingface.co/papers/2606.24855", "title": "OpenThoughts-Agent: Data Recipes for Agentic Models"},
+  {"url": "https://huggingface.co/papers/2606.21627", "title": "Counsel: A Meta-Evaluation Dataset for Agentic Tasks"},
+  {"url": "https://huggingface.co/papers/2606.22936", "title": "When Agents Commit Too Soon: Diagnosing Premature Commitment in LLM Agents"},
+  {"url": "https://huggingface.co/papers/2606.23321", "title": "Tmax: A simple recipe for terminal agents"}
+]

@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-24T15:54:35+09:00",
+  "items": [
+    {
+      "id": "hn:48648619",
+      "title": "FUTO Swipe – A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "description": "",
+      "signals": {
+        "points": 445,
+        "num_comments": 137,
+        "discussion_url": "https://news.ycombinator.com/item?id=48648619"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48649011",
+      "title": "Fired by Google for creating the Google workspace CLI",
+      "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+      "description": "",
+      "signals": {
+        "points": 438,
+        "num_comments": 269,
+        "discussion_url": "https://news.ycombinator.com/item?id=48649011"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48649435",
+      "title": "Jerry's Map",
+      "url": "http://www.jerrysmap.com/the-map",
+      "description": "",
+      "signals": {
+        "points": 418,
+        "num_comments": 50,
+        "discussion_url": "https://news.ycombinator.com/item?id=48649435"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48645437",
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "url": "https://tikz.dev/editor/",
+      "description": "",
+      "signals": {
+        "points": 372,
+        "num_comments": 70,
+        "discussion_url": "https://news.ycombinator.com/item?id=48645437"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48648959",
+      "title": "In memory of the man who put red and green squiggles under words",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "description": "",
+      "signals": {
+        "points": 309,
+        "num_comments": 38,
+        "discussion_url": "https://news.ycombinator.com/item?id=48648959"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48647486",
+      "title": "The worthlessness of Vitamin D is mildly exaggerated",
+      "url": "https://dynomight.net/vitamin-d/",
+      "description": "",
+      "signals": {
+        "points": 265,
+        "num_comments": 183,
+        "discussion_url": "https://news.ycombinator.com/item?id=48647486"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48618481",
+      "title": "Printing Gaussian Splats",
+      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+      "description": "",
+      "signals": {
+        "points": 257,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48618481"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48653216",
+      "title": "Vulnerability reports are not special anymore",
+      "url": "https://words.filippo.io/vuln-reports/",
+      "description": "",
+      "signals": {
+        "points": 205,
+        "num_comments": 112,
+        "discussion_url": "https://news.ycombinator.com/item?id=48653216"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48653575",
+      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+      "description": "",
+      "signals": {
+        "points": 194,
+        "num_comments": 109,
+        "discussion_url": "https://news.ycombinator.com/item?id=48653575"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48648779",
+      "title": "Swift Package Index joins Apple",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "description": "",
+      "signals": {
+        "points": 194,
+        "num_comments": 65,
+        "discussion_url": "https://news.ycombinator.com/item?id=48648779"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48654367",
+      "title": "The war on terror primed America for autocracy",
+      "url": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy",
+      "description": "",
+      "signals": {
+        "points": 169,
+        "num_comments": 126,
+        "discussion_url": "https://news.ycombinator.com/item?id=48654367"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48633643",
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "description": "",
+      "signals": {
+        "points": 142,
+        "num_comments": 76,
+        "discussion_url": "https://news.ycombinator.com/item?id=48633643"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48643489",
+      "title": "The Low-Tech AI of Elden Ring",
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "description": "",
+      "signals": {
+        "points": 135,
+        "num_comments": 64,
+        "discussion_url": "https://news.ycombinator.com/item?id=48643489"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48633473",
+      "title": "Rhombus Language 1.0",
+      "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+      "description": "",
+      "signals": {
+        "points": 133,
+        "num_comments": 30,
+        "discussion_url": "https://news.ycombinator.com/item?id=48633473"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48611585",
+      "title": "Millimeter wave technology drills 100 meters into granite",
+      "url": "https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/",
+      "description": "",
+      "signals": {
+        "points": 130,
+        "num_comments": 36,
+        "discussion_url": "https://news.ycombinator.com/item?id=48611585"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48585852",
+      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "url": "https://ps.tc/pages/blog-usbliter8.html",
+      "description": "",
+      "signals": {
+        "points": 128,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48585852"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48634187",
+      "title": "Five monitors on a Commodore 128 [video]",
+      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
+      "description": "",
+      "signals": {
+        "points": 121,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48634187"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48597201",
+      "title": "Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm",
+      "url": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/",
+      "description": "",
+      "signals": {
+        "points": 106,
+        "num_comments": 35,
+        "discussion_url": "https://news.ycombinator.com/item?id=48597201"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48611896",
+      "title": "Dirty Little Zine – a tool for making an 8 page printable Zine",
+      "url": "https://dirtylittlezine.com/",
+      "description": "",
+      "signals": {
+        "points": 106,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48611896"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48631511",
+      "title": "Inventing the Future, One Lisp Machine at a Time",
+      "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
+      "description": "",
+      "signals": {
+        "points": 95,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48631511"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48612025",
+      "title": "Show HN: An ASCII 3D Rendering Engine",
+      "url": "https://glyphcss.com",
+      "description": "",
+      "signals": {
+        "points": 58,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48612025"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48654676",
+      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+      "description": "",
+      "signals": {
+        "points": 57,
+        "num_comments": 13,
+        "discussion_url": "https://news.ycombinator.com/item?id=48654676"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48654351",
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "description": "",
+      "signals": {
+        "points": 56,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48654351"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48622433",
+      "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
+      "url": "https://github.com/dmtrKovalenko/ffs",
+      "description": "",
+      "signals": {
+        "points": 54,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=48622433"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48654465",
+      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+      "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+      "description": "",
+      "signals": {
+        "points": 46,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48654465"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48630085",
+      "title": "QSOE: QNX-inspired OS with dual-kernel architecture",
+      "url": "https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html",
+      "description": "",
+      "signals": {
+        "points": 38,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48630085"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48654411",
+      "title": "The Teensy Executable Revisited",
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
+      "description": "",
+      "signals": {
+        "points": 27,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48654411"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48654274",
+      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+      "description": "",
+      "signals": {
+        "points": 27,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48654274"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48621018",
+      "title": "Hunting Million-Digit Primes from My Loft",
+      "url": "https://primecrunch.com/blog/2/hunting-million-digit-primes-from-my-loft",
+      "description": "",
+      "signals": {
+        "points": 16,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48621018"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

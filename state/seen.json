@@ -436,5 +436,89 @@
     "last_seen": "2026-06-23",
     "days": 1,
     "title": "EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory"
+  },
+  "https://huggingface.co/papers/2606.24597": {
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "days": 1,
+    "title": "Qwen-AgentWorld: Language World Models for General Agents"
+  },
+  "https://openai.com/index/daybreak-securing-the-world": {
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "days": 1,
+    "title": "Daybreak: GPT-5.5-Cyber & Codex Security"
+  },
+  "https://www.anthropic.com/news/introducing-claude-tag": {
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "days": 1,
+    "title": "Introducing Claude Tag"
+  },
+  "https://huggingface.co/papers/2606.24530": {
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "days": 1,
+    "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?"
+  },
+  "https://github.com/shanraisshan/claude-code-best-practice": {
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "days": 1,
+    "title": "shanraisshan/claude-code-best-practice"
+  },
+  "https://openai.com/index/patch-the-planet": {
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "days": 1,
+    "title": "Patch the Planet"
+  },
+  "https://www.anthropic.com/news/tcs-anthropic-partnership": {
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "days": 1,
+    "title": "TCS and Anthropic partner to bring Claude to regulated industries"
+  },
+  "https://huggingface.co/papers/2606.23449": {
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "days": 1,
+    "title": "AOHP: An Open-Source OS-Level Agent Harness"
+  },
+  "https://huggingface.co/papers/2606.21337": {
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "days": 1,
+    "title": "DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams"
+  },
+  "https://huggingface.co/papers/2606.20636": {
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "days": 1,
+    "title": "SkillHarness: Harnessing Safe Skills for Computer-Use Agents"
+  },
+  "https://huggingface.co/papers/2606.24855": {
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "days": 1,
+    "title": "OpenThoughts-Agent: Data Recipes for Agentic Models"
+  },
+  "https://huggingface.co/papers/2606.21627": {
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "days": 1,
+    "title": "Counsel: A Meta-Evaluation Dataset for Agentic Tasks"
+  },
+  "https://huggingface.co/papers/2606.22936": {
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "days": 1,
+    "title": "When Agents Commit Too Soon: Diagnosing Premature Commitment in LLM Agents"
+  },
+  "https://huggingface.co/papers/2606.23321": {
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-24",
+    "days": 1,
+    "title": "Tmax: A simple recipe for terminal agents"
   }
 }

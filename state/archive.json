@@ -1334,5 +1334,25 @@
   "https://huggingface.co/papers/2606.23654": {
     "archived_on": "2026-06-23",
     "title": "EnterpriseClawBench"
+  },
+  "https://huggingface.co/papers/2606.24597": {
+    "archived_on": "2026-06-24",
+    "title": "Qwen-AgentWorld: Language World Models for General Agents"
+  },
+  "https://openai.com/index/daybreak-securing-the-world": {
+    "archived_on": "2026-06-24",
+    "title": "Daybreak: GPT-5.5-Cyber & Codex Security"
+  },
+  "https://www.anthropic.com/news/introducing-claude-tag": {
+    "archived_on": "2026-06-24",
+    "title": "Introducing Claude Tag"
+  },
+  "https://huggingface.co/papers/2606.24530": {
+    "archived_on": "2026-06-24",
+    "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?"
+  },
+  "https://github.com/shanraisshan/claude-code-best-practice": {
+    "archived_on": "2026-06-24",
+    "title": "shanraisshan/claude-code-best-practice"
   }
 }

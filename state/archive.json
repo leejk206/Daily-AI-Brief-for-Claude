@@ -1354,5 +1354,25 @@
   "https://github.com/shanraisshan/claude-code-best-practice": {
     "archived_on": "2026-06-24",
     "title": "shanraisshan/claude-code-best-practice"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/": {
+    "archived_on": "2026-06-25",
+    "title": "Introducing computer use in Gemini 3.5 Flash"
+  },
+  "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/": {
+    "archived_on": "2026-06-25",
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities"
+  },
+  "https://github.com/google-labs-code/design.md": {
+    "archived_on": "2026-06-25",
+    "title": "google-labs-code/design.md"
+  },
+  "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open": {
+    "archived_on": "2026-06-25",
+    "title": "GLM-5.2 is a step change for open agents"
+  },
+  "https://huggingface.co/papers/2606.24775": {
+    "archived_on": "2026-06-25",
+    "title": "Are We Ready For An Agent-Native Memory System?"
   }
 }

@@ -29,89 +29,11 @@
     "days": 1,
     "title": "MiniMax-M3"
   },
-  "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "days": 1,
-    "title": "SpaceX, Cursor(Anysphere)를 600억 달러에 인수"
-  },
-  "https://huggingface.co/papers/2606.11176": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "days": 1,
-    "title": "Data Journalist Agent: 데이터를 검증가능한 멀티모달 기사로"
-  },
-  "https://huggingface.co/papers/2606.14066": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "days": 1,
-    "title": "FastContext: 코딩 에이전트용 효율적 레포 탐색기 학습"
-  },
   "https://openai.com/index/deployment-simulation": {
     "first_seen": "2026-06-22",
     "last_seen": "2026-06-22",
     "days": 1,
     "title": "Predicting model behavior before release by simulating deployment"
-  },
-  "https://huggingface.co/papers/2606.15300": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "days": 1,
-    "title": "CODA-BENCH: 코드 에이전트는 데이터 집약 작업을 다룰 수 있나"
-  },
-  "https://huggingface.co/papers/2606.16140": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "days": 1,
-    "title": "VibeThinker-3B: 소형 모델의 검증가능한 추론 한계 탐색"
-  },
-  "https://huggingface.co/papers/2604.18401": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "days": 1,
-    "title": "StepPO: 에이전트형 RL을 위한 스텝 정렬 정책 최적화"
-  },
-  "https://huggingface.co/papers/2606.15079": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "days": 1,
-    "title": "Ling·Ring 2.6: 조 단위 파라미터의 즉응형 에이전트 지능"
-  },
-  "https://huggingface.co/papers/2606.15673": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "days": 1,
-    "title": "WebStep: 시맨틱 상태 추적 기반 웹 에이전트 공정 평가"
-  },
-  "https://huggingface.co/papers/2606.15708": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "days": 1,
-    "title": "Artificial Intelligence Index Report 2026"
-  },
-  "https://huggingface.co/papers/2606.16011": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "days": 1,
-    "title": "Who Flips? 반론 앞에서 흔들리는 LLM 답변 안정성"
-  },
-  "https://huggingface.co/papers/2606.13044": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "days": 1,
-    "title": "No Hidden Prompts Needed: 표현만 바꿔도 AI 동료심사 게이밍 가능"
-  },
-  "https://huggingface.co/papers/2606.17016": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "days": 1,
-    "title": "TokenPilot: LLM 에이전트용 캐시 효율적 컨텍스트 관리"
-  },
-  "https://huggingface.co/papers/2606.06302": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "days": 1,
-    "title": "Tangram: 멀티턴 LLM 서빙을 위한 비균일 KV 캐시 압축"
   },
   "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index": {
     "first_seen": "2026-06-18",
@@ -511,8 +433,8 @@
   },
   "https://huggingface.co/papers/2606.22936": {
     "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "days": 1,
+    "last_seen": "2026-06-25",
+    "days": 2,
     "title": "When Agents Commit Too Soon: Diagnosing Premature Commitment in LLM Agents"
   },
   "https://huggingface.co/papers/2606.23321": {
@@ -520,5 +442,89 @@
     "last_seen": "2026-06-24",
     "days": 1,
     "title": "Tmax: A simple recipe for terminal agents"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "days": 1,
+    "title": "Introducing computer use in Gemini 3.5 Flash"
+  },
+  "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "days": 1,
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities"
+  },
+  "https://github.com/google-labs-code/design.md": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "days": 1,
+    "title": "google-labs-code/design.md"
+  },
+  "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "days": 1,
+    "title": "GLM-5.2 is a step change for open agents"
+  },
+  "https://huggingface.co/papers/2606.24775": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "days": 1,
+    "title": "Are We Ready For An Agent-Native Memory System?"
+  },
+  "https://huggingface.co/papers/2606.24937": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "days": 1,
+    "title": "The Hitchhiker's Guide to Agentic AI"
+  },
+  "https://huggingface.co/papers/2606.23991": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "days": 1,
+    "title": "Critique of Agent Model"
+  },
+  "https://huggingface.co/papers/2606.19930": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "days": 1,
+    "title": "MobileForge"
+  },
+  "https://huggingface.co/papers/2606.19926": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "days": 1,
+    "title": "MemGUI-Agent"
+  },
+  "https://huggingface.co/papers/2606.23997": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "days": 1,
+    "title": "ChartWalker"
+  },
+  "https://github.com/stablyai/orca": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "days": 1,
+    "title": "stablyai/orca"
+  },
+  "https://huggingface.co/papers/2606.15932": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "days": 1,
+    "title": "Beyond NL2Code: Multimodal Code Intelligence"
+  },
+  "https://huggingface.co/papers/2606.18831": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "days": 1,
+    "title": "Beyond Reward Engineering"
+  },
+  "https://www.jimmont.com/llm-style-token-costs": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "days": 1,
+    "title": "What I'm Finding About LLM Code Style and Token Costs"
   }
 }

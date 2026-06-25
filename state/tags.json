@@ -9642,9 +9642,10 @@
       "brief_date": "2026-06-24",
       "tags": [
         "agent-harness",
+        "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-06-24T15:58:52+09:00"
+      "tagged_at": "2026-06-25T13:40:43+09:00"
     },
     "https://huggingface.co/papers/2606.23321": {
       "title": "Tmax: A simple recipe for terminal agents",
@@ -9658,6 +9659,175 @@
         "paper"
       ],
       "tagged_at": "2026-06-24T15:58:52+09:00"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/": {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "summary": "저가·고속 모델로 GUI 자동화, 3개 출처 동시 등장",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-06-25",
+      "tags": [
+        "computer-use",
+        "model-release"
+      ],
+      "tagged_at": "2026-06-25T13:40:43+09:00"
+    },
+    "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/": {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "summary": "모델 IP·증류 둘러싼 중대 분쟁",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-06-25",
+      "tags": [
+        "model-access"
+      ],
+      "tagged_at": "2026-06-25T13:40:43+09:00"
+    },
+    "https://github.com/google-labs-code/design.md": {
+      "title": "google-labs-code/design.md",
+      "summary": "코딩 에이전트에 시각 정체성을 넘겨주는 DESIGN.md 표준",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-06-25",
+      "tags": [
+        "coding-platform",
+        "frontend",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-25T13:40:43+09:00"
+    },
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open": {
+      "title": "GLM-5.2 is a step change for open agents",
+      "summary": "오픈웨이트 모델이 에이전트 영역서 격차 좁혔다는 분석",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-25",
+      "tags": [
+        "model-release",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-25T13:40:43+09:00"
+    },
+    "https://huggingface.co/papers/2606.24775": {
+      "title": "Are We Ready For An Agent-Native Memory System?",
+      "summary": "에이전트 전용 메모리 시스템 현주소 정리 서베이",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-25",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-06-25T13:40:43+09:00"
+    },
+    "https://huggingface.co/papers/2606.24937": {
+      "title": "The Hitchhiker's Guide to Agentic AI",
+      "summary": "기초부터 프로덕션까지 에이전트 시스템 풀스택 레퍼런스",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-25",
+      "tags": [
+        "paper",
+        "tutorial"
+      ],
+      "tagged_at": "2026-06-25T13:40:43+09:00"
+    },
+    "https://huggingface.co/papers/2606.23991": {
+      "title": "Critique of Agent Model",
+      "summary": "'에이전트란 무엇인가' 개념을 비판적으로 재검토",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-25",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-06-25T13:40:43+09:00"
+    },
+    "https://huggingface.co/papers/2606.19930": {
+      "title": "MobileForge",
+      "summary": "주석 없이 실제 앱에 적응하는 모바일 GUI 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-25",
+      "tags": [
+        "computer-use",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-25T13:40:43+09:00"
+    },
+    "https://huggingface.co/papers/2606.19926": {
+      "title": "MemGUI-Agent",
+      "summary": "능동적 컨텍스트 관리로 롱호라이즌 모바일 GUI 수행",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-25",
+      "tags": [
+        "agent-memory",
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-06-25T13:40:43+09:00"
+    },
+    "https://huggingface.co/papers/2606.23997": {
+      "title": "ChartWalker",
+      "summary": "차트 간 교차 RAG 작업 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-25",
+      "tags": [
+        "benchmark",
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-06-25T13:40:43+09:00"
+    },
+    "https://github.com/stablyai/orca": {
+      "title": "stablyai/orca",
+      "summary": "병렬 코딩 에이전트 함대를 다루는 데스크톱·모바일 ADE",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-06-25",
+      "tags": [
+        "coding-platform",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-06-25T13:40:43+09:00"
+    },
+    "https://huggingface.co/papers/2606.15932": {
+      "title": "Beyond NL2Code: Multimodal Code Intelligence",
+      "summary": "스크린샷·차트 등 시각 의도 기반 코드 합성 서베이",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-06-25",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-06-25T13:40:43+09:00"
+    },
+    "https://huggingface.co/papers/2606.18831": {
+      "title": "Beyond Reward Engineering",
+      "summary": "롱컨텍스트 RL을 위한 데이터 레시피",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-25",
+      "tags": [
+        "long-context",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-25T13:40:43+09:00"
+    },
+    "https://www.jimmont.com/llm-style-token-costs": {
+      "title": "What I'm Finding About LLM Code Style and Token Costs",
+      "summary": "코드 스타일이 토큰 비용에 미치는 영향 관찰기",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-06-25",
+      "tags": [
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-25T13:40:43+09:00"
     }
   }
 }

@@ -35,66 +35,6 @@
     "days": 1,
     "title": "Predicting model behavior before release by simulating deployment"
   },
-  "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index": {
-    "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
-    "days": 1,
-    "title": "GLM-5.2, 오픈웨이트 1위 등극"
-  },
-  "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem": {
-    "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
-    "days": 1,
-    "title": "앤트로픽, 서울 오피스 개소·한국 파트너십"
-  },
-  "https://github.com/DeusData/codebase-memory-mcp": {
-    "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
-    "days": 1,
-    "title": "codebase-memory-mcp"
-  },
-  "https://huggingface.co/papers/2606.18023": {
-    "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
-    "days": 1,
-    "title": "LoopCoder-v2"
-  },
-  "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/": {
-    "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
-    "days": 1,
-    "title": "美, 딥시크 블랙리스트 보류"
-  },
-  "https://huggingface.co/papers/2606.16428": {
-    "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
-    "days": 1,
-    "title": "LectūraAgents"
-  },
-  "https://huggingface.co/papers/2606.17861": {
-    "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
-    "days": 1,
-    "title": "GameCraft-Bench"
-  },
-  "https://huggingface.co/papers/2606.15345": {
-    "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
-    "days": 1,
-    "title": "BrowseComp-Plus (교차언어 딥리서치)"
-  },
-  "https://github.com/continuedev/continue": {
-    "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
-    "days": 1,
-    "title": "continuedev/continue"
-  },
-  "https://github.com/alexzhang13/rlm": {
-    "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
-    "days": 1,
-    "title": "alexzhang13/rlm"
-  },
   "https://deepmind.google/blog/introducing-gemini-omni/": {
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-19",
@@ -475,8 +415,8 @@
   },
   "https://huggingface.co/papers/2606.24937": {
     "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "days": 1,
+    "last_seen": "2026-06-26",
+    "days": 2,
     "title": "The Hitchhiker's Guide to Agentic AI"
   },
   "https://huggingface.co/papers/2606.23991": {
@@ -511,8 +451,8 @@
   },
   "https://huggingface.co/papers/2606.15932": {
     "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "days": 1,
+    "last_seen": "2026-06-26",
+    "days": 2,
     "title": "Beyond NL2Code: Multimodal Code Intelligence"
   },
   "https://huggingface.co/papers/2606.18831": {
@@ -526,5 +466,95 @@
     "last_seen": "2026-06-25",
     "days": 1,
     "title": "What I'm Finding About LLM Code Style and Token Costs"
+  },
+  "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "US Govt to individually approve who gets GPT 5.6"
+  },
+  "https://github.com/calesthio/OpenMontage": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "calesthio/OpenMontage"
+  },
+  "https://github.com/aws/agent-toolkit-for-aws": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "aws/agent-toolkit-for-aws"
+  },
+  "https://huggingface.co/papers/2606.26300": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards"
+  },
+  "https://github.com/xbtlin/ai-berkshire": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "xbtlin/ai-berkshire"
+  },
+  "https://openai.com/index/how-agents-are-transforming-work": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "How agents are transforming work"
+  },
+  "https://github.com/alibaba/page-agent": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "alibaba/page-agent"
+  },
+  "https://huggingface.co/papers/2606.26027": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It"
+  },
+  "https://huggingface.co/papers/2606.26790": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning"
+  },
+  "https://huggingface.co/papers/2606.16613": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies"
+  },
+  "https://huggingface.co/papers/2606.24551": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents"
+  },
+  "https://huggingface.co/papers/2606.25605": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints"
+  },
+  "https://github.com/JCodesMore/ai-website-cloner-template": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "JCodesMore/ai-website-cloner-template"
+  },
+  "https://huggingface.co/papers/2606.22953": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents"
+  },
+  "https://huggingface.co/papers/2606.24083": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "days": 1,
+    "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression"
   }
 }

@@ -9730,7 +9730,7 @@
         "paper",
         "tutorial"
       ],
-      "tagged_at": "2026-06-25T13:40:43+09:00"
+      "tagged_at": "2026-06-26T16:30:32+09:00"
     },
     "https://huggingface.co/papers/2606.23991": {
       "title": "Critique of Agent Model",
@@ -9803,7 +9803,7 @@
       "tags": [
         "paper"
       ],
-      "tagged_at": "2026-06-25T13:40:43+09:00"
+      "tagged_at": "2026-06-26T16:30:32+09:00"
     },
     "https://huggingface.co/papers/2606.18831": {
       "title": "Beyond Reward Engineering",
@@ -9828,6 +9828,189 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-06-25T13:40:43+09:00"
+    },
+    "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/": {
+      "title": "US Govt to individually approve who gets GPT 5.6",
+      "summary": "미 정부가 GPT-5.6 접속을 개별 승인한다는 속보",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "model-access"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://github.com/calesthio/OpenMontage": {
+      "title": "calesthio/OpenMontage",
+      "summary": "코딩 어시스턴트를 영상 제작 스튜디오로 바꾸는 에이전틱 시스템",
+      "category": "coding-agents",
+      "source": "github",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "agent-skill",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://github.com/aws/agent-toolkit-for-aws": {
+      "title": "aws/agent-toolkit-for-aws",
+      "summary": "AWS 공식 MCP 서버·스킬·플러그인 모음",
+      "category": "mcp",
+      "source": "github",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "agent-skill",
+        "mcp-server"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://huggingface.co/papers/2606.26300": {
+      "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
+      "summary": "코딩 에이전트 보상 검증의 한계 분석",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://github.com/xbtlin/ai-berkshire": {
+      "title": "xbtlin/ai-berkshire",
+      "summary": "Claude Code 기반 가치투자 멀티에이전트 연구 프레임워크",
+      "category": "agent-frameworks",
+      "source": "github",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "claude-code",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://openai.com/index/how-agents-are-transforming-work": {
+      "title": "How agents are transforming work",
+      "summary": "에이전트가 더 길고 복잡한 업무를 수행한다는 OpenAI 연구 보고",
+      "category": "agent-frameworks",
+      "source": "release_blogs",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://github.com/alibaba/page-agent": {
+      "title": "alibaba/page-agent",
+      "summary": "자연어로 웹 UI를 제어하는 인페이지 GUI 에이전트",
+      "category": "agent-frameworks",
+      "source": "github",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "computer-use",
+        "web-agent"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://huggingface.co/papers/2606.26027": {
+      "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+      "summary": "멀티스텝 도구사용 RL 붕괴 원인과 지도신호 처방",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "paper",
+        "rl",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://huggingface.co/papers/2606.26790": {
+      "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
+      "summary": "에이전트 RL용 온폴리시 스킬 증류",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://huggingface.co/papers/2606.16613": {
+      "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies",
+      "summary": "다중 에이전트 경제계에서 롱호라이즌 에이전트 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "benchmark",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://huggingface.co/papers/2606.24551": {
+      "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
+      "summary": "화면 전용 vs 스킬 매개 컴퓨터사용 에이전트 실행 병목 비교",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "benchmark",
+        "computer-use",
+        "paper"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://huggingface.co/papers/2606.25605": {
+      "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints",
+      "summary": "구조화 출력 강제가 도구호출을 억제하는 현상 실증",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://github.com/JCodesMore/ai-website-cloner-template": {
+      "title": "JCodesMore/ai-website-cloner-template",
+      "summary": "명령 한 줄로 AI 코딩 에이전트가 웹사이트 복제",
+      "category": "coding-agents",
+      "source": "github",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "coding-platform",
+        "web-agent"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://huggingface.co/papers/2606.22953": {
+      "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents",
+      "summary": "컨텍스트 관리가 에이전트 계획 유지의 핵심임을 분석",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "long-context",
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://huggingface.co/papers/2606.24083": {
+      "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
+      "summary": "토큰 절약 압축 화법이 실제로 비용을 줄이는지 검증",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-26",
+      "tags": [
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-26T16:30:32+09:00"
     }
   }
 }

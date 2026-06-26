@@ -1,0 +1,70 @@
+[
+  {
+    "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
+    "title": "US Govt to individually approve who gets GPT 5.6"
+  },
+  {
+    "url": "https://github.com/calesthio/OpenMontage",
+    "title": "calesthio/OpenMontage"
+  },
+  {
+    "url": "https://github.com/aws/agent-toolkit-for-aws",
+    "title": "aws/agent-toolkit-for-aws"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.26300",
+    "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards"
+  },
+  {
+    "url": "https://github.com/xbtlin/ai-berkshire",
+    "title": "xbtlin/ai-berkshire"
+  },
+  {
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "title": "How agents are transforming work"
+  },
+  {
+    "url": "https://github.com/alibaba/page-agent",
+    "title": "alibaba/page-agent"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.26027",
+    "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.26790",
+    "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.24937",
+    "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.16613",
+    "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.24551",
+    "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.25605",
+    "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints"
+  },
+  {
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "title": "JCodesMore/ai-website-cloner-template"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.15932",
+    "title": "Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.22953",
+    "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.24083",
+    "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression"
+  }
+]

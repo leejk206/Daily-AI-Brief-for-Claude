@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-26T16:25:19+09:00",
+  "items": [
+    {
+      "id": "hn:48675179",
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "description": "",
+      "signals": {
+        "points": 1220,
+        "num_comments": 258,
+        "discussion_url": "https://news.ycombinator.com/item?id=48675179"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48678852",
+      "title": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "description": "",
+      "signals": {
+        "points": 809,
+        "num_comments": 88,
+        "discussion_url": "https://news.ycombinator.com/item?id=48678852"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48672732",
+      "title": "Apple raises prices of MacBooks, iPads",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "description": "",
+      "signals": {
+        "points": 694,
+        "num_comments": 1000,
+        "discussion_url": "https://news.ycombinator.com/item?id=48672732"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48679608",
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "description": "",
+      "signals": {
+        "points": 630,
+        "num_comments": 286,
+        "discussion_url": "https://news.ycombinator.com/item?id=48679608"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48631450",
+      "title": "Oxide computer 3D rack guided tour",
+      "url": "https://explorer.oxide.computer/",
+      "description": "",
+      "signals": {
+        "points": 353,
+        "num_comments": 137,
+        "discussion_url": "https://news.ycombinator.com/item?id=48631450"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48674967",
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "description": "",
+      "signals": {
+        "points": 306,
+        "num_comments": 164,
+        "discussion_url": "https://news.ycombinator.com/item?id=48674967"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48672328",
+      "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
+      "url": "https://twitter.com/mfts0/status/2070080422482977095",
+      "description": "",
+      "signals": {
+        "points": 289,
+        "num_comments": 122,
+        "discussion_url": "https://news.ycombinator.com/item?id=48672328"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48616304",
+      "title": "Show HN: Chess-Inspired Roguelike",
+      "url": "https://princechazz.com",
+      "description": "",
+      "signals": {
+        "points": 269,
+        "num_comments": 91,
+        "discussion_url": "https://news.ycombinator.com/item?id=48616304"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48675435",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "description": "",
+      "signals": {
+        "points": 258,
+        "num_comments": 126,
+        "discussion_url": "https://news.ycombinator.com/item?id=48675435"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48673825",
+      "title": "Zig's new bitCast semantics and LLVM back end improvements",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "description": "",
+      "signals": {
+        "points": 229,
+        "num_comments": 116,
+        "discussion_url": "https://news.ycombinator.com/item?id=48673825"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48676795",
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "description": "",
+      "signals": {
+        "points": 224,
+        "num_comments": 182,
+        "discussion_url": "https://news.ycombinator.com/item?id=48676795"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48674484",
+      "title": "OS9Map",
+      "url": "https://yllan.org/software/OS9Map/",
+      "description": "",
+      "signals": {
+        "points": 217,
+        "num_comments": 41,
+        "discussion_url": "https://news.ycombinator.com/item?id=48674484"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48642474",
+      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+      "url": "https://github.com/plbrault/youre-the-os",
+      "description": "",
+      "signals": {
+        "points": 176,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=48642474"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48679007",
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "description": "",
+      "signals": {
+        "points": 138,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48679007"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48681220",
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "description": "",
+      "signals": {
+        "points": 135,
+        "num_comments": 70,
+        "discussion_url": "https://news.ycombinator.com/item?id=48681220"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48680370",
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+      "url": "https://gchandbook.org/",
+      "description": "",
+      "signals": {
+        "points": 119,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48680370"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48678645",
+      "title": "An oral history of Bank Python (2021)",
+      "url": "https://calpaterson.com/bank-python.html",
+      "description": "",
+      "signals": {
+        "points": 103,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48678645"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48681687",
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "description": "",
+      "signals": {
+        "points": 101,
+        "num_comments": 36,
+        "discussion_url": "https://news.ycombinator.com/item?id=48681687"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48678495",
+      "title": "The Doorman's Fallacy in action",
+      "url": "https://rozumem.xyz/posts/17",
+      "description": "",
+      "signals": {
+        "points": 98,
+        "num_comments": 135,
+        "discussion_url": "https://news.ycombinator.com/item?id=48678495"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48681949",
+      "title": "Libre Barcode Project",
+      "url": "https://graphicore.github.io/librebarcode/",
+      "description": "",
+      "signals": {
+        "points": 98,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48681949"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48678623",
+      "title": "Parallel Parentheses Matching",
+      "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+      "description": "",
+      "signals": {
+        "points": 82,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48678623"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48631119",
+      "title": "The last Romans are still around",
+      "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
+      "description": "",
+      "signals": {
+        "points": 77,
+        "num_comments": 92,
+        "discussion_url": "https://news.ycombinator.com/item?id=48631119"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48644383",
+      "title": "Record type inference for dummies",
+      "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
+      "description": "",
+      "signals": {
+        "points": 33,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48644383"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48627027",
+      "title": "Doing a masters while working in Spain",
+      "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+      "description": "",
+      "signals": {
+        "points": 32,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48627027"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48610137",
+      "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+      "url": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
+      "description": "",
+      "signals": {
+        "points": 23,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48610137"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48683021",
+      "title": "US Govt to individually approve who gets GPT 5.6",
+      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
+      "description": "",
+      "signals": {
+        "points": 22,
+        "num_comments": 13,
+        "discussion_url": "https://news.ycombinator.com/item?id=48683021"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48619122",
+      "title": "Experiments in Sports Seismology for the World Cup",
+      "url": "https://pnsn.org/blog/experiments-in-sports-seismology-for-the-world-cup",
+      "description": "",
+      "signals": {
+        "points": 20,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48619122"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48682737",
+      "title": "We All Depend on Open Source. We Will Defend It Together",
+      "url": "https://akrites.org/letter/",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48682737"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48638710",
+      "title": "Eyewitness at the Triangle (1911)",
+      "url": "http://trianglefire.ilr.cornell.edu/index.html",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48638710"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48682066",
+      "title": "Why are we so obsessed with lawns?",
+      "url": "https://www.gardensillustrated.com/features/the-history-of-lawns",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48682066"
+      },
+      "category_hint": null
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-27T18:25:00+09:00",
+  "items": [
+    {
+      "id": "hn:48690101",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "description": "",
+      "signals": {
+        "points": 1014,
+        "num_comments": 1068,
+        "discussion_url": "https://news.ycombinator.com/item?id=48690101"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48689028",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "description": "",
+      "signals": {
+        "points": 992,
+        "num_comments": 620,
+        "discussion_url": "https://news.ycombinator.com/item?id=48689028"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48692995",
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "description": "",
+      "signals": {
+        "points": 425,
+        "num_comments": 459,
+        "discussion_url": "https://news.ycombinator.com/item?id=48692995"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48692051",
+      "title": "We can still stop California's 3D printer surveillance scheme",
+      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+      "description": "",
+      "signals": {
+        "points": 392,
+        "num_comments": 133,
+        "discussion_url": "https://news.ycombinator.com/item?id=48692051"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48693391",
+      "title": "Om",
+      "url": "https://daringfireball.net/2026/06/om",
+      "description": "",
+      "signals": {
+        "points": 356,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48693391"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48642510",
+      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "description": "",
+      "signals": {
+        "points": 328,
+        "num_comments": 187,
+        "discussion_url": "https://news.ycombinator.com/item?id=48642510"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48685558",
+      "title": "Ultrasound imaging of the brain",
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
+      "description": "",
+      "signals": {
+        "points": 278,
+        "num_comments": 114,
+        "discussion_url": "https://news.ycombinator.com/item?id=48685558"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48692946",
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "description": "",
+      "signals": {
+        "points": 231,
+        "num_comments": 110,
+        "discussion_url": "https://news.ycombinator.com/item?id=48692946"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48692058",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "description": "",
+      "signals": {
+        "points": 201,
+        "num_comments": 165,
+        "discussion_url": "https://news.ycombinator.com/item?id=48692058"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48688700",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "description": "",
+      "signals": {
+        "points": 167,
+        "num_comments": 97,
+        "discussion_url": "https://news.ycombinator.com/item?id=48688700"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48695149",
+      "title": "OpenTTD 16.0-Beta1",
+      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "description": "",
+      "signals": {
+        "points": 148,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48695149"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48692883",
+      "title": "AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "description": "",
+      "signals": {
+        "points": 120,
+        "num_comments": 85,
+        "discussion_url": "https://news.ycombinator.com/item?id=48692883"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48689277",
+      "title": "What Is a Nomogram and Why Would It Interest Me?",
+      "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+      "description": "",
+      "signals": {
+        "points": 118,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=48689277"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48689859",
+      "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
+      "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
+      "description": "",
+      "signals": {
+        "points": 93,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48689859"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48692090",
+      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+      "url": "https://github.com/Tessil/hopscotch-map",
+      "description": "",
+      "signals": {
+        "points": 91,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48692090"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48694853",
+      "title": "WordStar: A Writer's Word Processor (1996)",
+      "url": "https://www.sfwriter.com/wordstar.htm",
+      "description": "",
+      "signals": {
+        "points": 89,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=48694853"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48693420",
+      "title": "Foreign funds help make housing unaffordable: research",
+      "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+      "description": "",
+      "signals": {
+        "points": 75,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48693420"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48658148",
+      "title": "Fusion Programming Language",
+      "url": "https://fusion-lang.org/",
+      "description": "",
+      "signals": {
+        "points": 70,
+        "num_comments": 31,
+        "discussion_url": "https://news.ycombinator.com/item?id=48658148"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48693912",
+      "title": "Show HN: Hacker News on a train station-style flip board",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "description": "",
+      "signals": {
+        "points": 69,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48693912"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48662988",
+      "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+      "url": "https://github.com/dbos-inc/dbosify-py",
+      "description": "",
+      "signals": {
+        "points": 61,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48662988"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48633839",
+      "title": "Hellishly Slow Level 13 Deflate Compression",
+      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+      "description": "",
+      "signals": {
+        "points": 56,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48633839"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48694631",
+      "title": "Anatomy of a Failed (Nation-State?) Attack",
+      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+      "description": "",
+      "signals": {
+        "points": 53,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48694631"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48673115",
+      "title": "A Tiny Compiler for Data-Parallel Kernels",
+      "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+      "description": "",
+      "signals": {
+        "points": 44,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48673115"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48643661",
+      "title": "Making Sense of Proof by Contradiction [pdf]",
+      "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
+      "description": "",
+      "signals": {
+        "points": 37,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48643661"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48668747",
+      "title": "Linux on Older Hardware: The Complete Revival Guide",
+      "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
+      "description": "",
+      "signals": {
+        "points": 35,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48668747"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48695363",
+      "title": "IBM MCGA Gate Array Reverse Engineering",
+      "url": "https://github.com/schlae/IBM_MCGA",
+      "description": "",
+      "signals": {
+        "points": 24,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48695363"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48677564",
+      "title": "Long Wave radio era set to end with switch-off",
+      "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 43,
+        "discussion_url": "https://news.ycombinator.com/item?id=48677564"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48656982",
+      "title": "SCC Technical Assistance Program",
+      "url": "https://nerocam.com/scc_tap.asp",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48656982"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    }
+  ]
+}

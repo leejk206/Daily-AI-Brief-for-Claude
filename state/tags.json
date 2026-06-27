@@ -9446,7 +9446,7 @@
         "cli-agent",
         "partnership"
       ],
-      "tagged_at": "2026-06-23T13:05:02+09:00"
+      "tagged_at": "2026-06-27T18:29:23+09:00"
     },
     "https://oak.space/oak/oak": {
       "title": "Show HN: Oak – Git alternative designed for agents",
@@ -9922,7 +9922,7 @@
         "rl",
         "tool-use"
       ],
-      "tagged_at": "2026-06-26T16:30:32+09:00"
+      "tagged_at": "2026-06-27T18:29:23+09:00"
     },
     "https://huggingface.co/papers/2606.26790": {
       "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
@@ -9948,7 +9948,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-06-26T16:30:32+09:00"
+      "tagged_at": "2026-06-27T18:29:23+09:00"
     },
     "https://huggingface.co/papers/2606.24551": {
       "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
@@ -9961,7 +9961,7 @@
         "computer-use",
         "paper"
       ],
-      "tagged_at": "2026-06-26T16:30:32+09:00"
+      "tagged_at": "2026-06-27T18:29:23+09:00"
     },
     "https://huggingface.co/papers/2606.25605": {
       "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints",
@@ -9970,10 +9970,11 @@
       "source": "huggingface",
       "brief_date": "2026-06-26",
       "tags": [
+        "open-weights",
         "paper",
         "tool-use"
       ],
-      "tagged_at": "2026-06-26T16:30:32+09:00"
+      "tagged_at": "2026-06-27T18:29:23+09:00"
     },
     "https://github.com/JCodesMore/ai-website-cloner-template": {
       "title": "JCodesMore/ai-website-cloner-template",
@@ -9994,11 +9995,12 @@
       "source": "huggingface",
       "brief_date": "2026-06-26",
       "tags": [
+        "agent-harness",
         "long-context",
         "paper",
         "prompt-engineering"
       ],
-      "tagged_at": "2026-06-26T16:30:32+09:00"
+      "tagged_at": "2026-06-27T18:29:23+09:00"
     },
     "https://huggingface.co/papers/2606.24083": {
       "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
@@ -10011,6 +10013,161 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-06-26T16:30:32+09:00"
+    },
+    "https://openai.com/index/previewing-gpt-5-6-sol": {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "summary": "오픈AI 차세대 모델 프리뷰",
+      "category": "frontier-models",
+      "source": "openai",
+      "brief_date": "2026-06-27",
+      "tags": [
+        "model-release"
+      ],
+      "tagged_at": "2026-06-27T18:29:23+09:00"
+    },
+    "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/": {
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "summary": "美 정부가 GPT-5.6 사용자 개별 승인",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-06-27",
+      "tags": [
+        "model-access"
+      ],
+      "tagged_at": "2026-06-27T18:29:23+09:00"
+    },
+    "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies": {
+      "title": "U.S. allows Anthropic to release Mythos to trusted US orgs",
+      "summary": "미토스, 신뢰 美 기관에 제한 출시 허용",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-06-27",
+      "tags": [
+        "model-access",
+        "model-release"
+      ],
+      "tagged_at": "2026-06-27T18:29:23+09:00"
+    },
+    "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B": {
+      "title": "Qwen-AgentWorld-35B-A3B",
+      "summary": "에이전트용 언어 월드모델 오픈소스 공개",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-27",
+      "tags": [
+        "model-release",
+        "world-model"
+      ],
+      "tagged_at": "2026-06-27T18:29:23+09:00"
+    },
+    "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B": {
+      "title": "Ornith-1.0-35B",
+      "summary": "GLM-5.2 넘었다는 오픈 코딩 모델 출시",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-06-27",
+      "tags": [
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-06-27T18:29:23+09:00"
+    },
+    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "summary": "오픈AI·브로드컴 LLM 추론 전용 칩 Jalapeno",
+      "category": "frontier-models",
+      "source": "openai",
+      "brief_date": "2026-06-27",
+      "tags": [
+        "hardware",
+        "partnership"
+      ],
+      "tagged_at": "2026-06-27T18:29:23+09:00"
+    },
+    "https://blog.doubleword.ai/frontier-os-llm": {
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "summary": "오픈웨이트와 클로즈드 모델 격차 분석",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-06-27",
+      "tags": [
+        "open-weights"
+      ],
+      "tagged_at": "2026-06-27T18:29:23+09:00"
+    },
+    "https://huggingface.co/papers/2606.27288": {
+      "title": "When Does Combining Language Models Help? (Co-Failure Ceiling)",
+      "summary": "67개 프런티어 모델 라우팅·투표·MoA 한계 분석",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-27",
+      "tags": [
+        "benchmark",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-06-27T18:29:23+09:00"
+    },
+    "https://huggingface.co/papers/2606.26080": {
+      "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+      "summary": "사후학습 신호로 에이전트 성능 향상",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-06-27",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-06-27T18:29:23+09:00"
+    },
+    "https://huggingface.co/papers/2606.14397": {
+      "title": "Running the Gauntlet: Re-evaluating Agents Beyond Familiar Environments",
+      "summary": "낯선 환경에서의 에이전트 재평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-27",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-27T18:29:23+09:00"
+    },
+    "https://huggingface.co/papers/2606.21959": {
+      "title": "OpenBioRQ: Unsolved Biomedical Research Questions for Agents",
+      "summary": "미해결 생의학 연구문제 에이전트 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-06-27",
+      "tags": [
+        "auto-research",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-06-27T18:29:23+09:00"
+    },
+    "https://github.com/workweave/router": {
+      "title": "Show HN: Smart model routing in Claude, Codex and Cursor",
+      "summary": "코딩 툴 내 스마트 모델 라우팅",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-27",
+      "tags": [
+        "coding-platform",
+        "model-routing"
+      ],
+      "tagged_at": "2026-06-27T18:29:23+09:00"
+    },
+    "https://huggingface.co/papers/2606.26875": {
+      "title": "Information-Aware KV Cache Compression for Long Reasoning",
+      "summary": "장문 추론용 정보인지 KV 캐시 압축",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-06-27",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-06-27T18:29:23+09:00"
     }
   }
 }

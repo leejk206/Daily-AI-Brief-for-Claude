@@ -5,12 +5,6 @@
     "days": 1,
     "title": "CohereLabs/North-Mini-Code-1.0"
   },
-  "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
-    "days": 1,
-    "title": "Introducing Gemma 4 12B"
-  },
   "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": {
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-20",
@@ -35,35 +29,11 @@
     "days": 1,
     "title": "Predicting model behavior before release by simulating deployment"
   },
-  "https://deepmind.google/blog/introducing-gemini-omni/": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
-    "days": 1,
-    "title": "Introducing Gemini Omni"
-  },
-  "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
-    "days": 1,
-    "title": "Zero-Touch OAuth for MCP"
-  },
-  "https://github.com/Kilo-Org/kilocode": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
-    "days": 1,
-    "title": "Kilo-Org/kilocode"
-  },
   "https://huggingface.co/papers/2606.19704": {
     "first_seen": "2026-06-22",
     "last_seen": "2026-06-22",
     "days": 1,
     "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents"
-  },
-  "https://huggingface.co/papers/2606.17682": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
-    "days": 1,
-    "title": "From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning"
   },
   "https://huggingface.co/papers/2606.19047": {
     "first_seen": "2026-06-19",
@@ -71,23 +41,11 @@
     "days": 2,
     "title": "RODS: Reward-Driven Online Data Synthesis for Multi-Turn Tool-Use Agents"
   },
-  "https://huggingface.co/papers/2606.18543": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
-    "days": 1,
-    "title": "CEO-Bench: Can Agents Play the Long Game?"
-  },
   "https://openai.com/index/introducing-life-sci-bench": {
     "first_seen": "2026-06-22",
     "last_seen": "2026-06-23",
     "days": 2,
     "title": "Introducing LifeSciBench"
-  },
-  "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
-    "days": 1,
-    "title": "The Token Compression Illusion: Why I'm Skeptical of RTK"
   },
   "https://huggingface.co/zai-org/GLM-5.2": {
     "first_seen": "2026-06-20",
@@ -276,8 +234,8 @@
     "title": "DailyReport: Benchmark for Evaluating Search Agents on Daily Search Tasks"
   },
   "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
     "days": 1,
     "title": "Samsung Electronics brings ChatGPT and Codex to employees"
   },
@@ -511,8 +469,8 @@
   },
   "https://huggingface.co/papers/2606.26027": {
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "days": 1,
+    "last_seen": "2026-06-27",
+    "days": 2,
     "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It"
   },
   "https://huggingface.co/papers/2606.26790": {
@@ -523,20 +481,20 @@
   },
   "https://huggingface.co/papers/2606.16613": {
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "days": 1,
+    "last_seen": "2026-06-27",
+    "days": 2,
     "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies"
   },
   "https://huggingface.co/papers/2606.24551": {
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "days": 1,
+    "last_seen": "2026-06-27",
+    "days": 2,
     "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents"
   },
   "https://huggingface.co/papers/2606.25605": {
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "days": 1,
+    "last_seen": "2026-06-27",
+    "days": 2,
     "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints"
   },
   "https://github.com/JCodesMore/ai-website-cloner-template": {
@@ -547,8 +505,8 @@
   },
   "https://huggingface.co/papers/2606.22953": {
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "days": 1,
+    "last_seen": "2026-06-27",
+    "days": 2,
     "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents"
   },
   "https://huggingface.co/papers/2606.24083": {
@@ -556,5 +514,83 @@
     "last_seen": "2026-06-26",
     "days": 1,
     "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression"
+  },
+  "https://openai.com/index/previewing-gpt-5-6-sol": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "days": 1,
+    "title": "Previewing GPT-5.6 Sol: a next-generation model"
+  },
+  "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "days": 1,
+    "title": "U.S. government will decide who gets to use GPT-5.6"
+  },
+  "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "days": 1,
+    "title": "U.S. allows Anthropic to release Mythos to trusted US orgs"
+  },
+  "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "days": 1,
+    "title": "Qwen-AgentWorld-35B-A3B"
+  },
+  "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "days": 1,
+    "title": "Ornith-1.0-35B"
+  },
+  "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "days": 1,
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip"
+  },
+  "https://blog.doubleword.ai/frontier-os-llm": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "days": 1,
+    "title": "The gap between open weights LLMs and closed source LLMs"
+  },
+  "https://huggingface.co/papers/2606.27288": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "days": 1,
+    "title": "When Does Combining Language Models Help? (Co-Failure Ceiling)"
+  },
+  "https://huggingface.co/papers/2606.26080": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "days": 1,
+    "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents"
+  },
+  "https://huggingface.co/papers/2606.14397": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "days": 1,
+    "title": "Running the Gauntlet: Re-evaluating Agents Beyond Familiar Environments"
+  },
+  "https://huggingface.co/papers/2606.21959": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "days": 1,
+    "title": "OpenBioRQ: Unsolved Biomedical Research Questions for Agents"
+  },
+  "https://github.com/workweave/router": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "days": 1,
+    "title": "Show HN: Smart model routing in Claude, Codex and Cursor"
+  },
+  "https://huggingface.co/papers/2606.26875": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "days": 1,
+    "title": "Information-Aware KV Cache Compression for Long Reasoning"
   }
 }

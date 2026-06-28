@@ -5,18 +5,6 @@
     "days": 1,
     "title": "CohereLabs/North-Mini-Code-1.0"
   },
-  "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-20",
-    "days": 2,
-    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
-  },
-  "https://huggingface.co/moonshotai/Kimi-K2.7-Code": {
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
-    "days": 1,
-    "title": "moonshotai/Kimi-K2.7-Code"
-  },
   "https://huggingface.co/MiniMaxAI/MiniMax-M3": {
     "first_seen": "2026-06-22",
     "last_seen": "2026-06-22",
@@ -24,8 +12,8 @@
     "title": "MiniMax-M3"
   },
   "https://openai.com/index/deployment-simulation": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
     "days": 1,
     "title": "Predicting model behavior before release by simulating deployment"
   },
@@ -35,83 +23,17 @@
     "days": 1,
     "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents"
   },
-  "https://huggingface.co/papers/2606.19047": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-20",
-    "days": 2,
-    "title": "RODS: Reward-Driven Online Data Synthesis for Multi-Turn Tool-Use Agents"
-  },
   "https://openai.com/index/introducing-life-sci-bench": {
     "first_seen": "2026-06-22",
     "last_seen": "2026-06-23",
     "days": 2,
     "title": "Introducing LifeSciBench"
   },
-  "https://huggingface.co/zai-org/GLM-5.2": {
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
-    "days": 1,
-    "title": "zai-org/GLM-5.2"
-  },
-  "https://huggingface.co/papers/2606.20517": {
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
-    "days": 1,
-    "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages"
-  },
-  "https://github.com/withastro/flue": {
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
-    "days": 1,
-    "title": "withastro/flue"
-  },
   "https://huggingface.co/papers/2606.19605": {
     "first_seen": "2026-06-22",
     "last_seen": "2026-06-22",
     "days": 1,
     "title": "FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines"
-  },
-  "https://huggingface.co/papers/2606.20529": {
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
-    "days": 1,
-    "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents"
-  },
-  "https://huggingface.co/papers/2606.17053": {
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
-    "days": 1,
-    "title": "Context-Aware RL for Agentic and Multimodal LLMs"
-  },
-  "https://github.com/BuilderIO/agent-native": {
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
-    "days": 1,
-    "title": "BuilderIO/agent-native"
-  },
-  "https://huggingface.co/papers/2606.16748": {
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
-    "days": 1,
-    "title": "MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents"
-  },
-  "https://huggingface.co/papers/2606.09764": {
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
-    "days": 1,
-    "title": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents"
-  },
-  "https://huggingface.co/papers/2606.19830": {
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
-    "days": 1,
-    "title": "JAMER: Project-Level Code Framework Dataset and Benchmark on Professional Game Engines"
-  },
-  "https://github.com/zai-org/GLM-5": {
-    "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
-    "days": 1,
-    "title": "zai-org/GLM-5"
   },
   "https://support.claude.com/en/articles/14328960-identity-verification-on-claude": {
     "first_seen": "2026-06-22",
@@ -126,8 +48,8 @@
     "title": "What we learned mapping a year's worth of AI-enabled cyber threats"
   },
   "https://deepmind.google/blog/securing-the-future-of-ai-agents/": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
     "days": 1,
     "title": "Securing the future of AI agents"
   },
@@ -150,8 +72,8 @@
     "title": "Expanding Project Glasswing"
   },
   "https://github.com/topoteretes/cognee": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
     "days": 1,
     "title": "topoteretes/cognee"
   },
@@ -270,8 +192,8 @@
     "title": "Daybreak: GPT-5.5-Cyber & Codex Security"
   },
   "https://www.anthropic.com/news/introducing-claude-tag": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
     "days": 1,
     "title": "Introducing Claude Tag"
   },
@@ -456,8 +378,8 @@
     "title": "xbtlin/ai-berkshire"
   },
   "https://openai.com/index/how-agents-are-transforming-work": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
     "days": 1,
     "title": "How agents are transforming work"
   },
@@ -481,8 +403,8 @@
   },
   "https://huggingface.co/papers/2606.16613": {
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "days": 2,
+    "last_seen": "2026-06-28",
+    "days": 3,
     "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies"
   },
   "https://huggingface.co/papers/2606.24551": {
@@ -505,8 +427,8 @@
   },
   "https://huggingface.co/papers/2606.22953": {
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "days": 2,
+    "last_seen": "2026-06-28",
+    "days": 3,
     "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents"
   },
   "https://huggingface.co/papers/2606.24083": {
@@ -559,8 +481,8 @@
   },
   "https://huggingface.co/papers/2606.27288": {
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "days": 1,
+    "last_seen": "2026-06-28",
+    "days": 2,
     "title": "When Does Combining Language Models Help? (Co-Failure Ceiling)"
   },
   "https://huggingface.co/papers/2606.26080": {
@@ -571,8 +493,8 @@
   },
   "https://huggingface.co/papers/2606.14397": {
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "days": 1,
+    "last_seen": "2026-06-28",
+    "days": 2,
     "title": "Running the Gauntlet: Re-evaluating Agents Beyond Familiar Environments"
   },
   "https://huggingface.co/papers/2606.21959": {
@@ -592,5 +514,41 @@
     "last_seen": "2026-06-27",
     "days": 1,
     "title": "Information-Aware KV Cache Compression for Long Reasoning"
+  },
+  "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/": {
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "days": 1,
+    "title": "Introducing computer use in Gemini 3.5 Flash"
+  },
+  "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/": {
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "days": 1,
+    "title": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on"
+  },
+  "https://github.com/anomalyco/opencode": {
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "days": 1,
+    "title": "anomalyco/opencode"
+  },
+  "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": {
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "days": 1,
+    "title": "DiffusionGemma: 4x faster text generation"
+  },
+  "https://github.com/Fission-AI/OpenSpec": {
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "days": 1,
+    "title": "Fission-AI/OpenSpec"
+  },
+  "https://github.com/luongnv89/claude-howto": {
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "days": 1,
+    "title": "luongnv89/claude-howto"
   }
 }

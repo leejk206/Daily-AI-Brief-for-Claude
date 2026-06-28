@@ -7575,7 +7575,7 @@
         "claude-code",
         "tutorial"
       ],
-      "tagged_at": "2026-06-11T08:40:25+09:00"
+      "tagged_at": "2026-06-28T15:34:18+09:00"
     },
     "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/": {
       "title": "Replies to comments on my \"LLMs are eroding my career\" post",
@@ -8489,9 +8489,10 @@
       "source": "release_blogs",
       "brief_date": "2026-06-14",
       "tags": [
-        "model-release"
+        "model-release",
+        "open-weights"
       ],
-      "tagged_at": "2026-06-14T09:25:22+09:00"
+      "tagged_at": "2026-06-28T15:34:18+09:00"
     },
     "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/": {
       "title": "AI coding at home without going broke",
@@ -8708,7 +8709,7 @@
       "tags": [
         "benchmark"
       ],
-      "tagged_at": "2026-06-22T14:46:28+09:00"
+      "tagged_at": "2026-06-28T15:34:18+09:00"
     },
     "https://huggingface.co/papers/2606.15300": {
       "title": "CODA-BENCH: 코드 에이전트는 데이터 집약 작업을 다룰 수 있나",
@@ -9230,7 +9231,7 @@
         "agent-harness",
         "security"
       ],
-      "tagged_at": "2026-06-22T14:46:28+09:00"
+      "tagged_at": "2026-06-28T15:34:18+09:00"
     },
     "https://github.com/raiyanyahya/recall": {
       "title": "Recall – Local project memory for Claude Code",
@@ -9275,7 +9276,7 @@
       "tags": [
         "agent-memory"
       ],
-      "tagged_at": "2026-06-22T14:46:28+09:00"
+      "tagged_at": "2026-06-28T15:34:18+09:00"
     },
     "https://github.com/asgeirtj/system_prompts_leaks": {
       "title": "asgeirtj/system_prompts_leaks",
@@ -9521,7 +9522,7 @@
       "tags": [
         "claude-code"
       ],
-      "tagged_at": "2026-06-24T15:58:52+09:00"
+      "tagged_at": "2026-06-28T15:34:18+09:00"
     },
     "https://huggingface.co/papers/2606.24530": {
       "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
@@ -9895,9 +9896,11 @@
       "source": "release_blogs",
       "brief_date": "2026-06-26",
       "tags": [
-        "paper"
+        "agent-harness",
+        "paper",
+        "tool-use"
       ],
-      "tagged_at": "2026-06-26T16:30:32+09:00"
+      "tagged_at": "2026-06-28T15:34:18+09:00"
     },
     "https://github.com/alibaba/page-agent": {
       "title": "alibaba/page-agent",
@@ -9948,7 +9951,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-06-27T18:29:23+09:00"
+      "tagged_at": "2026-06-28T15:34:18+09:00"
     },
     "https://huggingface.co/papers/2606.24551": {
       "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
@@ -9996,11 +9999,12 @@
       "brief_date": "2026-06-26",
       "tags": [
         "agent-harness",
+        "agent-memory",
         "long-context",
         "paper",
         "prompt-engineering"
       ],
-      "tagged_at": "2026-06-27T18:29:23+09:00"
+      "tagged_at": "2026-06-28T15:34:18+09:00"
     },
     "https://huggingface.co/papers/2606.24083": {
       "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
@@ -10103,10 +10107,11 @@
       "brief_date": "2026-06-27",
       "tags": [
         "benchmark",
+        "model-routing",
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-06-27T18:29:23+09:00"
+      "tagged_at": "2026-06-28T15:34:18+09:00"
     },
     "https://huggingface.co/papers/2606.26080": {
       "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
@@ -10130,7 +10135,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-06-27T18:29:23+09:00"
+      "tagged_at": "2026-06-28T15:34:18+09:00"
     },
     "https://huggingface.co/papers/2606.21959": {
       "title": "OpenBioRQ: Unsolved Biomedical Research Questions for Agents",
@@ -10168,6 +10173,54 @@
         "paper"
       ],
       "tagged_at": "2026-06-27T18:29:23+09:00"
+    },
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/": {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "summary": "제미나이 3.5 플래시에 컴퓨터 조작 능력 탑재, 에이전트 경쟁 가속",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-06-28",
+      "tags": [
+        "computer-use",
+        "tool-use"
+      ],
+      "tagged_at": "2026-06-28T15:34:18+09:00"
+    },
+    "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/": {
+      "title": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on",
+      "summary": "수출 통제 장기화에 아시아발 Mythos 대체 모델 등장",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-06-28",
+      "tags": [
+        "model-access",
+        "model-release"
+      ],
+      "tagged_at": "2026-06-28T15:34:18+09:00"
+    },
+    "https://github.com/anomalyco/opencode": {
+      "title": "anomalyco/opencode",
+      "summary": "오픈소스 코딩 에이전트, 깃허브 급상승",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-06-28",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-06-28T15:34:18+09:00"
+    },
+    "https://github.com/Fission-AI/OpenSpec": {
+      "title": "Fission-AI/OpenSpec",
+      "summary": "AI 코딩 어시스턴트용 스펙 주도 개발",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-06-28",
+      "tags": [
+        "coding-platform",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-28T15:34:18+09:00"
     }
   }
 }

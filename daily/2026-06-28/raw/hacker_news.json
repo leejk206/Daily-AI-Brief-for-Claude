@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-28T15:29:44+09:00",
+  "items": [
+    {
+      "id": "hn:48698617",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
+      "description": "",
+      "signals": {
+        "points": 757,
+        "num_comments": 298,
+        "discussion_url": "https://news.ycombinator.com/item?id=48698617"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48696585",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "description": "",
+      "signals": {
+        "points": 751,
+        "num_comments": 312,
+        "discussion_url": "https://news.ycombinator.com/item?id=48696585"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48697560",
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
+      "description": "",
+      "signals": {
+        "points": 645,
+        "num_comments": 128,
+        "discussion_url": "https://news.ycombinator.com/item?id=48697560"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48696982",
+      "title": "Fintech Engineering Handbook",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "description": "",
+      "signals": {
+        "points": 522,
+        "num_comments": 168,
+        "discussion_url": "https://news.ycombinator.com/item?id=48696982"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48697335",
+      "title": "The case for physical media ownership",
+      "url": "https://dervis.de/physical/",
+      "description": "",
+      "signals": {
+        "points": 400,
+        "num_comments": 262,
+        "discussion_url": "https://news.ycombinator.com/item?id=48697335"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48700834",
+      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "url": "https://ipcrawl.com/",
+      "description": "",
+      "signals": {
+        "points": 278,
+        "num_comments": 138,
+        "discussion_url": "https://news.ycombinator.com/item?id=48700834"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48698151",
+      "title": "Suspicious Discontinuities (2020)",
+      "url": "https://danluu.com/discontinuities/",
+      "description": "",
+      "signals": {
+        "points": 228,
+        "num_comments": 73,
+        "discussion_url": "https://news.ycombinator.com/item?id=48698151"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48660021",
+      "title": "AI learns the “dark art” of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "description": "",
+      "signals": {
+        "points": 220,
+        "num_comments": 145,
+        "discussion_url": "https://news.ycombinator.com/item?id=48660021"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48697958",
+      "title": "Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "description": "",
+      "signals": {
+        "points": 204,
+        "num_comments": 156,
+        "discussion_url": "https://news.ycombinator.com/item?id=48697958"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48699928",
+      "title": "Turn your site into a place people can bump into each other",
+      "url": "https://cauenapier.com/blog/townsquare_release/",
+      "description": "",
+      "signals": {
+        "points": 198,
+        "num_comments": 86,
+        "discussion_url": "https://news.ycombinator.com/item?id=48699928"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48664063",
+      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+      "description": "",
+      "signals": {
+        "points": 182,
+        "num_comments": 98,
+        "discussion_url": "https://news.ycombinator.com/item?id=48664063"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48703452",
+      "title": "Response to AI slop is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "description": "",
+      "signals": {
+        "points": 162,
+        "num_comments": 89,
+        "discussion_url": "https://news.ycombinator.com/item?id=48703452"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48698559",
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "description": "",
+      "signals": {
+        "points": 142,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=48698559"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48703759",
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "description": "",
+      "signals": {
+        "points": 140,
+        "num_comments": 32,
+        "discussion_url": "https://news.ycombinator.com/item?id=48703759"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48702273",
+      "title": "Choosing a Public DNS Resolver",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "description": "",
+      "signals": {
+        "points": 121,
+        "num_comments": 38,
+        "discussion_url": "https://news.ycombinator.com/item?id=48702273"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48703968",
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "description": "",
+      "signals": {
+        "points": 113,
+        "num_comments": 58,
+        "discussion_url": "https://news.ycombinator.com/item?id=48703968"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48703613",
+      "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+      "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+      "description": "",
+      "signals": {
+        "points": 110,
+        "num_comments": 72,
+        "discussion_url": "https://news.ycombinator.com/item?id=48703613"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48703258",
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "description": "",
+      "signals": {
+        "points": 98,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48703258"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48703412",
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "url": "https://decomp-academy.dev",
+      "description": "",
+      "signals": {
+        "points": 96,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=48703412"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48701936",
+      "title": "Enhancing X11 Application Security with LXC",
+      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+      "description": "",
+      "signals": {
+        "points": 57,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=48701936"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48702848",
+      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+      "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+      "description": "",
+      "signals": {
+        "points": 42,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48702848"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48686032",
+      "title": "Space Shuttle Endeavour's 20-story vertical display",
+      "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
+      "description": "",
+      "signals": {
+        "points": 41,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48686032"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48672232",
+      "title": "Regular expressions that work \"everywhere\"",
+      "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
+      "description": "",
+      "signals": {
+        "points": 38,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=48672232"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48659517",
+      "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?",
+      "url": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
+      "description": "",
+      "signals": {
+        "points": 37,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48659517"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48648493",
+      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
+      "description": "",
+      "signals": {
+        "points": 34,
+        "num_comments": 23,
+        "discussion_url": "https://news.ycombinator.com/item?id=48648493"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48704373",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "description": "",
+      "signals": {
+        "points": 29,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48704373"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48703418",
+      "title": "Turning music into a chore is how I became a musician",
+      "url": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
+      "description": "",
+      "signals": {
+        "points": 16,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48703418"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48685967",
+      "title": "The Shape of the System - Engineering for Bounded Cognition",
+      "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+      "description": "",
+      "signals": {
+        "points": 10,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48685967"
+      },
+      "category_hint": null
+    }
+  ]
+}

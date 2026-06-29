@@ -1,0 +1,15 @@
+[
+  {"url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark", "title": "DeepSeek-V4-Pro-DSpark"},
+  {"url": "https://github.com/ogulcancelik/herdr", "title": "Herdr — 터미널 에이전트 멀티플렉서"},
+  {"url": "https://github.com/itsthelore/rac-core", "title": "Lore — 코딩 에이전트에 팀 결정 주입"},
+  {"url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/", "title": "GLM 5.2가 사이버 벤치마크서 Claude 추월 주장"},
+  {"url": "https://github.com/usestrix/strix", "title": "Strix — 자율 침투테스트 AI 에이전트"},
+  {"url": "https://huggingface.co/papers/2606.26027", "title": "Why Multi-Step Tool-Use RL Collapses and How Supervisory Signals Fix It"},
+  {"url": "https://huggingface.co/papers/2606.26080", "title": "Neglected Free Lunch: Progress Advantage for LLM Agents"},
+  {"url": "https://huggingface.co/papers/2606.24551", "title": "GUI vs. CLI: Execution Bottlenecks in Computer-Use Agents"},
+  {"url": "https://antoine.fi/mri-analysis-using-claude-code-opus", "title": "Claude Code로 MRI 2차 소견 받기"},
+  {"url": "https://huggingface.co/papers/2606.26875", "title": "Information-Aware KV Cache Compression for Long Reasoning"},
+  {"url": "https://huggingface.co/papers/2606.22953", "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents"},
+  {"url": "https://huggingface.co/papers/2606.16613", "title": "CoffeeBench: Long-Horizon LLM Agents in Multi-Agent Economies"},
+  {"url": "https://huggingface.co/papers/2606.14397", "title": "Running the Gauntlet: Re-evaluating Agents Beyond Familiar Environments"}
+]

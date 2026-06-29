@@ -9925,7 +9925,7 @@
         "rl",
         "tool-use"
       ],
-      "tagged_at": "2026-06-27T18:29:23+09:00"
+      "tagged_at": "2026-06-29T15:49:20+09:00"
     },
     "https://huggingface.co/papers/2606.26790": {
       "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
@@ -9951,7 +9951,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-06-28T15:34:18+09:00"
+      "tagged_at": "2026-06-29T15:49:20+09:00"
     },
     "https://huggingface.co/papers/2606.24551": {
       "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
@@ -9964,7 +9964,7 @@
         "computer-use",
         "paper"
       ],
-      "tagged_at": "2026-06-27T18:29:23+09:00"
+      "tagged_at": "2026-06-29T15:49:20+09:00"
     },
     "https://huggingface.co/papers/2606.25605": {
       "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints",
@@ -10004,7 +10004,7 @@
         "paper",
         "prompt-engineering"
       ],
-      "tagged_at": "2026-06-28T15:34:18+09:00"
+      "tagged_at": "2026-06-29T15:49:20+09:00"
     },
     "https://huggingface.co/papers/2606.24083": {
       "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
@@ -10123,7 +10123,7 @@
         "paper",
         "rl"
       ],
-      "tagged_at": "2026-06-27T18:29:23+09:00"
+      "tagged_at": "2026-06-29T15:49:20+09:00"
     },
     "https://huggingface.co/papers/2606.14397": {
       "title": "Running the Gauntlet: Re-evaluating Agents Beyond Familiar Environments",
@@ -10135,7 +10135,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-06-28T15:34:18+09:00"
+      "tagged_at": "2026-06-29T15:49:20+09:00"
     },
     "https://huggingface.co/papers/2606.21959": {
       "title": "OpenBioRQ: Unsolved Biomedical Research Questions for Agents",
@@ -10172,7 +10172,7 @@
         "long-context",
         "paper"
       ],
-      "tagged_at": "2026-06-27T18:29:23+09:00"
+      "tagged_at": "2026-06-29T15:49:20+09:00"
     },
     "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/": {
       "title": "Introducing computer use in Gemini 3.5 Flash",
@@ -10221,6 +10221,79 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-06-28T15:34:18+09:00"
+    },
+    "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark": {
+      "title": "DeepSeek-V4-Pro-DSpark",
+      "summary": "딥시크 신형 플래그십 V4 Pro 공식 공개",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-06-29",
+      "tags": [
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-06-29T15:49:20+09:00"
+    },
+    "https://github.com/ogulcancelik/herdr": {
+      "title": "Herdr — 터미널 에이전트 멀티플렉서",
+      "summary": "여러 코딩 에이전트를 터미널서 동시 구동",
+      "category": "agent-frameworks",
+      "source": "github_trending, hacker_news",
+      "brief_date": "2026-06-29",
+      "tags": [
+        "agent-harness",
+        "cli-agent",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-06-29T15:49:20+09:00"
+    },
+    "https://github.com/itsthelore/rac-core": {
+      "title": "Lore — 코딩 에이전트에 팀 결정 주입",
+      "summary": "팀의 의사결정 맥락을 에이전트에 공급",
+      "category": "coding-agents",
+      "source": "github_trending, hacker_news",
+      "brief_date": "2026-06-29",
+      "tags": [
+        "agent-memory",
+        "cli-agent",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-06-29T15:49:20+09:00"
+    },
+    "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/": {
+      "title": "GLM 5.2가 사이버 벤치마크서 Claude 추월 주장",
+      "summary": "semgrep 자체 보안 벤치 결과 공개",
+      "category": "llm-harness-eval",
+      "source": "hacker_news",
+      "brief_date": "2026-06-29",
+      "tags": [
+        "benchmark",
+        "security"
+      ],
+      "tagged_at": "2026-06-29T15:49:20+09:00"
+    },
+    "https://github.com/usestrix/strix": {
+      "title": "Strix — 자율 침투테스트 AI 에이전트",
+      "summary": "보안 점검을 자동화하는 오픈소스 에이전트",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-06-29",
+      "tags": [
+        "cli-agent",
+        "security"
+      ],
+      "tagged_at": "2026-06-29T15:49:20+09:00"
+    },
+    "https://antoine.fi/mri-analysis-using-claude-code-opus": {
+      "title": "Claude Code로 MRI 2차 소견 받기",
+      "summary": "코딩 에이전트를 의료 영상 분석에 활용한 사례",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-06-29",
+      "tags": [
+        "claude-code"
+      ],
+      "tagged_at": "2026-06-29T15:49:20+09:00"
     }
   }
 }

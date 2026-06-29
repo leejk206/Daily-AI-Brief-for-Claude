@@ -1,0 +1,162 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-06-29T15:45:07+09:00",
+  "items": [
+    {
+      "id": "github:simplex-chat/simplex-chat",
+      "title": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "signals": {
+        "stars": 15481,
+        "stars_today": 1180,
+        "language": "Haskell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ripienaar/free-for-dev",
+      "title": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "signals": {
+        "stars": 125816,
+        "stars_today": 495,
+        "language": "HTML"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:commaai/openpilot",
+      "title": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "signals": {
+        "stars": 62552,
+        "stars_today": 266,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:xbtlin/ai-berkshire",
+      "title": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "signals": {
+        "stars": 5818,
+        "stars_today": 1445,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Robbyant/lingbot-map",
+      "title": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "signals": {
+        "stars": 8367,
+        "stars_today": 372,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:DeusData/codebase-memory-mcp",
+      "title": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "signals": {
+        "stars": 20281,
+        "stars_today": 2190,
+        "language": "C"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:cupy/cupy",
+      "title": "cupy/cupy",
+      "url": "https://github.com/cupy/cupy",
+      "description": "NumPy & SciPy for GPU",
+      "signals": {
+        "stars": 11607,
+        "stars_today": 174,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:altic-dev/FluidVoice",
+      "title": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "signals": {
+        "stars": 3913,
+        "stars_today": 365,
+        "language": "Swift"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:opendatalab/MinerU",
+      "title": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "signals": {
+        "stars": 71905,
+        "stars_today": 380,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:HKUDS/Vibe-Trading",
+      "title": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "signals": {
+        "stars": 14560,
+        "stars_today": 492,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ByteByteGoHq/system-design-101",
+      "title": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "signals": {
+        "stars": 84731,
+        "stars_today": 250,
+        "language": ""
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:usestrix/strix",
+      "title": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "signals": {
+        "stars": 26948,
+        "stars_today": 122,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:browser-use/video-use",
+      "title": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "signals": {
+        "stars": 11353,
+        "stars_today": 196,
+        "language": "Python"
+      },
+      "category_hint": null
+    }
+  ]
+}

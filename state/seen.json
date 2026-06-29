@@ -390,10 +390,10 @@
     "title": "alibaba/page-agent"
   },
   "https://huggingface.co/papers/2606.26027": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "days": 2,
-    "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It"
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-06-29",
+    "days": 1,
+    "title": "Why Multi-Step Tool-Use RL Collapses and How Supervisory Signals Fix It"
   },
   "https://huggingface.co/papers/2606.26790": {
     "first_seen": "2026-06-26",
@@ -403,15 +403,15 @@
   },
   "https://huggingface.co/papers/2606.16613": {
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
-    "days": 3,
+    "last_seen": "2026-06-29",
+    "days": 4,
     "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies"
   },
   "https://huggingface.co/papers/2606.24551": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "days": 2,
-    "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents"
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-06-29",
+    "days": 1,
+    "title": "GUI vs. CLI: Execution Bottlenecks in Computer-Use Agents"
   },
   "https://huggingface.co/papers/2606.25605": {
     "first_seen": "2026-06-26",
@@ -427,8 +427,8 @@
   },
   "https://huggingface.co/papers/2606.22953": {
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
-    "days": 3,
+    "last_seen": "2026-06-29",
+    "days": 4,
     "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents"
   },
   "https://huggingface.co/papers/2606.24083": {
@@ -486,15 +486,15 @@
     "title": "When Does Combining Language Models Help? (Co-Failure Ceiling)"
   },
   "https://huggingface.co/papers/2606.26080": {
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-06-29",
     "days": 1,
-    "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents"
+    "title": "Neglected Free Lunch: Progress Advantage for LLM Agents"
   },
   "https://huggingface.co/papers/2606.14397": {
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-28",
-    "days": 2,
+    "last_seen": "2026-06-29",
+    "days": 3,
     "title": "Running the Gauntlet: Re-evaluating Agents Beyond Familiar Environments"
   },
   "https://huggingface.co/papers/2606.21959": {
@@ -510,8 +510,8 @@
     "title": "Show HN: Smart model routing in Claude, Codex and Cursor"
   },
   "https://huggingface.co/papers/2606.26875": {
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-06-29",
     "days": 1,
     "title": "Information-Aware KV Cache Compression for Long Reasoning"
   },
@@ -550,5 +550,41 @@
     "last_seen": "2026-06-28",
     "days": 1,
     "title": "luongnv89/claude-howto"
+  },
+  "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark": {
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-06-29",
+    "days": 1,
+    "title": "DeepSeek-V4-Pro-DSpark"
+  },
+  "https://github.com/ogulcancelik/herdr": {
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-06-29",
+    "days": 1,
+    "title": "Herdr — 터미널 에이전트 멀티플렉서"
+  },
+  "https://github.com/itsthelore/rac-core": {
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-06-29",
+    "days": 1,
+    "title": "Lore — 코딩 에이전트에 팀 결정 주입"
+  },
+  "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/": {
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-06-29",
+    "days": 1,
+    "title": "GLM 5.2가 사이버 벤치마크서 Claude 추월 주장"
+  },
+  "https://github.com/usestrix/strix": {
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-06-29",
+    "days": 1,
+    "title": "Strix — 자율 침투테스트 AI 에이전트"
+  },
+  "https://antoine.fi/mri-analysis-using-claude-code-opus": {
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-06-29",
+    "days": 1,
+    "title": "Claude Code로 MRI 2차 소견 받기"
   }
 }

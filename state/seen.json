@@ -1,27 +1,9 @@
 {
-  "https://huggingface.co/CohereLabs/North-Mini-Code-1.0": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
-    "days": 1,
-    "title": "CohereLabs/North-Mini-Code-1.0"
-  },
-  "https://huggingface.co/MiniMaxAI/MiniMax-M3": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
-    "days": 1,
-    "title": "MiniMax-M3"
-  },
   "https://openai.com/index/deployment-simulation": {
     "first_seen": "2026-06-28",
     "last_seen": "2026-06-28",
     "days": 1,
     "title": "Predicting model behavior before release by simulating deployment"
-  },
-  "https://huggingface.co/papers/2606.19704": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
-    "days": 1,
-    "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents"
   },
   "https://openai.com/index/introducing-life-sci-bench": {
     "first_seen": "2026-06-22",
@@ -29,35 +11,11 @@
     "days": 2,
     "title": "Introducing LifeSciBench"
   },
-  "https://huggingface.co/papers/2606.19605": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
-    "days": 1,
-    "title": "FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines"
-  },
-  "https://support.claude.com/en/articles/14328960-identity-verification-on-claude": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
-    "days": 1,
-    "title": "Identity verification on Claude"
-  },
-  "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
-    "days": 1,
-    "title": "What we learned mapping a year's worth of AI-enabled cyber threats"
-  },
   "https://deepmind.google/blog/securing-the-future-of-ai-agents/": {
     "first_seen": "2026-06-28",
     "last_seen": "2026-06-28",
     "days": 1,
     "title": "Securing the future of AI agents"
-  },
-  "https://github.com/raiyanyahya/recall": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
-    "days": 1,
-    "title": "Recall – Local project memory for Claude Code"
   },
   "https://www.anthropic.com/news/claude-corps": {
     "first_seen": "2026-06-22",
@@ -76,12 +34,6 @@
     "last_seen": "2026-06-28",
     "days": 1,
     "title": "topoteretes/cognee"
-  },
-  "https://github.com/asgeirtj/system_prompts_leaks": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
-    "days": 1,
-    "title": "asgeirtj/system_prompts_leaks"
   },
   "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/": {
     "first_seen": "2026-06-23",
@@ -586,5 +538,53 @@
     "last_seen": "2026-06-29",
     "days": 1,
     "title": "Claude Code로 MRI 2차 소견 받기"
+  },
+  "https://quesma.com/blog/qwen-36-is-awesome/": {
+    "first_seen": "2026-06-30",
+    "last_seen": "2026-06-30",
+    "days": 1,
+    "title": "Qwen 3.6 27B is the sweet spot for local development"
+  },
+  "https://github.com/google/agents-cli": {
+    "first_seen": "2026-06-30",
+    "last_seen": "2026-06-30",
+    "days": 1,
+    "title": "google/agents-cli"
+  },
+  "https://longcat.chat/blog/longcat-2.0/": {
+    "first_seen": "2026-06-30",
+    "last_seen": "2026-06-30",
+    "days": 1,
+    "title": "LongCat-2.0"
+  },
+  "https://github.com/msitarzewski/agency-agents": {
+    "first_seen": "2026-06-30",
+    "last_seen": "2026-06-30",
+    "days": 1,
+    "title": "msitarzewski/agency-agents"
+  },
+  "https://github.com/browser-use/video-use": {
+    "first_seen": "2026-06-30",
+    "last_seen": "2026-06-30",
+    "days": 1,
+    "title": "browser-use/video-use"
+  },
+  "https://huggingface.co/papers/2606.29537": {
+    "first_seen": "2026-06-30",
+    "last_seen": "2026-06-30",
+    "days": 1,
+    "title": "OSWorld2.0"
+  },
+  "https://huggingface.co/papers/2606.28480": {
+    "first_seen": "2026-06-30",
+    "last_seen": "2026-06-30",
+    "days": 1,
+    "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents"
+  },
+  "https://github.com/diegosouzapw/OmniRoute": {
+    "first_seen": "2026-06-30",
+    "last_seen": "2026-06-30",
+    "days": 1,
+    "title": "diegosouzapw/OmniRoute"
   }
 }

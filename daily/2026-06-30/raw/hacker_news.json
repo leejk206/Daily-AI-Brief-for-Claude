@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-06-30T22:45:21+09:00",
+  "items": [
+    {
+      "id": "hn:48721903",
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "description": "",
+      "signals": {
+        "points": 1007,
+        "num_comments": 652,
+        "discussion_url": "https://news.ycombinator.com/item?id=48721903"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48724230",
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "description": "",
+      "signals": {
+        "points": 566,
+        "num_comments": 330,
+        "discussion_url": "https://news.ycombinator.com/item?id=48724230"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48720924",
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "description": "",
+      "signals": {
+        "points": 558,
+        "num_comments": 258,
+        "discussion_url": "https://news.ycombinator.com/item?id=48720924"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48698908",
+      "title": "Free the Icons",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "description": "",
+      "signals": {
+        "points": 542,
+        "num_comments": 187,
+        "discussion_url": "https://news.ycombinator.com/item?id=48698908"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48719485",
+      "title": "Rocketlab acquires Iridium",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "description": "",
+      "signals": {
+        "points": 430,
+        "num_comments": 283,
+        "discussion_url": "https://news.ycombinator.com/item?id=48719485"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48683098",
+      "title": "Open Source Low Tech",
+      "url": "https://opensourcelowtech.org/",
+      "description": "",
+      "signals": {
+        "points": 398,
+        "num_comments": 84,
+        "discussion_url": "https://news.ycombinator.com/item?id=48683098"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48730729",
+      "title": "European digital ID wallets rely on safety services of Google and Apple",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "description": "",
+      "signals": {
+        "points": 386,
+        "num_comments": 165,
+        "discussion_url": "https://news.ycombinator.com/item?id=48730729"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48706389",
+      "title": "One million passports leaked online",
+      "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
+      "description": "",
+      "signals": {
+        "points": 341,
+        "num_comments": 202,
+        "discussion_url": "https://news.ycombinator.com/item?id=48706389"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48730608",
+      "title": "The US ambassador had Belgian police stop our reporting",
+      "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+      "description": "",
+      "signals": {
+        "points": 312,
+        "num_comments": 112,
+        "discussion_url": "https://news.ycombinator.com/item?id=48730608"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48718863",
+      "title": "What happens when you run a CUDA kernel?",
+      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+      "description": "",
+      "signals": {
+        "points": 272,
+        "num_comments": 31,
+        "discussion_url": "https://news.ycombinator.com/item?id=48718863"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48675653",
+      "title": "Dark Sky Lighting",
+      "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
+      "description": "",
+      "signals": {
+        "points": 230,
+        "num_comments": 43,
+        "discussion_url": "https://news.ycombinator.com/item?id=48675653"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48722052",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "description": "",
+      "signals": {
+        "points": 228,
+        "num_comments": 44,
+        "discussion_url": "https://news.ycombinator.com/item?id=48722052"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48702825",
+      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+      "url": "https://arxiv.org/abs/2606.22283",
+      "description": "",
+      "signals": {
+        "points": 206,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48702825"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48727116",
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "description": "",
+      "signals": {
+        "points": 196,
+        "num_comments": 51,
+        "discussion_url": "https://news.ycombinator.com/item?id=48727116"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48727177",
+      "title": "Memory Safe Context Switching",
+      "url": "https://fil-c.org/context_switches",
+      "description": "",
+      "signals": {
+        "points": 161,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=48727177"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48720186",
+      "title": "Linux for the Sega MegaDrive",
+      "url": "https://github.com/LinuxMD/linuxmd",
+      "description": "",
+      "signals": {
+        "points": 159,
+        "num_comments": 31,
+        "discussion_url": "https://news.ycombinator.com/item?id=48720186"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48704289",
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "url": "https://karolina.mgdubiel.com/drone/",
+      "description": "",
+      "signals": {
+        "points": 136,
+        "num_comments": 35,
+        "discussion_url": "https://news.ycombinator.com/item?id=48704289"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48689885",
+      "title": "How to corrupt an SQLite database file",
+      "url": "https://www.sqlite.org/howtocorrupt.html",
+      "description": "",
+      "signals": {
+        "points": 119,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48689885"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48727323",
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "description": "",
+      "signals": {
+        "points": 91,
+        "num_comments": 23,
+        "discussion_url": "https://news.ycombinator.com/item?id=48727323"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48679809",
+      "title": "Zig – SPIR-V Backend Progress",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+      "description": "",
+      "signals": {
+        "points": 88,
+        "num_comments": 47,
+        "discussion_url": "https://news.ycombinator.com/item?id=48679809"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48702320",
+      "title": "Old Computer Challenge",
+      "url": "http://occ.sdf.org/",
+      "description": "",
+      "signals": {
+        "points": 87,
+        "num_comments": 32,
+        "discussion_url": "https://news.ycombinator.com/item?id=48702320"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48730694",
+      "title": "Exercise intensity influences body composition in healthy older adults (2025)",
+      "url": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
+      "description": "",
+      "signals": {
+        "points": 82,
+        "num_comments": 67,
+        "discussion_url": "https://news.ycombinator.com/item?id=48730694"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48730818",
+      "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+      "description": "",
+      "signals": {
+        "points": 60,
+        "num_comments": 44,
+        "discussion_url": "https://news.ycombinator.com/item?id=48730818"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48730246",
+      "title": "Antares Achieves Criticality of Mark-0 Reactor",
+      "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
+      "description": "",
+      "signals": {
+        "points": 54,
+        "num_comments": 50,
+        "discussion_url": "https://news.ycombinator.com/item?id=48730246"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48679762",
+      "title": "The operating cost starts after the demo",
+      "url": "https://twoheads.net/the-promise-is-unattended-work/",
+      "description": "",
+      "signals": {
+        "points": 50,
+        "num_comments": 31,
+        "discussion_url": "https://news.ycombinator.com/item?id=48679762"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48730713",
+      "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+      "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+      "description": "",
+      "signals": {
+        "points": 22,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48730713"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48695585",
+      "title": "All Logic, No Bite",
+      "url": "https://lcamtuf.substack.com/p/all-logic-no-bite",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48695585"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48731989",
+      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds",
+      "url": "https://www.gutenberg.org/ebooks/24518",
+      "description": "",
+      "signals": {
+        "points": 15,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48731989"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48681499",
+      "title": "Why problem statements aren't enough",
+      "url": "https://letters.unchartedpathbreakthroughs.com/posts/why-problem-statements-arent-enough",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48681499"
+      },
+      "category_hint": null
+    }
+  ]
+}

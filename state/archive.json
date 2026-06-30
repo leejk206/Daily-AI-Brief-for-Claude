@@ -1454,5 +1454,25 @@
   "https://github.com/usestrix/strix": {
     "archived_on": "2026-06-29",
     "title": "Strix — 자율 침투테스트 AI 에이전트"
+  },
+  "https://quesma.com/blog/qwen-36-is-awesome/": {
+    "archived_on": "2026-06-30",
+    "title": "Qwen 3.6 27B is the sweet spot for local development"
+  },
+  "https://github.com/google/agents-cli": {
+    "archived_on": "2026-06-30",
+    "title": "google/agents-cli"
+  },
+  "https://longcat.chat/blog/longcat-2.0/": {
+    "archived_on": "2026-06-30",
+    "title": "LongCat-2.0"
+  },
+  "https://github.com/msitarzewski/agency-agents": {
+    "archived_on": "2026-06-30",
+    "title": "msitarzewski/agency-agents"
+  },
+  "https://github.com/browser-use/video-use": {
+    "archived_on": "2026-06-30",
+    "title": "browser-use/video-use"
   }
 }

@@ -1,0 +1,116 @@
+{
+  "source": "anthropic_news",
+  "fetched_at": "2026-07-01T21:40:08+09:00",
+  "items": [
+    {
+      "id": "anthropic:claude-sonnet-5",
+      "title": "Introducing Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "description": "Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 30, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:claude-science-ai-workbench",
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "description": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 30, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:introducing-claude-tag",
+      "title": "Introducing Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "description": "Claude Tag is a new way for teams to work with Claude.",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 23, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:redeploying-fable-5",
+      "title": "Redeploying Fable 5",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 30, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:seoul-office-partnerships-korean-ai-ecosystem",
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 17, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:fable-mythos-access",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 12, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:anthropic-public-record",
+      "title": "Results from the first Anthropic Public Record",
+      "url": "https://www.anthropic.com/news/anthropic-public-record",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 12, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:tcs-anthropic-partnership",
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 12, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:dxc-anthropic-alliance",
+      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 11, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:claude-corps",
+      "title": "Introducing Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 11, 2026"
+      },
+      "category_hint": null
+    }
+  ]
+}

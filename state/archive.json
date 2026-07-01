@@ -1474,5 +1474,25 @@
   "https://github.com/browser-use/video-use": {
     "archived_on": "2026-06-30",
     "title": "browser-use/video-use"
+  },
+  "https://www.anthropic.com/news/claude-sonnet-5": {
+    "archived_on": "2026-07-01",
+    "title": "Claude Sonnet 5"
+  },
+  "https://www.anthropic.com/news/redeploying-fable-5": {
+    "archived_on": "2026-07-01",
+    "title": "미 상무부, Fable 5·Mythos 5 수출통제 해제 (Fable 5 재배포)"
+  },
+  "https://thereallo.dev/blog/claude-code-prompt-steganography": {
+    "archived_on": "2026-07-01",
+    "title": "Claude Code가 요청에 스테가노그래피 마킹"
+  },
+  "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/": {
+    "archived_on": "2026-07-01",
+    "title": "Nano Banana 2 Lite·Gemini Omni Flash"
+  },
+  "https://huggingface.co/papers/2606.28733": {
+    "archived_on": "2026-07-01",
+    "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?"
   }
 }

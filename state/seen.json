@@ -5,29 +5,11 @@
     "days": 1,
     "title": "Predicting model behavior before release by simulating deployment"
   },
-  "https://openai.com/index/introducing-life-sci-bench": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-23",
-    "days": 2,
-    "title": "Introducing LifeSciBench"
-  },
   "https://deepmind.google/blog/securing-the-future-of-ai-agents/": {
     "first_seen": "2026-06-28",
     "last_seen": "2026-06-28",
     "days": 1,
     "title": "Securing the future of AI agents"
-  },
-  "https://www.anthropic.com/news/claude-corps": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-23",
-    "days": 2,
-    "title": "Introducing Claude Corps"
-  },
-  "https://www.anthropic.com/news/expanding-project-glasswing": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-23",
-    "days": 2,
-    "title": "Expanding Project Glasswing"
   },
   "https://github.com/topoteretes/cognee": {
     "first_seen": "2026-06-28",
@@ -35,101 +17,11 @@
     "days": 1,
     "title": "topoteretes/cognee"
   },
-  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "Gemini 3.5: frontier intelligence with action"
-  },
-  "https://huggingface.co/WeiboAI/VibeThinker-3B": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "VibeThinker-3B"
-  },
-  "https://openai.com/index/codex-maxxing-long-running-work": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "Codex-maxxing for long-running work"
-  },
-  "https://role-confusion.github.io": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "Prompt Injection as Role Confusion"
-  },
-  "https://huggingface.co/papers/2606.23654": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "EnterpriseClawBench"
-  },
-  "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "I/O 2026: Welcome to the agentic Gemini era"
-  },
-  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-translate/": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
-  },
-  "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "The Gemini app becomes more agentic, delivering proactive, 24/7 help"
-  },
-  "https://huggingface.co/papers/2606.19409": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "OpenRath: Session-Centered Runtime State for Agent Systems"
-  },
-  "https://huggingface.co/papers/2606.18648": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "Deep Research in Physical Sciences: A Multi-Agent Framework"
-  },
-  "https://huggingface.co/papers/2606.22388": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents"
-  },
-  "https://huggingface.co/papers/2606.12871": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "DailyReport: Benchmark for Evaluating Search Agents on Daily Search Tasks"
-  },
   "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
     "first_seen": "2026-06-27",
     "last_seen": "2026-06-27",
     "days": 1,
     "title": "Samsung Electronics brings ChatGPT and Codex to employees"
-  },
-  "https://oak.space/oak/oak": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "Show HN: Oak – Git alternative designed for agents"
-  },
-  "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "microsoft/FastContext-1.0-4B-SFT"
-  },
-  "https://huggingface.co/papers/2606.21649": {
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "days": 1,
-    "title": "EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory"
   },
   "https://huggingface.co/papers/2606.24597": {
     "first_seen": "2026-06-24",
@@ -583,8 +475,98 @@
   },
   "https://github.com/diegosouzapw/OmniRoute": {
     "first_seen": "2026-06-30",
-    "last_seen": "2026-06-30",
-    "days": 1,
+    "last_seen": "2026-07-01",
+    "days": 2,
     "title": "diegosouzapw/OmniRoute"
+  },
+  "https://www.anthropic.com/news/claude-sonnet-5": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "Claude Sonnet 5"
+  },
+  "https://www.anthropic.com/news/redeploying-fable-5": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "미 상무부, Fable 5·Mythos 5 수출통제 해제 (Fable 5 재배포)"
+  },
+  "https://thereallo.dev/blog/claude-code-prompt-steganography": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "Claude Code가 요청에 스테가노그래피 마킹"
+  },
+  "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "Nano Banana 2 Lite·Gemini Omni Flash"
+  },
+  "https://huggingface.co/papers/2606.28733": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?"
+  },
+  "https://www.anthropic.com/news/claude-science-ai-workbench": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "Claude Science, 과학자용 AI 워크벤치 공개"
+  },
+  "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "Leanstral 1.5"
+  },
+  "https://openai.com/index/introducing-genebench-pro": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "Introducing GeneBench-Pro"
+  },
+  "https://github.com/0xNyk/council-of-high-intelligence": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "0xNyk/council-of-high-intelligence"
+  },
+  "https://github.com/TencentCloud/CubeSandbox": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "TencentCloud/CubeSandbox"
+  },
+  "https://huggingface.co/papers/2606.23127": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "Managing Procedural Memory in LLM Agents"
+  },
+  "https://huggingface.co/papers/2606.28436": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "Dockerless: Environment-Free Program Verifier for Coding Agents"
+  },
+  "https://huggingface.co/papers/2606.29957": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "SWE-Together: Evaluating Coding Agents in Interactive User Sessions"
+  },
+  "https://huggingface.co/papers/2606.08671": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "SkillHone: A Harness for Continual Agent Skill Evolution"
+  },
+  "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-01",
+    "days": 1,
+    "title": "Godot, AI 작성 코드 기여 전면 거부"
   }
 }

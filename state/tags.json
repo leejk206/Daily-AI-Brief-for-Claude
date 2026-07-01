@@ -10380,7 +10380,182 @@
         "mcp-server",
         "model-routing"
       ],
-      "tagged_at": "2026-06-30T22:49:17+09:00"
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://www.anthropic.com/news/claude-sonnet-5": {
+      "title": "Claude Sonnet 5",
+      "summary": "코딩·에이전트 최전선 성능의 새 Sonnet 플래그십 출시",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "model-release"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://www.anthropic.com/news/redeploying-fable-5": {
+      "title": "미 상무부, Fable 5·Mythos 5 수출통제 해제 (Fable 5 재배포)",
+      "summary": "수출 규제 풀리며 Fable 5 오늘밤 복귀",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "model-access",
+        "model-release"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://thereallo.dev/blog/claude-code-prompt-steganography": {
+      "title": "Claude Code가 요청에 스테가노그래피 마킹",
+      "summary": "은닉 표식 삽입 정황, HN 2183점 대논쟁",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "claude-code"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/": {
+      "title": "Nano Banana 2 Lite·Gemini Omni Flash",
+      "summary": "구글, 저비용 이미지·옴니 생성모델 공개",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "model-release"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.28733": {
+      "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?",
+      "summary": "에이전트가 멈춰야 할 때를 아는가 평가 (HF 127업)",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "benchmark",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://www.anthropic.com/news/claude-science-ai-workbench": {
+      "title": "Claude Science, 과학자용 AI 워크벤치 공개",
+      "summary": "연구 도구·패키지를 통합한 감사가능 워크벤치",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "auto-research"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06": {
+      "title": "Leanstral 1.5",
+      "summary": "Mistral 신규 경량 모델 카드 공개",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://openai.com/index/introducing-genebench-pro": {
+      "title": "Introducing GeneBench-Pro",
+      "summary": "OpenAI, 유전체·생물학 연구 성능 벤치마크",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "benchmark"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://github.com/0xNyk/council-of-high-intelligence": {
+      "title": "0xNyk/council-of-high-intelligence",
+      "summary": "18개 AI 페르소나가 다중 LLM로 난제 의사결정 심의",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "model-routing",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://github.com/TencentCloud/CubeSandbox": {
+      "title": "TencentCloud/CubeSandbox",
+      "summary": "AI 에이전트용 즉시·동시·경량 격리 샌드박스",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "agent-harness"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.23127": {
+      "title": "Managing Procedural Memory in LLM Agents",
+      "summary": "에이전트 절차적 메모리의 제어·적응·평가",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.28436": {
+      "title": "Dockerless: Environment-Free Program Verifier for Coding Agents",
+      "summary": "환경 없이 코딩 에이전트 궤적 검증 (HF 79업)",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.29957": {
+      "title": "SWE-Together: Evaluating Coding Agents in Interactive User Sessions",
+      "summary": "정적 벤치 넘어 대화형 세션서 코딩 에이전트 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://huggingface.co/papers/2606.08671": {
+      "title": "SkillHone: A Harness for Continual Agent Skill Evolution",
+      "summary": "지속적 결정 이력으로 에이전트 스킬 진화 하네스",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "agent-harness",
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/": {
+      "title": "Godot, AI 작성 코드 기여 전면 거부",
+      "summary": "AI 헤비유저가 자기 코드 이해·수정 못 한다",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-01",
+      "tags": [
+        "ai-code-policy"
+      ],
+      "tagged_at": "2026-07-01T21:44:06+09:00"
     }
   }
 }

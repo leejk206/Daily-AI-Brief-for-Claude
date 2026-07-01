@@ -1,0 +1,246 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-07-01T21:40:01+09:00",
+  "items": [
+    {
+      "id": "github:msitarzewski/agency-agents",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "signals": {
+        "stars": 122048,
+        "stars_today": 1791,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:usestrix/strix",
+      "title": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "signals": {
+        "stars": 28759,
+        "stars_today": 515,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:HKUDS/Vibe-Trading",
+      "title": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "signals": {
+        "stars": 16197,
+        "stars_today": 721,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:hasaneyldrm/exercises-dataset",
+      "title": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "signals": {
+        "stars": 7974,
+        "stars_today": 1343,
+        "language": "HTML"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:facebook/astryx",
+      "title": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "signals": {
+        "stars": 2139,
+        "stars_today": 364,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:diegosouzapw/OmniRoute",
+      "title": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "signals": {
+        "stars": 9115,
+        "stars_today": 387,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:allenai/olmocr",
+      "title": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "signals": {
+        "stars": 18078,
+        "stars_today": 295,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:logto-io/logto",
+      "title": "logto-io/logto",
+      "url": "https://github.com/logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "signals": {
+        "stars": 13078,
+        "stars_today": 561,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:togatoga/karukan",
+      "title": "togatoga/karukan",
+      "url": "https://github.com/togatoga/karukan",
+      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+      "signals": {
+        "stars": 527,
+        "stars_today": 29,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Mebus/cupp",
+      "title": "Mebus/cupp",
+      "url": "https://github.com/Mebus/cupp",
+      "description": "Common User Passwords Profiler (CUPP)",
+      "signals": {
+        "stars": 6197,
+        "stars_today": 32,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Unclecheng-li/VulnClaw",
+      "title": "Unclecheng-li/VulnClaw",
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "signals": {
+        "stars": 1495,
+        "stars_today": 123,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:microsoft/AI-For-Beginners",
+      "title": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "signals": {
+        "stars": 49975,
+        "stars_today": 252,
+        "language": "Jupyter Notebook"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:refactoringhq/tolaria",
+      "title": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "signals": {
+        "stars": 17910,
+        "stars_today": 435,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ogulcancelik/herdr",
+      "title": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "signals": {
+        "stars": 9325,
+        "stars_today": 486,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:0xNyk/council-of-high-intelligence",
+      "title": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "signals": {
+        "stars": 2415,
+        "stars_today": 473,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:altic-dev/FluidVoice",
+      "title": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+      "signals": {
+        "stars": 5261,
+        "stars_today": 588,
+        "language": "Swift"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:CoreBunch/Instatic",
+      "title": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+      "signals": {
+        "stars": 1787,
+        "stars_today": 351,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:TencentCloud/CubeSandbox",
+      "title": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "signals": {
+        "stars": 6678,
+        "stars_today": 46,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:browser-use/video-use",
+      "title": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "signals": {
+        "stars": 12992,
+        "stars_today": 721,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:yikart/AiToEarn",
+      "title": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "signals": {
+        "stars": 22352,
+        "stars_today": 128,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    }
+  ]
+}

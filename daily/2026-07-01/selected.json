@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "title": "Claude Sonnet 5"
+  },
+  {
+    "url": "https://www.anthropic.com/news/redeploying-fable-5",
+    "title": "미 상무부, Fable 5·Mythos 5 수출통제 해제 (Fable 5 재배포)"
+  },
+  {
+    "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+    "title": "Claude Code가 요청에 스테가노그래피 마킹"
+  },
+  {
+    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "title": "Nano Banana 2 Lite·Gemini Omni Flash"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.28733",
+    "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?"
+  },
+  {
+    "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "title": "Claude Science, 과학자용 AI 워크벤치 공개"
+  },
+  {
+    "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+    "title": "Leanstral 1.5"
+  },
+  {
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "title": "Introducing GeneBench-Pro"
+  },
+  {
+    "url": "https://github.com/0xNyk/council-of-high-intelligence",
+    "title": "0xNyk/council-of-high-intelligence"
+  },
+  {
+    "url": "https://github.com/TencentCloud/CubeSandbox",
+    "title": "TencentCloud/CubeSandbox"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.23127",
+    "title": "Managing Procedural Memory in LLM Agents"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.28436",
+    "title": "Dockerless: Environment-Free Program Verifier for Coding Agents"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.29957",
+    "title": "SWE-Together: Evaluating Coding Agents in Interactive User Sessions"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.08671",
+    "title": "SkillHone: A Harness for Continual Agent Skill Evolution"
+  },
+  {
+    "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+    "title": "Godot, AI 작성 코드 기여 전면 거부"
+  },
+  {
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "title": "diegosouzapw/OmniRoute"
+  }
+]

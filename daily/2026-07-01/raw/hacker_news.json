@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-07-01T21:40:02+09:00",
+  "items": [
+    {
+      "id": "hn:48734373",
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "description": "",
+      "signals": {
+        "points": 2183,
+        "num_comments": 631,
+        "discussion_url": "https://news.ycombinator.com/item?id=48734373"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48736605",
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "description": "",
+      "signals": {
+        "points": 1163,
+        "num_comments": 697,
+        "discussion_url": "https://news.ycombinator.com/item?id=48736605"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48740771",
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "description": "",
+      "signals": {
+        "points": 752,
+        "num_comments": 468,
+        "discussion_url": "https://news.ycombinator.com/item?id=48740771"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48735770",
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "description": "",
+      "signals": {
+        "points": 511,
+        "num_comments": 150,
+        "discussion_url": "https://news.ycombinator.com/item?id=48735770"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48735444",
+      "title": "Nano Banana 2 Lite",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "description": "",
+      "signals": {
+        "points": 398,
+        "num_comments": 161,
+        "discussion_url": "https://news.ycombinator.com/item?id=48735444"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48704289",
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "url": "https://karolina.mgdubiel.com/drone/",
+      "description": "",
+      "signals": {
+        "points": 389,
+        "num_comments": 80,
+        "discussion_url": "https://news.ycombinator.com/item?id=48704289"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48738985",
+      "title": "I ported Kubernetes to the browser",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "description": "",
+      "signals": {
+        "points": 298,
+        "num_comments": 83,
+        "discussion_url": "https://news.ycombinator.com/item?id=48738985"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48743472",
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "description": "",
+      "signals": {
+        "points": 292,
+        "num_comments": 192,
+        "discussion_url": "https://news.ycombinator.com/item?id=48743472"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48723484",
+      "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
+      "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
+      "description": "",
+      "signals": {
+        "points": 268,
+        "num_comments": 86,
+        "discussion_url": "https://news.ycombinator.com/item?id=48723484"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48738938",
+      "title": "Leanstral 1.5",
+      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+      "description": "",
+      "signals": {
+        "points": 254,
+        "num_comments": 101,
+        "discussion_url": "https://news.ycombinator.com/item?id=48738938"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48740698",
+      "title": "Google copybara: moving code between repositories",
+      "url": "https://github.com/google/copybara",
+      "description": "",
+      "signals": {
+        "points": 239,
+        "num_comments": 44,
+        "discussion_url": "https://news.ycombinator.com/item?id=48740698"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48712289",
+      "title": "How does a pull-back car work? Illustrated teardown",
+      "url": "https://mechanical-pencil.com/products/car",
+      "description": "",
+      "signals": {
+        "points": 223,
+        "num_comments": 38,
+        "discussion_url": "https://news.ycombinator.com/item?id=48712289"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48744518",
+      "title": "Asahi Linux 7.1 Progress Report",
+      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+      "description": "",
+      "signals": {
+        "points": 215,
+        "num_comments": 45,
+        "discussion_url": "https://news.ycombinator.com/item?id=48744518"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48741748",
+      "title": "ArXiv's Next Chapter",
+      "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+      "description": "",
+      "signals": {
+        "points": 166,
+        "num_comments": 52,
+        "discussion_url": "https://news.ycombinator.com/item?id=48741748"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48742483",
+      "title": "The first early human eggs from stem cells",
+      "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
+      "description": "",
+      "signals": {
+        "points": 142,
+        "num_comments": 98,
+        "discussion_url": "https://news.ycombinator.com/item?id=48742483"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48711052",
+      "title": "Newly discovered spider builds spring loaded snare to catch ants",
+      "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+      "description": "",
+      "signals": {
+        "points": 104,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48711052"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48744232",
+      "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
+      "url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+      "description": "",
+      "signals": {
+        "points": 93,
+        "num_comments": 32,
+        "discussion_url": "https://news.ycombinator.com/item?id=48744232"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48741359",
+      "title": "Forestiere Underground Gardens",
+      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+      "description": "",
+      "signals": {
+        "points": 79,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=48741359"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48744446",
+      "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
+      "url": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
+      "description": "",
+      "signals": {
+        "points": 65,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48744446"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48742514",
+      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+      "description": "",
+      "signals": {
+        "points": 58,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48742514"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48744655",
+      "title": "The Internet I Grew Up with Doesn't Exist Anymore",
+      "url": "https://cleberg.net/blog/internet.html",
+      "description": "",
+      "signals": {
+        "points": 57,
+        "num_comments": 42,
+        "discussion_url": "https://news.ycombinator.com/item?id=48744655"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48742049",
+      "title": "Single header Parser Combinators for C",
+      "url": "https://github.com/steve-chavez/CParseC",
+      "description": "",
+      "signals": {
+        "points": 49,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48742049"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48692274",
+      "title": "Pystd, similar-ish functionality with a fraction of the compile time",
+      "url": "https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html",
+      "description": "",
+      "signals": {
+        "points": 39,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=48692274"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48745061",
+      "title": "Swedish court says Google is to pay $1.5B to Klarna in antitrust damages",
+      "url": "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/",
+      "description": "",
+      "signals": {
+        "points": 30,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48745061"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48744778",
+      "title": "Show HN: HackerNows – Native iOS HN Client",
+      "url": "https://hackernows.app/",
+      "description": "",
+      "signals": {
+        "points": 16,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48744778"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48724274",
+      "title": "Segmenting Robot Video into Actionable Subtasks",
+      "url": "https://macrodata.co/blog/annotating-robot-video-subtasks",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48724274"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48743655",
+      "title": "Register Korea's First PC 'SE-8001' as a National Important Material",
+      "url": "https://www.dongascience.com/en/news/30374",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48743655"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48721434",
+      "title": "Obfuscation: Building the final boss of cryptography (Part I)",
+      "url": "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html",
+      "description": "",
+      "signals": {
+        "points": 11,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48721434"
+      },
+      "category_hint": null
+    }
+  ]
+}

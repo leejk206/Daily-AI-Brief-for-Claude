@@ -10472,7 +10472,7 @@
       "tags": [
         "benchmark"
       ],
-      "tagged_at": "2026-07-01T21:44:06+09:00"
+      "tagged_at": "2026-07-02T22:02:35+09:00"
     },
     "https://github.com/0xNyk/council-of-high-intelligence": {
       "title": "0xNyk/council-of-high-intelligence",
@@ -10507,7 +10507,7 @@
         "agent-memory",
         "paper"
       ],
-      "tagged_at": "2026-07-01T21:44:06+09:00"
+      "tagged_at": "2026-07-02T22:02:35+09:00"
     },
     "https://huggingface.co/papers/2606.28436": {
       "title": "Dockerless: Environment-Free Program Verifier for Coding Agents",
@@ -10544,7 +10544,7 @@
         "agent-skill",
         "paper"
       ],
-      "tagged_at": "2026-07-01T21:44:06+09:00"
+      "tagged_at": "2026-07-02T22:02:35+09:00"
     },
     "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/": {
       "title": "Godot, AI 작성 코드 기여 전면 거부",
@@ -10556,6 +10556,187 @@
         "ai-code-policy"
       ],
       "tagged_at": "2026-07-01T21:44:06+09:00"
+    },
+    "https://zcode.z.ai/en": {
+      "title": "ZCode – GLM-5.2 전용 코딩 하네스",
+      "summary": "오픈모델 GLM-5.2를 겨냥한 에이전트 하네스, HN 상위 폭발",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "agent-harness",
+        "cli-agent",
+        "open-weights"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/": {
+      "title": "Kimi K2.7 Code, GitHub Copilot 정식 지원",
+      "summary": "오픈 코딩모델이 Copilot에 GA로 편입",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "coding-platform",
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://senior-swe-bench.snorkel.ai/": {
+      "title": "Senior SWE-Bench",
+      "summary": "에이전트를 '시니어 엔지니어' 기준으로 평가하는 오픈 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "hacker_news",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "benchmark"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://huggingface.co/papers/2607.00248": {
+      "title": "Seed2.0 Model Card",
+      "summary": "바이트댄스 Seed, 실세계 복잡도 겨냥한 프런티어 모델 카드 공개",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "model-release",
+        "paper"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://cursor.com/evals": {
+      "title": "CursorBench 3.1",
+      "summary": "Cursor가 자체 코딩 에이전트 평가셋 3.1 공개",
+      "category": "llm-harness-eval",
+      "source": "hacker_news",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "benchmark",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://huggingface.co/InternScience/Agents-A1": {
+      "title": "InternScience/Agents-A1",
+      "summary": "과학 리서치용 에이전트 모델, 공개 직후 인기 급상승",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "auto-research",
+        "model-release"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://huggingface.co/papers/2606.30062": {
+      "title": "Little Brains, Big Feats: Compact LMs",
+      "summary": "소형 언어모델의 활용 지형 탐색 논문",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "local-inference",
+        "paper"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://github.com/langflow-ai/langflow": {
+      "title": "langflow-ai/langflow",
+      "summary": "에이전트·워크플로 시각 빌더, 여전히 트렌딩",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "multi-agent",
+        "tool-use"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://huggingface.co/papers/2606.20997": {
+      "title": "BioInsight: Multi-Agent Orchestration",
+      "summary": "바이오메디컬 지식탐색용 멀티에이전트 오케스트레이션",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "auto-research",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://huggingface.co/papers/2606.30573": {
+      "title": "SWE-INTERACT",
+      "summary": "SWE 벤치를 사용자 주도 롱호라이즌 세션으로 재해석",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://huggingface.co/papers/2606.28322": {
+      "title": "PerceptionRubrics",
+      "summary": "인간 지각에 맞춘 루브릭 기반 멀티모달 평가 프레임워크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://huggingface.co/papers/2606.32034": {
+      "title": "QVal: Dense Supervision 평가",
+      "summary": "롱호라이즌 에이전트용 밀집 보상 신호를 저렴하게 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://github.com/openai/codex-plugin-cc": {
+      "title": "openai/codex-plugin-cc",
+      "summary": "Claude Code에서 Codex로 리뷰·작업 위임 플러그인",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "claude-code",
+        "cli-agent"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://huggingface.co/papers/2607.01213": {
+      "title": "RepoRescue",
+      "summary": "저장소 전체 호환성 복구에 LLM 에이전트를 투입한 실증 연구",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "cli-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://huggingface.co/papers/2607.01218": {
+      "title": "The State-Prediction Separation Hypothesis",
+      "summary": "트랜스포머의 예측·상태저장 스트림 분리 가설",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-07-02",
+      "tags": [
+        "paper"
+      ],
+      "tagged_at": "2026-07-02T22:02:35+09:00"
     }
   }
 }

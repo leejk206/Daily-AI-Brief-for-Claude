@@ -1,0 +1,20 @@
+[
+  {"url": "https://zcode.z.ai/en", "title": "ZCode – GLM-5.2 전용 코딩 하네스"},
+  {"url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/", "title": "Kimi K2.7 Code, GitHub Copilot 정식 지원"},
+  {"url": "https://senior-swe-bench.snorkel.ai/", "title": "Senior SWE-Bench"},
+  {"url": "https://huggingface.co/papers/2607.00248", "title": "Seed2.0 Model Card"},
+  {"url": "https://cursor.com/evals", "title": "CursorBench 3.1"},
+  {"url": "https://huggingface.co/InternScience/Agents-A1", "title": "InternScience/Agents-A1"},
+  {"url": "https://huggingface.co/papers/2606.30062", "title": "Little Brains, Big Feats: Compact LMs"},
+  {"url": "https://github.com/langflow-ai/langflow", "title": "langflow-ai/langflow"},
+  {"url": "https://huggingface.co/papers/2606.20997", "title": "BioInsight: Multi-Agent Orchestration"},
+  {"url": "https://huggingface.co/papers/2606.30573", "title": "SWE-INTERACT"},
+  {"url": "https://huggingface.co/papers/2606.28322", "title": "PerceptionRubrics"},
+  {"url": "https://huggingface.co/papers/2606.32034", "title": "QVal: Dense Supervision 평가"},
+  {"url": "https://github.com/openai/codex-plugin-cc", "title": "openai/codex-plugin-cc"},
+  {"url": "https://huggingface.co/papers/2607.01213", "title": "RepoRescue"},
+  {"url": "https://huggingface.co/papers/2607.01218", "title": "The State-Prediction Separation Hypothesis"},
+  {"url": "https://huggingface.co/papers/2606.23127", "title": "Managing Procedural Memory in LLM Agents"},
+  {"url": "https://huggingface.co/papers/2606.08671", "title": "SkillHone: Continual Agent Skill Evolution"},
+  {"url": "https://openai.com/index/introducing-genebench-pro", "title": "Introducing GeneBench-Pro"}
+]

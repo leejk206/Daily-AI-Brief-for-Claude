@@ -1494,5 +1494,25 @@
   "https://huggingface.co/papers/2606.28733": {
     "archived_on": "2026-07-01",
     "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?"
+  },
+  "https://zcode.z.ai/en": {
+    "archived_on": "2026-07-02",
+    "title": "ZCode – GLM-5.2 전용 코딩 하네스"
+  },
+  "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/": {
+    "archived_on": "2026-07-02",
+    "title": "Kimi K2.7 Code, GitHub Copilot 정식 지원"
+  },
+  "https://senior-swe-bench.snorkel.ai/": {
+    "archived_on": "2026-07-02",
+    "title": "Senior SWE-Bench"
+  },
+  "https://huggingface.co/papers/2607.00248": {
+    "archived_on": "2026-07-02",
+    "title": "Seed2.0 Model Card"
+  },
+  "https://cursor.com/evals": {
+    "archived_on": "2026-07-02",
+    "title": "CursorBench 3.1"
   }
 }

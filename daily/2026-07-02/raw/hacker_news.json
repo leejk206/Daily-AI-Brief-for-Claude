@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-07-02T21:58:38+09:00",
+  "items": [
+    {
+      "id": "hn:48755965",
+      "title": "Android Developer Verification: Threat masquerading as Protection",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "description": "",
+      "signals": {
+        "points": 904,
+        "num_comments": 384,
+        "discussion_url": "https://news.ycombinator.com/item?id=48755965"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48747304",
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "description": "",
+      "signals": {
+        "points": 874,
+        "num_comments": 279,
+        "discussion_url": "https://news.ycombinator.com/item?id=48747304"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48753715",
+      "title": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "description": "",
+      "signals": {
+        "points": 440,
+        "num_comments": 304,
+        "discussion_url": "https://news.ycombinator.com/item?id=48753715"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48747116",
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "description": "",
+      "signals": {
+        "points": 399,
+        "num_comments": 128,
+        "discussion_url": "https://news.ycombinator.com/item?id=48747116"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48750710",
+      "title": "What to learn to be a graphics programmer",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "description": "",
+      "signals": {
+        "points": 376,
+        "num_comments": 201,
+        "discussion_url": "https://news.ycombinator.com/item?id=48750710"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48755005",
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "description": "",
+      "signals": {
+        "points": 359,
+        "num_comments": 67,
+        "discussion_url": "https://news.ycombinator.com/item?id=48755005"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48755731",
+      "title": "Bring back crappy forums",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "description": "",
+      "signals": {
+        "points": 357,
+        "num_comments": 224,
+        "discussion_url": "https://news.ycombinator.com/item?id=48755731"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48746914",
+      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
+      "url": "https://blog.cloudflare.com/monetization-gateway/",
+      "description": "",
+      "signals": {
+        "points": 317,
+        "num_comments": 216,
+        "discussion_url": "https://news.ycombinator.com/item?id=48746914"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48756602",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "description": "",
+      "signals": {
+        "points": 225,
+        "num_comments": 102,
+        "discussion_url": "https://news.ycombinator.com/item?id=48756602"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48747976",
+      "title": "Ask HN: Who is hiring? (July 2026)",
+      "url": "https://news.ycombinator.com/item?id=48747976",
+      "description": "",
+      "signals": {
+        "points": 216,
+        "num_comments": 223,
+        "discussion_url": "https://news.ycombinator.com/item?id=48747976"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48750989",
+      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
+      "url": "https://www.weaverobotics.com/isaac-1",
+      "description": "",
+      "signals": {
+        "points": 205,
+        "num_comments": 290,
+        "discussion_url": "https://news.ycombinator.com/item?id=48750989"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48740971",
+      "title": "Why jet engines aren't made in China",
+      "url": "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china",
+      "description": "",
+      "signals": {
+        "points": 204,
+        "num_comments": 192,
+        "discussion_url": "https://news.ycombinator.com/item?id=48740971"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48753979",
+      "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+      "description": "",
+      "signals": {
+        "points": 190,
+        "num_comments": 194,
+        "discussion_url": "https://news.ycombinator.com/item?id=48753979"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48758309",
+      "title": "Google loses fight over record $4.7B EU antitrust fine",
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "description": "",
+      "signals": {
+        "points": 158,
+        "num_comments": 143,
+        "discussion_url": "https://news.ycombinator.com/item?id=48758309"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48732860",
+      "title": "How do wombats poop cubes?",
+      "url": "https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery",
+      "description": "",
+      "signals": {
+        "points": 145,
+        "num_comments": 82,
+        "discussion_url": "https://news.ycombinator.com/item?id=48732860"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48753069",
+      "title": "Qualcomm Linux 2.0",
+      "url": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
+      "description": "",
+      "signals": {
+        "points": 119,
+        "num_comments": 55,
+        "discussion_url": "https://news.ycombinator.com/item?id=48753069"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48760048",
+      "title": "Ask HN: Who is quitting? (July 2026)",
+      "url": "https://news.ycombinator.com/item?id=48760048",
+      "description": "",
+      "signals": {
+        "points": 112,
+        "num_comments": 52,
+        "discussion_url": "https://news.ycombinator.com/item?id=48760048"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48755928",
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "url": "https://senior-swe-bench.snorkel.ai/",
+      "description": "",
+      "signals": {
+        "points": 109,
+        "num_comments": 83,
+        "discussion_url": "https://news.ycombinator.com/item?id=48755928"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48754080",
+      "title": "The Underhanded C Contest",
+      "url": "https://underhanded-c.org/",
+      "description": "",
+      "signals": {
+        "points": 107,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48754080"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48758048",
+      "title": "The Fall of the Theorem Economy",
+      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+      "description": "",
+      "signals": {
+        "points": 102,
+        "num_comments": 41,
+        "discussion_url": "https://news.ycombinator.com/item?id=48758048"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48756840",
+      "title": "CursorBench 3.1",
+      "url": "https://cursor.com/evals",
+      "description": "",
+      "signals": {
+        "points": 93,
+        "num_comments": 57,
+        "discussion_url": "https://news.ycombinator.com/item?id=48756840"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48758970",
+      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+      "url": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
+      "description": "",
+      "signals": {
+        "points": 77,
+        "num_comments": 40,
+        "discussion_url": "https://news.ycombinator.com/item?id=48758970"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48760289",
+      "title": "This blog is written in en-GB",
+      "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+      "description": "",
+      "signals": {
+        "points": 77,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=48760289"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48714884",
+      "title": "My Favorite Keyboards",
+      "url": "https://fabiensanglard.net/keyboards/index.html",
+      "description": "",
+      "signals": {
+        "points": 74,
+        "num_comments": 56,
+        "discussion_url": "https://news.ycombinator.com/item?id=48714884"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48724127",
+      "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
+      "url": "https://www.mixedbread.com/blog/asymmetric-quant",
+      "description": "",
+      "signals": {
+        "points": 55,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48724127"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48759761",
+      "title": "Vite+ Beta",
+      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+      "description": "",
+      "signals": {
+        "points": 47,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48759761"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48719224",
+      "title": "Creating a Personalised Bin Calendar",
+      "url": "https://alexwlchan.net/2026/bin-calendar/",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48719224"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48710537",
+      "title": "WinPE as a stateless harness for Windows driver testing and fuzzing",
+      "url": "https://bednars.me/blog/winpe-harness",
+      "description": "",
+      "signals": {
+        "points": 16,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48710537"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48724274",
+      "title": "Segmenting Robot Video into Actionable Subtasks",
+      "url": "https://macrodata.co/blog/annotating-robot-video-subtasks",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48724274"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

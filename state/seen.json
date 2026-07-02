@@ -23,89 +23,17 @@
     "days": 1,
     "title": "Samsung Electronics brings ChatGPT and Codex to employees"
   },
-  "https://huggingface.co/papers/2606.24597": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "days": 1,
-    "title": "Qwen-AgentWorld: Language World Models for General Agents"
-  },
-  "https://openai.com/index/daybreak-securing-the-world": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "days": 1,
-    "title": "Daybreak: GPT-5.5-Cyber & Codex Security"
-  },
   "https://www.anthropic.com/news/introducing-claude-tag": {
     "first_seen": "2026-06-28",
     "last_seen": "2026-06-28",
     "days": 1,
     "title": "Introducing Claude Tag"
   },
-  "https://huggingface.co/papers/2606.24530": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "days": 1,
-    "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?"
-  },
-  "https://github.com/shanraisshan/claude-code-best-practice": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "days": 1,
-    "title": "shanraisshan/claude-code-best-practice"
-  },
-  "https://openai.com/index/patch-the-planet": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "days": 1,
-    "title": "Patch the Planet"
-  },
-  "https://www.anthropic.com/news/tcs-anthropic-partnership": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "days": 1,
-    "title": "TCS and Anthropic partner to bring Claude to regulated industries"
-  },
-  "https://huggingface.co/papers/2606.23449": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "days": 1,
-    "title": "AOHP: An Open-Source OS-Level Agent Harness"
-  },
-  "https://huggingface.co/papers/2606.21337": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "days": 1,
-    "title": "DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams"
-  },
-  "https://huggingface.co/papers/2606.20636": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "days": 1,
-    "title": "SkillHarness: Harnessing Safe Skills for Computer-Use Agents"
-  },
-  "https://huggingface.co/papers/2606.24855": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "days": 1,
-    "title": "OpenThoughts-Agent: Data Recipes for Agentic Models"
-  },
-  "https://huggingface.co/papers/2606.21627": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "days": 1,
-    "title": "Counsel: A Meta-Evaluation Dataset for Agentic Tasks"
-  },
   "https://huggingface.co/papers/2606.22936": {
     "first_seen": "2026-06-24",
     "last_seen": "2026-06-25",
     "days": 2,
     "title": "When Agents Commit Too Soon: Diagnosing Premature Commitment in LLM Agents"
-  },
-  "https://huggingface.co/papers/2606.23321": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "days": 1,
-    "title": "Tmax: A simple recipe for terminal agents"
   },
   "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/": {
     "first_seen": "2026-06-25",
@@ -523,8 +451,8 @@
   },
   "https://openai.com/index/introducing-genebench-pro": {
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-01",
-    "days": 1,
+    "last_seen": "2026-07-02",
+    "days": 2,
     "title": "Introducing GeneBench-Pro"
   },
   "https://github.com/0xNyk/council-of-high-intelligence": {
@@ -541,8 +469,8 @@
   },
   "https://huggingface.co/papers/2606.23127": {
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-01",
-    "days": 1,
+    "last_seen": "2026-07-02",
+    "days": 2,
     "title": "Managing Procedural Memory in LLM Agents"
   },
   "https://huggingface.co/papers/2606.28436": {
@@ -559,8 +487,8 @@
   },
   "https://huggingface.co/papers/2606.08671": {
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-01",
-    "days": 1,
+    "last_seen": "2026-07-02",
+    "days": 2,
     "title": "SkillHone: A Harness for Continual Agent Skill Evolution"
   },
   "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/": {
@@ -568,5 +496,95 @@
     "last_seen": "2026-07-01",
     "days": 1,
     "title": "Godot, AI 작성 코드 기여 전면 거부"
+  },
+  "https://zcode.z.ai/en": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "ZCode – GLM-5.2 전용 코딩 하네스"
+  },
+  "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "Kimi K2.7 Code, GitHub Copilot 정식 지원"
+  },
+  "https://senior-swe-bench.snorkel.ai/": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "Senior SWE-Bench"
+  },
+  "https://huggingface.co/papers/2607.00248": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "Seed2.0 Model Card"
+  },
+  "https://cursor.com/evals": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "CursorBench 3.1"
+  },
+  "https://huggingface.co/InternScience/Agents-A1": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "InternScience/Agents-A1"
+  },
+  "https://huggingface.co/papers/2606.30062": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "Little Brains, Big Feats: Compact LMs"
+  },
+  "https://github.com/langflow-ai/langflow": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "langflow-ai/langflow"
+  },
+  "https://huggingface.co/papers/2606.20997": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "BioInsight: Multi-Agent Orchestration"
+  },
+  "https://huggingface.co/papers/2606.30573": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "SWE-INTERACT"
+  },
+  "https://huggingface.co/papers/2606.28322": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "PerceptionRubrics"
+  },
+  "https://huggingface.co/papers/2606.32034": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "QVal: Dense Supervision 평가"
+  },
+  "https://github.com/openai/codex-plugin-cc": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "openai/codex-plugin-cc"
+  },
+  "https://huggingface.co/papers/2607.01213": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "RepoRescue"
+  },
+  "https://huggingface.co/papers/2607.01218": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "days": 1,
+    "title": "The State-Prediction Separation Hypothesis"
   }
 }

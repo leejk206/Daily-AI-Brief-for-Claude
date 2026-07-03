@@ -1,0 +1,19 @@
+[
+  {"url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework", "title": "Fable 5 사이버 세이프가드·탈옥 프레임워크 상세"},
+  {"url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/", "title": "알리바바, 사내 Claude Code 사용 금지 검토"},
+  {"url": "https://github.com/JuliusBrussee/caveman", "title": "JuliusBrussee/caveman"},
+  {"url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/", "title": "Safari MCP 서버"},
+  {"url": "https://github.com/agentskills/agentskills", "title": "agentskills/agentskills"},
+  {"url": "https://www.anthropic.com/news/claude-science-ai-workbench", "title": "Claude Science, an AI workbench for scientists"},
+  {"url": "https://github.com/TencentCloud/CubeSandbox", "title": "TencentCloud/CubeSandbox"},
+  {"url": "https://blog.fsck.com/2026/06/15/Superpowers-6/", "title": "Superpowers 6"},
+  {"url": "https://huggingface.co/papers/2607.02032", "title": "PACE: A Proxy for Agentic Capability Evaluation"},
+  {"url": "https://huggingface.co/papers/2607.01647", "title": "AgenticDataBench: A Comprehensive Benchmark for Data Agents"},
+  {"url": "https://huggingface.co/papers/2607.01211", "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?"},
+  {"url": "https://github.com/safishamsi/graphify", "title": "safishamsi/graphify"},
+  {"url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/", "title": "The short leash AI coding method for beating Fable"},
+  {"url": "https://huggingface.co/papers/2607.02255", "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents"},
+  {"url": "https://huggingface.co/papers/2607.01071", "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory"},
+  {"url": "https://github.com/openai/codex-plugin-cc", "title": "openai/codex-plugin-cc"},
+  {"url": "https://openai.com/index/introducing-genebench-pro", "title": "Introducing GeneBench-Pro"}
+]

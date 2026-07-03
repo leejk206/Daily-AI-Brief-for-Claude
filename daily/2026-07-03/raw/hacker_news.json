@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-07-03T21:29:48+09:00",
+  "items": [
+    {
+      "id": "hn:48767347",
+      "title": "Virginia bans sale of geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "description": "",
+      "signals": {
+        "points": 835,
+        "num_comments": 129,
+        "discussion_url": "https://news.ycombinator.com/item?id=48767347"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48762098",
+      "title": "Podman v6.0.0",
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+      "description": "",
+      "signals": {
+        "points": 560,
+        "num_comments": 223,
+        "discussion_url": "https://news.ycombinator.com/item?id=48762098"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48763035",
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "description": "",
+      "signals": {
+        "points": 493,
+        "num_comments": 209,
+        "discussion_url": "https://news.ycombinator.com/item?id=48763035"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48761944",
+      "title": "Immich 3.0",
+      "url": "https://github.com/immich-app/immich/discussions/29439",
+      "description": "",
+      "signals": {
+        "points": 471,
+        "num_comments": 231,
+        "discussion_url": "https://news.ycombinator.com/item?id=48761944"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48769397",
+      "title": "CarPlay Is Additive",
+      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "description": "",
+      "signals": {
+        "points": 362,
+        "num_comments": 484,
+        "discussion_url": "https://news.ycombinator.com/item?id=48769397"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48768992",
+      "title": "An American Privacy Emergency",
+      "url": "https://scottaaronson.blog/?p=9902",
+      "description": "",
+      "signals": {
+        "points": 333,
+        "num_comments": 98,
+        "discussion_url": "https://news.ycombinator.com/item?id=48768992"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48772388",
+      "title": "Half-Baked Product",
+      "url": "https://weli.dev/blog/half-baked-product/",
+      "description": "",
+      "signals": {
+        "points": 331,
+        "num_comments": 75,
+        "discussion_url": "https://news.ycombinator.com/item?id=48772388"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48768951",
+      "title": "Right to Local Intelligence",
+      "url": "https://righttointelligence.org/",
+      "description": "",
+      "signals": {
+        "points": 320,
+        "num_comments": 104,
+        "discussion_url": "https://news.ycombinator.com/item?id=48768951"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48768464",
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "url": "https://github.com/FractalFir/crustc",
+      "description": "",
+      "signals": {
+        "points": 308,
+        "num_comments": 60,
+        "discussion_url": "https://news.ycombinator.com/item?id=48768464"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48765663",
+      "title": "Exapunks (2018)",
+      "url": "https://www.zachtronics.com/exapunks/",
+      "description": "",
+      "signals": {
+        "points": 302,
+        "num_comments": 103,
+        "discussion_url": "https://news.ycombinator.com/item?id=48765663"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48702874",
+      "title": "Reality has a surprising amount of detail (2017)",
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "description": "",
+      "signals": {
+        "points": 289,
+        "num_comments": 109,
+        "discussion_url": "https://news.ycombinator.com/item?id=48702874"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48765639",
+      "title": "Postgres transactions are a distributed systems superpower",
+      "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+      "description": "",
+      "signals": {
+        "points": 191,
+        "num_comments": 83,
+        "discussion_url": "https://news.ycombinator.com/item?id=48765639"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48739459",
+      "title": "Superpowers 6",
+      "url": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
+      "description": "",
+      "signals": {
+        "points": 164,
+        "num_comments": 66,
+        "discussion_url": "https://news.ycombinator.com/item?id=48739459"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48766026",
+      "title": "The short leash AI coding method for beating Fable",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "description": "",
+      "signals": {
+        "points": 149,
+        "num_comments": 182,
+        "discussion_url": "https://news.ycombinator.com/item?id=48766026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48772443",
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "description": "",
+      "signals": {
+        "points": 146,
+        "num_comments": 100,
+        "discussion_url": "https://news.ycombinator.com/item?id=48772443"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48766005",
+      "title": "Claude-real-video － any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "description": "",
+      "signals": {
+        "points": 142,
+        "num_comments": 46,
+        "discussion_url": "https://news.ycombinator.com/item?id=48766005"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48769639",
+      "title": "The Safari MCP server for web developers",
+      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+      "description": "",
+      "signals": {
+        "points": 123,
+        "num_comments": 28,
+        "discussion_url": "https://news.ycombinator.com/item?id=48769639"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48765607",
+      "title": "This is my attempt to get Vulkan going on NetBSD",
+      "url": "https://github.com/segaboy/vulkan-netbsd",
+      "description": "",
+      "signals": {
+        "points": 113,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48765607"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48766286",
+      "title": "Great Salt Lake Tracker",
+      "url": "https://growtheflowutah.org/laketracker/",
+      "description": "",
+      "signals": {
+        "points": 108,
+        "num_comments": 38,
+        "discussion_url": "https://news.ycombinator.com/item?id=48766286"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48762372",
+      "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11",
+      "url": "https://apple.github.io/foundationdb/flow.html",
+      "description": "",
+      "signals": {
+        "points": 78,
+        "num_comments": 22,
+        "discussion_url": "https://news.ycombinator.com/item?id=48762372"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48667568",
+      "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
+      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
+      "description": "",
+      "signals": {
+        "points": 70,
+        "num_comments": 58,
+        "discussion_url": "https://news.ycombinator.com/item?id=48667568"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48770477",
+      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+      "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+      "description": "",
+      "signals": {
+        "points": 66,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48770477"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48693428",
+      "title": "Quake in 13 Kilobytes (2021)",
+      "url": "https://js13kgames.com/games/q1k3",
+      "description": "",
+      "signals": {
+        "points": 59,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48693428"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48725093",
+      "title": "Underwater Suit-Wearing Cyborg Insect Capable of Diving and Terra-Aqua Travel",
+      "url": "https://www.nature.com/articles/s41467-026-74235-1",
+      "description": "",
+      "signals": {
+        "points": 53,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48725093"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48772573",
+      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+      "url": "https://wordgard.net/",
+      "description": "",
+      "signals": {
+        "points": 52,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=48772573"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48773652",
+      "title": "Gun Mistakes in Fiction Writing: Handgun Edition",
+      "url": "https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition",
+      "description": "",
+      "signals": {
+        "points": 37,
+        "num_comments": 45,
+        "discussion_url": "https://news.ycombinator.com/item?id=48773652"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48725857",
+      "title": "How working with a blind client revealed invisible accessibility gaps",
+      "url": "https://iinteractive.com/resources/blog/read-only",
+      "description": "",
+      "signals": {
+        "points": 32,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48725857"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48772717",
+      "title": "Commodore 64 Basic for PostgreSQL",
+      "url": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
+      "description": "",
+      "signals": {
+        "points": 14,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48772717"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48738244",
+      "title": "Q&A with Micron's VP and GM of Memory",
+      "url": "https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48738244"
+      },
+      "category_hint": null
+    }
+  ]
+}

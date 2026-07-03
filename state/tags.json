@@ -10447,9 +10447,10 @@
       "source": "anthropic_news",
       "brief_date": "2026-07-01",
       "tags": [
-        "auto-research"
+        "auto-research",
+        "tool-use"
       ],
-      "tagged_at": "2026-07-01T21:44:06+09:00"
+      "tagged_at": "2026-07-03T21:34:34+09:00"
     },
     "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06": {
       "title": "Leanstral 1.5",
@@ -10472,7 +10473,7 @@
       "tags": [
         "benchmark"
       ],
-      "tagged_at": "2026-07-02T22:02:35+09:00"
+      "tagged_at": "2026-07-03T21:34:34+09:00"
     },
     "https://github.com/0xNyk/council-of-high-intelligence": {
       "title": "0xNyk/council-of-high-intelligence",
@@ -10493,9 +10494,10 @@
       "source": "github_trending",
       "brief_date": "2026-07-01",
       "tags": [
-        "agent-harness"
+        "agent-harness",
+        "security"
       ],
-      "tagged_at": "2026-07-01T21:44:06+09:00"
+      "tagged_at": "2026-07-03T21:34:34+09:00"
     },
     "https://huggingface.co/papers/2606.23127": {
       "title": "Managing Procedural Memory in LLM Agents",
@@ -10713,7 +10715,7 @@
         "claude-code",
         "cli-agent"
       ],
-      "tagged_at": "2026-07-02T22:02:35+09:00"
+      "tagged_at": "2026-07-03T21:34:34+09:00"
     },
     "https://huggingface.co/papers/2607.01213": {
       "title": "RepoRescue",
@@ -10737,6 +10739,163 @@
         "paper"
       ],
       "tagged_at": "2026-07-02T22:02:35+09:00"
+    },
+    "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework": {
+      "title": "Fable 5 사이버 세이프가드·탈옥 프레임워크 상세",
+      "summary": "재배포된 Fable 5의 안전장치·탈옥 방어 상세 공개",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-07-03",
+      "tags": [
+        "model-access",
+        "security"
+      ],
+      "tagged_at": "2026-07-03T21:34:34+09:00"
+    },
+    "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/": {
+      "title": "알리바바, 사내 Claude Code 사용 금지 검토",
+      "summary": "백도어 우려로 금지 추진(로이터 단독)",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-03",
+      "tags": [
+        "ai-code-policy",
+        "claude-code",
+        "security"
+      ],
+      "tagged_at": "2026-07-03T21:34:34+09:00"
+    },
+    "https://github.com/JuliusBrussee/caveman": {
+      "title": "JuliusBrussee/caveman",
+      "summary": "토큰 65% 절감하는 원시인 말투 Claude Code 스킬 화제",
+      "category": "prompt-context-engineering",
+      "source": "github_trending",
+      "brief_date": "2026-07-03",
+      "tags": [
+        "agent-skill",
+        "claude-code",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-07-03T21:34:34+09:00"
+    },
+    "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/": {
+      "title": "Safari MCP 서버",
+      "summary": "WebKit이 웹 개발자용 Safari MCP 서버 공식 공개",
+      "category": "mcp",
+      "source": "hacker_news",
+      "brief_date": "2026-07-03",
+      "tags": [
+        "mcp-server",
+        "web-agent"
+      ],
+      "tagged_at": "2026-07-03T21:34:34+09:00"
+    },
+    "https://github.com/agentskills/agentskills": {
+      "title": "agentskills/agentskills",
+      "summary": "에이전트 스킬 표준 스펙·문서 저장소",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-07-03",
+      "tags": [
+        "agent-skill"
+      ],
+      "tagged_at": "2026-07-03T21:34:34+09:00"
+    },
+    "https://blog.fsck.com/2026/06/15/Superpowers-6/": {
+      "title": "Superpowers 6",
+      "summary": "에이전트 스킬 프레임워크·개발 방법론 최신판",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-07-03",
+      "tags": [
+        "agent-skill"
+      ],
+      "tagged_at": "2026-07-03T21:34:34+09:00"
+    },
+    "https://huggingface.co/papers/2607.02032": {
+      "title": "PACE: A Proxy for Agentic Capability Evaluation",
+      "summary": "값비싼 에이전트 벤치의 저비용 대리 평가 지표",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-03",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-03T21:34:34+09:00"
+    },
+    "https://huggingface.co/papers/2607.01647": {
+      "title": "AgenticDataBench: A Comprehensive Benchmark for Data Agents",
+      "summary": "데이터 분석 에이전트용 종합 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-03",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-03T21:34:34+09:00"
+    },
+    "https://huggingface.co/papers/2607.01211": {
+      "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?",
+      "summary": "성능 최적화 벤치의 신뢰성 검증",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-03",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-03T21:34:34+09:00"
+    },
+    "https://github.com/safishamsi/graphify": {
+      "title": "safishamsi/graphify",
+      "summary": "코드·스키마·문서를 질의 가능한 지식그래프로 만드는 코딩 스킬",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-07-03",
+      "tags": [
+        "agent-skill",
+        "retrieval"
+      ],
+      "tagged_at": "2026-07-03T21:34:34+09:00"
+    },
+    "https://blog.okturtles.org/2026/07/short-leash-ai-method/": {
+      "title": "The short leash AI coding method for beating Fable",
+      "summary": "Fable 상대로 성과 내는 '짧은 고삐' 코딩 방법론",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-03",
+      "tags": [
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-07-03T21:34:34+09:00"
+    },
+    "https://huggingface.co/papers/2607.02255": {
+      "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents",
+      "summary": "장기 과업 에이전트의 메모리 설계 테스트베드",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-07-03",
+      "tags": [
+        "agent-memory",
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-07-03T21:34:34+09:00"
+    },
+    "https://huggingface.co/papers/2607.01071": {
+      "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+      "summary": "에이전트 메모리의 아첨 편향 측정 벤치",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-07-03",
+      "tags": [
+        "agent-memory",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-03T21:34:34+09:00"
     }
   }
 }

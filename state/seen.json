@@ -29,95 +29,17 @@
     "days": 1,
     "title": "Introducing Claude Tag"
   },
-  "https://huggingface.co/papers/2606.22936": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-25",
-    "days": 2,
-    "title": "When Agents Commit Too Soon: Diagnosing Premature Commitment in LLM Agents"
-  },
-  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "days": 1,
-    "title": "Introducing computer use in Gemini 3.5 Flash"
-  },
-  "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "days": 1,
-    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities"
-  },
-  "https://github.com/google-labs-code/design.md": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "days": 1,
-    "title": "google-labs-code/design.md"
-  },
-  "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "days": 1,
-    "title": "GLM-5.2 is a step change for open agents"
-  },
-  "https://huggingface.co/papers/2606.24775": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "days": 1,
-    "title": "Are We Ready For An Agent-Native Memory System?"
-  },
   "https://huggingface.co/papers/2606.24937": {
     "first_seen": "2026-06-25",
     "last_seen": "2026-06-26",
     "days": 2,
     "title": "The Hitchhiker's Guide to Agentic AI"
   },
-  "https://huggingface.co/papers/2606.23991": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "days": 1,
-    "title": "Critique of Agent Model"
-  },
-  "https://huggingface.co/papers/2606.19930": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "days": 1,
-    "title": "MobileForge"
-  },
-  "https://huggingface.co/papers/2606.19926": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "days": 1,
-    "title": "MemGUI-Agent"
-  },
-  "https://huggingface.co/papers/2606.23997": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "days": 1,
-    "title": "ChartWalker"
-  },
-  "https://github.com/stablyai/orca": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "days": 1,
-    "title": "stablyai/orca"
-  },
   "https://huggingface.co/papers/2606.15932": {
     "first_seen": "2026-06-25",
     "last_seen": "2026-06-26",
     "days": 2,
     "title": "Beyond NL2Code: Multimodal Code Intelligence"
-  },
-  "https://huggingface.co/papers/2606.18831": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "days": 1,
-    "title": "Beyond Reward Engineering"
-  },
-  "https://www.jimmont.com/llm-style-token-costs": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "days": 1,
-    "title": "What I'm Finding About LLM Code Style and Token Costs"
   },
   "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/": {
     "first_seen": "2026-06-26",
@@ -438,10 +360,10 @@
     "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?"
   },
   "https://www.anthropic.com/news/claude-science-ai-workbench": {
-    "first_seen": "2026-07-01",
-    "last_seen": "2026-07-01",
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
     "days": 1,
-    "title": "Claude Science, 과학자용 AI 워크벤치 공개"
+    "title": "Claude Science, an AI workbench for scientists"
   },
   "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06": {
     "first_seen": "2026-07-01",
@@ -451,8 +373,8 @@
   },
   "https://openai.com/index/introducing-genebench-pro": {
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-02",
-    "days": 2,
+    "last_seen": "2026-07-03",
+    "days": 3,
     "title": "Introducing GeneBench-Pro"
   },
   "https://github.com/0xNyk/council-of-high-intelligence": {
@@ -462,8 +384,8 @@
     "title": "0xNyk/council-of-high-intelligence"
   },
   "https://github.com/TencentCloud/CubeSandbox": {
-    "first_seen": "2026-07-01",
-    "last_seen": "2026-07-01",
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
     "days": 1,
     "title": "TencentCloud/CubeSandbox"
   },
@@ -571,8 +493,8 @@
   },
   "https://github.com/openai/codex-plugin-cc": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
-    "days": 1,
+    "last_seen": "2026-07-03",
+    "days": 2,
     "title": "openai/codex-plugin-cc"
   },
   "https://huggingface.co/papers/2607.01213": {
@@ -586,5 +508,83 @@
     "last_seen": "2026-07-02",
     "days": 1,
     "title": "The State-Prediction Separation Hypothesis"
+  },
+  "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "days": 1,
+    "title": "Fable 5 사이버 세이프가드·탈옥 프레임워크 상세"
+  },
+  "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "days": 1,
+    "title": "알리바바, 사내 Claude Code 사용 금지 검토"
+  },
+  "https://github.com/JuliusBrussee/caveman": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "days": 1,
+    "title": "JuliusBrussee/caveman"
+  },
+  "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "days": 1,
+    "title": "Safari MCP 서버"
+  },
+  "https://github.com/agentskills/agentskills": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "days": 1,
+    "title": "agentskills/agentskills"
+  },
+  "https://blog.fsck.com/2026/06/15/Superpowers-6/": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "days": 1,
+    "title": "Superpowers 6"
+  },
+  "https://huggingface.co/papers/2607.02032": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "days": 1,
+    "title": "PACE: A Proxy for Agentic Capability Evaluation"
+  },
+  "https://huggingface.co/papers/2607.01647": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "days": 1,
+    "title": "AgenticDataBench: A Comprehensive Benchmark for Data Agents"
+  },
+  "https://huggingface.co/papers/2607.01211": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "days": 1,
+    "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?"
+  },
+  "https://github.com/safishamsi/graphify": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "days": 1,
+    "title": "safishamsi/graphify"
+  },
+  "https://blog.okturtles.org/2026/07/short-leash-ai-method/": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "days": 1,
+    "title": "The short leash AI coding method for beating Fable"
+  },
+  "https://huggingface.co/papers/2607.02255": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "days": 1,
+    "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents"
+  },
+  "https://huggingface.co/papers/2607.01071": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "days": 1,
+    "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory"
   }
 }

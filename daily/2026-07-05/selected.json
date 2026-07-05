@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+    "title": "Better Models: Worse Tools"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.21997",
+    "title": "The Log Is the Agent"
+  },
+  {
+    "url": "https://github.com/CoplayDev/unity-mcp",
+    "title": "CoplayDev/unity-mcp"
+  },
+  {
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "title": "asgeirtj/system_prompts_leaks"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable"
+  },
+  {
+    "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "title": "Claude Science, an AI workbench for scientists"
+  },
+  {
+    "url": "https://www.anthropic.com/news/anthropic-public-record",
+    "title": "Results from the first Anthropic Public Record"
+  },
+  {
+    "url": "https://github.com/alibaba/page-agent",
+    "title": "alibaba/page-agent"
+  },
+  {
+    "url": "https://huggingface.co/InternScience/Agents-A1",
+    "title": "InternScience/Agents-A1"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.02255",
+    "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents"
+  },
+  {
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "title": "Introducing GeneBench-Pro"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.28430",
+    "title": "Building to the Test: Coding Agents Deliver What You Check, Not What You Requested"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.01211",
+    "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.00152",
+    "title": "GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number"
+  },
+  {
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "title": "openai/codex-plugin-cc"
+  },
+  {
+    "url": "https://github.com/openai/codex/issues/30364",
+    "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance"
+  },
+  {
+    "url": "https://hic-ai.com",
+    "title": "Mouse: Precision Editing Tools for AI Coding Agents"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/issues/74066",
+    "title": "Potential session/cache leakage between workspace instances"
+  }
+]

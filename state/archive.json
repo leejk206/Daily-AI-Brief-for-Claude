@@ -1534,5 +1534,25 @@
   "https://github.com/agentskills/agentskills": {
     "archived_on": "2026-07-03",
     "title": "agentskills/agentskills"
+  },
+  "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/": {
+    "archived_on": "2026-07-05",
+    "title": "Better Models: Worse Tools"
+  },
+  "https://arxiv.org/abs/2605.21997": {
+    "archived_on": "2026-07-05",
+    "title": "The Log Is the Agent"
+  },
+  "https://github.com/CoplayDev/unity-mcp": {
+    "archived_on": "2026-07-05",
+    "title": "CoplayDev/unity-mcp"
+  },
+  "https://github.com/asgeirtj/system_prompts_leaks": {
+    "archived_on": "2026-07-05",
+    "title": "asgeirtj/system_prompts_leaks"
+  },
+  "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/": {
+    "archived_on": "2026-07-05",
+    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable"
   }
 }

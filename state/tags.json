@@ -9287,7 +9287,7 @@
       "tags": [
         "prompt-engineering"
       ],
-      "tagged_at": "2026-06-22T14:46:28+09:00"
+      "tagged_at": "2026-07-05T20:05:48+09:00"
     },
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/": {
       "title": "Gemini 3.5: frontier intelligence with action",
@@ -9912,7 +9912,7 @@
         "computer-use",
         "web-agent"
       ],
-      "tagged_at": "2026-06-26T16:30:32+09:00"
+      "tagged_at": "2026-07-05T20:05:48+09:00"
     },
     "https://huggingface.co/papers/2606.26027": {
       "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
@@ -10450,7 +10450,7 @@
         "auto-research",
         "tool-use"
       ],
-      "tagged_at": "2026-07-03T21:34:34+09:00"
+      "tagged_at": "2026-07-05T20:05:48+09:00"
     },
     "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06": {
       "title": "Leanstral 1.5",
@@ -10471,9 +10471,10 @@
       "source": "release_blogs",
       "brief_date": "2026-07-01",
       "tags": [
+        "auto-research",
         "benchmark"
       ],
-      "tagged_at": "2026-07-03T21:34:34+09:00"
+      "tagged_at": "2026-07-05T20:05:48+09:00"
     },
     "https://github.com/0xNyk/council-of-high-intelligence": {
       "title": "0xNyk/council-of-high-intelligence",
@@ -10630,7 +10631,7 @@
         "auto-research",
         "model-release"
       ],
-      "tagged_at": "2026-07-02T22:02:35+09:00"
+      "tagged_at": "2026-07-05T20:05:48+09:00"
     },
     "https://huggingface.co/papers/2606.30062": {
       "title": "Little Brains, Big Feats: Compact LMs",
@@ -10715,7 +10716,7 @@
         "claude-code",
         "cli-agent"
       ],
-      "tagged_at": "2026-07-03T21:34:34+09:00"
+      "tagged_at": "2026-07-05T20:05:48+09:00"
     },
     "https://huggingface.co/papers/2607.01213": {
       "title": "RepoRescue",
@@ -10846,7 +10847,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-07-03T21:34:34+09:00"
+      "tagged_at": "2026-07-05T20:05:48+09:00"
     },
     "https://github.com/safishamsi/graphify": {
       "title": "safishamsi/graphify",
@@ -10879,10 +10880,11 @@
       "brief_date": "2026-07-03",
       "tags": [
         "agent-memory",
+        "benchmark",
         "long-context",
         "paper"
       ],
-      "tagged_at": "2026-07-03T21:34:34+09:00"
+      "tagged_at": "2026-07-05T20:05:48+09:00"
     },
     "https://huggingface.co/papers/2607.01071": {
       "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
@@ -10896,6 +10898,125 @@
         "paper"
       ],
       "tagged_at": "2026-07-03T21:34:34+09:00"
+    },
+    "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/": {
+      "title": "Better Models: Worse Tools",
+      "summary": "모델은 좋아지는데 코딩 에이전트 도구는 오히려 퇴보",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-05",
+      "tags": [
+        "cli-agent",
+        "coding-platform",
+        "tool-use"
+      ],
+      "tagged_at": "2026-07-05T20:05:48+09:00"
+    },
+    "https://arxiv.org/abs/2605.21997": {
+      "title": "The Log Is the Agent",
+      "summary": "실행 로그 자체가 에이전트라는 관점의 논문",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-07-05",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-07-05T20:05:48+09:00"
+    },
+    "https://github.com/CoplayDev/unity-mcp": {
+      "title": "CoplayDev/unity-mcp",
+      "summary": "Unity 에디터를 MCP로 제어하는 서버",
+      "category": "mcp",
+      "source": "github_trending",
+      "brief_date": "2026-07-05",
+      "tags": [
+        "game",
+        "mcp-server"
+      ],
+      "tagged_at": "2026-07-05T20:05:48+09:00"
+    },
+    "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/": {
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable",
+      "summary": "Fable이 $149로 릴리스 대부분 작성",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-05",
+      "tags": [
+        "ai-code-policy",
+        "cli-agent"
+      ],
+      "tagged_at": "2026-07-05T20:05:48+09:00"
+    },
+    "https://www.anthropic.com/news/anthropic-public-record": {
+      "title": "Results from the first Anthropic Public Record",
+      "summary": "앤트로픽 첫 공개 거버넌스 기록 결과",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-07-05",
+      "tags": [
+        "ai-code-policy"
+      ],
+      "tagged_at": "2026-07-05T20:05:48+09:00"
+    },
+    "https://huggingface.co/papers/2606.28430": {
+      "title": "Building to the Test: Coding Agents Deliver What You Check, Not What You Requested",
+      "summary": "코딩 에이전트는 요구가 아닌 '검사하는 것'만 충족",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-05",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-05T20:05:48+09:00"
+    },
+    "https://huggingface.co/papers/2607.00152": {
+      "title": "GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number",
+      "summary": "RL 목적함수 3종이 하나의 항등식임을 증명",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-05",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-07-05T20:05:48+09:00"
+    },
+    "https://github.com/openai/codex/issues/30364": {
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "summary": "추론 토큰 클러스터링이 성능 저하 유발 정황",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-05",
+      "tags": [
+        "cli-agent"
+      ],
+      "tagged_at": "2026-07-05T20:05:48+09:00"
+    },
+    "https://hic-ai.com": {
+      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+      "summary": "AI 코딩 에이전트용 정밀 편집 도구",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-05",
+      "tags": [
+        "cli-agent",
+        "tool-use"
+      ],
+      "tagged_at": "2026-07-05T20:05:48+09:00"
+    },
+    "https://github.com/anthropics/claude-code/issues/74066": {
+      "title": "Potential session/cache leakage between workspace instances",
+      "summary": "Claude Code 워크스페이스 간 세션 유출 의혹 이슈",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-05",
+      "tags": [
+        "claude-code",
+        "security"
+      ],
+      "tagged_at": "2026-07-05T20:05:48+09:00"
     }
   }
 }

@@ -17,59 +17,11 @@
     "days": 1,
     "title": "topoteretes/cognee"
   },
-  "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "days": 1,
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees"
-  },
   "https://www.anthropic.com/news/introducing-claude-tag": {
     "first_seen": "2026-06-28",
     "last_seen": "2026-06-28",
     "days": 1,
     "title": "Introducing Claude Tag"
-  },
-  "https://huggingface.co/papers/2606.24937": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-06-26",
-    "days": 2,
-    "title": "The Hitchhiker's Guide to Agentic AI"
-  },
-  "https://huggingface.co/papers/2606.15932": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-06-26",
-    "days": 2,
-    "title": "Beyond NL2Code: Multimodal Code Intelligence"
-  },
-  "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "days": 1,
-    "title": "US Govt to individually approve who gets GPT 5.6"
-  },
-  "https://github.com/calesthio/OpenMontage": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "days": 1,
-    "title": "calesthio/OpenMontage"
-  },
-  "https://github.com/aws/agent-toolkit-for-aws": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "days": 1,
-    "title": "aws/agent-toolkit-for-aws"
-  },
-  "https://huggingface.co/papers/2606.26300": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "days": 1,
-    "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards"
-  },
-  "https://github.com/xbtlin/ai-berkshire": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "days": 1,
-    "title": "xbtlin/ai-berkshire"
   },
   "https://openai.com/index/how-agents-are-transforming-work": {
     "first_seen": "2026-06-28",
@@ -78,8 +30,8 @@
     "title": "How agents are transforming work"
   },
   "https://github.com/alibaba/page-agent": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
     "days": 1,
     "title": "alibaba/page-agent"
   },
@@ -88,12 +40,6 @@
     "last_seen": "2026-06-29",
     "days": 1,
     "title": "Why Multi-Step Tool-Use RL Collapses and How Supervisory Signals Fix It"
-  },
-  "https://huggingface.co/papers/2606.26790": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "days": 1,
-    "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning"
   },
   "https://huggingface.co/papers/2606.16613": {
     "first_seen": "2026-06-26",
@@ -107,71 +53,11 @@
     "days": 1,
     "title": "GUI vs. CLI: Execution Bottlenecks in Computer-Use Agents"
   },
-  "https://huggingface.co/papers/2606.25605": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "days": 2,
-    "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints"
-  },
-  "https://github.com/JCodesMore/ai-website-cloner-template": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "days": 1,
-    "title": "JCodesMore/ai-website-cloner-template"
-  },
   "https://huggingface.co/papers/2606.22953": {
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-29",
     "days": 4,
     "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents"
-  },
-  "https://huggingface.co/papers/2606.24083": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "days": 1,
-    "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression"
-  },
-  "https://openai.com/index/previewing-gpt-5-6-sol": {
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "days": 1,
-    "title": "Previewing GPT-5.6 Sol: a next-generation model"
-  },
-  "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/": {
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "days": 1,
-    "title": "U.S. government will decide who gets to use GPT-5.6"
-  },
-  "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies": {
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "days": 1,
-    "title": "U.S. allows Anthropic to release Mythos to trusted US orgs"
-  },
-  "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B": {
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "days": 1,
-    "title": "Qwen-AgentWorld-35B-A3B"
-  },
-  "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B": {
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "days": 1,
-    "title": "Ornith-1.0-35B"
-  },
-  "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "days": 1,
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip"
-  },
-  "https://blog.doubleword.ai/frontier-os-llm": {
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "days": 1,
-    "title": "The gap between open weights LLMs and closed source LLMs"
   },
   "https://huggingface.co/papers/2606.27288": {
     "first_seen": "2026-06-27",
@@ -190,18 +76,6 @@
     "last_seen": "2026-06-29",
     "days": 3,
     "title": "Running the Gauntlet: Re-evaluating Agents Beyond Familiar Environments"
-  },
-  "https://huggingface.co/papers/2606.21959": {
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "days": 1,
-    "title": "OpenBioRQ: Unsolved Biomedical Research Questions for Agents"
-  },
-  "https://github.com/workweave/router": {
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "days": 1,
-    "title": "Show HN: Smart model routing in Claude, Codex and Cursor"
   },
   "https://huggingface.co/papers/2606.26875": {
     "first_seen": "2026-06-29",
@@ -360,8 +234,8 @@
     "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?"
   },
   "https://www.anthropic.com/news/claude-science-ai-workbench": {
-    "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
     "days": 1,
     "title": "Claude Science, an AI workbench for scientists"
   },
@@ -372,9 +246,9 @@
     "title": "Leanstral 1.5"
   },
   "https://openai.com/index/introducing-genebench-pro": {
-    "first_seen": "2026-07-01",
-    "last_seen": "2026-07-03",
-    "days": 3,
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "days": 1,
     "title": "Introducing GeneBench-Pro"
   },
   "https://github.com/0xNyk/council-of-high-intelligence": {
@@ -450,8 +324,8 @@
     "title": "CursorBench 3.1"
   },
   "https://huggingface.co/InternScience/Agents-A1": {
-    "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
     "days": 1,
     "title": "InternScience/Agents-A1"
   },
@@ -492,9 +366,9 @@
     "title": "QVal: Dense Supervision 평가"
   },
   "https://github.com/openai/codex-plugin-cc": {
-    "first_seen": "2026-07-02",
-    "last_seen": "2026-07-03",
-    "days": 2,
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "days": 1,
     "title": "openai/codex-plugin-cc"
   },
   "https://huggingface.co/papers/2607.01213": {
@@ -558,8 +432,8 @@
     "title": "AgenticDataBench: A Comprehensive Benchmark for Data Agents"
   },
   "https://huggingface.co/papers/2607.01211": {
-    "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
     "days": 1,
     "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?"
   },
@@ -576,8 +450,8 @@
     "title": "The short leash AI coding method for beating Fable"
   },
   "https://huggingface.co/papers/2607.02255": {
-    "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
     "days": 1,
     "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents"
   },
@@ -586,5 +460,71 @@
     "last_seen": "2026-07-03",
     "days": 1,
     "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory"
+  },
+  "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/": {
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "days": 1,
+    "title": "Better Models: Worse Tools"
+  },
+  "https://arxiv.org/abs/2605.21997": {
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "days": 1,
+    "title": "The Log Is the Agent"
+  },
+  "https://github.com/CoplayDev/unity-mcp": {
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "days": 1,
+    "title": "CoplayDev/unity-mcp"
+  },
+  "https://github.com/asgeirtj/system_prompts_leaks": {
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "days": 1,
+    "title": "asgeirtj/system_prompts_leaks"
+  },
+  "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/": {
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "days": 1,
+    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable"
+  },
+  "https://www.anthropic.com/news/anthropic-public-record": {
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "days": 1,
+    "title": "Results from the first Anthropic Public Record"
+  },
+  "https://huggingface.co/papers/2606.28430": {
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "days": 1,
+    "title": "Building to the Test: Coding Agents Deliver What You Check, Not What You Requested"
+  },
+  "https://huggingface.co/papers/2607.00152": {
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "days": 1,
+    "title": "GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number"
+  },
+  "https://github.com/openai/codex/issues/30364": {
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "days": 1,
+    "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance"
+  },
+  "https://hic-ai.com": {
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "days": 1,
+    "title": "Mouse: Precision Editing Tools for AI Coding Agents"
+  },
+  "https://github.com/anthropics/claude-code/issues/74066": {
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "days": 1,
+    "title": "Potential session/cache leakage between workspace instances"
   }
 }

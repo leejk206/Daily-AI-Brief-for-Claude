@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-07-05T20:01:50+09:00",
+  "items": [
+    {
+      "id": "hn:48786781",
+      "title": "Leaking YouTube creators' private videos",
+      "url": "https://javoriuski.com/post/youtube",
+      "description": "",
+      "signals": {
+        "points": 625,
+        "num_comments": 346,
+        "discussion_url": "https://news.ycombinator.com/item?id=48786781"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48788283",
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "description": "",
+      "signals": {
+        "points": 578,
+        "num_comments": 243,
+        "discussion_url": "https://news.ycombinator.com/item?id=48788283"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48786838",
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "description": "",
+      "signals": {
+        "points": 475,
+        "num_comments": 273,
+        "discussion_url": "https://news.ycombinator.com/item?id=48786838"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48785485",
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "description": "",
+      "signals": {
+        "points": 301,
+        "num_comments": 129,
+        "discussion_url": "https://news.ycombinator.com/item?id=48785485"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48789428",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "description": "",
+      "signals": {
+        "points": 283,
+        "num_comments": 112,
+        "discussion_url": "https://news.ycombinator.com/item?id=48789428"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48790689",
+      "title": "If you're a button, you have one job",
+      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "description": "",
+      "signals": {
+        "points": 238,
+        "num_comments": 123,
+        "discussion_url": "https://news.ycombinator.com/item?id=48790689"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48786638",
+      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-30",
+      "description": "",
+      "signals": {
+        "points": 210,
+        "num_comments": 67,
+        "discussion_url": "https://news.ycombinator.com/item?id=48786638"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48742175",
+      "title": "What ORMs have taught me: just learn SQL (2014)",
+      "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
+      "description": "",
+      "signals": {
+        "points": 197,
+        "num_comments": 227,
+        "discussion_url": "https://news.ycombinator.com/item?id=48742175"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48788599",
+      "title": "Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "description": "",
+      "signals": {
+        "points": 179,
+        "num_comments": 63,
+        "discussion_url": "https://news.ycombinator.com/item?id=48788599"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48787042",
+      "title": "\"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+      "url": "https://www.eso.org/public/news/eso2607/",
+      "description": "",
+      "signals": {
+        "points": 148,
+        "num_comments": 249,
+        "discussion_url": "https://news.ycombinator.com/item?id=48787042"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48791328",
+      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+      "url": "https://ui.shadcn.com/docs/changelog",
+      "description": "",
+      "signals": {
+        "points": 142,
+        "num_comments": 48,
+        "discussion_url": "https://news.ycombinator.com/item?id=48791328"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48789712",
+      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+      "description": "",
+      "signals": {
+        "points": 130,
+        "num_comments": 30,
+        "discussion_url": "https://news.ycombinator.com/item?id=48789712"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48750405",
+      "title": "Meta's Un-Stable Signature",
+      "url": "https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html",
+      "description": "",
+      "signals": {
+        "points": 93,
+        "num_comments": 13,
+        "discussion_url": "https://news.ycombinator.com/item?id=48750405"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48765920",
+      "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+      "description": "",
+      "signals": {
+        "points": 77,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48765920"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48773079",
+      "title": "Pandoc Lua Filters",
+      "url": "https://pandoc.org/lua-filters.html",
+      "description": "",
+      "signals": {
+        "points": 74,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48773079"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48789965",
+      "title": "Drone Autonomy (2021)",
+      "url": "https://www.cggonzalez.com/blog/index.html",
+      "description": "",
+      "signals": {
+        "points": 60,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48789965"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48792080",
+      "title": "Programmers need to start meditating",
+      "url": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
+      "description": "",
+      "signals": {
+        "points": 59,
+        "num_comments": 51,
+        "discussion_url": "https://news.ycombinator.com/item?id=48792080"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48790512",
+      "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
+      "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
+      "description": "",
+      "signals": {
+        "points": 54,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48790512"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48790240",
+      "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)",
+      "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+      "description": "",
+      "signals": {
+        "points": 53,
+        "num_comments": 13,
+        "discussion_url": "https://news.ycombinator.com/item?id=48790240"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48791708",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+      "description": "",
+      "signals": {
+        "points": 51,
+        "num_comments": 56,
+        "discussion_url": "https://news.ycombinator.com/item?id=48791708"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48791266",
+      "title": "Moby Dick Workout (2022)",
+      "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
+      "description": "",
+      "signals": {
+        "points": 47,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48791266"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48790912",
+      "title": "The Log Is the Agent",
+      "url": "https://arxiv.org/abs/2605.21997",
+      "description": "",
+      "signals": {
+        "points": 46,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48790912"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48751144",
+      "title": "Artful Cats: Feline-Inspired Art and Artifacts",
+      "url": "https://www.si.edu/spotlight/art-cats",
+      "description": "",
+      "signals": {
+        "points": 45,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48751144"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48791380",
+      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://hic-ai.com",
+      "description": "",
+      "signals": {
+        "points": 33,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=48791380"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48792203",
+      "title": "Web-based cryptography is always snake oil",
+      "url": "https://www.devever.net/~hl/webcrypto",
+      "description": "",
+      "signals": {
+        "points": 31,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=48792203"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48791591",
+      "title": "Megawatts by Microwave",
+      "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48791591"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48791256",
+      "title": "My ASN Journey series (2024)",
+      "url": "https://www.animmouse.com/p/my-asn-journey/",
+      "description": "",
+      "signals": {
+        "points": 23,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48791256"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48792008",
+      "title": "Fast Software, the Best Software",
+      "url": "https://craigmod.com/essays/fast_software/",
+      "description": "",
+      "signals": {
+        "points": 17,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48792008"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48792352",
+      "title": "Apocketlypse",
+      "url": "https://0dd.company/galleries/triumph/1.html",
+      "description": "",
+      "signals": {
+        "points": 17,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48792352"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

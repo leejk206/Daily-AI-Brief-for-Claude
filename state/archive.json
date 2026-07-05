@@ -1554,5 +1554,25 @@
   "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/": {
     "archived_on": "2026-07-05",
     "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable"
+  },
+  "https://www.anthropic.com/news/claude-science-ai-workbench": {
+    "archived_on": "2026-07-06",
+    "title": "Claude Science, an AI workbench for scientists"
+  },
+  "https://github.com/openai/codex-plugin-cc": {
+    "archived_on": "2026-07-06",
+    "title": "openai/codex-plugin-cc"
+  },
+  "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/": {
+    "archived_on": "2026-07-06",
+    "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough"
+  },
+  "https://huggingface.co/papers/2606.28430": {
+    "archived_on": "2026-07-06",
+    "title": "Building to the Test: Coding Agents Deliver What You Check, Not What You Requested"
+  },
+  "https://github.com/alibaba/page-agent": {
+    "archived_on": "2026-07-06",
+    "title": "alibaba/page-agent"
   }
 }

@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "title": "Claude Science, an AI workbench for scientists"
+  },
+  {
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "title": "openai/codex-plugin-cc"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.28430",
+    "title": "Building to the Test: Coding Agents Deliver What You Check, Not What You Requested"
+  },
+  {
+    "url": "https://github.com/alibaba/page-agent",
+    "title": "alibaba/page-agent"
+  },
+  {
+    "url": "https://huggingface.co/InternScience/Agents-A1",
+    "title": "InternScience/Agents-A1"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.02032",
+    "title": "PACE: A Proxy for Agentic Capability Evaluation"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.01874",
+    "title": "SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.01211",
+    "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.01071",
+    "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.31179",
+    "title": "HealthAgentBench"
+  },
+  {
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "title": "hesreallyhim/awesome-claude-code"
+  },
+  {
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "title": "alirezarezvani/claude-skills"
+  },
+  {
+    "url": "https://github.com/steipete/CodexBar",
+    "title": "steipete/CodexBar"
+  },
+  {
+    "url": "https://github.com/langchain-ai/openwiki",
+    "title": "langchain-ai/openwiki"
+  },
+  {
+    "url": "https://github.com/OthmanAdi/planning-with-files",
+    "title": "OthmanAdi/planning-with-files"
+  }
+]

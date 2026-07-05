@@ -9912,7 +9912,7 @@
         "computer-use",
         "web-agent"
       ],
-      "tagged_at": "2026-07-05T20:05:48+09:00"
+      "tagged_at": "2026-07-06T03:51:29+09:00"
     },
     "https://huggingface.co/papers/2606.26027": {
       "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
@@ -10450,7 +10450,7 @@
         "auto-research",
         "tool-use"
       ],
-      "tagged_at": "2026-07-05T20:05:48+09:00"
+      "tagged_at": "2026-07-06T03:51:29+09:00"
     },
     "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06": {
       "title": "Leanstral 1.5",
@@ -10631,7 +10631,7 @@
         "auto-research",
         "model-release"
       ],
-      "tagged_at": "2026-07-05T20:05:48+09:00"
+      "tagged_at": "2026-07-06T03:51:29+09:00"
     },
     "https://huggingface.co/papers/2606.30062": {
       "title": "Little Brains, Big Feats: Compact LMs",
@@ -10716,7 +10716,7 @@
         "claude-code",
         "cli-agent"
       ],
-      "tagged_at": "2026-07-05T20:05:48+09:00"
+      "tagged_at": "2026-07-06T03:51:29+09:00"
     },
     "https://huggingface.co/papers/2607.01213": {
       "title": "RepoRescue",
@@ -10823,7 +10823,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-07-03T21:34:34+09:00"
+      "tagged_at": "2026-07-06T03:51:29+09:00"
     },
     "https://huggingface.co/papers/2607.01647": {
       "title": "AgenticDataBench: A Comprehensive Benchmark for Data Agents",
@@ -10847,7 +10847,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-07-05T20:05:48+09:00"
+      "tagged_at": "2026-07-06T03:51:29+09:00"
     },
     "https://github.com/safishamsi/graphify": {
       "title": "safishamsi/graphify",
@@ -10897,7 +10897,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-07-03T21:34:34+09:00"
+      "tagged_at": "2026-07-06T03:51:29+09:00"
     },
     "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/": {
       "title": "Better Models: Worse Tools",
@@ -10969,7 +10969,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-07-05T20:05:48+09:00"
+      "tagged_at": "2026-07-06T03:51:29+09:00"
     },
     "https://huggingface.co/papers/2607.00152": {
       "title": "GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number",
@@ -11017,6 +11017,99 @@
         "security"
       ],
       "tagged_at": "2026-07-05T20:05:48+09:00"
+    },
+    "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/": {
+      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+      "summary": "메타가 에이전트 성과 미달을 인정",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-07-06",
+      "tags": [
+        "agent-adoption"
+      ],
+      "tagged_at": "2026-07-06T03:51:29+09:00"
+    },
+    "https://huggingface.co/papers/2607.01874": {
+      "title": "SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use",
+      "summary": "스스로 진화하는 루브릭으로 에이전트 스킬 사용 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-06",
+      "tags": [
+        "agent-skill",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-06T03:51:29+09:00"
+    },
+    "https://huggingface.co/papers/2606.31179": {
+      "title": "HealthAgentBench",
+      "summary": "현실적 의료 에이전트 환경 통합 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-06",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-06T03:51:29+09:00"
+    },
+    "https://github.com/hesreallyhim/awesome-claude-code": {
+      "title": "hesreallyhim/awesome-claude-code",
+      "summary": "Claude Code 리소스 큐레이션 모음",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-07-06",
+      "tags": [
+        "claude-code"
+      ],
+      "tagged_at": "2026-07-06T03:51:29+09:00"
+    },
+    "https://github.com/alirezarezvani/claude-skills": {
+      "title": "alirezarezvani/claude-skills",
+      "summary": "Claude 스킬 모음 저장소",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-07-06",
+      "tags": [
+        "agent-skill",
+        "claude-code"
+      ],
+      "tagged_at": "2026-07-06T03:51:29+09:00"
+    },
+    "https://github.com/steipete/CodexBar": {
+      "title": "steipete/CodexBar",
+      "summary": "Codex 상태를 보여주는 macOS 메뉴바 앱",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-07-06",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-07-06T03:51:29+09:00"
+    },
+    "https://github.com/langchain-ai/openwiki": {
+      "title": "langchain-ai/openwiki",
+      "summary": "코드베이스용 에이전트 문서를 자동 작성·유지하는 CLI",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-06",
+      "tags": [
+        "cli-agent"
+      ],
+      "tagged_at": "2026-07-06T03:51:29+09:00"
+    },
+    "https://github.com/OthmanAdi/planning-with-files": {
+      "title": "OthmanAdi/planning-with-files",
+      "summary": "파일 기반으로 에이전트 작업을 계획하는 패턴",
+      "category": "prompt-context-engineering",
+      "source": "github_trending",
+      "brief_date": "2026-07-06",
+      "tags": [
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-07-06T03:51:29+09:00"
     }
   }
 }

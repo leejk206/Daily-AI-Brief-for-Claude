@@ -1,0 +1,270 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-07-06T03:47:25+09:00",
+  "items": [
+    {
+      "id": "github:Zackriya-Solutions/meetily",
+      "title": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "signals": {
+        "stars": 16528,
+        "stars_today": 1409,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:openai/codex-plugin-cc",
+      "title": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "signals": {
+        "stars": 25323,
+        "stars_today": 1519,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:asgeirtj/system_prompts_leaks",
+      "title": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "signals": {
+        "stars": 49715,
+        "stars_today": 981,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Leonxlnx/taste-skill",
+      "title": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "signals": {
+        "stars": 57254,
+        "stars_today": 850,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:alirezarezvani/claude-skills",
+      "title": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "signals": {
+        "stars": 20431,
+        "stars_today": 394,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:rommapp/romm",
+      "title": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "description": "A beautiful, powerful, self-hosted rom manager and player.",
+      "signals": {
+        "stars": 10453,
+        "stars_today": 411,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ogulcancelik/herdr",
+      "title": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "signals": {
+        "stars": 11923,
+        "stars_today": 650,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:alibaba/page-agent",
+      "title": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "signals": {
+        "stars": 23705,
+        "stars_today": 801,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:harvard-edge/cs249r_book",
+      "title": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "signals": {
+        "stars": 26780,
+        "stars_today": 333,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:usestrix/strix",
+      "title": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "signals": {
+        "stars": 36908,
+        "stars_today": 1121,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:hesreallyhim/awesome-claude-code",
+      "title": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "signals": {
+        "stars": 48256,
+        "stars_today": 188,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:coreyhaines31/marketingskills",
+      "title": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "signals": {
+        "stars": 36322,
+        "stars_today": 209,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:JuliusBrussee/caveman",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "signals": {
+        "stars": 84705,
+        "stars_today": 1043,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:CoplayDev/unity-mcp",
+      "title": "CoplayDev/unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "signals": {
+        "stars": 11870,
+        "stars_today": 415,
+        "language": "C#"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:facebook/astryx",
+      "title": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "signals": {
+        "stars": 5788,
+        "stars_today": 540,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:immich-app/immich",
+      "title": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "signals": {
+        "stars": 105999,
+        "stars_today": 475,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ruvnet/RuView",
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "signals": {
+        "stars": 76628,
+        "stars_today": 198,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:gastownhall/gastown",
+      "title": "gastownhall/gastown",
+      "url": "https://github.com/gastownhall/gastown",
+      "description": "Gas Town - multi-agent workspace manager",
+      "signals": {
+        "stars": 16317,
+        "stars_today": 48,
+        "language": "Go"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:dotnet/skills",
+      "title": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "signals": {
+        "stars": 3992,
+        "stars_today": 247,
+        "language": "C#"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:OthmanAdi/planning-with-files",
+      "title": "OthmanAdi/planning-with-files",
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
+      "signals": {
+        "stars": 24630,
+        "stars_today": 61,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:steipete/CodexBar",
+      "title": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "signals": {
+        "stars": 16070,
+        "stars_today": 201,
+        "language": "Swift"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:anthropics/claude-code",
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "signals": {
+        "stars": 136233,
+        "stars_today": 182,
+        "language": "Python"
+      },
+      "category_hint": null
+    }
+  ]
+}

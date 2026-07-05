@@ -1,38 +1,8 @@
 {
-  "https://openai.com/index/deployment-simulation": {
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
-    "days": 1,
-    "title": "Predicting model behavior before release by simulating deployment"
-  },
-  "https://deepmind.google/blog/securing-the-future-of-ai-agents/": {
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
-    "days": 1,
-    "title": "Securing the future of AI agents"
-  },
-  "https://github.com/topoteretes/cognee": {
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
-    "days": 1,
-    "title": "topoteretes/cognee"
-  },
-  "https://www.anthropic.com/news/introducing-claude-tag": {
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
-    "days": 1,
-    "title": "Introducing Claude Tag"
-  },
-  "https://openai.com/index/how-agents-are-transforming-work": {
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
-    "days": 1,
-    "title": "How agents are transforming work"
-  },
   "https://github.com/alibaba/page-agent": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
+    "last_seen": "2026-07-06",
+    "days": 2,
     "title": "alibaba/page-agent"
   },
   "https://huggingface.co/papers/2606.26027": {
@@ -59,12 +29,6 @@
     "days": 4,
     "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents"
   },
-  "https://huggingface.co/papers/2606.27288": {
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-28",
-    "days": 2,
-    "title": "When Does Combining Language Models Help? (Co-Failure Ceiling)"
-  },
   "https://huggingface.co/papers/2606.26080": {
     "first_seen": "2026-06-29",
     "last_seen": "2026-06-29",
@@ -82,42 +46,6 @@
     "last_seen": "2026-06-29",
     "days": 1,
     "title": "Information-Aware KV Cache Compression for Long Reasoning"
-  },
-  "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/": {
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
-    "days": 1,
-    "title": "Introducing computer use in Gemini 3.5 Flash"
-  },
-  "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/": {
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
-    "days": 1,
-    "title": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on"
-  },
-  "https://github.com/anomalyco/opencode": {
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
-    "days": 1,
-    "title": "anomalyco/opencode"
-  },
-  "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": {
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
-    "days": 1,
-    "title": "DiffusionGemma: 4x faster text generation"
-  },
-  "https://github.com/Fission-AI/OpenSpec": {
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
-    "days": 1,
-    "title": "Fission-AI/OpenSpec"
-  },
-  "https://github.com/luongnv89/claude-howto": {
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
-    "days": 1,
-    "title": "luongnv89/claude-howto"
   },
   "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark": {
     "first_seen": "2026-06-29",
@@ -235,8 +163,8 @@
   },
   "https://www.anthropic.com/news/claude-science-ai-workbench": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
+    "last_seen": "2026-07-06",
+    "days": 2,
     "title": "Claude Science, an AI workbench for scientists"
   },
   "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06": {
@@ -325,8 +253,8 @@
   },
   "https://huggingface.co/InternScience/Agents-A1": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
+    "last_seen": "2026-07-06",
+    "days": 2,
     "title": "InternScience/Agents-A1"
   },
   "https://huggingface.co/papers/2606.30062": {
@@ -367,8 +295,8 @@
   },
   "https://github.com/openai/codex-plugin-cc": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
+    "last_seen": "2026-07-06",
+    "days": 2,
     "title": "openai/codex-plugin-cc"
   },
   "https://huggingface.co/papers/2607.01213": {
@@ -420,8 +348,8 @@
     "title": "Superpowers 6"
   },
   "https://huggingface.co/papers/2607.02032": {
-    "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-06",
     "days": 1,
     "title": "PACE: A Proxy for Agentic Capability Evaluation"
   },
@@ -433,8 +361,8 @@
   },
   "https://huggingface.co/papers/2607.01211": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
+    "last_seen": "2026-07-06",
+    "days": 2,
     "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?"
   },
   "https://github.com/safishamsi/graphify": {
@@ -456,8 +384,8 @@
     "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents"
   },
   "https://huggingface.co/papers/2607.01071": {
-    "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-06",
     "days": 1,
     "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory"
   },
@@ -499,8 +427,8 @@
   },
   "https://huggingface.co/papers/2606.28430": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
+    "last_seen": "2026-07-06",
+    "days": 2,
     "title": "Building to the Test: Coding Agents Deliver What You Check, Not What You Requested"
   },
   "https://huggingface.co/papers/2607.00152": {
@@ -526,5 +454,53 @@
     "last_seen": "2026-07-05",
     "days": 1,
     "title": "Potential session/cache leakage between workspace instances"
+  },
+  "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/": {
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-06",
+    "days": 1,
+    "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough"
+  },
+  "https://huggingface.co/papers/2607.01874": {
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-06",
+    "days": 1,
+    "title": "SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use"
+  },
+  "https://huggingface.co/papers/2606.31179": {
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-06",
+    "days": 1,
+    "title": "HealthAgentBench"
+  },
+  "https://github.com/hesreallyhim/awesome-claude-code": {
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-06",
+    "days": 1,
+    "title": "hesreallyhim/awesome-claude-code"
+  },
+  "https://github.com/alirezarezvani/claude-skills": {
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-06",
+    "days": 1,
+    "title": "alirezarezvani/claude-skills"
+  },
+  "https://github.com/steipete/CodexBar": {
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-06",
+    "days": 1,
+    "title": "steipete/CodexBar"
+  },
+  "https://github.com/langchain-ai/openwiki": {
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-06",
+    "days": 1,
+    "title": "langchain-ai/openwiki"
+  },
+  "https://github.com/OthmanAdi/planning-with-files": {
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-06",
+    "days": 1,
+    "title": "OthmanAdi/planning-with-files"
   }
 }

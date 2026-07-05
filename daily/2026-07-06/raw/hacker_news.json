@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-07-06T03:47:24+09:00",
+  "items": [
+    {
+      "id": "hn:48788283",
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "description": "",
+      "signals": {
+        "points": 641,
+        "num_comments": 269,
+        "discussion_url": "https://news.ycombinator.com/item?id=48788283"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48790689",
+      "title": "If you're a button, you have one job",
+      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "description": "",
+      "signals": {
+        "points": 489,
+        "num_comments": 243,
+        "discussion_url": "https://news.ycombinator.com/item?id=48790689"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48794446",
+      "title": "Organic Maps",
+      "url": "https://organicmaps.app/",
+      "description": "",
+      "signals": {
+        "points": 479,
+        "num_comments": 138,
+        "discussion_url": "https://news.ycombinator.com/item?id=48794446"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48793393",
+      "title": "EU Council forces Chat Control via fast-track",
+      "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+      "description": "",
+      "signals": {
+        "points": 254,
+        "num_comments": 130,
+        "discussion_url": "https://news.ycombinator.com/item?id=48793393"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48791328",
+      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+      "url": "https://ui.shadcn.com/docs/changelog",
+      "description": "",
+      "signals": {
+        "points": 253,
+        "num_comments": 136,
+        "discussion_url": "https://news.ycombinator.com/item?id=48791328"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48793454",
+      "title": "Introduction to Compilers and Language Design",
+      "url": "https://dthain.github.io/books/compiler/",
+      "description": "",
+      "signals": {
+        "points": 219,
+        "num_comments": 31,
+        "discussion_url": "https://news.ycombinator.com/item?id=48793454"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48747733",
+      "title": "The GNU Emacs Architecture: Unlocking the Core [pdf]",
+      "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
+      "description": "",
+      "signals": {
+        "points": 155,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48747733"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48794179",
+      "title": "Phosh 0.56.0",
+      "url": "https://phosh.mobi/releases/rel-0.56.0/",
+      "description": "",
+      "signals": {
+        "points": 132,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=48794179"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48773079",
+      "title": "Pandoc Lua Filters",
+      "url": "https://pandoc.org/lua-filters.html",
+      "description": "",
+      "signals": {
+        "points": 126,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48773079"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48792008",
+      "title": "Fast Software, the Best Software (2019)",
+      "url": "https://craigmod.com/essays/fast_software/",
+      "description": "",
+      "signals": {
+        "points": 107,
+        "num_comments": 56,
+        "discussion_url": "https://news.ycombinator.com/item?id=48792008"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48795826",
+      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "description": "",
+      "signals": {
+        "points": 95,
+        "num_comments": 70,
+        "discussion_url": "https://news.ycombinator.com/item?id=48795826"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48795368",
+      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement",
+      "description": "",
+      "signals": {
+        "points": 77,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48795368"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48746038",
+      "title": "Rayfish, Peer-to-peer mesh VPN with no server to trust",
+      "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
+      "description": "",
+      "signals": {
+        "points": 76,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=48746038"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48793542",
+      "title": "Show HN: KiCad in the Browser",
+      "url": "https://demo.pcbjam.com/",
+      "description": "",
+      "signals": {
+        "points": 74,
+        "num_comments": 30,
+        "discussion_url": "https://news.ycombinator.com/item?id=48793542"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48794750",
+      "title": "It's not about physical vs. digital games, it's about ownership",
+      "url": "https://popcar.bearblog.dev/its-about-ownership/",
+      "description": "",
+      "signals": {
+        "points": 72,
+        "num_comments": 43,
+        "discussion_url": "https://news.ycombinator.com/item?id=48794750"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48758802",
+      "title": "The Great Blogging Collapse: What Happened to 100 Successful Blogs?",
+      "url": "https://danielstanica.com/posts/Great-Blogging-Collapse",
+      "description": "",
+      "signals": {
+        "points": 71,
+        "num_comments": 57,
+        "discussion_url": "https://news.ycombinator.com/item?id=48758802"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48791591",
+      "title": "Megawatts by Microwave",
+      "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
+      "description": "",
+      "signals": {
+        "points": 70,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48791591"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48792203",
+      "title": "Web-based cryptography is always snake oil",
+      "url": "https://www.devever.net/~hl/webcrypto",
+      "description": "",
+      "signals": {
+        "points": 69,
+        "num_comments": 81,
+        "discussion_url": "https://news.ycombinator.com/item?id=48792203"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48746771",
+      "title": "Medieval-style fortifications are back in the Sahel",
+      "url": "https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel",
+      "description": "",
+      "signals": {
+        "points": 66,
+        "num_comments": 52,
+        "discussion_url": "https://news.ycombinator.com/item?id=48746771"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48794704",
+      "title": "Solar rail could become common in Europe after successful trial in Switzerland",
+      "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
+      "description": "",
+      "signals": {
+        "points": 64,
+        "num_comments": 63,
+        "discussion_url": "https://news.ycombinator.com/item?id=48794704"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48794302",
+      "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
+      "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
+      "description": "",
+      "signals": {
+        "points": 62,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=48794302"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48786284",
+      "title": "Airplane Boneyards List and Map",
+      "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
+      "description": "",
+      "signals": {
+        "points": 60,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=48786284"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48795830",
+      "title": "\"These cameras are just like the Eye of Sauron\"",
+      "url": "https://arxiv.org/abs/2602.09239",
+      "description": "",
+      "signals": {
+        "points": 58,
+        "num_comments": 24,
+        "discussion_url": "https://news.ycombinator.com/item?id=48795830"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48796093",
+      "title": "The Computers Used in Movies",
+      "url": "https://www.starringthecomputer.com/computers.html",
+      "description": "",
+      "signals": {
+        "points": 56,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=48796093"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48795174",
+      "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
+      "description": "",
+      "signals": {
+        "points": 53,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=48795174"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48752949",
+      "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "description": "",
+      "signals": {
+        "points": 49,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48752949"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48794788",
+      "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+      "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48794788"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48796110",
+      "title": "Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy",
+      "url": "https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c",
+      "description": "",
+      "signals": {
+        "points": 10,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48796110"
+      },
+      "category_hint": null
+    }
+  ]
+}

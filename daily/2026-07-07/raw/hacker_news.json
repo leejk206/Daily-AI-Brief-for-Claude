@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-07-07T01:55:01+09:00",
+  "items": [
+    {
+      "id": "hn:48799155",
+      "title": "Has_not_been_viewed_much",
+      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+      "description": "",
+      "signals": {
+        "points": 428,
+        "num_comments": 118,
+        "discussion_url": "https://news.ycombinator.com/item?id=48799155"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48799614",
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "description": "",
+      "signals": {
+        "points": 385,
+        "num_comments": 340,
+        "discussion_url": "https://news.ycombinator.com/item?id=48799614"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48802535",
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
+      "description": "",
+      "signals": {
+        "points": 309,
+        "num_comments": 122,
+        "discussion_url": "https://news.ycombinator.com/item?id=48802535"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48799929",
+      "title": "Building relationships with customers through support didn't turn out as hoped",
+      "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+      "description": "",
+      "signals": {
+        "points": 270,
+        "num_comments": 164,
+        "discussion_url": "https://news.ycombinator.com/item?id=48799929"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48803364",
+      "title": "Road to Elm 1.0",
+      "url": "https://elm-lang.org/news/faster-builds",
+      "description": "",
+      "signals": {
+        "points": 201,
+        "num_comments": 86,
+        "discussion_url": "https://news.ycombinator.com/item?id=48803364"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48804193",
+      "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
+      "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
+      "description": "",
+      "signals": {
+        "points": 172,
+        "num_comments": 118,
+        "discussion_url": "https://news.ycombinator.com/item?id=48804193"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48760424",
+      "title": "Introduction to Genomics for Engineers",
+      "url": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
+      "description": "",
+      "signals": {
+        "points": 157,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=48760424"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48804123",
+      "title": "How Kalshi Infects the News",
+      "url": "https://www.publicnotice.co/p/kalshi-cnn-cnbc",
+      "description": "",
+      "signals": {
+        "points": 148,
+        "num_comments": 102,
+        "discussion_url": "https://news.ycombinator.com/item?id=48804123"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48804297",
+      "title": "Aluminum foil (2021)",
+      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
+      "description": "",
+      "signals": {
+        "points": 118,
+        "num_comments": 41,
+        "discussion_url": "https://news.ycombinator.com/item?id=48804297"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48767211",
+      "title": "Clojure 1.13 adds support for checked keys",
+      "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
+      "description": "",
+      "signals": {
+        "points": 107,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48767211"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48805401",
+      "title": "Emily Bender Sets the Record Straight on \"Stochastic Parrots\"",
+      "url": "https://spectrum.ieee.org/stochastic-parrot",
+      "description": "",
+      "signals": {
+        "points": 100,
+        "num_comments": 114,
+        "discussion_url": "https://news.ycombinator.com/item?id=48805401"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48803762",
+      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
+      "url": "https://andonlabs.com/blog/fable5-vending-bench",
+      "description": "",
+      "signals": {
+        "points": 94,
+        "num_comments": 48,
+        "discussion_url": "https://news.ycombinator.com/item?id=48803762"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48803886",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "description": "",
+      "signals": {
+        "points": 90,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48803886"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48805564",
+      "title": "Do you need separate systems when you already have Postgres?",
+      "url": "https://postgresisenough.dev/",
+      "description": "",
+      "signals": {
+        "points": 86,
+        "num_comments": 47,
+        "discussion_url": "https://news.ycombinator.com/item?id=48805564"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48805624",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "description": "",
+      "signals": {
+        "points": 69,
+        "num_comments": 66,
+        "discussion_url": "https://news.ycombinator.com/item?id=48805624"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48805304",
+      "title": "DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat",
+      "url": "https://news.bloomberglaw.com/us-law-week/doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat",
+      "description": "",
+      "signals": {
+        "points": 57,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48805304"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48804017",
+      "title": "Why low-latency Java still requires discipline?",
+      "url": "https://chronicle.software/insights/blogs/why-low-latency-java-still-requires-discipline",
+      "description": "",
+      "signals": {
+        "points": 56,
+        "num_comments": 29,
+        "discussion_url": "https://news.ycombinator.com/item?id=48804017"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48757215",
+      "title": "The Complete Homemade Juggling Beanbag Guide",
+      "url": "https://www.joshuaclifton.com/juggle/",
+      "description": "",
+      "signals": {
+        "points": 56,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48757215"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48806151",
+      "title": "Car touchscreens are cheap, not good",
+      "url": "https://ben.stolovitz.com/posts/car-touchscreens-are-cheap-not-good/",
+      "description": "",
+      "signals": {
+        "points": 54,
+        "num_comments": 45,
+        "discussion_url": "https://news.ycombinator.com/item?id=48806151"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48743362",
+      "title": "Apricot Computers: An underrated British brand",
+      "url": "https://dfarq.homeip.net/apricot-computers-an-underrated-british-brand/",
+      "description": "",
+      "signals": {
+        "points": 51,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48743362"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48766949",
+      "title": "When 2+2=5",
+      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "description": "",
+      "signals": {
+        "points": 45,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=48766949"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48805652",
+      "title": "Multilingual Experience Linked to Delayed Aging in Populations and Individuals",
+      "url": "https://fens2026.abstractserver.com/program/#/details/presentations/5474",
+      "description": "",
+      "signals": {
+        "points": 30,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48805652"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48806073",
+      "title": "1k Words: A Writing Contest",
+      "url": "https://writingclub.world/1picture1000words",
+      "description": "",
+      "signals": {
+        "points": 29,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48806073"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48805985",
+      "title": "Electric anti-aircraft interceptor drone breaks world air speed record at 434mph",
+      "url": "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=48805985"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48799624",
+      "title": "Lost and Found",
+      "url": "https://walzr.com/lost-and-found",
+      "description": "",
+      "signals": {
+        "points": 24,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48799624"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48806560",
+      "title": "Union Busters Coming After Me",
+      "url": "https://www.nlrbedge.com/p/union-busters-coming-after-me",
+      "description": "",
+      "signals": {
+        "points": 23,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48806560"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47320921",
+      "title": "Making your JITted Code known: Let me count the ways",
+      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47320921"
+      },
+      "category_hint": null
+    }
+  ]
+}

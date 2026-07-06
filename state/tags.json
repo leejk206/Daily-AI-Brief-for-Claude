@@ -8528,7 +8528,7 @@
         "model-release",
         "voice-agent"
       ],
-      "tagged_at": "2026-06-20T12:14:45+09:00"
+      "tagged_at": "2026-07-07T02:00:09+09:00"
     },
     "https://huggingface.co/papers/2606.10423": {
       "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent",
@@ -9444,10 +9444,12 @@
       "source": "release_blogs",
       "brief_date": "2026-06-23",
       "tags": [
+        "agent-adoption",
         "cli-agent",
+        "coding-platform",
         "partnership"
       ],
-      "tagged_at": "2026-06-27T18:29:23+09:00"
+      "tagged_at": "2026-07-07T02:00:09+09:00"
     },
     "https://oak.space/oak/oak": {
       "title": "Show HN: Oak – Git alternative designed for agents",
@@ -10629,9 +10631,10 @@
       "brief_date": "2026-07-02",
       "tags": [
         "auto-research",
-        "model-release"
+        "model-release",
+        "open-weights"
       ],
-      "tagged_at": "2026-07-06T03:51:29+09:00"
+      "tagged_at": "2026-07-07T02:00:09+09:00"
     },
     "https://huggingface.co/papers/2606.30062": {
       "title": "Little Brains, Big Feats: Compact LMs",
@@ -10823,7 +10826,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-07-06T03:51:29+09:00"
+      "tagged_at": "2026-07-07T02:00:09+09:00"
     },
     "https://huggingface.co/papers/2607.01647": {
       "title": "AgenticDataBench: A Comprehensive Benchmark for Data Agents",
@@ -10835,7 +10838,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-07-03T21:34:34+09:00"
+      "tagged_at": "2026-07-07T02:00:09+09:00"
     },
     "https://huggingface.co/papers/2607.01211": {
       "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?",
@@ -10847,7 +10850,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-07-06T03:51:29+09:00"
+      "tagged_at": "2026-07-07T02:00:09+09:00"
     },
     "https://github.com/safishamsi/graphify": {
       "title": "safishamsi/graphify",
@@ -11052,7 +11055,7 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-07-06T03:51:29+09:00"
+      "tagged_at": "2026-07-07T02:00:09+09:00"
     },
     "https://github.com/hesreallyhim/awesome-claude-code": {
       "title": "hesreallyhim/awesome-claude-code",
@@ -11075,7 +11078,7 @@
         "agent-skill",
         "claude-code"
       ],
-      "tagged_at": "2026-07-06T03:51:29+09:00"
+      "tagged_at": "2026-07-07T02:00:09+09:00"
     },
     "https://github.com/steipete/CodexBar": {
       "title": "steipete/CodexBar",
@@ -11084,10 +11087,11 @@
       "source": "github_trending",
       "brief_date": "2026-07-06",
       "tags": [
+        "claude-code",
         "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-07-06T03:51:29+09:00"
+      "tagged_at": "2026-07-07T02:00:09+09:00"
     },
     "https://github.com/langchain-ai/openwiki": {
       "title": "langchain-ai/openwiki",
@@ -11110,6 +11114,106 @@
         "prompt-engineering"
       ],
       "tagged_at": "2026-07-06T03:51:29+09:00"
+    },
+    "https://twitter.com/thsottiaux/status/2073933490513752151": {
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "summary": "최상위 티어 Sol Ultra가 Codex에 통합",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-07-07",
+      "tags": [
+        "coding-platform",
+        "model-release"
+      ],
+      "tagged_at": "2026-07-07T02:00:09+09:00"
+    },
+    "https://andonlabs.com/blog/fable5-vending-bench": {
+      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
+      "summary": "Vending-Bench에서 Fable 5의 교묘한 오작동 포착",
+      "category": "llm-harness-eval",
+      "source": "hacker_news",
+      "brief_date": "2026-07-07",
+      "tags": [
+        "agent-harness",
+        "benchmark"
+      ],
+      "tagged_at": "2026-07-07T02:00:09+09:00"
+    },
+    "https://huggingface.co/papers/2606.31227": {
+      "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
+      "summary": "MCP·에이전트 스택 전반의 통합 레드팀 프레임워크",
+      "category": "mcp",
+      "source": "huggingface",
+      "brief_date": "2026-07-07",
+      "tags": [
+        "agent-harness",
+        "mcp-server",
+        "paper",
+        "security"
+      ],
+      "tagged_at": "2026-07-07T02:00:09+09:00"
+    },
+    "https://github.com/gastownhall/gastown": {
+      "title": "gastownhall/gastown",
+      "summary": "터미널 기반 멀티에이전트 워크스페이스 매니저",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-07-07",
+      "tags": [
+        "cli-agent",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-07-07T02:00:09+09:00"
+    },
+    "https://huggingface.co/papers/2606.27669": {
+      "title": "When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search",
+      "summary": "검색 에이전트의 되묻기 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-07",
+      "tags": [
+        "benchmark",
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-07-07T02:00:09+09:00"
+    },
+    "https://github.com/bradautomates/claude-video": {
+      "title": "bradautomates/claude-video",
+      "summary": "영상 다운·전사해 Claude에 투입",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-07-07",
+      "tags": [
+        "claude-code",
+        "tool-use"
+      ],
+      "tagged_at": "2026-07-07T02:00:09+09:00"
+    },
+    "https://huggingface.co/papers/2607.01002": {
+      "title": "Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads",
+      "summary": "롱컨텍스트 의미 기반 검색 헤드 규명",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-07-07",
+      "tags": [
+        "long-context",
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-07-07T02:00:09+09:00"
+    },
+    "https://huggingface.co/papers/2606.30562": {
+      "title": "Morphing into Hybrid Attention Models",
+      "summary": "풀·선형 어텐션 혼합 롱컨텍스트 효율화",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-07-07",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-07-07T02:00:09+09:00"
     }
   }
 }

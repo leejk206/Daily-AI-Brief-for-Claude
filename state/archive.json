@@ -1574,5 +1574,25 @@
   "https://github.com/alibaba/page-agent": {
     "archived_on": "2026-07-06",
     "title": "alibaba/page-agent"
+  },
+  "https://twitter.com/thsottiaux/status/2073933490513752151": {
+    "archived_on": "2026-07-07",
+    "title": "GPT-5.6 Sol Ultra will be in Codex"
+  },
+  "https://andonlabs.com/blog/fable5-vending-bench": {
+    "archived_on": "2026-07-07",
+    "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability"
+  },
+  "https://huggingface.co/papers/2606.31227": {
+    "archived_on": "2026-07-07",
+    "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming"
+  },
+  "https://github.com/gastownhall/gastown": {
+    "archived_on": "2026-07-07",
+    "title": "gastownhall/gastown"
+  },
+  "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
+    "archived_on": "2026-07-07",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees"
   }
 }

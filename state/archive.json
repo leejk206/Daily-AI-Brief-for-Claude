@@ -1594,5 +1594,25 @@
   "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
     "archived_on": "2026-07-07",
     "title": "Samsung Electronics brings ChatGPT and Codex to employees"
+  },
+  "https://www.anthropic.com/news/alberta-government-claude-cybersecurity": {
+    "archived_on": "2026-07-08",
+    "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems"
+  },
+  "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
+    "archived_on": "2026-07-08",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip"
+  },
+  "https://github.com/iOfficeAI/OfficeCLI": {
+    "archived_on": "2026-07-08",
+    "title": "iOfficeAI/OfficeCLI"
+  },
+  "https://github.com/TencentCloud/CubeSandbox": {
+    "archived_on": "2026-07-08",
+    "title": "TencentCloud/CubeSandbox"
+  },
+  "https://github.com/dotnet/skills": {
+    "archived_on": "2026-07-08",
+    "title": "dotnet/skills"
   }
 }

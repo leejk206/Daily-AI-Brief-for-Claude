@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-07-08T04:21:20+09:00",
+  "items": [
+    {
+      "id": "hn:48816883",
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "url": "https://streetcomplete.app/",
+      "description": "",
+      "signals": {
+        "points": 503,
+        "num_comments": 118,
+        "discussion_url": "https://news.ycombinator.com/item?id=48816883"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48816959",
+      "title": "98% isn't much",
+      "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+      "description": "",
+      "signals": {
+        "points": 390,
+        "num_comments": 260,
+        "discussion_url": "https://news.ycombinator.com/item?id=48816959"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48819008",
+      "title": "Chat Control passed first round in EU Parliament",
+      "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "description": "",
+      "signals": {
+        "points": 378,
+        "num_comments": 167,
+        "discussion_url": "https://news.ycombinator.com/item?id=48819008"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48816956",
+      "title": "A better way to tie gym shorts (or any drawstring) [video]",
+      "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+      "description": "",
+      "signals": {
+        "points": 352,
+        "num_comments": 131,
+        "discussion_url": "https://news.ycombinator.com/item?id=48816956"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48819244",
+      "title": "Microsoft fire idTech team at Id software",
+      "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+      "description": "",
+      "signals": {
+        "points": 351,
+        "num_comments": 346,
+        "discussion_url": "https://news.ycombinator.com/item?id=48819244"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48818963",
+      "title": "Amazon without the knockoffs",
+      "url": "https://knockoff.shopping/",
+      "description": "",
+      "signals": {
+        "points": 226,
+        "num_comments": 158,
+        "discussion_url": "https://news.ycombinator.com/item?id=48818963"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48818311",
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "description": "",
+      "signals": {
+        "points": 159,
+        "num_comments": 27,
+        "discussion_url": "https://news.ycombinator.com/item?id=48818311"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48819608",
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://30papers.com/",
+      "description": "",
+      "signals": {
+        "points": 147,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=48819608"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48820220",
+      "title": "China sentences official to death for taking $325M in bribes",
+      "url": "https://www.bbc.com/news/articles/c33y0n1v1xjo",
+      "description": "",
+      "signals": {
+        "points": 129,
+        "num_comments": 147,
+        "discussion_url": "https://news.ycombinator.com/item?id=48820220"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48818544",
+      "title": "The revenge of the philosophy majors",
+      "url": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
+      "description": "",
+      "signals": {
+        "points": 87,
+        "num_comments": 130,
+        "discussion_url": "https://news.ycombinator.com/item?id=48818544"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48820274",
+      "title": "Mapping homes you can buy from the US government for <$100k",
+      "url": "https://govauctions.app/research/cheapest-homes-in-america",
+      "description": "",
+      "signals": {
+        "points": 81,
+        "num_comments": 73,
+        "discussion_url": "https://news.ycombinator.com/item?id=48820274"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48816900",
+      "title": "Show HN: PostgreSQL performance and cost across 23 EC2 instance types",
+      "url": "https://postgres.saneengineer.com",
+      "description": "",
+      "signals": {
+        "points": 73,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48816900"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48815982",
+      "title": "Why skilled workers come to Germany and then leave again",
+      "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+      "description": "",
+      "signals": {
+        "points": 70,
+        "num_comments": 142,
+        "discussion_url": "https://news.ycombinator.com/item?id=48815982"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48819308",
+      "title": "Why we built yet another Postgres connection pooler",
+      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+      "description": "",
+      "signals": {
+        "points": 56,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48819308"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48820119",
+      "title": "Jim's TrueType QR Code Font",
+      "url": "https://github.com/jimparis/qr-font",
+      "description": "",
+      "signals": {
+        "points": 53,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48820119"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48821653",
+      "title": "Astro 7.0",
+      "url": "https://astro.build/blog/astro-7/",
+      "description": "",
+      "signals": {
+        "points": 51,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48821653"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48818937",
+      "title": "Automating AI Away",
+      "url": "https://replicated.live/blog/away",
+      "description": "",
+      "signals": {
+        "points": 49,
+        "num_comments": 27,
+        "discussion_url": "https://news.ycombinator.com/item?id=48818937"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48820022",
+      "title": "MacSurf 1.68 – NetSurf on OS 9 Released",
+      "url": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
+      "description": "",
+      "signals": {
+        "points": 43,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48820022"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48821378",
+      "title": "A new runtime for k and q: l",
+      "url": "https://lv1.sh/",
+      "description": "",
+      "signals": {
+        "points": 29,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48821378"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48799930",
+      "title": "GitHub Freno: cooperative, highly available throttler service",
+      "url": "https://github.com/github/freno",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48799930"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48791505",
+      "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
+      "url": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48791505"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48820127",
+      "title": "Reducing Doom Loops with Final Token Preference Optimization",
+      "url": "https://www.liquid.ai/blog/antidoom",
+      "description": "",
+      "signals": {
+        "points": 15,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48820127"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48821576",
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "description": "",
+      "signals": {
+        "points": 15,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48821576"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48754476",
+      "title": "Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]",
+      "url": "https://cccg.ca/proceedings/2008/paper34full.pdf",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48754476"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48821803",
+      "title": "Ask HN: Is GitHub preparing to go behind a login wall?",
+      "url": "https://news.ycombinator.com/item?id=48821803",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=48821803"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48821500",
+      "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+      "url": "https://github.com/kklimuk/docx-cli",
+      "description": "",
+      "signals": {
+        "points": 10,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48821500"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48821749",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "description": "",
+      "signals": {
+        "points": 10,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48821749"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    }
+  ]
+}

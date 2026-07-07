@@ -5,48 +5,6 @@
     "days": 2,
     "title": "alibaba/page-agent"
   },
-  "https://quesma.com/blog/qwen-36-is-awesome/": {
-    "first_seen": "2026-06-30",
-    "last_seen": "2026-06-30",
-    "days": 1,
-    "title": "Qwen 3.6 27B is the sweet spot for local development"
-  },
-  "https://github.com/google/agents-cli": {
-    "first_seen": "2026-06-30",
-    "last_seen": "2026-06-30",
-    "days": 1,
-    "title": "google/agents-cli"
-  },
-  "https://longcat.chat/blog/longcat-2.0/": {
-    "first_seen": "2026-06-30",
-    "last_seen": "2026-06-30",
-    "days": 1,
-    "title": "LongCat-2.0"
-  },
-  "https://github.com/msitarzewski/agency-agents": {
-    "first_seen": "2026-06-30",
-    "last_seen": "2026-06-30",
-    "days": 1,
-    "title": "msitarzewski/agency-agents"
-  },
-  "https://github.com/browser-use/video-use": {
-    "first_seen": "2026-06-30",
-    "last_seen": "2026-06-30",
-    "days": 1,
-    "title": "browser-use/video-use"
-  },
-  "https://huggingface.co/papers/2606.29537": {
-    "first_seen": "2026-06-30",
-    "last_seen": "2026-06-30",
-    "days": 1,
-    "title": "OSWorld2.0"
-  },
-  "https://huggingface.co/papers/2606.28480": {
-    "first_seen": "2026-06-30",
-    "last_seen": "2026-06-30",
-    "days": 1,
-    "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents"
-  },
   "https://github.com/diegosouzapw/OmniRoute": {
     "first_seen": "2026-06-30",
     "last_seen": "2026-07-01",
@@ -96,8 +54,8 @@
     "title": "Leanstral 1.5"
   },
   "https://openai.com/index/introducing-genebench-pro": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
     "days": 1,
     "title": "Introducing GeneBench-Pro"
   },
@@ -108,8 +66,8 @@
     "title": "0xNyk/council-of-high-intelligence"
   },
   "https://github.com/TencentCloud/CubeSandbox": {
-    "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
     "days": 1,
     "title": "TencentCloud/CubeSandbox"
   },
@@ -175,8 +133,8 @@
   },
   "https://huggingface.co/InternScience/Agents-A1": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-07",
-    "days": 3,
+    "last_seen": "2026-07-08",
+    "days": 4,
     "title": "InternScience/Agents-A1"
   },
   "https://huggingface.co/papers/2606.30062": {
@@ -396,8 +354,8 @@
     "title": "HealthAgentBench"
   },
   "https://github.com/hesreallyhim/awesome-claude-code": {
-    "first_seen": "2026-07-06",
-    "last_seen": "2026-07-06",
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
     "days": 1,
     "title": "hesreallyhim/awesome-claude-code"
   },
@@ -409,8 +367,8 @@
   },
   "https://github.com/steipete/CodexBar": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-07-07",
-    "days": 2,
+    "last_seen": "2026-07-08",
+    "days": 3,
     "title": "steipete/CodexBar"
   },
   "https://github.com/langchain-ai/openwiki": {
@@ -469,8 +427,8 @@
   },
   "https://github.com/bradautomates/claude-video": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
-    "days": 1,
+    "last_seen": "2026-07-08",
+    "days": 2,
     "title": "bradautomates/claude-video"
   },
   "https://huggingface.co/papers/2607.01002": {
@@ -484,5 +442,41 @@
     "last_seen": "2026-07-07",
     "days": 1,
     "title": "Morphing into Hybrid Attention Models"
+  },
+  "https://www.anthropic.com/news/alberta-government-claude-cybersecurity": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "days": 1,
+    "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems"
+  },
+  "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "days": 1,
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip"
+  },
+  "https://github.com/iOfficeAI/OfficeCLI": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "days": 1,
+    "title": "iOfficeAI/OfficeCLI"
+  },
+  "https://github.com/dotnet/skills": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "days": 1,
+    "title": "dotnet/skills"
+  },
+  "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "days": 1,
+    "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem"
+  },
+  "https://openai.com/index/australian-payments-plus": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "days": 1,
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex"
   }
 }

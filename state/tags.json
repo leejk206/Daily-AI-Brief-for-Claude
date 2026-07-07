@@ -4374,7 +4374,7 @@
         "agent-skill",
         "coding-platform"
       ],
-      "tagged_at": "2026-05-24T20:38:34+09:00"
+      "tagged_at": "2026-07-08T04:25:22+09:00"
     },
     "https://github.com/Lum1104/Understand-Anything": {
       "title": "Lum1104/Understand-Anything",
@@ -8855,7 +8855,7 @@
       "tags": [
         "partnership"
       ],
-      "tagged_at": "2026-06-18T14:37:50+09:00"
+      "tagged_at": "2026-07-08T04:25:22+09:00"
     },
     "https://github.com/DeusData/codebase-memory-mcp": {
       "title": "codebase-memory-mcp",
@@ -10088,7 +10088,7 @@
         "hardware",
         "partnership"
       ],
-      "tagged_at": "2026-06-27T18:29:23+09:00"
+      "tagged_at": "2026-07-08T04:25:22+09:00"
     },
     "https://blog.doubleword.ai/frontier-os-llm": {
       "title": "The gap between open weights LLMs and closed source LLMs",
@@ -10476,7 +10476,7 @@
         "auto-research",
         "benchmark"
       ],
-      "tagged_at": "2026-07-05T20:05:48+09:00"
+      "tagged_at": "2026-07-08T04:25:22+09:00"
     },
     "https://github.com/0xNyk/council-of-high-intelligence": {
       "title": "0xNyk/council-of-high-intelligence",
@@ -10500,7 +10500,7 @@
         "agent-harness",
         "security"
       ],
-      "tagged_at": "2026-07-03T21:34:34+09:00"
+      "tagged_at": "2026-07-08T04:25:22+09:00"
     },
     "https://huggingface.co/papers/2606.23127": {
       "title": "Managing Procedural Memory in LLM Agents",
@@ -10634,7 +10634,7 @@
         "model-release",
         "open-weights"
       ],
-      "tagged_at": "2026-07-07T02:00:09+09:00"
+      "tagged_at": "2026-07-08T04:25:22+09:00"
     },
     "https://huggingface.co/papers/2606.30062": {
       "title": "Little Brains, Big Feats: Compact LMs",
@@ -11064,9 +11064,10 @@
       "source": "github_trending",
       "brief_date": "2026-07-06",
       "tags": [
+        "agent-skill",
         "claude-code"
       ],
-      "tagged_at": "2026-07-06T03:51:29+09:00"
+      "tagged_at": "2026-07-08T04:25:22+09:00"
     },
     "https://github.com/alirezarezvani/claude-skills": {
       "title": "alirezarezvani/claude-skills",
@@ -11091,7 +11092,7 @@
         "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-07-07T02:00:09+09:00"
+      "tagged_at": "2026-07-08T04:25:22+09:00"
     },
     "https://github.com/langchain-ai/openwiki": {
       "title": "langchain-ai/openwiki",
@@ -11188,7 +11189,7 @@
         "claude-code",
         "tool-use"
       ],
-      "tagged_at": "2026-07-07T02:00:09+09:00"
+      "tagged_at": "2026-07-08T04:25:22+09:00"
     },
     "https://huggingface.co/papers/2607.01002": {
       "title": "Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads",
@@ -11214,6 +11215,41 @@
         "paper"
       ],
       "tagged_at": "2026-07-07T02:00:09+09:00"
+    },
+    "https://www.anthropic.com/news/alberta-government-claude-cybersecurity": {
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "summary": "공공기관의 실전 Claude 보안 활용 사례",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-07-08",
+      "tags": [
+        "agent-adoption",
+        "security"
+      ],
+      "tagged_at": "2026-07-08T04:25:22+09:00"
+    },
+    "https://github.com/iOfficeAI/OfficeCLI": {
+      "title": "iOfficeAI/OfficeCLI",
+      "summary": "AI 에이전트용 오피스 편집 CLI",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-07-08",
+      "tags": [
+        "cli-agent",
+        "tool-use"
+      ],
+      "tagged_at": "2026-07-08T04:25:22+09:00"
+    },
+    "https://openai.com/index/australian-payments-plus": {
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "summary": "결제 인프라 기업의 Codex 도입 사례",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-07-08",
+      "tags": [
+        "agent-adoption"
+      ],
+      "tagged_at": "2026-07-08T04:25:22+09:00"
     }
   }
 }

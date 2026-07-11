@@ -1614,5 +1614,25 @@
   "https://github.com/dotnet/skills": {
     "archived_on": "2026-07-08",
     "title": "dotnet/skills"
+  },
+  "https://openai.com/index/gpt-5-6": {
+    "archived_on": "2026-07-12",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition"
+  },
+  "https://github.com/wonderwhy-er/DesktopCommanderMCP": {
+    "archived_on": "2026-07-12",
+    "title": "wonderwhy-er/DesktopCommanderMCP"
+  },
+  "https://openai.com/index/chatgpt-for-your-most-ambitious-work": {
+    "archived_on": "2026-07-12",
+    "title": "ChatGPT is now a partner for your most ambitious work"
+  },
+  "https://openai.com/index/separating-signal-from-noise-coding-evaluations": {
+    "archived_on": "2026-07-12",
+    "title": "Separating signal from noise in coding evaluations"
+  },
+  "https://github.com/davila7/claude-code-templates": {
+    "archived_on": "2026-07-12",
+    "title": "davila7/claude-code-templates"
   }
 }

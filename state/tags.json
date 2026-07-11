@@ -750,9 +750,10 @@
       "brief_date": "2026-04-29",
       "tags": [
         "claude-code",
-        "cli-agent"
+        "cli-agent",
+        "coding-platform"
       ],
-      "tagged_at": "2026-05-09T10:21:02+09:00"
+      "tagged_at": "2026-07-12T07:10:32+09:00"
     },
     "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote": {
       "title": "Who owns the code Claude Code wrote?",
@@ -11250,6 +11251,183 @@
         "agent-adoption"
       ],
       "tagged_at": "2026-07-08T04:25:22+09:00"
+    },
+    "https://openai.com/index/gpt-5-6": {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "OpenAI 차세대 플래그십 정식 출시",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "model-release"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
+    },
+    "https://github.com/wonderwhy-er/DesktopCommanderMCP": {
+      "title": "wonderwhy-er/DesktopCommanderMCP",
+      "summary": "터미널·파일 제어 MCP 서버, 하루 900스타 폭발",
+      "category": "mcp",
+      "source": "github_trending",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "claude-code",
+        "mcp-server",
+        "tool-use"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
+    },
+    "https://openai.com/index/chatgpt-for-your-most-ambitious-work": {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "summary": "앱·파일 넘나드는 장시간 에이전트 'ChatGPT Work'",
+      "category": "agent-frameworks",
+      "source": "release_blogs",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "tool-use"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
+    },
+    "https://openai.com/index/separating-signal-from-noise-coding-evaluations": {
+      "title": "Separating signal from noise in coding evaluations",
+      "summary": "SWE-Bench Pro 신뢰성 문제 제기한 OpenAI 분석",
+      "category": "llm-harness-eval",
+      "source": "release_blogs",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "benchmark"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
+    },
+    "https://openai.com/index/introducing-gpt-live": {
+      "title": "Introducing GPT-Live",
+      "summary": "ChatGPT 음성용 차세대 보이스 모델군",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "model-release",
+        "voice-agent"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
+    },
+    "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": {
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "summary": "Word·Excel·PowerPoint 기본 모델로 채택",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "model-access",
+        "partnership"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
+    },
+    "https://www.anthropic.com/news/ben-bernanke": {
+      "title": "Ben Bernanke appointed to Anthropic's Long-Term Benefit Trust",
+      "summary": "前 연준 의장, LTBT 합류",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "governance"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
+    },
+    "https://www.anthropic.com/news/ust-claude": {
+      "title": "UST is bringing Claude to physical AI",
+      "summary": "Claude를 피지컬 AI 영역으로 확장",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "agent-adoption",
+        "partnership"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
+    },
+    "https://huggingface.co/papers/2607.06624": {
+      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+      "summary": "통과 여부 1비트가 아닌 전체 궤적을 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
+    },
+    "https://huggingface.co/papers/2607.06065": {
+      "title": "SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review",
+      "summary": "PR 생성 루프에 에이전트 코드리뷰 결합",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
+    },
+    "https://huggingface.co/papers/2607.08768": {
+      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "summary": "실세계 도구 사용 능동 에이전트 벤치",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
+    },
+    "https://github.com/google-labs-code/stitch-skills": {
+      "title": "google-labs-code/stitch-skills",
+      "summary": "Stitch MCP 서버 연동 Agent Skills 라이브러리",
+      "category": "mcp",
+      "source": "github_trending",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "agent-skill",
+        "mcp-server"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
+    },
+    "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/": {
+      "title": "I used to love Claude, but the latest models are slowly ruining it",
+      "summary": "최신 모델 변화에 대한 코딩 사용자 반발",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "claude-code"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
+    },
+    "https://huggingface.co/papers/2607.07740": {
+      "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
+      "summary": "사전학습 윈도 초과 롱컨텍스트 확장 기법",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
+    },
+    "https://huggingface.co/papers/2607.08716": {
+      "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+      "summary": "긴 궤적에 흩어진 상태를 선제적으로 회수",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-07-12",
+      "tags": [
+        "agent-memory",
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-07-12T07:10:32+09:00"
     }
   }
 }

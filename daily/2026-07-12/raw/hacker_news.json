@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-07-12T07:06:54+09:00",
+  "items": [
+    {
+      "id": "hn:48865019",
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "description": "",
+      "signals": {
+        "points": 1539,
+        "num_comments": 864,
+        "discussion_url": "https://news.ycombinator.com/item?id=48865019"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48866134",
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "description": "",
+      "signals": {
+        "points": 377,
+        "num_comments": 168,
+        "discussion_url": "https://news.ycombinator.com/item?id=48866134"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48873692",
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "description": "",
+      "signals": {
+        "points": 180,
+        "num_comments": 68,
+        "discussion_url": "https://news.ycombinator.com/item?id=48873692"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48873940",
+      "title": "Prefer strict tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "description": "",
+      "signals": {
+        "points": 161,
+        "num_comments": 63,
+        "discussion_url": "https://news.ycombinator.com/item?id=48873940"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48872874",
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "description": "",
+      "signals": {
+        "points": 153,
+        "num_comments": 24,
+        "discussion_url": "https://news.ycombinator.com/item?id=48872874"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48873424",
+      "title": "Modern decor may be straining people's brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "description": "",
+      "signals": {
+        "points": 152,
+        "num_comments": 162,
+        "discussion_url": "https://news.ycombinator.com/item?id=48873424"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48874200",
+      "title": "AI 2040 and the cult of intelligence",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "description": "",
+      "signals": {
+        "points": 150,
+        "num_comments": 172,
+        "discussion_url": "https://news.ycombinator.com/item?id=48874200"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48875377",
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "description": "",
+      "signals": {
+        "points": 106,
+        "num_comments": 44,
+        "discussion_url": "https://news.ycombinator.com/item?id=48875377"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48873836",
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "description": "",
+      "signals": {
+        "points": 97,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48873836"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48841348",
+      "title": "Book: RISC-V System-on-Chip Design",
+      "url": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
+      "description": "",
+      "signals": {
+        "points": 92,
+        "num_comments": 40,
+        "discussion_url": "https://news.ycombinator.com/item?id=48841348"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48825612",
+      "title": "Google Search lets creators know more about their reach",
+      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+      "description": "",
+      "signals": {
+        "points": 87,
+        "num_comments": 41,
+        "discussion_url": "https://news.ycombinator.com/item?id=48825612"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48871973",
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "url": "https://shipthatcode.com",
+      "description": "",
+      "signals": {
+        "points": 83,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48871973"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48872858",
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "description": "",
+      "signals": {
+        "points": 74,
+        "num_comments": 39,
+        "discussion_url": "https://news.ycombinator.com/item?id=48872858"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48873855",
+      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "description": "",
+      "signals": {
+        "points": 73,
+        "num_comments": 30,
+        "discussion_url": "https://news.ycombinator.com/item?id=48873855"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48874357",
+      "title": "How to hide from killer drones",
+      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+      "description": "",
+      "signals": {
+        "points": 72,
+        "num_comments": 88,
+        "discussion_url": "https://news.ycombinator.com/item?id=48874357"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48874182",
+      "title": "Who manages the agents?",
+      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+      "description": "",
+      "signals": {
+        "points": 65,
+        "num_comments": 70,
+        "discussion_url": "https://news.ycombinator.com/item?id=48874182"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48820361",
+      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+      "description": "",
+      "signals": {
+        "points": 62,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48820361"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48822441",
+      "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
+      "url": "https://amber-lang.com/",
+      "description": "",
+      "signals": {
+        "points": 58,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48822441"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48873457",
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "description": "",
+      "signals": {
+        "points": 57,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48873457"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48830191",
+      "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts",
+      "url": "https://www.atariarchives.org/deli/",
+      "description": "",
+      "signals": {
+        "points": 45,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48830191"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48799624",
+      "title": "Lost and Found",
+      "url": "https://walzr.com/lost-and-found",
+      "description": "",
+      "signals": {
+        "points": 44,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=48799624"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48865903",
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "description": "",
+      "signals": {
+        "points": 43,
+        "num_comments": 24,
+        "discussion_url": "https://news.ycombinator.com/item?id=48865903"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48875153",
+      "title": "The Chinese Voice Actor Forced to Prove He's Human",
+      "url": "https://www.sixthtone.com/news/1018753",
+      "description": "",
+      "signals": {
+        "points": 37,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48875153"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48873501",
+      "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+      "url": "https://nagylukas.github.io/orbit.html",
+      "description": "",
+      "signals": {
+        "points": 36,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48873501"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48873417",
+      "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
+      "url": "https://github.com/swellweb/reame",
+      "description": "",
+      "signals": {
+        "points": 24,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48873417"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48874297",
+      "title": "ZeroFS vs. Amazon S3 Files",
+      "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
+      "description": "",
+      "signals": {
+        "points": 22,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=48874297"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48875494",
+      "title": "I used to love Claude, but the latest models are slowly ruining it",
+      "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48875494"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48873486",
+      "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
+      "url": "https://github.com/skorotkiewicz/earth-game",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48873486"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48832274",
+      "title": "Taiwan's Lost 8-Bit Computer [video]",
+      "url": "https://www.youtube.com/watch?v=IZH1rR7WogI",
+      "description": "",
+      "signals": {
+        "points": 15,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48832274"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

@@ -1,6 +1,0 @@
-github_trending:0
-hacker_news:0
-huggingface:0
-release_blogs:0
-anthropic_news:0
-dcinside:0

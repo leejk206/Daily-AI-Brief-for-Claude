@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis"
+  },
+  {
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
+  },
+  {
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "title": "Old and new apps, via modern coding agents"
+  },
+  {
+    "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+    "title": "Dicklesworthstone/destructive_command_guard"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.07953",
+    "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing"
+  }
+]

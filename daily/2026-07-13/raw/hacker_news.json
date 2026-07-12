@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-07-13T06:25:56+09:00",
+  "items": [
+    {
+      "id": "hn:48877371",
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "description": "",
+      "signals": {
+        "points": 381,
+        "num_comments": 153,
+        "discussion_url": "https://news.ycombinator.com/item?id=48877371"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48880170",
+      "title": "Old and new apps, via modern coding agents",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "description": "",
+      "signals": {
+        "points": 380,
+        "num_comments": 105,
+        "discussion_url": "https://news.ycombinator.com/item?id=48880170"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48883275",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "description": "",
+      "signals": {
+        "points": 287,
+        "num_comments": 156,
+        "discussion_url": "https://news.ycombinator.com/item?id=48883275"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48854168",
+      "title": "Vint Cerf, “father of the Internet”, is retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "description": "",
+      "signals": {
+        "points": 271,
+        "num_comments": 153,
+        "discussion_url": "https://news.ycombinator.com/item?id=48854168"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48879504",
+      "title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "url": "https://dakra.github.io/ghostel/",
+      "description": "",
+      "signals": {
+        "points": 249,
+        "num_comments": 43,
+        "discussion_url": "https://news.ycombinator.com/item?id=48879504"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48882056",
+      "title": "How to read more books",
+      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+      "description": "",
+      "signals": {
+        "points": 212,
+        "num_comments": 117,
+        "discussion_url": "https://news.ycombinator.com/item?id=48882056"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48883343",
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "description": "",
+      "signals": {
+        "points": 202,
+        "num_comments": 112,
+        "discussion_url": "https://news.ycombinator.com/item?id=48883343"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48881874",
+      "title": "The shingles vaccine may reduce the risk of dementia",
+      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "description": "",
+      "signals": {
+        "points": 174,
+        "num_comments": 134,
+        "discussion_url": "https://news.ycombinator.com/item?id=48881874"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48881830",
+      "title": "Don't you mean extinct?",
+      "url": "https://fabiensanglard.net/extinct/index.html",
+      "description": "",
+      "signals": {
+        "points": 156,
+        "num_comments": 83,
+        "discussion_url": "https://news.ycombinator.com/item?id=48881830"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48880499",
+      "title": "Understanding the Odin programming language",
+      "url": "https://odinbook.com/",
+      "description": "",
+      "signals": {
+        "points": 136,
+        "num_comments": 74,
+        "discussion_url": "https://news.ycombinator.com/item?id=48880499"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48882569",
+      "title": "LARP – Revenue infrastructure for serious founders",
+      "url": "https://www.larp.website/",
+      "description": "",
+      "signals": {
+        "points": 86,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=48882569"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48882554",
+      "title": "Automation Without Understanding",
+      "url": "https://arxiv.org/abs/2607.06377",
+      "description": "",
+      "signals": {
+        "points": 71,
+        "num_comments": 34,
+        "discussion_url": "https://news.ycombinator.com/item?id=48882554"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48861923",
+      "title": "Why write code in 2026",
+      "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
+      "description": "",
+      "signals": {
+        "points": 60,
+        "num_comments": 110,
+        "discussion_url": "https://news.ycombinator.com/item?id=48861923"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48882956",
+      "title": "Against Usefulness",
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "description": "",
+      "signals": {
+        "points": 60,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48882956"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48884395",
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "description": "",
+      "signals": {
+        "points": 58,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48884395"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48884322",
+      "title": "Irish datacenters now guzzle 23% of the country's electricity",
+      "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+      "description": "",
+      "signals": {
+        "points": 57,
+        "num_comments": 31,
+        "discussion_url": "https://news.ycombinator.com/item?id=48884322"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48882097",
+      "title": "Why study Diophantine equations?",
+      "url": "https://hidden-phenomena.com/articles/modular",
+      "description": "",
+      "signals": {
+        "points": 55,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=48882097"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48884052",
+      "title": "Neocities: Create your own free website",
+      "url": "https://neocities.org/",
+      "description": "",
+      "signals": {
+        "points": 52,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48884052"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48882716",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "description": "",
+      "signals": {
+        "points": 47,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=48882716"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48881967",
+      "title": "The power of collaboration: How we can reduce traffic congestion",
+      "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+      "description": "",
+      "signals": {
+        "points": 44,
+        "num_comments": 35,
+        "discussion_url": "https://news.ycombinator.com/item?id=48881967"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48883238",
+      "title": "I Learned to Read Again",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "description": "",
+      "signals": {
+        "points": 44,
+        "num_comments": 15,
+        "discussion_url": "https://news.ycombinator.com/item?id=48883238"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48822234",
+      "title": "Deir El-Medina Strikes",
+      "url": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes",
+      "description": "",
+      "signals": {
+        "points": 36,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48822234"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48882034",
+      "title": "Croc: Securely transfer files and folders between two computers",
+      "url": "https://github.com/schollz/croc/",
+      "description": "",
+      "signals": {
+        "points": 31,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=48882034"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48883415",
+      "title": "The One-Step Trap (In AI Research)",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48883415"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48884853",
+      "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48884853"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48884100",
+      "title": "Defining new Jax types with hijax",
+      "url": "https://docs.jax.dev/en/latest/hijax_types.html",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=48884100"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47320921",
+      "title": "Making your JITted Code known: Let me count the ways",
+      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47320921"
+      },
+      "category_hint": null
+    }
+  ]
+}

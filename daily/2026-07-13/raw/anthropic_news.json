@@ -1,0 +1,116 @@
+{
+  "source": "anthropic_news",
+  "fetched_at": "2026-07-13T06:26:01+09:00",
+  "items": [
+    {
+      "id": "anthropic:redeploying-fable-5",
+      "title": "Redeploying Fable 5",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "description": "Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 30, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:claude-sonnet-5",
+      "title": "Introducing Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "description": "Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 30, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:claude-science-ai-workbench",
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "description": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 30, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:ust-claude",
+      "title": "UST is bringing Claude to physical AI",
+      "url": "https://www.anthropic.com/news/ust-claude",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 9, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:hard-questions",
+      "title": "Inviting hard questions",
+      "url": "https://www.anthropic.com/news/hard-questions",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 9, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:ben-bernanke",
+      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 9, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:reflect-with-claude",
+      "title": "Introducing a way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 9, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:alberta-government-claude-cybersecurity",
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 6, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:fable-safeguards-jailbreak-framework",
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 2, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:introducing-claude-tag",
+      "title": "Introducing Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 23, 2026"
+      },
+      "category_hint": null
+    }
+  ]
+}

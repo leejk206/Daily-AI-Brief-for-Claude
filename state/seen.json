@@ -12,8 +12,8 @@
     "title": "Claude Science, an AI workbench for scientists"
   },
   "https://openai.com/index/introducing-genebench-pro": {
-    "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
     "days": 1,
     "title": "Introducing GeneBench-Pro"
   },
@@ -53,83 +53,17 @@
     "days": 3,
     "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?"
   },
-  "https://huggingface.co/papers/2607.02255": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
-    "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents"
-  },
   "https://huggingface.co/papers/2607.01071": {
     "first_seen": "2026-07-06",
     "last_seen": "2026-07-06",
     "days": 1,
     "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory"
   },
-  "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
-    "title": "Better Models: Worse Tools"
-  },
-  "https://arxiv.org/abs/2605.21997": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
-    "title": "The Log Is the Agent"
-  },
-  "https://github.com/CoplayDev/unity-mcp": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
-    "title": "CoplayDev/unity-mcp"
-  },
-  "https://github.com/asgeirtj/system_prompts_leaks": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
-    "title": "asgeirtj/system_prompts_leaks"
-  },
-  "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
-    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable"
-  },
-  "https://www.anthropic.com/news/anthropic-public-record": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
-    "title": "Results from the first Anthropic Public Record"
-  },
   "https://huggingface.co/papers/2606.28430": {
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-06",
     "days": 2,
     "title": "Building to the Test: Coding Agents Deliver What You Check, Not What You Requested"
-  },
-  "https://huggingface.co/papers/2607.00152": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
-    "title": "GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number"
-  },
-  "https://github.com/openai/codex/issues/30364": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
-    "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance"
-  },
-  "https://hic-ai.com": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
-    "title": "Mouse: Precision Editing Tools for AI Coding Agents"
-  },
-  "https://github.com/anthropics/claude-code/issues/74066": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-05",
-    "days": 1,
-    "title": "Potential session/cache leakage between workspace instances"
   },
   "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/": {
     "first_seen": "2026-07-06",
@@ -307,44 +241,44 @@
   },
   "https://openai.com/index/introducing-gpt-live": {
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
+    "last_seen": "2026-07-13",
+    "days": 2,
     "title": "Introducing GPT-Live"
   },
   "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": {
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
+    "last_seen": "2026-07-13",
+    "days": 2,
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot"
   },
   "https://www.anthropic.com/news/ben-bernanke": {
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
+    "last_seen": "2026-07-13",
+    "days": 2,
     "title": "Ben Bernanke appointed to Anthropic's Long-Term Benefit Trust"
   },
   "https://www.anthropic.com/news/ust-claude": {
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
+    "last_seen": "2026-07-13",
+    "days": 2,
     "title": "UST is bringing Claude to physical AI"
   },
   "https://huggingface.co/papers/2607.06624": {
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
+    "last_seen": "2026-07-13",
+    "days": 2,
     "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation"
   },
   "https://huggingface.co/papers/2607.06065": {
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
+    "last_seen": "2026-07-13",
+    "days": 2,
     "title": "SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review"
   },
   "https://huggingface.co/papers/2607.08768": {
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
+    "last_seen": "2026-07-13",
+    "days": 2,
     "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks"
   },
   "https://github.com/google-labs-code/stitch-skills": {
@@ -361,14 +295,110 @@
   },
   "https://huggingface.co/papers/2607.07740": {
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
+    "last_seen": "2026-07-13",
+    "days": 2,
     "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE"
   },
   "https://huggingface.co/papers/2607.08716": {
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
+    "last_seen": "2026-07-13",
+    "days": 2,
     "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents"
+  },
+  "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis"
+  },
+  "https://systima.ai/blog/claude-code-vs-opencode-token-overhead": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
+  },
+  "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "Old and new apps, via modern coding agents"
+  },
+  "https://github.com/Dicklesworthstone/destructive_command_guard": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "Dicklesworthstone/destructive_command_guard"
+  },
+  "https://huggingface.co/papers/2607.07953": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing"
+  },
+  "https://www.anthropic.com/news/reflect-with-claude": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "Introducing a way to reflect on how you use Claude"
+  },
+  "https://www.anthropic.com/news/hard-questions": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "Inviting hard questions"
+  },
+  "https://github.com/Shubhamsaboo/awesome-llm-apps": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "Shubhamsaboo/awesome-llm-apps"
+  },
+  "https://huggingface.co/papers/2606.30111": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "Automating the Design of Embodied Agent Architectures"
+  },
+  "https://huggingface.co/papers/2607.07508": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning"
+  },
+  "https://huggingface.co/papers/2607.08093": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents"
+  },
+  "https://github.com/Nutlope/hallmark": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "Nutlope/hallmark"
+  },
+  "https://github.com/ColeMurray/background-agents": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "ColeMurray/background-agents"
+  },
+  "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper"
+  },
+  "https://huggingface.co/papers/2607.07386": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity"
+  },
+  "https://huggingface.co/papers/2607.04412": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "days": 1,
+    "title": "LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL"
   }
 }

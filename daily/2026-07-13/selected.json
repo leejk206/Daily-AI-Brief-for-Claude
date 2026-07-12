@@ -1,0 +1,106 @@
+[
+  {
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis"
+  },
+  {
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
+  },
+  {
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "title": "Old and new apps, via modern coding agents"
+  },
+  {
+    "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+    "title": "Dicklesworthstone/destructive_command_guard"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.07953",
+    "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "title": "Introducing GPT-Live"
+  },
+  {
+    "url": "https://www.anthropic.com/news/reflect-with-claude",
+    "title": "Introducing a way to reflect on how you use Claude"
+  },
+  {
+    "url": "https://www.anthropic.com/news/hard-questions",
+    "title": "Inviting hard questions"
+  },
+  {
+    "url": "https://www.anthropic.com/news/ben-bernanke",
+    "title": "Ben Bernanke appointed to Anthropic's Long-Term Benefit Trust"
+  },
+  {
+    "url": "https://www.anthropic.com/news/ust-claude",
+    "title": "UST is bringing Claude to physical AI"
+  },
+  {
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "title": "Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "url": "https://huggingface.co/papers/2606.30111",
+    "title": "Automating the Design of Embodied Agent Architectures"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.07508",
+    "title": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.08716",
+    "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.06624",
+    "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.08768",
+    "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.08093",
+    "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents"
+  },
+  {
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "title": "Introducing GeneBench-Pro"
+  },
+  {
+    "url": "https://github.com/Nutlope/hallmark",
+    "title": "Nutlope/hallmark"
+  },
+  {
+    "url": "https://github.com/ColeMurray/background-agents",
+    "title": "ColeMurray/background-agents"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.06065",
+    "title": "SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review"
+  },
+  {
+    "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.07386",
+    "title": "Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.07740",
+    "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.04412",
+    "title": "LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL"
+  }
+]

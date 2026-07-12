@@ -10477,7 +10477,7 @@
         "auto-research",
         "benchmark"
       ],
-      "tagged_at": "2026-07-08T04:25:22+09:00"
+      "tagged_at": "2026-07-13T06:30:40+09:00"
     },
     "https://github.com/0xNyk/council-of-high-intelligence": {
       "title": "0xNyk/council-of-high-intelligence",
@@ -11308,7 +11308,7 @@
         "model-release",
         "voice-agent"
       ],
-      "tagged_at": "2026-07-12T07:10:32+09:00"
+      "tagged_at": "2026-07-13T06:30:40+09:00"
     },
     "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
@@ -11317,10 +11317,11 @@
       "source": "release_blogs",
       "brief_date": "2026-07-12",
       "tags": [
+        "agent-adoption",
         "model-access",
         "partnership"
       ],
-      "tagged_at": "2026-07-12T07:10:32+09:00"
+      "tagged_at": "2026-07-13T06:30:40+09:00"
     },
     "https://www.anthropic.com/news/ben-bernanke": {
       "title": "Ben Bernanke appointed to Anthropic's Long-Term Benefit Trust",
@@ -11331,7 +11332,7 @@
       "tags": [
         "governance"
       ],
-      "tagged_at": "2026-07-12T07:10:32+09:00"
+      "tagged_at": "2026-07-13T06:30:40+09:00"
     },
     "https://www.anthropic.com/news/ust-claude": {
       "title": "UST is bringing Claude to physical AI",
@@ -11343,7 +11344,7 @@
         "agent-adoption",
         "partnership"
       ],
-      "tagged_at": "2026-07-12T07:10:32+09:00"
+      "tagged_at": "2026-07-13T06:30:40+09:00"
     },
     "https://huggingface.co/papers/2607.06624": {
       "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
@@ -11353,9 +11354,10 @@
       "brief_date": "2026-07-12",
       "tags": [
         "benchmark",
+        "cli-agent",
         "paper"
       ],
-      "tagged_at": "2026-07-12T07:10:32+09:00"
+      "tagged_at": "2026-07-13T06:30:40+09:00"
     },
     "https://huggingface.co/papers/2607.06065": {
       "title": "SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review",
@@ -11365,9 +11367,10 @@
       "brief_date": "2026-07-12",
       "tags": [
         "benchmark",
+        "cli-agent",
         "paper"
       ],
-      "tagged_at": "2026-07-12T07:10:32+09:00"
+      "tagged_at": "2026-07-13T06:30:40+09:00"
     },
     "https://huggingface.co/papers/2607.08768": {
       "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
@@ -11377,9 +11380,10 @@
       "brief_date": "2026-07-12",
       "tags": [
         "benchmark",
-        "paper"
+        "paper",
+        "tool-use"
       ],
-      "tagged_at": "2026-07-12T07:10:32+09:00"
+      "tagged_at": "2026-07-13T06:30:40+09:00"
     },
     "https://github.com/google-labs-code/stitch-skills": {
       "title": "google-labs-code/stitch-skills",
@@ -11414,7 +11418,7 @@
         "long-context",
         "paper"
       ],
-      "tagged_at": "2026-07-12T07:10:32+09:00"
+      "tagged_at": "2026-07-13T06:30:40+09:00"
     },
     "https://huggingface.co/papers/2607.08716": {
       "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
@@ -11427,7 +11431,203 @@
         "long-context",
         "paper"
       ],
-      "tagged_at": "2026-07-12T07:10:32+09:00"
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547": {
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "summary": "코딩 CLI가 코드·시크릿을 통째로 전송한다는 실측 분석",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "agent-harness",
+        "cli-agent",
+        "security"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://systima.ai/blog/claude-code-vs-opencode-token-overhead": {
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "summary": "하네스별 시스템 프롬프트 오버헤드 실측, 컨텍스트 비용 직결",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "agent-harness",
+        "claude-code",
+        "cli-agent",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/": {
+      "title": "Old and new apps, via modern coding agents",
+      "summary": "테렌스 타오가 코딩 에이전트로 앱을 만든 실전 기록",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "agent-adoption",
+        "cli-agent"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://github.com/Dicklesworthstone/destructive_command_guard": {
+      "title": "Dicklesworthstone/destructive_command_guard",
+      "summary": "에이전트의 위험한 git·shell 명령을 차단하는 가드레일, 하루 444스타",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "agent-harness",
+        "cli-agent",
+        "security"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://huggingface.co/papers/2607.07953": {
+      "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing",
+      "summary": "롱컨텍스트 비용을 줄이는 선형 어텐션 4종 비교 분석",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://www.anthropic.com/news/reflect-with-claude": {
+      "title": "Introducing a way to reflect on how you use Claude",
+      "summary": "사용자가 자신의 Claude 사용 패턴을 되돌아보는 기능",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "agent-adoption"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://www.anthropic.com/news/hard-questions": {
+      "title": "Inviting hard questions",
+      "summary": "Anthropic이 자사에 대한 어려운 질문을 공개 초청",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "governance"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://github.com/Shubhamsaboo/awesome-llm-apps": {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "summary": "바로 돌려보는 AI 에이전트·RAG 앱 100선, 하루 450스타",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "retrieval",
+        "tutorial"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://huggingface.co/papers/2606.30111": {
+      "title": "Automating the Design of Embodied Agent Architectures",
+      "summary": "지각·메모리·계획 모듈 구성을 자동 탐색하는 연구",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "auto-research",
+        "paper"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://huggingface.co/papers/2607.07508": {
+      "title": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning",
+      "summary": "롱호라이즌 에이전트용 비동기 RL 파이프라인",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://huggingface.co/papers/2607.08093": {
+      "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
+      "summary": "데이터사이언스 에이전트의 인과추론을 재는 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://github.com/Nutlope/hallmark": {
+      "title": "Nutlope/hallmark",
+      "summary": "Claude Code·Cursor·Codex용 안티 AI-슬롭 디자인 스킬",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "agent-skill",
+        "claude-code",
+        "frontend"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://github.com/ColeMurray/background-agents": {
+      "title": "ColeMurray/background-agents",
+      "summary": "오픈소스 백그라운드 코딩 에이전트 시스템",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6": {
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "summary": "프로덕션 에이전트를 GPT-5.6으로 옮긴 실측 리포트",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "agent-adoption",
+        "model-routing"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://huggingface.co/papers/2607.07386": {
+      "title": "Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity",
+      "summary": "희소성으로 선형 어텐션의 롱컨텍스트 회상력을 키움",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
+    },
+    "https://huggingface.co/papers/2607.04412": {
+      "title": "LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL",
+      "summary": "학습 중 프롬프트 자체를 정책에 맞춰 적응시키는 RL",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-07-13",
+      "tags": [
+        "paper",
+        "prompt-engineering",
+        "rl"
+      ],
+      "tagged_at": "2026-07-13T06:30:40+09:00"
     }
   }
 }

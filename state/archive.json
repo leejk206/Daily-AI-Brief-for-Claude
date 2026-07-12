@@ -1634,5 +1634,25 @@
   "https://github.com/davila7/claude-code-templates": {
     "archived_on": "2026-07-12",
     "title": "davila7/claude-code-templates"
+  },
+  "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547": {
+    "archived_on": "2026-07-13",
+    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis"
+  },
+  "https://systima.ai/blog/claude-code-vs-opencode-token-overhead": {
+    "archived_on": "2026-07-13",
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
+  },
+  "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/": {
+    "archived_on": "2026-07-13",
+    "title": "Old and new apps, via modern coding agents"
+  },
+  "https://github.com/Dicklesworthstone/destructive_command_guard": {
+    "archived_on": "2026-07-13",
+    "title": "Dicklesworthstone/destructive_command_guard"
+  },
+  "https://huggingface.co/papers/2607.07953": {
+    "archived_on": "2026-07-13",
+    "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing"
   }
 }

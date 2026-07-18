@@ -1,0 +1,174 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-07-18T12:55:20+09:00",
+  "items": [
+    {
+      "id": "github:codecrafters-io/build-your-own-x",
+      "title": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "signals": {
+        "stars": 527513,
+        "stars_today": 1068,
+        "language": "Markdown"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:PostHog/posthog",
+      "title": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "signals": {
+        "stars": 36242,
+        "stars_today": 438,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:HenryNdubuaku/maths-cs-ai-compendium",
+      "title": "HenryNdubuaku/maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "signals": {
+        "stars": 6683,
+        "stars_today": 200,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Nutlope/hallmark",
+      "title": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "signals": {
+        "stars": 12156,
+        "stars_today": 1485,
+        "language": "CSS"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:github/copilot-sdk",
+      "title": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "signals": {
+        "stars": 9815,
+        "stars_today": 233,
+        "language": "Java"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:anthropics/cwc-workshops",
+      "title": "anthropics/cwc-workshops",
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "description": "",
+      "signals": {
+        "stars": 1613,
+        "stars_today": 45,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:PrismML-Eng/Bonsai-demo",
+      "title": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "signals": {
+        "stars": 1728,
+        "stars_today": 278,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:protocolbuffers/protobuf",
+      "title": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "signals": {
+        "stars": 71549,
+        "stars_today": 11,
+        "language": "C++"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:tirth8205/code-review-graph",
+      "title": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "signals": {
+        "stars": 19807,
+        "stars_today": 74,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:docusealco/docuseal",
+      "title": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "signals": {
+        "stars": 17888,
+        "stars_today": 91,
+        "language": "Ruby"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:openinterpreter/openinterpreter",
+      "title": "openinterpreter/openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "signals": {
+        "stars": 66428,
+        "stars_today": 431,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:RyanCodrai/turbovec",
+      "title": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "signals": {
+        "stars": 13370,
+        "stars_today": 280,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:HKUDS/DeepTutor",
+      "title": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "signals": {
+        "stars": 27420,
+        "stars_today": 531,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:OpenCut-app/OpenCut",
+      "title": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "signals": {
+        "stars": 74961,
+        "stars_today": 1074,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    }
+  ]
+}

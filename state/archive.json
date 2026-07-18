@@ -1654,5 +1654,25 @@
   "https://huggingface.co/papers/2607.07953": {
     "archived_on": "2026-07-13",
     "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing"
+  },
+  "https://simonwillison.net/2026/Jul/16/kimi-k3/": {
+    "archived_on": "2026-07-18",
+    "title": "Kimi K3 (Moonshot)"
+  },
+  "https://openai.com/index/unlocking-self-improvement-gpt-red": {
+    "archived_on": "2026-07-18",
+    "title": "GPT-Red: 자기개선 로버스트니스"
+  },
+  "https://github.com/Nutlope/hallmark": {
+    "archived_on": "2026-07-18",
+    "title": "hallmark"
+  },
+  "https://github.com/tirth8205/code-review-graph": {
+    "archived_on": "2026-07-18",
+    "title": "code-review-graph"
+  },
+  "https://huggingface.co/papers/2607.13027": {
+    "archived_on": "2026-07-18",
+    "title": "PalmClaw"
   }
 }

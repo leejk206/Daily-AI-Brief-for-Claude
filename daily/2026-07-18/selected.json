@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+    "title": "Kimi K3 (Moonshot)"
+  },
+  {
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "title": "GPT-Red: 자기개선 로버스트니스"
+  },
+  {
+    "url": "https://github.com/Nutlope/hallmark",
+    "title": "hallmark"
+  },
+  {
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "title": "code-review-graph"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.13027",
+    "title": "PalmClaw"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "title": "Introducing GPT-Live"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.13104",
+    "title": "Self-Improvements in Modern Agentic Systems: A Survey"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.14777",
+    "title": "SEED: Self-Evolving On-Policy Distillation"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.13705",
+    "title": "AgentCompass"
+  },
+  {
+    "url": "https://huggingface.co/papers/2605.10834",
+    "title": "From Controlled to the Wild: Pentesting Agents"
+  },
+  {
+    "url": "https://github.com/openinterpreter/openinterpreter",
+    "title": "openinterpreter"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.13921",
+    "title": "Generative Compilation"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.10463",
+    "title": "GRASP: Agentic RAG 검색 정책"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.14952",
+    "title": "LongStraw: 2M 토큰 초과 롱컨텍스트 RL"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.09786",
+    "title": "Length Penalties Make CoT Less Monitorable"
+  }
+]

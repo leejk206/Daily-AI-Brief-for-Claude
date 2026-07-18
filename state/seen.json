@@ -1,213 +1,9 @@
 {
-  "https://github.com/alibaba/page-agent": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-06",
-    "days": 2,
-    "title": "alibaba/page-agent"
-  },
-  "https://www.anthropic.com/news/claude-science-ai-workbench": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-06",
-    "days": 2,
-    "title": "Claude Science, an AI workbench for scientists"
-  },
   "https://openai.com/index/introducing-genebench-pro": {
     "first_seen": "2026-07-13",
     "last_seen": "2026-07-13",
     "days": 1,
     "title": "Introducing GeneBench-Pro"
-  },
-  "https://github.com/TencentCloud/CubeSandbox": {
-    "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
-    "days": 1,
-    "title": "TencentCloud/CubeSandbox"
-  },
-  "https://huggingface.co/InternScience/Agents-A1": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-08",
-    "days": 4,
-    "title": "InternScience/Agents-A1"
-  },
-  "https://github.com/openai/codex-plugin-cc": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-06",
-    "days": 2,
-    "title": "openai/codex-plugin-cc"
-  },
-  "https://huggingface.co/papers/2607.02032": {
-    "first_seen": "2026-07-06",
-    "last_seen": "2026-07-07",
-    "days": 2,
-    "title": "PACE: A Proxy for Agentic Capability Evaluation"
-  },
-  "https://huggingface.co/papers/2607.01647": {
-    "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
-    "days": 1,
-    "title": "AgenticDataBench: A Comprehensive Benchmark for Data Agents"
-  },
-  "https://huggingface.co/papers/2607.01211": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-07",
-    "days": 3,
-    "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?"
-  },
-  "https://huggingface.co/papers/2607.01071": {
-    "first_seen": "2026-07-06",
-    "last_seen": "2026-07-06",
-    "days": 1,
-    "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory"
-  },
-  "https://huggingface.co/papers/2606.28430": {
-    "first_seen": "2026-07-05",
-    "last_seen": "2026-07-06",
-    "days": 2,
-    "title": "Building to the Test: Coding Agents Deliver What You Check, Not What You Requested"
-  },
-  "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/": {
-    "first_seen": "2026-07-06",
-    "last_seen": "2026-07-06",
-    "days": 1,
-    "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough"
-  },
-  "https://huggingface.co/papers/2607.01874": {
-    "first_seen": "2026-07-06",
-    "last_seen": "2026-07-06",
-    "days": 1,
-    "title": "SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use"
-  },
-  "https://huggingface.co/papers/2606.31179": {
-    "first_seen": "2026-07-06",
-    "last_seen": "2026-07-07",
-    "days": 2,
-    "title": "HealthAgentBench"
-  },
-  "https://github.com/hesreallyhim/awesome-claude-code": {
-    "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
-    "days": 1,
-    "title": "hesreallyhim/awesome-claude-code"
-  },
-  "https://github.com/alirezarezvani/claude-skills": {
-    "first_seen": "2026-07-06",
-    "last_seen": "2026-07-07",
-    "days": 2,
-    "title": "alirezarezvani/claude-skills"
-  },
-  "https://github.com/steipete/CodexBar": {
-    "first_seen": "2026-07-06",
-    "last_seen": "2026-07-08",
-    "days": 3,
-    "title": "steipete/CodexBar"
-  },
-  "https://github.com/langchain-ai/openwiki": {
-    "first_seen": "2026-07-06",
-    "last_seen": "2026-07-06",
-    "days": 1,
-    "title": "langchain-ai/openwiki"
-  },
-  "https://github.com/OthmanAdi/planning-with-files": {
-    "first_seen": "2026-07-06",
-    "last_seen": "2026-07-06",
-    "days": 1,
-    "title": "OthmanAdi/planning-with-files"
-  },
-  "https://twitter.com/thsottiaux/status/2073933490513752151": {
-    "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
-    "days": 1,
-    "title": "GPT-5.6 Sol Ultra will be in Codex"
-  },
-  "https://andonlabs.com/blog/fable5-vending-bench": {
-    "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
-    "days": 1,
-    "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability"
-  },
-  "https://huggingface.co/papers/2606.31227": {
-    "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
-    "days": 1,
-    "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming"
-  },
-  "https://github.com/gastownhall/gastown": {
-    "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
-    "days": 1,
-    "title": "gastownhall/gastown"
-  },
-  "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
-    "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
-    "days": 1,
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees"
-  },
-  "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": {
-    "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
-    "days": 1,
-    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate"
-  },
-  "https://huggingface.co/papers/2606.27669": {
-    "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
-    "days": 1,
-    "title": "When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search"
-  },
-  "https://github.com/bradautomates/claude-video": {
-    "first_seen": "2026-07-07",
-    "last_seen": "2026-07-08",
-    "days": 2,
-    "title": "bradautomates/claude-video"
-  },
-  "https://huggingface.co/papers/2607.01002": {
-    "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
-    "days": 1,
-    "title": "Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads"
-  },
-  "https://huggingface.co/papers/2606.30562": {
-    "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
-    "days": 1,
-    "title": "Morphing into Hybrid Attention Models"
-  },
-  "https://www.anthropic.com/news/alberta-government-claude-cybersecurity": {
-    "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
-    "days": 1,
-    "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems"
-  },
-  "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
-    "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
-    "days": 1,
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip"
-  },
-  "https://github.com/iOfficeAI/OfficeCLI": {
-    "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
-    "days": 1,
-    "title": "iOfficeAI/OfficeCLI"
-  },
-  "https://github.com/dotnet/skills": {
-    "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
-    "days": 1,
-    "title": "dotnet/skills"
-  },
-  "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem": {
-    "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
-    "days": 1,
-    "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem"
-  },
-  "https://openai.com/index/australian-payments-plus": {
-    "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
-    "days": 1,
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex"
   },
   "https://openai.com/index/gpt-5-6": {
     "first_seen": "2026-07-12",
@@ -240,9 +36,9 @@
     "title": "davila7/claude-code-templates"
   },
   "https://openai.com/index/introducing-gpt-live": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-13",
-    "days": 2,
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "days": 1,
     "title": "Introducing GPT-Live"
   },
   "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": {
@@ -372,10 +168,10 @@
     "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents"
   },
   "https://github.com/Nutlope/hallmark": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
     "days": 1,
-    "title": "Nutlope/hallmark"
+    "title": "hallmark"
   },
   "https://github.com/ColeMurray/background-agents": {
     "first_seen": "2026-07-13",
@@ -400,5 +196,83 @@
     "last_seen": "2026-07-13",
     "days": 1,
     "title": "LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL"
+  },
+  "https://simonwillison.net/2026/Jul/16/kimi-k3/": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "days": 1,
+    "title": "Kimi K3 (Moonshot)"
+  },
+  "https://openai.com/index/unlocking-self-improvement-gpt-red": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "days": 1,
+    "title": "GPT-Red: 자기개선 로버스트니스"
+  },
+  "https://github.com/tirth8205/code-review-graph": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "days": 1,
+    "title": "code-review-graph"
+  },
+  "https://huggingface.co/papers/2607.13027": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "days": 1,
+    "title": "PalmClaw"
+  },
+  "https://huggingface.co/papers/2607.13104": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "days": 1,
+    "title": "Self-Improvements in Modern Agentic Systems: A Survey"
+  },
+  "https://huggingface.co/papers/2607.14777": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "days": 1,
+    "title": "SEED: Self-Evolving On-Policy Distillation"
+  },
+  "https://huggingface.co/papers/2607.13705": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "days": 1,
+    "title": "AgentCompass"
+  },
+  "https://huggingface.co/papers/2605.10834": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "days": 1,
+    "title": "From Controlled to the Wild: Pentesting Agents"
+  },
+  "https://github.com/openinterpreter/openinterpreter": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "days": 1,
+    "title": "openinterpreter"
+  },
+  "https://huggingface.co/papers/2607.13921": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "days": 1,
+    "title": "Generative Compilation"
+  },
+  "https://huggingface.co/papers/2607.10463": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "days": 1,
+    "title": "GRASP: Agentic RAG 검색 정책"
+  },
+  "https://huggingface.co/papers/2607.14952": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "days": 1,
+    "title": "LongStraw: 2M 토큰 초과 롱컨텍스트 RL"
+  },
+  "https://huggingface.co/papers/2607.09786": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "days": 1,
+    "title": "Length Penalties Make CoT Less Monitorable"
   }
 }

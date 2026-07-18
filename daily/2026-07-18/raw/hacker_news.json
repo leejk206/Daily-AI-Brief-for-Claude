@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-07-18T12:55:21+09:00",
+  "items": [
+    {
+      "id": "hn:48945241",
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "description": "",
+      "signals": {
+        "points": 1084,
+        "num_comments": 656,
+        "discussion_url": "https://news.ycombinator.com/item?id=48945241"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48949551",
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "description": "",
+      "signals": {
+        "points": 421,
+        "num_comments": 42,
+        "discussion_url": "https://news.ycombinator.com/item?id=48949551"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48947560",
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "description": "",
+      "signals": {
+        "points": 397,
+        "num_comments": 237,
+        "discussion_url": "https://news.ycombinator.com/item?id=48947560"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48947825",
+      "title": "The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "description": "",
+      "signals": {
+        "points": 393,
+        "num_comments": 287,
+        "discussion_url": "https://news.ycombinator.com/item?id=48947825"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48952880",
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "description": "",
+      "signals": {
+        "points": 366,
+        "num_comments": 243,
+        "discussion_url": "https://news.ycombinator.com/item?id=48952880"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48947717",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "description": "",
+      "signals": {
+        "points": 291,
+        "num_comments": 154,
+        "discussion_url": "https://news.ycombinator.com/item?id=48947717"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48947490",
+      "title": "Three ways people respond to a problem (other than solving it)",
+      "url": "https://improvesomething.today/responses-to-problems/",
+      "description": "",
+      "signals": {
+        "points": 210,
+        "num_comments": 116,
+        "discussion_url": "https://news.ycombinator.com/item?id=48947490"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48950122",
+      "title": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "description": "",
+      "signals": {
+        "points": 184,
+        "num_comments": 44,
+        "discussion_url": "https://news.ycombinator.com/item?id=48950122"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48951461",
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "description": "",
+      "signals": {
+        "points": 182,
+        "num_comments": 55,
+        "discussion_url": "https://news.ycombinator.com/item?id=48951461"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48947548",
+      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "url": "https://honeypotlive.cc/",
+      "description": "",
+      "signals": {
+        "points": 147,
+        "num_comments": 52,
+        "discussion_url": "https://news.ycombinator.com/item?id=48947548"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48952439",
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "description": "",
+      "signals": {
+        "points": 142,
+        "num_comments": 75,
+        "discussion_url": "https://news.ycombinator.com/item?id=48952439"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48947201",
+      "title": "More Bounce to the Ounce",
+      "url": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
+      "description": "",
+      "signals": {
+        "points": 119,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=48947201"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48896149",
+      "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
+      "url": "https://prathosh.in/vagdhenu/",
+      "description": "",
+      "signals": {
+        "points": 92,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48896149"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48887102",
+      "title": "Frank Lloyd Wright’s first home",
+      "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
+      "description": "",
+      "signals": {
+        "points": 88,
+        "num_comments": 44,
+        "discussion_url": "https://news.ycombinator.com/item?id=48887102"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48950518",
+      "title": "Lego building instructions through time",
+      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+      "description": "",
+      "signals": {
+        "points": 80,
+        "num_comments": 13,
+        "discussion_url": "https://news.ycombinator.com/item?id=48950518"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48952135",
+      "title": "Open Book Touch: open-source e-reader",
+      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+      "description": "",
+      "signals": {
+        "points": 77,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=48952135"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48950774",
+      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+      "url": "https://app.everything.diena.co/",
+      "description": "",
+      "signals": {
+        "points": 65,
+        "num_comments": 27,
+        "discussion_url": "https://news.ycombinator.com/item?id=48950774"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48951898",
+      "title": "Static search trees: 40x faster than binary search (2024)",
+      "url": "https://curiouscoding.nl/posts/static-search-tree/",
+      "description": "",
+      "signals": {
+        "points": 64,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48951898"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48951780",
+      "title": "Painting the sides of railroad rails white to reduce derailment",
+      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+      "description": "",
+      "signals": {
+        "points": 62,
+        "num_comments": 27,
+        "discussion_url": "https://news.ycombinator.com/item?id=48951780"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48949184",
+      "title": "Designing emoji for the way we communicate today",
+      "url": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
+      "description": "",
+      "signals": {
+        "points": 61,
+        "num_comments": 77,
+        "discussion_url": "https://news.ycombinator.com/item?id=48949184"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48910579",
+      "title": "MoonBASIC: A modern BASIC for building 2D and 3D games",
+      "url": "https://github.com/CharmingBlaze/moonbasic",
+      "description": "",
+      "signals": {
+        "points": 58,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=48910579"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48952565",
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "description": "",
+      "signals": {
+        "points": 58,
+        "num_comments": 10,
+        "discussion_url": "https://news.ycombinator.com/item?id=48952565"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48952067",
+      "title": "Topcoat: The full full-stack framework for Rust",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "description": "",
+      "signals": {
+        "points": 55,
+        "num_comments": 31,
+        "discussion_url": "https://news.ycombinator.com/item?id=48952067"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48953406",
+      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "description": "",
+      "signals": {
+        "points": 49,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48953406"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48954149",
+      "title": "I Started a \"Dirt Notebook\"",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "description": "",
+      "signals": {
+        "points": 26,
+        "num_comments": 18,
+        "discussion_url": "https://news.ycombinator.com/item?id=48954149"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48954175",
+      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+      "url": "https://moonstone.sh/",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48954175"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48953981",
+      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+      "url": "https://www.stenchill.com/en/",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=48953981"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48906171",
+      "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
+      "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
+      "description": "",
+      "signals": {
+        "points": 16,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48906171"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-07-23T20:26:35+09:00",
+  "items": [
+    {
+      "id": "hn:49010345",
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "description": "",
+      "signals": {
+        "points": 913,
+        "num_comments": 528,
+        "discussion_url": "https://news.ycombinator.com/item?id=49010345"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49008211",
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/",
+      "description": "",
+      "signals": {
+        "points": 866,
+        "num_comments": 196,
+        "discussion_url": "https://news.ycombinator.com/item?id=49008211"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49012070",
+      "title": "John C. Dvorak has died",
+      "url": "https://twitter.com/na_announce/status/2079952538040672302",
+      "description": "",
+      "signals": {
+        "points": 775,
+        "num_comments": 259,
+        "discussion_url": "https://news.ycombinator.com/item?id=49012070"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49010129",
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "description": "",
+      "signals": {
+        "points": 566,
+        "num_comments": 218,
+        "discussion_url": "https://news.ycombinator.com/item?id=49010129"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49010167",
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "description": "",
+      "signals": {
+        "points": 525,
+        "num_comments": 110,
+        "discussion_url": "https://news.ycombinator.com/item?id=49010167"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49005747",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "description": "",
+      "signals": {
+        "points": 494,
+        "num_comments": 495,
+        "discussion_url": "https://news.ycombinator.com/item?id=49005747"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49010648",
+      "title": "Everyone should know SIMD",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "description": "",
+      "signals": {
+        "points": 460,
+        "num_comments": 166,
+        "discussion_url": "https://news.ycombinator.com/item?id=49010648"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49005787",
+      "title": "The startup's Postgres survival guide",
+      "url": "https://hatchet.run/blog/postgres-survival-guide",
+      "description": "",
+      "signals": {
+        "points": 425,
+        "num_comments": 196,
+        "discussion_url": "https://news.ycombinator.com/item?id=49005787"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49007247",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "description": "",
+      "signals": {
+        "points": 385,
+        "num_comments": 145,
+        "discussion_url": "https://news.ycombinator.com/item?id=49007247"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49008440",
+      "title": "Making",
+      "url": "https://beej.us/blog/data/ai-making/",
+      "description": "",
+      "signals": {
+        "points": 376,
+        "num_comments": 146,
+        "discussion_url": "https://news.ycombinator.com/item?id=49008440"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49005973",
+      "title": "Businesses with ugly AI menu redesigns",
+      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "description": "",
+      "signals": {
+        "points": 314,
+        "num_comments": 218,
+        "discussion_url": "https://news.ycombinator.com/item?id=49005973"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48917135",
+      "title": "Nobody knows what a used GPU cluster is worth",
+      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
+      "description": "",
+      "signals": {
+        "points": 241,
+        "num_comments": 220,
+        "discussion_url": "https://news.ycombinator.com/item?id=48917135"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48991882",
+      "title": "git's –end-of-options Flag",
+      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "description": "",
+      "signals": {
+        "points": 159,
+        "num_comments": 93,
+        "discussion_url": "https://news.ycombinator.com/item?id=48991882"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49010782",
+      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+      "url": "https://github.com/cactus-compute/cactus-hybrid",
+      "description": "",
+      "signals": {
+        "points": 150,
+        "num_comments": 31,
+        "discussion_url": "https://news.ycombinator.com/item?id=49010782"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49012777",
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+      "description": "",
+      "signals": {
+        "points": 127,
+        "num_comments": 39,
+        "discussion_url": "https://news.ycombinator.com/item?id=49012777"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49014007",
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+      "description": "",
+      "signals": {
+        "points": 127,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=49014007"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49013538",
+      "title": "Malleable Computing, Emacs, and You",
+      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "description": "",
+      "signals": {
+        "points": 117,
+        "num_comments": 32,
+        "discussion_url": "https://news.ycombinator.com/item?id=49013538"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49017265",
+      "title": "Amiga 1000: Ten years ahead of its time",
+      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+      "description": "",
+      "signals": {
+        "points": 94,
+        "num_comments": 79,
+        "discussion_url": "https://news.ycombinator.com/item?id=49017265"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49015635",
+      "title": "Protecting our FLOSS commons from LLMs",
+      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+      "description": "",
+      "signals": {
+        "points": 86,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=49015635"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48990219",
+      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+      "description": "",
+      "signals": {
+        "points": 81,
+        "num_comments": 50,
+        "discussion_url": "https://news.ycombinator.com/item?id=48990219"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48983076",
+      "title": "Making ASCII Art in Vim",
+      "url": "https://alexyang.dev/vim-ascii-art/",
+      "description": "",
+      "signals": {
+        "points": 74,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=48983076"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49017344",
+      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+      "description": "",
+      "signals": {
+        "points": 69,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=49017344"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48977463",
+      "title": "Why malloc always does more than I asked for?",
+      "url": "https://ssenthilnathan3.github.io/blog/malloc/",
+      "description": "",
+      "signals": {
+        "points": 44,
+        "num_comments": 33,
+        "discussion_url": "https://news.ycombinator.com/item?id=48977463"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49019220",
+      "title": "EU fines Google €890M for competition breaches over search and apps",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=49019220"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48989006",
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "description": "",
+      "signals": {
+        "points": 25,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=48989006"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49019301",
+      "title": "Code mode yields a 99.2% cost reduction in our systems",
+      "url": "https://www.agent-swarm.dev/blog/code-mode-token-savings",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=49019301"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47320921",
+      "title": "Making your JITted Code known: Let me count the ways",
+      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47320921"
+      },
+      "category_hint": null
+    }
+  ]
+}

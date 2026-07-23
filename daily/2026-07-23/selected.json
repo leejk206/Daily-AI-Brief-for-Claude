@@ -1,0 +1,19 @@
+[
+  {"url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/", "title": "Gemini 3.6 Flash·3.5 Flash-Lite·3.5 Flash Cyber 공개"},
+  {"url": "https://huggingface.co/papers/2607.16617", "title": "DataFlow-Harness"},
+  {"url": "https://github.com/ayghri/i-have-adhd", "title": "ayghri/i-have-adhd"},
+  {"url": "https://huggingface.co/papers/2607.18754", "title": "AgentDebugX"},
+  {"url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/", "title": "MCP 서버 ANSI 이스케이프 인젝션"},
+  {"url": "https://huggingface.co/papers/2607.15550", "title": "SeerGuard"},
+  {"url": "https://huggingface.co/papers/2607.14186", "title": "NexForge"},
+  {"url": "https://huggingface.co/papers/2607.15434", "title": "Coercion and Deception in AI-to-AI Management"},
+  {"url": "https://dylancastillo.co/posts/pelicanmaxxing.html", "title": "Are AI labs pelicanmaxxing?"},
+  {"url": "https://huggingface.co/papers/2607.19322", "title": "GAMUT"},
+  {"url": "https://huggingface.co/papers/2607.18529", "title": "EduPanel"},
+  {"url": "https://github.com/ComposioHQ/awesome-claude-skills", "title": "ComposioHQ/awesome-claude-skills"},
+  {"url": "https://github.com/agegr/pi-web", "title": "agegr/pi-web"},
+  {"url": "https://github.com/diegosouzapw/OmniRoute", "title": "diegosouzapw/OmniRoute"},
+  {"url": "https://huggingface.co/papers/2607.19747", "title": "Beyond Relevance-Centric Retrieval"},
+  {"url": "https://huggingface.co/papers/2607.18603", "title": "AutoIndex"},
+  {"url": "https://huggingface.co/papers/2607.07050", "title": "Diagnosing Tool-Call Boundary Drift"}
+]

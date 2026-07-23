@@ -109,10 +109,10 @@ AI 기반 취약점 탐지·보안 분석·코드 보안
 ### governance
 AI 랩 거버넌스·이사회·트러스트·감독 체계
 
-## Candidate
-
 ### world-model
 에이전트·로보틱스용 월드모델·환경 시뮬레이션 모델
+
+## Candidate
 
 ### hardware
 AI 가속기·추론 칩·반도체 인프라

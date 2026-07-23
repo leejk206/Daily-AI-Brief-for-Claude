@@ -1,201 +1,15 @@
 {
-  "https://openai.com/index/introducing-genebench-pro": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "Introducing GeneBench-Pro"
-  },
-  "https://openai.com/index/gpt-5-6": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition"
-  },
-  "https://github.com/wonderwhy-er/DesktopCommanderMCP": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
-    "title": "wonderwhy-er/DesktopCommanderMCP"
-  },
-  "https://openai.com/index/chatgpt-for-your-most-ambitious-work": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
-    "title": "ChatGPT is now a partner for your most ambitious work"
-  },
-  "https://openai.com/index/separating-signal-from-noise-coding-evaluations": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
-    "title": "Separating signal from noise in coding evaluations"
-  },
-  "https://github.com/davila7/claude-code-templates": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
-    "title": "davila7/claude-code-templates"
-  },
   "https://openai.com/index/introducing-gpt-live": {
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
     "days": 1,
     "title": "Introducing GPT-Live"
   },
-  "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-13",
-    "days": 2,
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot"
-  },
-  "https://www.anthropic.com/news/ben-bernanke": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-13",
-    "days": 2,
-    "title": "Ben Bernanke appointed to Anthropic's Long-Term Benefit Trust"
-  },
-  "https://www.anthropic.com/news/ust-claude": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-13",
-    "days": 2,
-    "title": "UST is bringing Claude to physical AI"
-  },
-  "https://huggingface.co/papers/2607.06624": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-13",
-    "days": 2,
-    "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation"
-  },
-  "https://huggingface.co/papers/2607.06065": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-13",
-    "days": 2,
-    "title": "SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review"
-  },
-  "https://huggingface.co/papers/2607.08768": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-13",
-    "days": 2,
-    "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks"
-  },
-  "https://github.com/google-labs-code/stitch-skills": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
-    "title": "google-labs-code/stitch-skills"
-  },
-  "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "days": 1,
-    "title": "I used to love Claude, but the latest models are slowly ruining it"
-  },
-  "https://huggingface.co/papers/2607.07740": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-13",
-    "days": 2,
-    "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE"
-  },
-  "https://huggingface.co/papers/2607.08716": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-13",
-    "days": 2,
-    "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents"
-  },
-  "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis"
-  },
-  "https://systima.ai/blog/claude-code-vs-opencode-token-overhead": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
-  },
-  "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "Old and new apps, via modern coding agents"
-  },
-  "https://github.com/Dicklesworthstone/destructive_command_guard": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "Dicklesworthstone/destructive_command_guard"
-  },
-  "https://huggingface.co/papers/2607.07953": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing"
-  },
-  "https://www.anthropic.com/news/reflect-with-claude": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "Introducing a way to reflect on how you use Claude"
-  },
-  "https://www.anthropic.com/news/hard-questions": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "Inviting hard questions"
-  },
-  "https://github.com/Shubhamsaboo/awesome-llm-apps": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "Shubhamsaboo/awesome-llm-apps"
-  },
-  "https://huggingface.co/papers/2606.30111": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "Automating the Design of Embodied Agent Architectures"
-  },
-  "https://huggingface.co/papers/2607.07508": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning"
-  },
-  "https://huggingface.co/papers/2607.08093": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents"
-  },
   "https://github.com/Nutlope/hallmark": {
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
     "days": 1,
     "title": "hallmark"
-  },
-  "https://github.com/ColeMurray/background-agents": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "ColeMurray/background-agents"
-  },
-  "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper"
-  },
-  "https://huggingface.co/papers/2607.07386": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity"
-  },
-  "https://huggingface.co/papers/2607.04412": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "days": 1,
-    "title": "LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL"
   },
   "https://simonwillison.net/2026/Jul/16/kimi-k3/": {
     "first_seen": "2026-07-18",
@@ -274,5 +88,107 @@
     "last_seen": "2026-07-18",
     "days": 1,
     "title": "Length Penalties Make CoT Less Monitorable"
+  },
+  "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "Gemini 3.6 Flash·3.5 Flash-Lite·3.5 Flash Cyber 공개"
+  },
+  "https://huggingface.co/papers/2607.16617": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "DataFlow-Harness"
+  },
+  "https://github.com/ayghri/i-have-adhd": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "ayghri/i-have-adhd"
+  },
+  "https://huggingface.co/papers/2607.18754": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "AgentDebugX"
+  },
+  "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "MCP 서버 ANSI 이스케이프 인젝션"
+  },
+  "https://huggingface.co/papers/2607.15550": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "SeerGuard"
+  },
+  "https://huggingface.co/papers/2607.14186": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "NexForge"
+  },
+  "https://huggingface.co/papers/2607.15434": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "Coercion and Deception in AI-to-AI Management"
+  },
+  "https://dylancastillo.co/posts/pelicanmaxxing.html": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "Are AI labs pelicanmaxxing?"
+  },
+  "https://huggingface.co/papers/2607.19322": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "GAMUT"
+  },
+  "https://huggingface.co/papers/2607.18529": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "EduPanel"
+  },
+  "https://github.com/ComposioHQ/awesome-claude-skills": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "ComposioHQ/awesome-claude-skills"
+  },
+  "https://github.com/agegr/pi-web": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "agegr/pi-web"
+  },
+  "https://github.com/diegosouzapw/OmniRoute": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "diegosouzapw/OmniRoute"
+  },
+  "https://huggingface.co/papers/2607.19747": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "Beyond Relevance-Centric Retrieval"
+  },
+  "https://huggingface.co/papers/2607.18603": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "AutoIndex"
+  },
+  "https://huggingface.co/papers/2607.07050": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "days": 1,
+    "title": "Diagnosing Tool-Call Boundary Drift"
   }
 }

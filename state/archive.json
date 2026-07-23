@@ -1674,5 +1674,25 @@
   "https://huggingface.co/papers/2607.13027": {
     "archived_on": "2026-07-18",
     "title": "PalmClaw"
+  },
+  "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/": {
+    "archived_on": "2026-07-23",
+    "title": "Gemini 3.6 Flash·3.5 Flash-Lite·3.5 Flash Cyber 공개"
+  },
+  "https://huggingface.co/papers/2607.16617": {
+    "archived_on": "2026-07-23",
+    "title": "DataFlow-Harness"
+  },
+  "https://github.com/ayghri/i-have-adhd": {
+    "archived_on": "2026-07-23",
+    "title": "ayghri/i-have-adhd"
+  },
+  "https://huggingface.co/papers/2607.18754": {
+    "archived_on": "2026-07-23",
+    "title": "AgentDebugX"
+  },
+  "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/": {
+    "archived_on": "2026-07-23",
+    "title": "MCP 서버 ANSI 이스케이프 인젝션"
   }
 }

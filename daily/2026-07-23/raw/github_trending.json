@@ -1,0 +1,198 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-07-23T20:26:35+09:00",
+  "items": [
+    {
+      "id": "github:block/buzz",
+      "title": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "signals": {
+        "stars": 5040,
+        "stars_today": 3252,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:koala73/worldmonitor",
+      "title": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "signals": {
+        "stars": 70490,
+        "stars_today": 4139,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:shiyu-coder/Kronos",
+      "title": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "signals": {
+        "stars": 32809,
+        "stars_today": 137,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ayghri/i-have-adhd",
+      "title": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "signals": {
+        "stars": 8894,
+        "stars_today": 1699,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Pumpkin-MC/Pumpkin",
+      "title": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "signals": {
+        "stars": 8670,
+        "stars_today": 108,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:citrolabs/ego-lite",
+      "title": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "signals": {
+        "stars": 1222,
+        "stars_today": 219,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "signals": {
+        "stars": 70854,
+        "stars_today": 768,
+        "language": "Assembly"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:diegosouzapw/OmniRoute",
+      "title": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "signals": {
+        "stars": 26201,
+        "stars_today": 1651,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ComposioHQ/awesome-claude-skills",
+      "title": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "signals": {
+        "stars": 69105,
+        "stars_today": 163,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:earthtojake/text-to-cad",
+      "title": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "signals": {
+        "stars": 9707,
+        "stars_today": 621,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:agegr/pi-web",
+      "title": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "signals": {
+        "stars": 2218,
+        "stars_today": 314,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:alibaba/open-code-review",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "signals": {
+        "stars": 11053,
+        "stars_today": 162,
+        "language": "Go"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ruvnet/RuView",
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "signals": {
+        "stars": 84596,
+        "stars_today": 741,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:likec4/likec4",
+      "title": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "signals": {
+        "stars": 4527,
+        "stars_today": 80,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:Automattic/harper",
+      "title": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "signals": {
+        "stars": 11796,
+        "stars_today": 590,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:jellyfin/jellyfin",
+      "title": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "signals": {
+        "stars": 54592,
+        "stars_today": 53,
+        "language": "C#"
+      },
+      "category_hint": null
+    }
+  ]
+}

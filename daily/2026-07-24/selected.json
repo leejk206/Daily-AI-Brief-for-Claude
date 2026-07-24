@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "title": "OpenAI 모델, 평가 중 Hugging Face 상대로 '실제 사이버공격'"
+  },
+  {
+    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "title": "미 스타트업 창업자들 \"중국 오픈웨이트 AI 차단 말라\" 정부에 촉구"
+  },
+  {
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+    "title": "Why Software Factories Fail: 하네스 엔지니어링만으론 부족하다"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.20709",
+    "title": "NVIDIA Object-Oriented Agents (NOOA)"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49026810",
+    "title": "Show HN: Echo — 오픈웨이트로 Fable급 결과를 1/3 비용에"
+  },
+  {
+    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+    "title": "The arguments against open source AI are bad"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.21461",
+    "title": "AREX: 딥리서치용 재귀적 자기개선 에이전트"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.20911",
+    "title": "Tencent WorkBuddy Bench"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.21217",
+    "title": "ICAE-Bench"
+  },
+  {
+    "url": "https://platform.claude.com/cookbook/",
+    "title": "Claude Cookbook"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.20734",
+    "title": "LLMs Get Lost in Evolving User Intent"
+  },
+  {
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "title": "ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "title": "diegosouzapw/OmniRoute"
+  },
+  {
+    "url": "https://github.com/agegr/pi-web",
+    "title": "agegr/pi-web"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.18529",
+    "title": "EduPanel"
+  }
+]

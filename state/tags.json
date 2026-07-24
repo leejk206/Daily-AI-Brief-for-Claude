@@ -10384,7 +10384,7 @@
         "mcp-server",
         "model-routing"
       ],
-      "tagged_at": "2026-07-23T20:31:29+09:00"
+      "tagged_at": "2026-07-24T18:43:58+09:00"
     },
     "https://www.anthropic.com/news/claude-sonnet-5": {
       "title": "Claude Sonnet 5",
@@ -11933,7 +11933,7 @@
         "multi-agent",
         "paper"
       ],
-      "tagged_at": "2026-07-23T20:31:29+09:00"
+      "tagged_at": "2026-07-24T18:43:58+09:00"
     },
     "https://github.com/ComposioHQ/awesome-claude-skills": {
       "title": "ComposioHQ/awesome-claude-skills",
@@ -11945,7 +11945,7 @@
         "agent-skill",
         "claude-code"
       ],
-      "tagged_at": "2026-07-23T20:31:29+09:00"
+      "tagged_at": "2026-07-24T18:43:58+09:00"
     },
     "https://github.com/agegr/pi-web": {
       "title": "agegr/pi-web",
@@ -11957,7 +11957,7 @@
         "cli-agent",
         "coding-platform"
       ],
-      "tagged_at": "2026-07-23T20:31:29+09:00"
+      "tagged_at": "2026-07-24T18:43:58+09:00"
     },
     "https://huggingface.co/papers/2607.19747": {
       "title": "Beyond Relevance-Centric Retrieval",
@@ -11994,6 +11994,138 @@
         "tool-use"
       ],
       "tagged_at": "2026-07-23T20:31:29+09:00"
+    },
+    "https://openai.com/index/hugging-face-model-evaluation-security-incident": {
+      "title": "OpenAI 모델, 평가 중 Hugging Face 상대로 '실제 사이버공격'",
+      "summary": "평가 중 프런티어 모델의 자율 공격 능력이 현실로",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-07-24",
+      "tags": [
+        "partnership",
+        "security"
+      ],
+      "tagged_at": "2026-07-24T18:43:58+09:00"
+    },
+    "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992": {
+      "title": "미 스타트업 창업자들 \"중국 오픈웨이트 AI 차단 말라\" 정부에 촉구",
+      "summary": "오픈웨이트 접근 규제 논쟁이 정면 충돌",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-07-24",
+      "tags": [
+        "model-access",
+        "open-weights"
+      ],
+      "tagged_at": "2026-07-24T18:43:58+09:00"
+    },
+    "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md": {
+      "title": "Why Software Factories Fail: 하네스 엔지니어링만으론 부족하다",
+      "summary": "코딩 에이전트의 병목은 컨텍스트 설계라는 반론",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-07-24",
+      "tags": [
+        "agent-harness",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-07-24T18:43:58+09:00"
+    },
+    "https://huggingface.co/papers/2607.20709": {
+      "title": "NVIDIA Object-Oriented Agents (NOOA)",
+      "summary": "에이전트를 '파이썬 객체'로 정의하는 모델 불가지 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-07-24",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-07-24T18:43:58+09:00"
+    },
+    "https://news.ycombinator.com/item?id=49026810": {
+      "title": "Show HN: Echo — 오픈웨이트로 Fable급 결과를 1/3 비용에",
+      "summary": "오픈모델 조합으로 프런티어 성능·비용 절감 실증",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-24",
+      "tags": [
+        "model-routing",
+        "open-weights"
+      ],
+      "tagged_at": "2026-07-24T18:43:58+09:00"
+    },
+    "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/": {
+      "title": "The arguments against open source AI are bad",
+      "summary": "오픈소스 AI 반대 논거를 조목조목 반박하는 에세이",
+      "category": "frontier-models",
+      "source": "hacker_news",
+      "brief_date": "2026-07-24",
+      "tags": [
+        "model-access",
+        "open-weights"
+      ],
+      "tagged_at": "2026-07-24T18:43:58+09:00"
+    },
+    "https://huggingface.co/papers/2607.21461": {
+      "title": "AREX: 딥리서치용 재귀적 자기개선 에이전트",
+      "summary": "발견-검증 비대칭을 활용한 자기개선 리서치 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-07-24",
+      "tags": [
+        "auto-research",
+        "paper"
+      ],
+      "tagged_at": "2026-07-24T18:43:58+09:00"
+    },
+    "https://huggingface.co/papers/2607.20911": {
+      "title": "Tencent WorkBuddy Bench",
+      "summary": "오염 저항형 태스크로 만든 다분야 코딩 에이전트 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-24",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-24T18:43:58+09:00"
+    },
+    "https://huggingface.co/papers/2607.21217": {
+      "title": "ICAE-Bench",
+      "summary": "코딩 에이전트를 '인터랙티브 프로젝트 빌더'로 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-24",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-24T18:43:58+09:00"
+    },
+    "https://platform.claude.com/cookbook/": {
+      "title": "Claude Cookbook",
+      "summary": "Anthropic 공식 레시피·예제 모음 호스팅 공개",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-24",
+      "tags": [
+        "prompt-engineering",
+        "tutorial"
+      ],
+      "tagged_at": "2026-07-24T18:43:58+09:00"
+    },
+    "https://huggingface.co/papers/2607.20734": {
+      "title": "LLMs Get Lost in Evolving User Intent",
+      "summary": "다회차 대화에서 변하는 사용자 의도를 놓치는 LLM 분석",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-07-24",
+      "tags": [
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-07-24T18:43:58+09:00"
     }
   }
 }

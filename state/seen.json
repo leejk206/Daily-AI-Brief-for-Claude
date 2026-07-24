@@ -151,26 +151,26 @@
   },
   "https://huggingface.co/papers/2607.18529": {
     "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
+    "last_seen": "2026-07-24",
+    "days": 2,
     "title": "EduPanel"
   },
   "https://github.com/ComposioHQ/awesome-claude-skills": {
     "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
+    "last_seen": "2026-07-24",
+    "days": 2,
     "title": "ComposioHQ/awesome-claude-skills"
   },
   "https://github.com/agegr/pi-web": {
     "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
+    "last_seen": "2026-07-24",
+    "days": 2,
     "title": "agegr/pi-web"
   },
   "https://github.com/diegosouzapw/OmniRoute": {
     "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
+    "last_seen": "2026-07-24",
+    "days": 2,
     "title": "diegosouzapw/OmniRoute"
   },
   "https://huggingface.co/papers/2607.19747": {
@@ -190,5 +190,71 @@
     "last_seen": "2026-07-23",
     "days": 1,
     "title": "Diagnosing Tool-Call Boundary Drift"
+  },
+  "https://openai.com/index/hugging-face-model-evaluation-security-incident": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "days": 1,
+    "title": "OpenAI 모델, 평가 중 Hugging Face 상대로 '실제 사이버공격'"
+  },
+  "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "days": 1,
+    "title": "미 스타트업 창업자들 \"중국 오픈웨이트 AI 차단 말라\" 정부에 촉구"
+  },
+  "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "days": 1,
+    "title": "Why Software Factories Fail: 하네스 엔지니어링만으론 부족하다"
+  },
+  "https://huggingface.co/papers/2607.20709": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "days": 1,
+    "title": "NVIDIA Object-Oriented Agents (NOOA)"
+  },
+  "https://news.ycombinator.com/item?id=49026810": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "days": 1,
+    "title": "Show HN: Echo — 오픈웨이트로 Fable급 결과를 1/3 비용에"
+  },
+  "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "days": 1,
+    "title": "The arguments against open source AI are bad"
+  },
+  "https://huggingface.co/papers/2607.21461": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "days": 1,
+    "title": "AREX: 딥리서치용 재귀적 자기개선 에이전트"
+  },
+  "https://huggingface.co/papers/2607.20911": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "days": 1,
+    "title": "Tencent WorkBuddy Bench"
+  },
+  "https://huggingface.co/papers/2607.21217": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "days": 1,
+    "title": "ICAE-Bench"
+  },
+  "https://platform.claude.com/cookbook/": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "days": 1,
+    "title": "Claude Cookbook"
+  },
+  "https://huggingface.co/papers/2607.20734": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "days": 1,
+    "title": "LLMs Get Lost in Evolving User Intent"
   }
 }

@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-07-24T18:38:52+09:00",
+  "items": [
+    {
+      "id": "hn:49022152",
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "description": "",
+      "signals": {
+        "points": 1301,
+        "num_comments": 587,
+        "discussion_url": "https://news.ycombinator.com/item?id=49022152"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49023016",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "description": "",
+      "signals": {
+        "points": 930,
+        "num_comments": 770,
+        "discussion_url": "https://news.ycombinator.com/item?id=49023016"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49015639",
+      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+      "description": "",
+      "signals": {
+        "points": 518,
+        "num_comments": 398,
+        "discussion_url": "https://news.ycombinator.com/item?id=49015639"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49028927",
+      "title": "98.css",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "description": "",
+      "signals": {
+        "points": 471,
+        "num_comments": 108,
+        "discussion_url": "https://news.ycombinator.com/item?id=49028927"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49026810",
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "description": "",
+      "signals": {
+        "points": 381,
+        "num_comments": 180,
+        "discussion_url": "https://news.ycombinator.com/item?id=49026810"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49007221",
+      "title": "The Beam Engine",
+      "url": "https://glinscott.github.io/beam-engine/",
+      "description": "",
+      "signals": {
+        "points": 381,
+        "num_comments": 74,
+        "discussion_url": "https://news.ycombinator.com/item?id=49007221"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49024691",
+      "title": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "description": "",
+      "signals": {
+        "points": 372,
+        "num_comments": 169,
+        "discussion_url": "https://news.ycombinator.com/item?id=49024691"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49023019",
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "description": "",
+      "signals": {
+        "points": 316,
+        "num_comments": 227,
+        "discussion_url": "https://news.ycombinator.com/item?id=49023019"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49021856",
+      "title": "I regret migrating to Codeberg",
+      "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+      "description": "",
+      "signals": {
+        "points": 293,
+        "num_comments": 188,
+        "discussion_url": "https://news.ycombinator.com/item?id=49021856"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49022038",
+      "title": "Software rendering in 500 lines of bare C++",
+      "url": "https://haqr.eu/tinyrenderer/",
+      "description": "",
+      "signals": {
+        "points": 284,
+        "num_comments": 64,
+        "discussion_url": "https://news.ycombinator.com/item?id=49022038"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49024643",
+      "title": "The arguments against open source AI are bad",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "description": "",
+      "signals": {
+        "points": 275,
+        "num_comments": 190,
+        "discussion_url": "https://news.ycombinator.com/item?id=49024643"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49022634",
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "url": "https://learnopengl.com/",
+      "description": "",
+      "signals": {
+        "points": 244,
+        "num_comments": 119,
+        "discussion_url": "https://news.ycombinator.com/item?id=49022634"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49021597",
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "description": "",
+      "signals": {
+        "points": 241,
+        "num_comments": 271,
+        "discussion_url": "https://news.ycombinator.com/item?id=49021597"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49031796",
+      "title": "Flux 3",
+      "url": "https://bfl.ai/blog/flux-3",
+      "description": "",
+      "signals": {
+        "points": 233,
+        "num_comments": 56,
+        "discussion_url": "https://news.ycombinator.com/item?id=49031796"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49021783",
+      "title": "Astronomers may have found the first exomoon",
+      "url": "https://www.eso.org/public/news/eso2610/",
+      "description": "",
+      "signals": {
+        "points": 219,
+        "num_comments": 82,
+        "discussion_url": "https://news.ycombinator.com/item?id=49021783"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49022137",
+      "title": "Fields Medals 2026",
+      "url": "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026",
+      "description": "",
+      "signals": {
+        "points": 178,
+        "num_comments": 90,
+        "discussion_url": "https://news.ycombinator.com/item?id=49022137"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49025984",
+      "title": "Building on ATProto",
+      "url": "https://lukekanies.com/writing/building-on-atproto/",
+      "description": "",
+      "signals": {
+        "points": 158,
+        "num_comments": 80,
+        "discussion_url": "https://news.ycombinator.com/item?id=49025984"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49022911",
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "",
+      "signals": {
+        "points": 155,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=49022911"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48959008",
+      "title": "What else do people draw on gradient.horse?",
+      "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
+      "description": "",
+      "signals": {
+        "points": 135,
+        "num_comments": 23,
+        "discussion_url": "https://news.ycombinator.com/item?id=48959008"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49025766",
+      "title": "Why Sony can't bring back its classic Walkman models",
+      "url": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
+      "description": "",
+      "signals": {
+        "points": 125,
+        "num_comments": 137,
+        "discussion_url": "https://news.ycombinator.com/item?id=49025766"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49029538",
+      "title": "The Visual 6502",
+      "url": "http://visual6502.org/JSSim/index.html",
+      "description": "",
+      "signals": {
+        "points": 96,
+        "num_comments": 22,
+        "discussion_url": "https://news.ycombinator.com/item?id=49029538"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49025831",
+      "title": "A solid-state “atomic channel” for separating rare earth elements",
+      "url": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
+      "description": "",
+      "signals": {
+        "points": 90,
+        "num_comments": 25,
+        "discussion_url": "https://news.ycombinator.com/item?id=49025831"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49024620",
+      "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
+      "url": "https://news.ycombinator.com/item?id=49024620",
+      "description": "",
+      "signals": {
+        "points": 74,
+        "num_comments": 53,
+        "discussion_url": "https://news.ycombinator.com/item?id=49024620"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49027052",
+      "title": "Mourning Dan Williams",
+      "url": "https://lwn.net/Articles/1084545/",
+      "description": "",
+      "signals": {
+        "points": 73,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=49027052"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48986703",
+      "title": "Quickly rewrite Git repository history",
+      "url": "https://github.com/newren/git-filter-repo",
+      "description": "",
+      "signals": {
+        "points": 41,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=48986703"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49032095",
+      "title": "The PImpl idiom and the C++26 std:indirect type",
+      "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+      "description": "",
+      "signals": {
+        "points": 40,
+        "num_comments": 37,
+        "discussion_url": "https://news.ycombinator.com/item?id=49032095"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49031409",
+      "title": "Claude Cookbook",
+      "url": "https://platform.claude.com/cookbook/",
+      "description": "",
+      "signals": {
+        "points": 40,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=49031409"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48973071",
+      "title": "Freeze-Casting",
+      "url": "https://en.wikipedia.org/wiki/Freeze-casting",
+      "description": "",
+      "signals": {
+        "points": 26,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=48973071"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48988651",
+      "title": "Modula-3 History Collection on Computer History Museum",
+      "url": "https://softwarepreservation.computerhistory.org/modula3/",
+      "description": "",
+      "signals": {
+        "points": 25,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=48988651"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

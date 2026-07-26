@@ -1,0 +1,138 @@
+{
+  "source": "anthropic_news",
+  "fetched_at": "2026-07-26T10:14:53+09:00",
+  "items": [
+    {
+      "id": "anthropic:hard-questions",
+      "title": "Inviting hard questions",
+      "url": "https://www.anthropic.com/news/hard-questions",
+      "description": "We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 9, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:redeploying-fable-5",
+      "title": "Redeploying Fable 5",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "description": "Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 30, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:claude-sonnet-5",
+      "title": "Introducing Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "description": "Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jun 30, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:claude-opus-5",
+      "title": "Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 24, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:economic-futures-research-fund-agenda",
+      "title": "A research agenda for the Economic Futures Research Fund",
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 22, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:anthropic-economic-index-connector",
+      "title": "Ask Claude about the Anthropic Economic Index",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 22, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:donation-public-first-action",
+      "title": "Anthropic is donating another $20 million to Public First Action",
+      "url": "https://www.anthropic.com/news/donation-public-first-action",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 21, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:rare-disease-research-grants",
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 20, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:claude-for-teachers",
+      "title": "Introducing Claude for Teachers",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 14, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:canadian-ai-research",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 14, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:ust-claude",
+      "title": "UST is bringing Claude to physical AI",
+      "url": "https://www.anthropic.com/news/ust-claude",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 9, 2026"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "anthropic:ben-bernanke",
+      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "description": "",
+      "signals": {
+        "vendor": "anthropic",
+        "published": "Jul 9, 2026"
+      },
+      "category_hint": null
+    }
+  ]
+}

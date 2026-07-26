@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-07-26T10:14:41+09:00",
+  "items": [
+    {
+      "id": "hn:49045159",
+      "title": "Android May Soon Restrict On-Device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "description": "",
+      "signals": {
+        "points": 873,
+        "num_comments": 413,
+        "discussion_url": "https://news.ycombinator.com/item?id=49045159"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48976262",
+      "title": "Stolen Buttons",
+      "url": "https://anatolyzenkov.com/stolen-buttons",
+      "description": "",
+      "signals": {
+        "points": 559,
+        "num_comments": 129,
+        "discussion_url": "https://news.ycombinator.com/item?id=48976262"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49048034",
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "description": "",
+      "signals": {
+        "points": 304,
+        "num_comments": 247,
+        "discussion_url": "https://news.ycombinator.com/item?id=49048034"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49008396",
+      "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
+      "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
+      "description": "",
+      "signals": {
+        "points": 286,
+        "num_comments": 92,
+        "discussion_url": "https://news.ycombinator.com/item?id=49008396"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49051120",
+      "title": "Did They Ghost You?",
+      "url": "https://didtheyghostyou.com/",
+      "description": "",
+      "signals": {
+        "points": 282,
+        "num_comments": 117,
+        "discussion_url": "https://news.ycombinator.com/item?id=49051120"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49006096",
+      "title": "How My Images Are Dithered",
+      "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+      "description": "",
+      "signals": {
+        "points": 215,
+        "num_comments": 74,
+        "discussion_url": "https://news.ycombinator.com/item?id=49006096"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49047365",
+      "title": "Bitchat is now on Radicle",
+      "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
+      "description": "",
+      "signals": {
+        "points": 206,
+        "num_comments": 124,
+        "discussion_url": "https://news.ycombinator.com/item?id=49047365"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49051361",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "description": "",
+      "signals": {
+        "points": 147,
+        "num_comments": 94,
+        "discussion_url": "https://news.ycombinator.com/item?id=49051361"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49051369",
+      "title": "Turn And Face The Strange",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+      "description": "",
+      "signals": {
+        "points": 132,
+        "num_comments": 97,
+        "discussion_url": "https://news.ycombinator.com/item?id=49051369"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49039868",
+      "title": "Show HN: I made some transistor animations",
+      "url": "https://brandonli.net/semisim/animations",
+      "description": "",
+      "signals": {
+        "points": 126,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=49039868"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49049693",
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "description": "",
+      "signals": {
+        "points": 122,
+        "num_comments": 40,
+        "discussion_url": "https://news.ycombinator.com/item?id=49049693"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49051947",
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "description": "",
+      "signals": {
+        "points": 112,
+        "num_comments": 35,
+        "discussion_url": "https://news.ycombinator.com/item?id=49051947"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48991984",
+      "title": "GDID Windows – Cut the tracker that follows you even under VPN",
+      "url": "https://korben.info/en/gdid-windows-cut-tracker-vpn.html",
+      "description": "",
+      "signals": {
+        "points": 98,
+        "num_comments": 77,
+        "discussion_url": "https://news.ycombinator.com/item?id=48991984"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49050735",
+      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+      "description": "",
+      "signals": {
+        "points": 87,
+        "num_comments": 59,
+        "discussion_url": "https://news.ycombinator.com/item?id=49050735"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49048689",
+      "title": "Bringing PyTorch Monarch to AMD GPUs",
+      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+      "description": "",
+      "signals": {
+        "points": 64,
+        "num_comments": 6,
+        "discussion_url": "https://news.ycombinator.com/item?id=49048689"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49050512",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "description": "",
+      "signals": {
+        "points": 61,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=49050512"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49050859",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "description": "",
+      "signals": {
+        "points": 57,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=49050859"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49050058",
+      "title": "Memory Safety Absolutists",
+      "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+      "description": "",
+      "signals": {
+        "points": 49,
+        "num_comments": 55,
+        "discussion_url": "https://news.ycombinator.com/item?id=49050058"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49013464",
+      "title": "SIMD for Collision",
+      "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
+      "description": "",
+      "signals": {
+        "points": 45,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=49013464"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49051505",
+      "title": "Who does Anubis actually stop?",
+      "url": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
+      "description": "",
+      "signals": {
+        "points": 40,
+        "num_comments": 55,
+        "discussion_url": "https://news.ycombinator.com/item?id=49051505"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49051463",
+      "title": "Multicast TV Distribution on My Home Network",
+      "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
+      "description": "",
+      "signals": {
+        "points": 35,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=49051463"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49052912",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "description": "",
+      "signals": {
+        "points": 31,
+        "num_comments": 13,
+        "discussion_url": "https://news.ycombinator.com/item?id=49052912"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49052628",
+      "title": "Clinical Failure Rates over the Decades: Yikes",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=49052628"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49051130",
+      "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+      "url": "https://news.ycombinator.com/item?id=49051130",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=49051130"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49049066",
+      "title": "Rauno's Field Notes #2",
+      "url": "https://rauno.me/notes/2",
+      "description": "",
+      "signals": {
+        "points": 19,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=49049066"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49053255",
+      "title": "GNU Hurd gets 9pfs, OpenNTPD, dynamic /dev/ entries, and more",
+      "url": "https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/",
+      "description": "",
+      "signals": {
+        "points": 17,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=49053255"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49051707",
+      "title": "Becoming a Research Engineer at a Big LLM Lab",
+      "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+      "description": "",
+      "signals": {
+        "points": 15,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=49051707"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49049638",
+      "title": "Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window",
+      "url": "https://github.com/alokdhir/spinwin",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=49049638"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49052564",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=49052564"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    }
+  ]
+}

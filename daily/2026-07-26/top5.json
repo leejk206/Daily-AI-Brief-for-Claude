@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "title": "Introducing Claude Opus 5"
+  },
+  {
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "title": "The new rules of context engineering for Claude 5 generation models"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.21557",
+    "title": "OpenForgeRL: Train Harness-native Agents in Any Environment"
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "title": "Introducing OpenAI Presence"
+  },
+  {
+    "url": "https://github.com/citrolabs/ego-lite",
+    "title": "citrolabs/ego-lite"
+  }
+]

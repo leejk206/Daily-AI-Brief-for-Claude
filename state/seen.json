@@ -1,94 +1,4 @@
 {
-  "https://openai.com/index/introducing-gpt-live": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "Introducing GPT-Live"
-  },
-  "https://github.com/Nutlope/hallmark": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "hallmark"
-  },
-  "https://simonwillison.net/2026/Jul/16/kimi-k3/": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "Kimi K3 (Moonshot)"
-  },
-  "https://openai.com/index/unlocking-self-improvement-gpt-red": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "GPT-Red: 자기개선 로버스트니스"
-  },
-  "https://github.com/tirth8205/code-review-graph": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "code-review-graph"
-  },
-  "https://huggingface.co/papers/2607.13027": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "PalmClaw"
-  },
-  "https://huggingface.co/papers/2607.13104": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "Self-Improvements in Modern Agentic Systems: A Survey"
-  },
-  "https://huggingface.co/papers/2607.14777": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "SEED: Self-Evolving On-Policy Distillation"
-  },
-  "https://huggingface.co/papers/2607.13705": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "AgentCompass"
-  },
-  "https://huggingface.co/papers/2605.10834": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "From Controlled to the Wild: Pentesting Agents"
-  },
-  "https://github.com/openinterpreter/openinterpreter": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "openinterpreter"
-  },
-  "https://huggingface.co/papers/2607.13921": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "Generative Compilation"
-  },
-  "https://huggingface.co/papers/2607.10463": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "GRASP: Agentic RAG 검색 정책"
-  },
-  "https://huggingface.co/papers/2607.14952": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "LongStraw: 2M 토큰 초과 롱컨텍스트 RL"
-  },
-  "https://huggingface.co/papers/2607.09786": {
-    "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "days": 1,
-    "title": "Length Penalties Make CoT Less Monitorable"
-  },
   "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/": {
     "first_seen": "2026-07-23",
     "last_seen": "2026-07-23",
@@ -150,15 +60,15 @@
     "title": "GAMUT"
   },
   "https://huggingface.co/papers/2607.18529": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-24",
-    "days": 2,
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "days": 1,
     "title": "EduPanel"
   },
   "https://github.com/ComposioHQ/awesome-claude-skills": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-24",
-    "days": 2,
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "days": 1,
     "title": "ComposioHQ/awesome-claude-skills"
   },
   "https://github.com/agegr/pi-web": {
@@ -228,8 +138,8 @@
     "title": "The arguments against open source AI are bad"
   },
   "https://huggingface.co/papers/2607.21461": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-24",
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
     "days": 1,
     "title": "AREX: 딥리서치용 재귀적 자기개선 에이전트"
   },
@@ -252,9 +162,69 @@
     "title": "Claude Cookbook"
   },
   "https://huggingface.co/papers/2607.20734": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-24",
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
     "days": 1,
     "title": "LLMs Get Lost in Evolving User Intent"
+  },
+  "https://www.anthropic.com/news/claude-opus-5": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "days": 1,
+    "title": "Introducing Claude Opus 5"
+  },
+  "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "days": 1,
+    "title": "The new rules of context engineering for Claude 5 generation models"
+  },
+  "https://huggingface.co/papers/2607.21557": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "days": 1,
+    "title": "OpenForgeRL: Train Harness-native Agents in Any Environment"
+  },
+  "https://openai.com/index/introducing-openai-presence": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "days": 1,
+    "title": "Introducing OpenAI Presence"
+  },
+  "https://github.com/citrolabs/ego-lite": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "days": 1,
+    "title": "citrolabs/ego-lite"
+  },
+  "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "days": 1,
+    "title": "Open-weight AI is having its Kubernetes moment"
+  },
+  "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "days": 1,
+    "title": "DeepSeek, 미-중 컴퓨트 격차 발언 유출 후 펀드레이징 중단"
+  },
+  "https://huggingface.co/papers/2607.21051": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "days": 1,
+    "title": "Sample-Efficient Learning from Agent Experience"
+  },
+  "https://huggingface.co/papers/2607.19865": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "days": 1,
+    "title": "DocOps"
+  },
+  "https://huggingface.co/papers/2607.19238": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "days": 1,
+    "title": "FinanceComplexQA"
   }
 }

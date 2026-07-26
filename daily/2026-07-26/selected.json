@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "title": "Introducing Claude Opus 5"
+  },
+  {
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "title": "The new rules of context engineering for Claude 5 generation models"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.21557",
+    "title": "OpenForgeRL: Train Harness-native Agents in Any Environment"
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "title": "Introducing OpenAI Presence"
+  },
+  {
+    "url": "https://github.com/citrolabs/ego-lite",
+    "title": "citrolabs/ego-lite"
+  },
+  {
+    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+    "title": "Open-weight AI is having its Kubernetes moment"
+  },
+  {
+    "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+    "title": "DeepSeek, 미-중 컴퓨트 격차 발언 유출 후 펀드레이징 중단"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.21461",
+    "title": "AREX: 딥리서치용 재귀적 자기개선 에이전트"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.21051",
+    "title": "Sample-Efficient Learning from Agent Experience"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.19865",
+    "title": "DocOps"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.19238",
+    "title": "FinanceComplexQA"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.18529",
+    "title": "EduPanel"
+  },
+  {
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "title": "ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.20734",
+    "title": "LLMs Get Lost in Evolving User Intent"
+  }
+]

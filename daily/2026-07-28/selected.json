@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "title": "Anthropic: 오픈웨이트 모델에 대한 우리의 입장"
+  },
+  {
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "title": "Kimi K3: Open Frontier Intelligence"
+  },
+  {
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+    "title": "Benchmarking Opus 5 on SlopCodeBench"
+  },
+  {
+    "url": "https://github.com/microsoft/agent-governance-toolkit",
+    "title": "microsoft/agent-governance-toolkit"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.21503",
+    "title": "Agentic Context Management"
+  },
+  {
+    "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+    "title": "upstage/Solar-Open2-250B"
+  },
+  {
+    "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+    "title": "poolside/Laguna-S-2.1"
+  },
+  {
+    "url": "https://huggingface.co/thinkingmachines/Inkling",
+    "title": "thinkingmachines/Inkling"
+  },
+  {
+    "url": "https://huggingface.co/microsoft/Fara1.5-27B",
+    "title": "microsoft/Fara1.5-27B"
+  },
+  {
+    "url": "https://www.anthropic.com/news/hard-questions",
+    "title": "Inviting hard questions"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.14277",
+    "title": "Multi-Head Latent Control"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.24280",
+    "title": "Multi-Agent Protocol Distillation"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.23588",
+    "title": "JarvisHub"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.21653",
+    "title": "Molt"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.22529",
+    "title": "Skill Self-Play"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.22375",
+    "title": "IDEAgent"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.22798",
+    "title": "StateAct"
+  },
+  {
+    "url": "https://github.com/andrewyng/aisuite",
+    "title": "andrewyng/aisuite"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.22561",
+    "title": "Codifying the Judge"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.20465",
+    "title": "DataPrep-Bench"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.23806",
+    "title": "A Frozen 12B Beats Frontier Models on Verified Work"
+  },
+  {
+    "url": "https://fermisense.com/when-machines-take-the-wheel/",
+    "title": "A $500 RL fine-tune of a 9B open model beat frontier models"
+  },
+  {
+    "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+    "title": "Don't ask an LLM for a confidence score"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.22393",
+    "title": "SceneActBench"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.22098",
+    "title": "Reasoning Denoiser"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.19238",
+    "title": "FinanceComplexQA"
+  },
+  {
+    "url": "https://github.com/bradautomates/claude-video",
+    "title": "bradautomates/claude-video"
+  },
+  {
+    "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+    "title": "Kwaipilot/KAT-Coder-V2.5-Dev"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.24720",
+    "title": "The Physics of Multi-Turn Long-Horizon Planning"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.21051",
+    "title": "Sample-Efficient Learning from Agent Experience"
+  }
+]

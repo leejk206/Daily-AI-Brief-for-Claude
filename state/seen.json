@@ -210,8 +210,8 @@
     "title": "DeepSeek, 미-중 컴퓨트 격차 발언 유출 후 펀드레이징 중단"
   },
   "https://huggingface.co/papers/2607.21051": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
     "days": 1,
     "title": "Sample-Efficient Learning from Agent Experience"
   },
@@ -222,9 +222,177 @@
     "title": "DocOps"
   },
   "https://huggingface.co/papers/2607.19238": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
     "days": 1,
     "title": "FinanceComplexQA"
+  },
+  "https://www.anthropic.com/news/position-open-weights-models": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "Anthropic: 오픈웨이트 모델에 대한 우리의 입장"
+  },
+  "https://huggingface.co/moonshotai/Kimi-K3": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "Kimi K3: Open Frontier Intelligence"
+  },
+  "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "Benchmarking Opus 5 on SlopCodeBench"
+  },
+  "https://github.com/microsoft/agent-governance-toolkit": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "microsoft/agent-governance-toolkit"
+  },
+  "https://huggingface.co/papers/2607.21503": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "Agentic Context Management"
+  },
+  "https://huggingface.co/upstage/Solar-Open2-250B": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "upstage/Solar-Open2-250B"
+  },
+  "https://huggingface.co/poolside/Laguna-S-2.1": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "poolside/Laguna-S-2.1"
+  },
+  "https://huggingface.co/thinkingmachines/Inkling": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "thinkingmachines/Inkling"
+  },
+  "https://huggingface.co/microsoft/Fara1.5-27B": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "microsoft/Fara1.5-27B"
+  },
+  "https://www.anthropic.com/news/hard-questions": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "Inviting hard questions"
+  },
+  "https://huggingface.co/papers/2607.14277": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "Multi-Head Latent Control"
+  },
+  "https://huggingface.co/papers/2607.24280": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "Multi-Agent Protocol Distillation"
+  },
+  "https://huggingface.co/papers/2607.23588": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "JarvisHub"
+  },
+  "https://huggingface.co/papers/2607.21653": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "Molt"
+  },
+  "https://huggingface.co/papers/2607.22529": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "Skill Self-Play"
+  },
+  "https://huggingface.co/papers/2607.22375": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "IDEAgent"
+  },
+  "https://huggingface.co/papers/2607.22798": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "StateAct"
+  },
+  "https://github.com/andrewyng/aisuite": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "andrewyng/aisuite"
+  },
+  "https://huggingface.co/papers/2607.22561": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "Codifying the Judge"
+  },
+  "https://huggingface.co/papers/2607.20465": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "DataPrep-Bench"
+  },
+  "https://huggingface.co/papers/2607.23806": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "A Frozen 12B Beats Frontier Models on Verified Work"
+  },
+  "https://fermisense.com/when-machines-take-the-wheel/": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "A $500 RL fine-tune of a 9B open model beat frontier models"
+  },
+  "https://justinflick.com/2026/07/27/llm-confidence-scores.html": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "Don't ask an LLM for a confidence score"
+  },
+  "https://huggingface.co/papers/2607.22393": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "SceneActBench"
+  },
+  "https://huggingface.co/papers/2607.22098": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "Reasoning Denoiser"
+  },
+  "https://github.com/bradautomates/claude-video": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "bradautomates/claude-video"
+  },
+  "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "Kwaipilot/KAT-Coder-V2.5-Dev"
+  },
+  "https://huggingface.co/papers/2607.24720": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "days": 1,
+    "title": "The Physics of Multi-Turn Long-Horizon Planning"
   }
 }

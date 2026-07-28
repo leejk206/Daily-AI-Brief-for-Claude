@@ -1734,5 +1734,25 @@
   "https://github.com/citrolabs/ego-lite": {
     "archived_on": "2026-07-26",
     "title": "citrolabs/ego-lite"
+  },
+  "https://www.anthropic.com/news/position-open-weights-models": {
+    "archived_on": "2026-07-28",
+    "title": "Anthropic: 오픈웨이트 모델에 대한 우리의 입장"
+  },
+  "https://huggingface.co/moonshotai/Kimi-K3": {
+    "archived_on": "2026-07-28",
+    "title": "Kimi K3: Open Frontier Intelligence"
+  },
+  "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md": {
+    "archived_on": "2026-07-28",
+    "title": "Benchmarking Opus 5 on SlopCodeBench"
+  },
+  "https://github.com/microsoft/agent-governance-toolkit": {
+    "archived_on": "2026-07-28",
+    "title": "microsoft/agent-governance-toolkit"
+  },
+  "https://huggingface.co/papers/2607.21503": {
+    "archived_on": "2026-07-28",
+    "title": "Agentic Context Management"
   }
 }

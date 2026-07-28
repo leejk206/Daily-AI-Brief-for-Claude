@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "title": "Anthropic: 오픈웨이트 모델에 대한 우리의 입장"
+  },
+  {
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "title": "Kimi K3: Open Frontier Intelligence"
+  },
+  {
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+    "title": "Benchmarking Opus 5 on SlopCodeBench"
+  },
+  {
+    "url": "https://github.com/microsoft/agent-governance-toolkit",
+    "title": "microsoft/agent-governance-toolkit"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.21503",
+    "title": "Agentic Context Management"
+  }
+]

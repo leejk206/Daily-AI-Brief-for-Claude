@@ -11188,10 +11188,11 @@
       "source": "github_trending",
       "brief_date": "2026-07-07",
       "tags": [
+        "agent-skill",
         "claude-code",
         "tool-use"
       ],
-      "tagged_at": "2026-07-08T04:25:22+09:00"
+      "tagged_at": "2026-07-28T21:46:49+09:00"
     },
     "https://huggingface.co/papers/2607.01002": {
       "title": "Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads",
@@ -11518,7 +11519,7 @@
       "tags": [
         "governance"
       ],
-      "tagged_at": "2026-07-13T06:30:40+09:00"
+      "tagged_at": "2026-07-28T21:46:49+09:00"
     },
     "https://github.com/Shubhamsaboo/awesome-llm-apps": {
       "title": "Shubhamsaboo/awesome-llm-apps",
@@ -12218,9 +12219,10 @@
       "brief_date": "2026-07-26",
       "tags": [
         "agent-memory",
-        "paper"
+        "paper",
+        "rl"
       ],
-      "tagged_at": "2026-07-26T10:17:57+09:00"
+      "tagged_at": "2026-07-28T21:46:49+09:00"
     },
     "https://huggingface.co/papers/2607.19865": {
       "title": "DocOps",
@@ -12244,7 +12246,337 @@
         "benchmark",
         "paper"
       ],
-      "tagged_at": "2026-07-26T10:17:57+09:00"
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://www.anthropic.com/news/position-open-weights-models": {
+      "title": "Anthropic: 오픈웨이트 모델에 대한 우리의 입장",
+      "summary": "프런티어 랩이 오픈웨이트 정책을 공식 선언, HN 1444댓글",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "governance",
+        "model-access",
+        "open-weights"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/moonshotai/Kimi-K3": {
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "summary": "2.8T MoE·104B 활성·네이티브 비전·1M 컨텍스트 오픈 모델",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "long-context",
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md": {
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "summary": "Opus 5를 실무형 코딩 벤치로 검증한 실측 리포트",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "agent-harness",
+        "benchmark",
+        "claude-code"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://github.com/microsoft/agent-governance-toolkit": {
+      "title": "microsoft/agent-governance-toolkit",
+      "summary": "OWASP Agentic Top 10 전부 커버하는 에이전트 거버넌스 툴킷",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "agent-harness",
+        "governance",
+        "security"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/papers/2607.21503": {
+      "title": "Agentic Context Management",
+      "summary": "에이전트 실패의 주범은 추론력이 아니라 컨텍스트 관리라는 주장",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "agent-memory",
+        "long-context",
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/upstage/Solar-Open2-250B": {
+      "title": "upstage/Solar-Open2-250B",
+      "summary": "업스테이지의 250B급 오픈웨이트 신모델 공개",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/poolside/Laguna-S-2.1": {
+      "title": "poolside/Laguna-S-2.1",
+      "summary": "poolside의 코드 특화 계열 신모델, 다운로드 6.7만",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/thinkingmachines/Inkling": {
+      "title": "thinkingmachines/Inkling",
+      "summary": "Thinking Machines의 첫 멀티모달 공개 모델, 좋아요 1.6천",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/microsoft/Fara1.5-27B": {
+      "title": "microsoft/Fara1.5-27B",
+      "summary": "MS의 27B 이미지-텍스트 모델, 컴퓨터 유즈 계열 후속",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "computer-use",
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/papers/2607.14277": {
+      "title": "Multi-Head Latent Control",
+      "summary": "추론 시점에 에이전트 의사결정을 제어하는 통합 인터페이스",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "agent-harness",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/papers/2607.24280": {
+      "title": "Multi-Agent Protocol Distillation",
+      "summary": "프로프라이어터리→오픈소스 에이전틱 검색 성능 격차 메우기",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "multi-agent",
+        "open-weights",
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/papers/2607.23588": {
+      "title": "JarvisHub",
+      "summary": "캔버스 네이티브 멀티모달 창작 에이전트용 오픈 하네스",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "agent-harness",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/papers/2607.21653": {
+      "title": "Molt",
+      "summary": "에이전틱 RL 실험을 위한 PyTorch 네이티브 학습 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "agent-harness",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/papers/2607.22529": {
+      "title": "Skill Self-Play",
+      "summary": "스킬을 공진화시켜 LLM 능력 한계를 밀어올리는 자기진화 학습",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/papers/2607.22375": {
+      "title": "IDEAgent",
+      "summary": "연구 아이디어 생성을 품질-다양성 탐색으로 푸는 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "auto-research",
+        "paper"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/papers/2607.22798": {
+      "title": "StateAct",
+      "summary": "스크린샷 대신 프로그램 상태를 먼저 보는 장기 컴퓨터유즈 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "computer-use",
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://github.com/andrewyng/aisuite": {
+      "title": "andrewyng/aisuite",
+      "summary": "여러 생성 AI 제공자를 하나의 인터페이스로 묶는 라우팅 레이어",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "model-routing",
+        "tool-use"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/papers/2607.22561": {
+      "title": "Codifying the Judge",
+      "summary": "LLM-as-a-judge를 프로그램으로 증류해 비용·지연·불투명성 해결",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/papers/2607.20465": {
+      "title": "DataPrep-Bench",
+      "summary": "LLM을 '학습 데이터 준비자'로 평가하는 첫 통합 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/papers/2607.23806": {
+      "title": "A Frozen 12B Beats Frontier Models on Verified Work",
+      "summary": "모델을 얼린 채 검증 가능한 작업에서 100% 정확도 주장",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "benchmark",
+        "local-inference",
+        "paper"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://fermisense.com/when-machines-take-the-wheel/": {
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models",
+      "summary": "500달러 RL 파인튜닝으로 카탈로그 리뷰 태스크에서 프런티어 추월",
+      "category": "llm-harness-eval",
+      "source": "hacker_news",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "benchmark",
+        "open-weights",
+        "rl"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://justinflick.com/2026/07/27/llm-confidence-scores.html": {
+      "title": "Don't ask an LLM for a confidence score",
+      "summary": "LLM 자기보고 확신도는 신뢰할 수 없다는 실무 경고",
+      "category": "llm-harness-eval",
+      "source": "hacker_news",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "benchmark",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/papers/2607.22393": {
+      "title": "SceneActBench",
+      "summary": "VLM 에이전트가 3D 씬을 보고 실제로 조작할 수 있는지 측정",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "benchmark",
+        "paper",
+        "world-model"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/papers/2607.22098": {
+      "title": "Reasoning Denoiser",
+      "summary": "추론 트레이스를 디노이징해 환각을 탐지하는 기법",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev": {
+      "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+      "summary": "Kwaipilot의 코딩 특화 모델 신버전",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "coding-platform",
+        "model-release"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
+    },
+    "https://huggingface.co/papers/2607.24720": {
+      "title": "The Physics of Multi-Turn Long-Horizon Planning",
+      "summary": "멀티턴 장기 계획 능력을 프리트레이닝부터 분해 분석",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-07-28",
+      "tags": [
+        "long-context",
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-07-28T21:46:49+09:00"
     }
   }
 }

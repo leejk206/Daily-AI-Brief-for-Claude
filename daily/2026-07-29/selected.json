@@ -1,0 +1,114 @@
+[
+  {
+    "url": "https://huggingface.co/papers/2607.24653",
+    "title": "Kimi K3: Open Frontier Intelligence (테크 리포트)"
+  },
+  {
+    "url": "https://github.com/openai/codex-security",
+    "title": "Codex Security"
+  },
+  {
+    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.24223",
+    "title": "A New Role for Relevance: Guiding Corpus Interaction in Agentic Search"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.24368",
+    "title": "Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory"
+  },
+  {
+    "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+    "title": "Kimi K3 Architecture Overview and Notes"
+  },
+  {
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "title": "Safety and alignment in an era of long-horizon models"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.25857",
+    "title": "Shieldstral"
+  },
+  {
+    "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
+    "title": "Nanbeige4.2-3B"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.22682",
+    "title": "A Vocabulary for Multi-Agent Automated Research Systems"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.25091",
+    "title": "Towards Robust Reinforcement Learning for Small-Scale Language Model Agents"
+  },
+  {
+    "url": "https://github.com/virgiliojr94/book-to-skill",
+    "title": "book-to-skill"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.25431",
+    "title": "CodeNib: A Multi-View Data System for Serving Repository Context to Coding Agents"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
+    "title": "Interview with Boris Cherny [video]"
+  },
+  {
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "title": "Scientific computing in the age of agentic AI"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.25537",
+    "title": "Visual prompt engineering for video models"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.25669",
+    "title": "OmniDelta: Skill-Driven Budget Allocation for Token Compression in OmniLLMs"
+  },
+  {
+    "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+    "title": "upstage/Solar-Open2-250B"
+  },
+  {
+    "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+    "title": "poolside/Laguna-S-2.1"
+  },
+  {
+    "url": "https://huggingface.co/microsoft/Fara1.5-27B",
+    "title": "microsoft/Fara1.5-27B"
+  },
+  {
+    "url": "https://huggingface.co/thinkingmachines/Inkling",
+    "title": "thinkingmachines/Inkling"
+  },
+  {
+    "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+    "title": "Kwaipilot/KAT-Coder-V2.5-Dev"
+  },
+  {
+    "url": "https://github.com/andrewyng/aisuite",
+    "title": "andrewyng/aisuite"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.22561",
+    "title": "Codifying the Judge: Scalable Evaluation via Program Distillation"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.24720",
+    "title": "The Physics of Multi-Turn Long-Horizon Planning"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.24280",
+    "title": "From Proprietary to Open-Source: Multi-Agent Protocol Distillation"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.23588",
+    "title": "JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents"
+  },
+  {
+    "url": "https://www.anthropic.com/news/hard-questions",
+    "title": "Inviting hard questions"
+  }
+]

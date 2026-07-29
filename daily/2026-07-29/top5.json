@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://huggingface.co/papers/2607.24653",
+    "title": "Kimi K3: Open Frontier Intelligence (테크 리포트)"
+  },
+  {
+    "url": "https://github.com/openai/codex-security",
+    "title": "Codex Security"
+  },
+  {
+    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.24223",
+    "title": "A New Role for Relevance: Guiding Corpus Interaction in Agentic Search"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.24368",
+    "title": "Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory"
+  }
+]

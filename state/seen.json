@@ -1,64 +1,4 @@
 {
-  "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
-    "title": "Gemini 3.6 Flash·3.5 Flash-Lite·3.5 Flash Cyber 공개"
-  },
-  "https://huggingface.co/papers/2607.16617": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
-    "title": "DataFlow-Harness"
-  },
-  "https://github.com/ayghri/i-have-adhd": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
-    "title": "ayghri/i-have-adhd"
-  },
-  "https://huggingface.co/papers/2607.18754": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
-    "title": "AgentDebugX"
-  },
-  "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
-    "title": "MCP 서버 ANSI 이스케이프 인젝션"
-  },
-  "https://huggingface.co/papers/2607.15550": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
-    "title": "SeerGuard"
-  },
-  "https://huggingface.co/papers/2607.14186": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
-    "title": "NexForge"
-  },
-  "https://huggingface.co/papers/2607.15434": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
-    "title": "Coercion and Deception in AI-to-AI Management"
-  },
-  "https://dylancastillo.co/posts/pelicanmaxxing.html": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
-    "title": "Are AI labs pelicanmaxxing?"
-  },
-  "https://huggingface.co/papers/2607.19322": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
-    "title": "GAMUT"
-  },
   "https://huggingface.co/papers/2607.18529": {
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-26",
@@ -71,95 +11,11 @@
     "days": 1,
     "title": "ComposioHQ/awesome-claude-skills"
   },
-  "https://github.com/agegr/pi-web": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-24",
-    "days": 2,
-    "title": "agegr/pi-web"
-  },
-  "https://github.com/diegosouzapw/OmniRoute": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-24",
-    "days": 2,
-    "title": "diegosouzapw/OmniRoute"
-  },
-  "https://huggingface.co/papers/2607.19747": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
-    "title": "Beyond Relevance-Centric Retrieval"
-  },
-  "https://huggingface.co/papers/2607.18603": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
-    "title": "AutoIndex"
-  },
-  "https://huggingface.co/papers/2607.07050": {
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "days": 1,
-    "title": "Diagnosing Tool-Call Boundary Drift"
-  },
-  "https://openai.com/index/hugging-face-model-evaluation-security-incident": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-24",
-    "days": 1,
-    "title": "OpenAI 모델, 평가 중 Hugging Face 상대로 '실제 사이버공격'"
-  },
-  "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-24",
-    "days": 1,
-    "title": "미 스타트업 창업자들 \"중국 오픈웨이트 AI 차단 말라\" 정부에 촉구"
-  },
-  "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-24",
-    "days": 1,
-    "title": "Why Software Factories Fail: 하네스 엔지니어링만으론 부족하다"
-  },
-  "https://huggingface.co/papers/2607.20709": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-24",
-    "days": 1,
-    "title": "NVIDIA Object-Oriented Agents (NOOA)"
-  },
-  "https://news.ycombinator.com/item?id=49026810": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-24",
-    "days": 1,
-    "title": "Show HN: Echo — 오픈웨이트로 Fable급 결과를 1/3 비용에"
-  },
-  "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-24",
-    "days": 1,
-    "title": "The arguments against open source AI are bad"
-  },
   "https://huggingface.co/papers/2607.21461": {
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-26",
     "days": 1,
     "title": "AREX: 딥리서치용 재귀적 자기개선 에이전트"
-  },
-  "https://huggingface.co/papers/2607.20911": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-24",
-    "days": 1,
-    "title": "Tencent WorkBuddy Bench"
-  },
-  "https://huggingface.co/papers/2607.21217": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-24",
-    "days": 1,
-    "title": "ICAE-Bench"
-  },
-  "https://platform.claude.com/cookbook/": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-24",
-    "days": 1,
-    "title": "Claude Cookbook"
   },
   "https://huggingface.co/papers/2607.20734": {
     "first_seen": "2026-07-26",
@@ -384,9 +240,9 @@
     "title": "bradautomates/claude-video"
   },
   "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "days": 2,
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
     "title": "Kwaipilot/KAT-Coder-V2.5-Dev"
   },
   "https://huggingface.co/papers/2607.24720": {
@@ -480,8 +336,8 @@
     "title": "Interview with Boris Cherny [video]"
   },
   "https://openai.com/index/scientific-computing-agentic-ai": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
     "days": 1,
     "title": "Scientific computing in the age of agentic AI"
   },
@@ -496,5 +352,155 @@
     "last_seen": "2026-07-29",
     "days": 1,
     "title": "OmniDelta: Skill-Driven Budget Allocation for Token Compression in OmniLLMs"
+  },
+  "https://openai.com/index/ten-advances-in-mathematics": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "Ten advances in mathematics and theoretical computer science"
+  },
+  "https://github.com/yc-software/qm": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "qm — Multiplayer agent harness for work"
+  },
+  "https://github.com/different-ai/openwork": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "different-ai/openwork"
+  },
+  "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "Advancing the price-performance frontier with GPT-5.6"
+  },
+  "https://huggingface.co/papers/2607.26760": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "Metis: Memory Foundation Model"
+  },
+  "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "deepseek-ai/DeepSeek-V4-Flash-0731"
+  },
+  "https://openai.com/index/building-abundant-intelligence": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "Building abundant intelligence"
+  },
+  "https://huggingface.co/thinkingmachines/Inkling-Small": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "thinkingmachines/Inkling-Small"
+  },
+  "https://huggingface.co/XYZAILab/XYZ-Aquila-mini": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "XYZAILab/XYZ-Aquila-mini"
+  },
+  "https://huggingface.co/papers/2607.28227": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "Qwen-UI-Agent Technical Report"
+  },
+  "https://huggingface.co/papers/2607.28568": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "Frontis-MA1: Recursive Self-Improvement in ML Engineering"
+  },
+  "https://huggingface.co/papers/2607.27958": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "Σ-Mem: An Online Reliability Memory for LLM-based Multi-Agent Systems"
+  },
+  "https://github.com/mvanhorn/last30days-skill": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "mvanhorn/last30days-skill"
+  },
+  "https://huggingface.co/papers/2607.28074": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "Echoverse: Deep, Evolving Environments for Training Computer-Use Agents"
+  },
+  "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark"
+  },
+  "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations"
+  },
+  "https://huggingface.co/papers/2607.25294": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "CLBench-V: Evaluating Multimodal Context Learning"
+  },
+  "https://huggingface.co/papers/2607.27652": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "Harness-G: A Graph-Structured Harness for Search Agents"
+  },
+  "https://huggingface.co/papers/2607.20891": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions"
+  },
+  "https://huggingface.co/papers/2607.27146": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "MindForge: Whole-Life-Cycle Software Engineering for Small LMs"
+  },
+  "https://huggingface.co/papers/2607.27167": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "SpecFirst: Behavioral Specification Elicitation in Program Synthesis"
+  },
+  "https://huggingface.co/papers/2607.26497": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "BM25 Wins at Scale: A Scaling Study of RAG Paradigms"
+  },
+  "https://huggingface.co/papers/2607.27919": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory"
+  },
+  "https://huggingface.co/papers/2607.26637": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "Filesystem-Based Memory for LLM Agents"
+  },
+  "https://huggingface.co/papers/2607.28272": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "days": 1,
+    "title": "MemHarness: Memory Is Reconstructed, Not Replayed"
   }
 }

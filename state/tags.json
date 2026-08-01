@@ -7002,9 +7002,10 @@
       "tags": [
         "agent-skill",
         "claude-code",
+        "retrieval",
         "web-agent"
       ],
-      "tagged_at": "2026-06-11T08:40:25+09:00"
+      "tagged_at": "2026-08-01T18:12:43+09:00"
     },
     "https://openai.com/index/endava-frontiers": {
       "title": "How Endava is redesigning software delivery around AI agents",
@@ -12562,9 +12563,10 @@
       "brief_date": "2026-07-28",
       "tags": [
         "coding-platform",
-        "model-release"
+        "model-release",
+        "open-weights"
       ],
-      "tagged_at": "2026-07-29T19:19:41+09:00"
+      "tagged_at": "2026-08-01T18:12:43+09:00"
     },
     "https://huggingface.co/papers/2607.24720": {
       "title": "The Physics of Multi-Turn Long-Horizon Planning",
@@ -12770,7 +12772,7 @@
         "auto-research",
         "coding-platform"
       ],
-      "tagged_at": "2026-07-29T19:19:41+09:00"
+      "tagged_at": "2026-08-01T18:12:43+09:00"
     },
     "https://huggingface.co/papers/2607.25537": {
       "title": "Visual prompt engineering for video models",
@@ -12795,6 +12797,310 @@
         "paper"
       ],
       "tagged_at": "2026-07-29T19:19:41+09:00"
+    },
+    "https://openai.com/index/ten-advances-in-mathematics": {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "summary": "차세대 모델이 수십 년 미해결 난제 10건을 실제로 풀었다",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "auto-research",
+        "math-reasoning"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://github.com/yc-software/qm": {
+      "title": "qm — Multiplayer agent harness for work",
+      "summary": "여러 에이전트를 한 작업판에서 동시에 굴리는 하네스, HN 564점",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "agent-harness",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://github.com/different-ai/openwork": {
+      "title": "different-ai/openwork",
+      "summary": "Claude Cowork의 오픈소스 대안, 하루 806스타 급등",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "cli-agent",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "summary": "GPT-5.6 가격 인하로 에이전트 워크플로 단가가 내려간다",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "model-release",
+        "pricing"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/papers/2607.26760": {
+      "title": "Metis: Memory Foundation Model",
+      "summary": "메모리를 외장 모듈이 아닌 파운데이션 모델로 올린 접근, 249 upvote",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "agent-memory",
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731": {
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "summary": "DeepSeek V4 Flash 신규 체크포인트, 하루 만에 1,180 라이크",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://openai.com/index/building-abundant-intelligence": {
+      "title": "Building abundant intelligence",
+      "summary": "OpenAI가 모델·인프라·단가를 묶어 설명한 풀스택 전략 글",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "hardware",
+        "pricing"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/thinkingmachines/Inkling-Small": {
+      "title": "thinkingmachines/Inkling-Small",
+      "summary": "Thinking Machines의 경량 멀티모달 Inkling 계열 추가 공개",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/XYZAILab/XYZ-Aquila-mini": {
+      "title": "XYZAILab/XYZ-Aquila-mini",
+      "summary": "신생 랩의 소형 텍스트 생성 모델, 다운로드 대비 라이크 비율이 이례적",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/papers/2607.28227": {
+      "title": "Qwen-UI-Agent Technical Report",
+      "summary": "실사용 환경을 겨냥한 파운데이션 GUI 에이전트 기술 리포트, 275 upvote",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "computer-use",
+        "paper",
+        "web-agent"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/papers/2607.28568": {
+      "title": "Frontis-MA1: Recursive Self-Improvement in ML Engineering",
+      "summary": "AI가 AI 개발을 개선하는 RSI를 ML 엔지니어링 테스트베드로 검증",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "auto-research",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/papers/2607.27958": {
+      "title": "Σ-Mem: An Online Reliability Memory for LLM-based Multi-Agent Systems",
+      "summary": "무엇을 기억할지가 아니라 어느 에이전트를 믿을지를 기억하는 메모리",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "agent-memory",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/papers/2607.28074": {
+      "title": "Echoverse: Deep, Evolving Environments for Training Computer-Use Agents",
+      "summary": "로그인 장벽 뒤 실제 앱을 학습 환경으로 만드는 컴퓨터 사용 에이전트 훈련장",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "computer-use",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores": {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "summary": "reasoning 보존과 compaction 두 API 설정만으로 점수 3배",
+      "category": "llm-harness-eval",
+      "source": "release_blogs",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "agent-harness",
+        "benchmark",
+        "long-context"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals": {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "summary": "사이버보안 평가 도중 발생한 실제 사건 3건의 사후 분석",
+      "category": "llm-harness-eval",
+      "source": "anthropic_news",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "ai-safety",
+        "benchmark",
+        "security"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/papers/2607.25294": {
+      "title": "CLBench-V: Evaluating Multimodal Context Learning",
+      "summary": "사전지식이 아니라 주어진 컨텍스트로 학습하는 능력을 재는 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "benchmark",
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/papers/2607.27652": {
+      "title": "Harness-G: A Graph-Structured Harness for Search Agents",
+      "summary": "자유 텍스트 질의 대신 그래프 구조로 검색 에이전트를 제약하는 하네스",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "agent-harness",
+        "paper",
+        "retrieval",
+        "rl"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/papers/2607.20891": {
+      "title": "Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions",
+      "summary": "잘못된 근거 하나에 딥리서치 에이전트 결론이 통째로 흔들린다",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "auto-research",
+        "benchmark",
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/papers/2607.27146": {
+      "title": "MindForge: Whole-Life-Cycle Software Engineering for Small LMs",
+      "summary": "기존 코드베이스 없이 처음부터 프로그램을 짜는 소형 모델 학습법",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "paper",
+        "program-synthesis"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/papers/2607.27167": {
+      "title": "SpecFirst: Behavioral Specification Elicitation in Program Synthesis",
+      "summary": "코드 생성 전에 명세를 먼저 끌어내는 것을 1급 단계로 승격",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "paper",
+        "program-synthesis",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/papers/2607.26497": {
+      "title": "BM25 Wins at Scale: A Scaling Study of RAG Paradigms",
+      "summary": "스케일을 키우면 화려한 RAG 기법보다 BM25가 이긴다는 반직관 결과",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "benchmark",
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/papers/2607.27919": {
+      "title": "Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory",
+      "summary": "장기 메모리를 추론과 분리해 독립적으로 키우는 파라메트릭 메모리",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "agent-memory",
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/papers/2607.26637": {
+      "title": "Filesystem-Based Memory for LLM Agents",
+      "summary": "마크다운 디렉터리를 에이전트 장기 메모리로 쓰는 방식의 조직·진화·지속가능성 분석",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "agent-harness",
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
+    },
+    "https://huggingface.co/papers/2607.28272": {
+      "title": "MemHarness: Memory Is Reconstructed, Not Replayed",
+      "summary": "과거 경험을 그대로 재생하지 말고 재구성해서 쓰라는 메모리 하네스",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-08-01",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-08-01T18:12:43+09:00"
     }
   }
 }

@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://openai.com/index/ten-advances-in-mathematics",
+    "title": "Ten advances in mathematics and theoretical computer science"
+  },
+  {
+    "url": "https://github.com/yc-software/qm",
+    "title": "qm — Multiplayer agent harness for work"
+  },
+  {
+    "url": "https://github.com/different-ai/openwork",
+    "title": "different-ai/openwork"
+  },
+  {
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "title": "Advancing the price-performance frontier with GPT-5.6"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.26760",
+    "title": "Metis: Memory Foundation Model"
+  },
+  {
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+    "title": "deepseek-ai/DeepSeek-V4-Flash-0731"
+  },
+  {
+    "url": "https://openai.com/index/building-abundant-intelligence",
+    "title": "Building abundant intelligence"
+  },
+  {
+    "url": "https://huggingface.co/thinkingmachines/Inkling-Small",
+    "title": "thinkingmachines/Inkling-Small"
+  },
+  {
+    "url": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini",
+    "title": "XYZAILab/XYZ-Aquila-mini"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.28227",
+    "title": "Qwen-UI-Agent Technical Report"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.28568",
+    "title": "Frontis-MA1: Recursive Self-Improvement in ML Engineering"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.27958",
+    "title": "Σ-Mem: An Online Reliability Memory for LLM-based Multi-Agent Systems"
+  },
+  {
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "title": "mvanhorn/last30days-skill"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.28074",
+    "title": "Echoverse: Deep, Evolving Environments for Training Computer-Use Agents"
+  },
+  {
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark"
+  },
+  {
+    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.25294",
+    "title": "CLBench-V: Evaluating Multimodal Context Learning"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.27652",
+    "title": "Harness-G: A Graph-Structured Harness for Search Agents"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.20891",
+    "title": "Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.27146",
+    "title": "MindForge: Whole-Life-Cycle Software Engineering for Small LMs"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.27167",
+    "title": "SpecFirst: Behavioral Specification Elicitation in Program Synthesis"
+  },
+  {
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "title": "Scientific computing in the age of agentic AI"
+  },
+  {
+    "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+    "title": "Kwaipilot/KAT-Coder-V2.5-Dev"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.26497",
+    "title": "BM25 Wins at Scale: A Scaling Study of RAG Paradigms"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.27919",
+    "title": "Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.26637",
+    "title": "Filesystem-Based Memory for LLM Agents"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.28272",
+    "title": "MemHarness: Memory Is Reconstructed, Not Replayed"
+  }
+]

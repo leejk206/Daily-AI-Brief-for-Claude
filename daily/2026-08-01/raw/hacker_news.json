@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-08-01T18:08:26+09:00",
+  "items": [
+    {
+      "id": "hn:49124218",
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "description": "",
+      "signals": {
+        "points": 1271,
+        "num_comments": 310,
+        "discussion_url": "https://news.ycombinator.com/item?id=49124218"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49126604",
+      "title": "qm – Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "description": "",
+      "signals": {
+        "points": 564,
+        "num_comments": 113,
+        "discussion_url": "https://news.ycombinator.com/item?id=49126604"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49120097",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "description": "",
+      "signals": {
+        "points": 512,
+        "num_comments": 526,
+        "discussion_url": "https://news.ycombinator.com/item?id=49120097"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49123386",
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "url": "https://github.com/sqliteai/waste",
+      "description": "",
+      "signals": {
+        "points": 245,
+        "num_comments": 101,
+        "discussion_url": "https://news.ycombinator.com/item?id=49123386"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49124858",
+      "title": "Big Food vs. the People",
+      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "description": "",
+      "signals": {
+        "points": 226,
+        "num_comments": 143,
+        "discussion_url": "https://news.ycombinator.com/item?id=49124858"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49125034",
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "description": "",
+      "signals": {
+        "points": 188,
+        "num_comments": 95,
+        "discussion_url": "https://news.ycombinator.com/item?id=49125034"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49129990",
+      "title": "How to Exist",
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "description": "",
+      "signals": {
+        "points": 186,
+        "num_comments": 101,
+        "discussion_url": "https://news.ycombinator.com/item?id=49129990"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49124042",
+      "title": "The most official water costs $120k a gallon",
+      "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+      "description": "",
+      "signals": {
+        "points": 184,
+        "num_comments": 146,
+        "discussion_url": "https://news.ycombinator.com/item?id=49124042"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49127031",
+      "title": "Golang proposal: container/: generic collection types",
+      "url": "https://github.com/golang/go/issues/80590",
+      "description": "",
+      "signals": {
+        "points": 151,
+        "num_comments": 123,
+        "discussion_url": "https://news.ycombinator.com/item?id=49127031"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49121196",
+      "title": "Progressive Web Components",
+      "url": "https://arielsalminen.com/2026/progressive-web-components/",
+      "description": "",
+      "signals": {
+        "points": 150,
+        "num_comments": 30,
+        "discussion_url": "https://news.ycombinator.com/item?id=49121196"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49126765",
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "description": "",
+      "signals": {
+        "points": 143,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=49126765"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49117089",
+      "title": "The Absurdity of Albert Camus",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+      "description": "",
+      "signals": {
+        "points": 116,
+        "num_comments": 53,
+        "discussion_url": "https://news.ycombinator.com/item?id=49117089"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49130604",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "description": "",
+      "signals": {
+        "points": 108,
+        "num_comments": 34,
+        "discussion_url": "https://news.ycombinator.com/item?id=49130604"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49096605",
+      "title": "Software for One",
+      "url": "https://www.ajwaxman.com/writing/software-for-one",
+      "description": "",
+      "signals": {
+        "points": 102,
+        "num_comments": 90,
+        "discussion_url": "https://news.ycombinator.com/item?id=49096605"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49119270",
+      "title": "Let's make the worst Htmx",
+      "url": "https://zserge.com/posts/worst-htmx-ever/",
+      "description": "",
+      "signals": {
+        "points": 99,
+        "num_comments": 31,
+        "discussion_url": "https://news.ycombinator.com/item?id=49119270"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49121849",
+      "title": "Increasing the lifespan of a bulb makes it worse in every other way",
+      "url": "https://maurycyz.com/misc/tungsten/",
+      "description": "",
+      "signals": {
+        "points": 81,
+        "num_comments": 78,
+        "discussion_url": "https://news.ycombinator.com/item?id=49121849"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49130726",
+      "title": "The development pipeline is a production system",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "description": "",
+      "signals": {
+        "points": 78,
+        "num_comments": 27,
+        "discussion_url": "https://news.ycombinator.com/item?id=49130726"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49132058",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "description": "",
+      "signals": {
+        "points": 75,
+        "num_comments": 61,
+        "discussion_url": "https://news.ycombinator.com/item?id=49132058"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49131367",
+      "title": "Ten Ways NAS Is Getting Enshitified",
+      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+      "description": "",
+      "signals": {
+        "points": 74,
+        "num_comments": 60,
+        "discussion_url": "https://news.ycombinator.com/item?id=49131367"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49130295",
+      "title": "A week in Matrix",
+      "url": "https://piegames.de/dumps/a-week-in-matrix/",
+      "description": "",
+      "signals": {
+        "points": 67,
+        "num_comments": 35,
+        "discussion_url": "https://news.ycombinator.com/item?id=49130295"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49084005",
+      "title": "Long Range Wi-Fi – Pushing 2.4 GHz Wi-Fi to the limits (2019)",
+      "url": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
+      "description": "",
+      "signals": {
+        "points": 53,
+        "num_comments": 32,
+        "discussion_url": "https://news.ycombinator.com/item?id=49084005"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49128323",
+      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "url": "https://arxiv.org/abs/2607.28233",
+      "description": "",
+      "signals": {
+        "points": 50,
+        "num_comments": 28,
+        "discussion_url": "https://news.ycombinator.com/item?id=49128323"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49077646",
+      "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
+      "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+      "description": "",
+      "signals": {
+        "points": 31,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=49077646"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49091614",
+      "title": "A tiny holdout building in the middle of Macy’s is back in view",
+      "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=49091614"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49008010",
+      "title": "Beckett the Prophet",
+      "url": "https://theamericanscholar.org/beckett-the-prophet/",
+      "description": "",
+      "signals": {
+        "points": 18,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=49008010"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49096847",
+      "title": "G'mic 4.0: Squaring the Pixel, Easier",
+      "url": "https://gmic.eu/gmic40/",
+      "description": "",
+      "signals": {
+        "points": 11,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=49096847"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49084215",
+      "title": "When Internal Memory Fails: A No-Solder Wii U Recovery",
+      "url": "https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=49084215"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    }
+  ]
+}

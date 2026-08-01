@@ -1774,5 +1774,25 @@
   "https://huggingface.co/papers/2607.24368": {
     "archived_on": "2026-07-29",
     "title": "Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory"
+  },
+  "https://openai.com/index/ten-advances-in-mathematics": {
+    "archived_on": "2026-08-01",
+    "title": "Ten advances in mathematics and theoretical computer science"
+  },
+  "https://github.com/yc-software/qm": {
+    "archived_on": "2026-08-01",
+    "title": "qm — Multiplayer agent harness for work"
+  },
+  "https://github.com/different-ai/openwork": {
+    "archived_on": "2026-08-01",
+    "title": "different-ai/openwork"
+  },
+  "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": {
+    "archived_on": "2026-08-01",
+    "title": "Advancing the price-performance frontier with GPT-5.6"
+  },
+  "https://huggingface.co/papers/2607.26760": {
+    "archived_on": "2026-08-01",
+    "title": "Metis: Memory Foundation Model"
   }
 }

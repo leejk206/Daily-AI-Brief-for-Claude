@@ -1,0 +1,118 @@
+[
+  {
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "title": "Responding to the next frontier of critical cyber capabilities"
+  },
+  {
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "title": "DeepSeek V4 Flash 0731 (ARC Prize 결과)"
+  },
+  {
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "title": "Oracle bans AI-generated code from OpenJDK"
+  },
+  {
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "title": "PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.06301",
+    "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization"
+  },
+  {
+    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+    "title": "Improving Fable 5's biology safeguards"
+  },
+  {
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "title": "Improving GPT-5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency"
+  },
+  {
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "title": "Third-party cyber evaluations involving OpenAI models"
+  },
+  {
+    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face"
+  },
+  {
+    "url": "https://genesisopenmodels.anl.gov/",
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.04505",
+    "title": "K-EXAONE 2.0 Technical Report"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.06197",
+    "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic RL"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.05987",
+    "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.05102",
+    "title": "ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.05466",
+    "title": "Recursive Synthesis for Long-Horizon Terminal Tasks"
+  },
+  {
+    "url": "https://github.com/google/skills",
+    "title": "google/skills"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.03451",
+    "title": "DataSpace: Benchmarking Data Agents for Verifiable Analytics"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.28609",
+    "title": "OSReward: Standardized Evaluation for Cross-Platform Computer-Use Reward Models"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.03764",
+    "title": "GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.21735",
+    "title": "What AI Red-Team Evaluations Can and Cannot Prove"
+  },
+  {
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark"
+  },
+  {
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "title": "Managing AI Coding Costs at Scale"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.03392",
+    "title": "Self-Evolving Coding Agents"
+  },
+  {
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.05784",
+    "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.04530",
+    "title": "FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.05108",
+    "title": "Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming"
+  }
+]

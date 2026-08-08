@@ -1794,5 +1794,25 @@
   "https://huggingface.co/papers/2607.26760": {
     "archived_on": "2026-08-01",
     "title": "Metis: Memory Foundation Model"
+  },
+  "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
+    "archived_on": "2026-08-08",
+    "title": "Responding to the next frontier of critical cyber capabilities"
+  },
+  "https://arcprize.org/results/deepseek-v4-flash-0731": {
+    "archived_on": "2026-08-08",
+    "title": "DeepSeek V4 Flash 0731 (ARC Prize 결과)"
+  },
+  "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code": {
+    "archived_on": "2026-08-08",
+    "title": "Oracle bans AI-generated code from OpenJDK"
+  },
+  "https://github.com/PrimeIntellect-ai/prime-agent": {
+    "archived_on": "2026-08-08",
+    "title": "PrimeIntellect-ai/prime-agent"
+  },
+  "https://huggingface.co/papers/2608.06301": {
+    "archived_on": "2026-08-08",
+    "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization"
   }
 }

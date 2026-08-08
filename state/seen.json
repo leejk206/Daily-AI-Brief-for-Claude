@@ -1,357 +1,15 @@
 {
-  "https://huggingface.co/papers/2607.18529": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "days": 1,
-    "title": "EduPanel"
-  },
-  "https://github.com/ComposioHQ/awesome-claude-skills": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "days": 1,
-    "title": "ComposioHQ/awesome-claude-skills"
-  },
-  "https://huggingface.co/papers/2607.21461": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "days": 1,
-    "title": "AREX: 딥리서치용 재귀적 자기개선 에이전트"
-  },
-  "https://huggingface.co/papers/2607.20734": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "days": 1,
-    "title": "LLMs Get Lost in Evolving User Intent"
-  },
-  "https://www.anthropic.com/news/claude-opus-5": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "days": 1,
-    "title": "Introducing Claude Opus 5"
-  },
-  "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "days": 1,
-    "title": "The new rules of context engineering for Claude 5 generation models"
-  },
-  "https://huggingface.co/papers/2607.21557": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "days": 1,
-    "title": "OpenForgeRL: Train Harness-native Agents in Any Environment"
-  },
-  "https://openai.com/index/introducing-openai-presence": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "days": 1,
-    "title": "Introducing OpenAI Presence"
-  },
-  "https://github.com/citrolabs/ego-lite": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "days": 1,
-    "title": "citrolabs/ego-lite"
-  },
-  "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "days": 1,
-    "title": "Open-weight AI is having its Kubernetes moment"
-  },
-  "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "days": 1,
-    "title": "DeepSeek, 미-중 컴퓨트 격차 발언 유출 후 펀드레이징 중단"
-  },
-  "https://huggingface.co/papers/2607.21051": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "Sample-Efficient Learning from Agent Experience"
-  },
-  "https://huggingface.co/papers/2607.19865": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "days": 1,
-    "title": "DocOps"
-  },
-  "https://huggingface.co/papers/2607.19238": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "FinanceComplexQA"
-  },
-  "https://www.anthropic.com/news/position-open-weights-models": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "Anthropic: 오픈웨이트 모델에 대한 우리의 입장"
-  },
-  "https://huggingface.co/moonshotai/Kimi-K3": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "Kimi K3: Open Frontier Intelligence"
-  },
-  "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "Benchmarking Opus 5 on SlopCodeBench"
-  },
-  "https://github.com/microsoft/agent-governance-toolkit": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "microsoft/agent-governance-toolkit"
-  },
-  "https://huggingface.co/papers/2607.21503": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "Agentic Context Management"
-  },
-  "https://huggingface.co/upstage/Solar-Open2-250B": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "days": 2,
-    "title": "upstage/Solar-Open2-250B"
-  },
-  "https://huggingface.co/poolside/Laguna-S-2.1": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "days": 2,
-    "title": "poolside/Laguna-S-2.1"
-  },
-  "https://huggingface.co/thinkingmachines/Inkling": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "days": 2,
-    "title": "thinkingmachines/Inkling"
-  },
-  "https://huggingface.co/microsoft/Fara1.5-27B": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "days": 2,
-    "title": "microsoft/Fara1.5-27B"
-  },
-  "https://www.anthropic.com/news/hard-questions": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "days": 2,
-    "title": "Inviting hard questions"
-  },
-  "https://huggingface.co/papers/2607.14277": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "Multi-Head Latent Control"
-  },
-  "https://huggingface.co/papers/2607.24280": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "days": 2,
-    "title": "Multi-Agent Protocol Distillation"
-  },
-  "https://huggingface.co/papers/2607.23588": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "days": 2,
-    "title": "JarvisHub"
-  },
-  "https://huggingface.co/papers/2607.21653": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "Molt"
-  },
-  "https://huggingface.co/papers/2607.22529": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "Skill Self-Play"
-  },
-  "https://huggingface.co/papers/2607.22375": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "IDEAgent"
-  },
-  "https://huggingface.co/papers/2607.22798": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "StateAct"
-  },
-  "https://github.com/andrewyng/aisuite": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "days": 2,
-    "title": "andrewyng/aisuite"
-  },
-  "https://huggingface.co/papers/2607.22561": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "days": 2,
-    "title": "Codifying the Judge"
-  },
-  "https://huggingface.co/papers/2607.20465": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "DataPrep-Bench"
-  },
-  "https://huggingface.co/papers/2607.23806": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "A Frozen 12B Beats Frontier Models on Verified Work"
-  },
-  "https://fermisense.com/when-machines-take-the-wheel/": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "A $500 RL fine-tune of a 9B open model beat frontier models"
-  },
-  "https://justinflick.com/2026/07/27/llm-confidence-scores.html": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "Don't ask an LLM for a confidence score"
-  },
-  "https://huggingface.co/papers/2607.22393": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "SceneActBench"
-  },
-  "https://huggingface.co/papers/2607.22098": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "Reasoning Denoiser"
-  },
-  "https://github.com/bradautomates/claude-video": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-28",
-    "days": 1,
-    "title": "bradautomates/claude-video"
-  },
   "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev": {
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-01",
     "days": 1,
     "title": "Kwaipilot/KAT-Coder-V2.5-Dev"
   },
-  "https://huggingface.co/papers/2607.24720": {
-    "first_seen": "2026-07-28",
-    "last_seen": "2026-07-29",
-    "days": 2,
-    "title": "The Physics of Multi-Turn Long-Horizon Planning"
-  },
-  "https://huggingface.co/papers/2607.24653": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "Kimi K3: Open Frontier Intelligence (테크 리포트)"
-  },
-  "https://github.com/openai/codex-security": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "Codex Security"
-  },
-  "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
-  },
-  "https://huggingface.co/papers/2607.24223": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "A New Role for Relevance: Guiding Corpus Interaction in Agentic Search"
-  },
-  "https://huggingface.co/papers/2607.24368": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory"
-  },
-  "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "Kimi K3 Architecture Overview and Notes"
-  },
-  "https://openai.com/index/safety-alignment-long-horizon-models": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "Safety and alignment in an era of long-horizon models"
-  },
-  "https://huggingface.co/papers/2607.25857": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "Shieldstral"
-  },
-  "https://huggingface.co/Nanbeige/Nanbeige4.2-3B": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "Nanbeige4.2-3B"
-  },
-  "https://huggingface.co/papers/2607.22682": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "A Vocabulary for Multi-Agent Automated Research Systems"
-  },
-  "https://huggingface.co/papers/2607.25091": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "Towards Robust Reinforcement Learning for Small-Scale Language Model Agents"
-  },
-  "https://github.com/virgiliojr94/book-to-skill": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "book-to-skill"
-  },
-  "https://huggingface.co/papers/2607.25431": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "CodeNib: A Multi-View Data System for Serving Repository Context to Coding Agents"
-  },
-  "https://www.youtube.com/watch?v=qyPCVqFUyDo": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "Interview with Boris Cherny [video]"
-  },
   "https://openai.com/index/scientific-computing-agentic-ai": {
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-01",
     "days": 1,
     "title": "Scientific computing in the age of agentic AI"
-  },
-  "https://huggingface.co/papers/2607.25537": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "Visual prompt engineering for video models"
-  },
-  "https://huggingface.co/papers/2607.25669": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "days": 1,
-    "title": "OmniDelta: Skill-Driven Budget Allocation for Token Compression in OmniLLMs"
   },
   "https://openai.com/index/ten-advances-in-mathematics": {
     "first_seen": "2026-08-01",
@@ -438,14 +96,14 @@
     "title": "Echoverse: Deep, Evolving Environments for Training Computer-Use Agents"
   },
   "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
     "days": 1,
     "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark"
   },
   "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
     "days": 1,
     "title": "Investigating three real-world incidents in our cybersecurity evaluations"
   },
@@ -502,5 +160,167 @@
     "last_seen": "2026-08-01",
     "days": 1,
     "title": "MemHarness: Memory Is Reconstructed, Not Replayed"
+  },
+  "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "Responding to the next frontier of critical cyber capabilities"
+  },
+  "https://arcprize.org/results/deepseek-v4-flash-0731": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "DeepSeek V4 Flash 0731 (ARC Prize 결과)"
+  },
+  "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "Oracle bans AI-generated code from OpenJDK"
+  },
+  "https://github.com/PrimeIntellect-ai/prime-agent": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "PrimeIntellect-ai/prime-agent"
+  },
+  "https://huggingface.co/papers/2608.06301": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization"
+  },
+  "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "Improving Fable 5's biology safeguards"
+  },
+  "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "Improving GPT-5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users"
+  },
+  "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency"
+  },
+  "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "Third-party cyber evaluations involving OpenAI models"
+  },
+  "https://simonwillison.net/2026/Aug/7/openai-timeline/": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face"
+  },
+  "https://genesisopenmodels.anl.gov/": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative"
+  },
+  "https://huggingface.co/papers/2608.04505": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "K-EXAONE 2.0 Technical Report"
+  },
+  "https://huggingface.co/papers/2608.06197": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic RL"
+  },
+  "https://huggingface.co/papers/2608.05987": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning"
+  },
+  "https://huggingface.co/papers/2608.05102": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment"
+  },
+  "https://huggingface.co/papers/2608.05466": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "Recursive Synthesis for Long-Horizon Terminal Tasks"
+  },
+  "https://github.com/google/skills": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "google/skills"
+  },
+  "https://huggingface.co/papers/2608.03451": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "DataSpace: Benchmarking Data Agents for Verifiable Analytics"
+  },
+  "https://huggingface.co/papers/2607.28609": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "OSReward: Standardized Evaluation for Cross-Platform Computer-Use Reward Models"
+  },
+  "https://huggingface.co/papers/2608.03764": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks"
+  },
+  "https://huggingface.co/papers/2607.21735": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "What AI Red-Team Evaluations Can and Cannot Prove"
+  },
+  "https://www.databricks.com/blog/managing-ai-coding-costs-scale": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "Managing AI Coding Costs at Scale"
+  },
+  "https://huggingface.co/papers/2608.03392": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "Self-Evolving Coding Agents"
+  },
+  "https://openai.com/index/learn-teach-chatgpt-work-codex": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "New ways to learn and teach with ChatGPT Work and Codex"
+  },
+  "https://huggingface.co/papers/2608.05784": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory"
+  },
+  "https://huggingface.co/papers/2608.04530": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory"
+  },
+  "https://huggingface.co/papers/2608.05108": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "days": 1,
+    "title": "Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming"
   }
 }

@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-08-08T21:19:29+09:00",
+  "items": [
+    {
+      "id": "hn:49209539",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "description": "",
+      "signals": {
+        "points": 732,
+        "num_comments": 820,
+        "discussion_url": "https://news.ycombinator.com/item?id=49209539"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49214008",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "description": "",
+      "signals": {
+        "points": 662,
+        "num_comments": 397,
+        "discussion_url": "https://news.ycombinator.com/item?id=49214008"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49213754",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "description": "",
+      "signals": {
+        "points": 485,
+        "num_comments": 347,
+        "discussion_url": "https://news.ycombinator.com/item?id=49213754"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49207236",
+      "title": "2027 memory capacity is reportedly sold out",
+      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "description": "",
+      "signals": {
+        "points": 397,
+        "num_comments": 370,
+        "discussion_url": "https://news.ycombinator.com/item?id=49207236"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49214098",
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "description": "",
+      "signals": {
+        "points": 360,
+        "num_comments": 91,
+        "discussion_url": "https://news.ycombinator.com/item?id=49214098"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49217993",
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "description": "",
+      "signals": {
+        "points": 317,
+        "num_comments": 155,
+        "discussion_url": "https://news.ycombinator.com/item?id=49217993"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49208535",
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "description": "",
+      "signals": {
+        "points": 295,
+        "num_comments": 153,
+        "discussion_url": "https://news.ycombinator.com/item?id=49208535"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49218179",
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "description": "",
+      "signals": {
+        "points": 266,
+        "num_comments": 49,
+        "discussion_url": "https://news.ycombinator.com/item?id=49218179"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49189457",
+      "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "description": "",
+      "signals": {
+        "points": 261,
+        "num_comments": 58,
+        "discussion_url": "https://news.ycombinator.com/item?id=49189457"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49216946",
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "description": "",
+      "signals": {
+        "points": 260,
+        "num_comments": 93,
+        "discussion_url": "https://news.ycombinator.com/item?id=49216946"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49214468",
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "description": "",
+      "signals": {
+        "points": 255,
+        "num_comments": 214,
+        "discussion_url": "https://news.ycombinator.com/item?id=49214468"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49214770",
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "description": "",
+      "signals": {
+        "points": 214,
+        "num_comments": 70,
+        "discussion_url": "https://news.ycombinator.com/item?id=49214770"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49135457",
+      "title": "Carl's Required Reading",
+      "url": "https://carlkolon.com/reading/",
+      "description": "",
+      "signals": {
+        "points": 192,
+        "num_comments": 23,
+        "discussion_url": "https://news.ycombinator.com/item?id=49135457"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49213029",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "description": "",
+      "signals": {
+        "points": 188,
+        "num_comments": 181,
+        "discussion_url": "https://news.ycombinator.com/item?id=49213029"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49211921",
+      "title": "An all-sky map of half a million supermassive black holes",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "description": "",
+      "signals": {
+        "points": 172,
+        "num_comments": 38,
+        "discussion_url": "https://news.ycombinator.com/item?id=49211921"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49209572",
+      "title": "Radical Study Suggests Life on Earth Arose Twice",
+      "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+      "description": "",
+      "signals": {
+        "points": 162,
+        "num_comments": 103,
+        "discussion_url": "https://news.ycombinator.com/item?id=49209572"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49219508",
+      "title": "Hardware backdoors in some x86 CPUs",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "description": "",
+      "signals": {
+        "points": 161,
+        "num_comments": 50,
+        "discussion_url": "https://news.ycombinator.com/item?id=49219508"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49135261",
+      "title": "SupererDuperer",
+      "url": "https://www.shirtpocket.com/blog/supererduperer",
+      "description": "",
+      "signals": {
+        "points": 122,
+        "num_comments": 26,
+        "discussion_url": "https://news.ycombinator.com/item?id=49135261"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49171223",
+      "title": "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
+      "url": "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/",
+      "description": "",
+      "signals": {
+        "points": 105,
+        "num_comments": 51,
+        "discussion_url": "https://news.ycombinator.com/item?id=49171223"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49220350",
+      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+      "description": "",
+      "signals": {
+        "points": 91,
+        "num_comments": 84,
+        "discussion_url": "https://news.ycombinator.com/item?id=49220350"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49220313",
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "description": "",
+      "signals": {
+        "points": 45,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=49220313"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49220609",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "description": "",
+      "signals": {
+        "points": 32,
+        "num_comments": 24,
+        "discussion_url": "https://news.ycombinator.com/item?id=49220609"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49141236",
+      "title": "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
+      "url": "https://github.com/alfikpl/ao486",
+      "description": "",
+      "signals": {
+        "points": 29,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=49141236"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49220126",
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "description": "",
+      "signals": {
+        "points": 28,
+        "num_comments": 4,
+        "discussion_url": "https://news.ycombinator.com/item?id=49220126"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49169417",
+      "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
+      "description": "",
+      "signals": {
+        "points": 24,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=49169417"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49220339",
+      "title": "US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+      "description": "",
+      "signals": {
+        "points": 23,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=49220339"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49220390",
+      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+      "url": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 19,
+        "discussion_url": "https://news.ycombinator.com/item?id=49220390"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49169566",
+      "title": "How the 'fecal revolution' changed Earth's ecosystems",
+      "url": "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html",
+      "description": "",
+      "signals": {
+        "points": 11,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=49169566"
+      },
+      "category_hint": null
+    }
+  ]
+}

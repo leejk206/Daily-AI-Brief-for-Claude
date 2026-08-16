@@ -3135,9 +3135,11 @@
       "source": "github_trending",
       "brief_date": "2026-05-14",
       "tags": [
-        "coding-platform"
+        "cli-agent",
+        "coding-platform",
+        "program-synthesis"
       ],
-      "tagged_at": "2026-05-15T19:41:02+09:00"
+      "tagged_at": "2026-08-16T15:48:48+09:00"
     },
     "https://huggingface.co/papers/2605.13050": {
       "title": "Context Training with Active Information Seeking",
@@ -13189,7 +13191,7 @@
         "model-release",
         "pricing"
       ],
-      "tagged_at": "2026-08-08T21:23:02+09:00"
+      "tagged_at": "2026-08-16T15:48:48+09:00"
     },
     "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": {
       "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
@@ -13433,6 +13435,346 @@
         "security"
       ],
       "tagged_at": "2026-08-08T21:23:02+09:00"
+    },
+    "https://deepmind.google/blog/introducing-gemini-3-7-flash/": {
+      "title": "Introducing Gemini 3.7 Flash",
+      "summary": "구글 주력 Flash 계열 세대 교체, 공식 2채널 동시 발표",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "model-release"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/Qwen/Qwen3.8-27B": {
+      "title": "Qwen/Qwen3.8-27B",
+      "summary": "알리바바 27B 오픈웨이트 공개, HF 트렌딩 1위 장악",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://www.anthropic.com/research/multiagent-systems": {
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "summary": "Anthropic이 정리한 멀티에이전트 실패 패턴",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "agent-harness",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://openai.com/index/previewing-ultrafast": {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "Cerebras 기반 750 tok/s 추론 티어",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "hardware",
+        "pricing"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B": {
+      "title": "Qwen/Qwen3.8-2.4T-A95B",
+      "summary": "Qwen3.8 계열 최상위 2.4T MoE 체크포인트",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813": {
+      "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+      "summary": "DeepSeek V4 Pro 최신 리비전 공개",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/MiniMaxAI/MiniMax-H3": {
+      "title": "MiniMaxAI/MiniMax-H3",
+      "summary": "MiniMax 신규 H3 모델, 파생 리포까지 동시 급등",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/meta-models/Muse-Glimmer-30B": {
+      "title": "meta-models/Muse-Glimmer-30B",
+      "summary": "30B급 신규 오픈웨이트, 트렌딩 상위 진입",
+      "category": "frontier-models",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "model-release",
+        "open-weights"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://openai.com/index/builders-guide-to-gpt-5-6": {
+      "title": "The builder's guide to GPT-5.6",
+      "summary": "모델 선택·Responses API 기반 에이전트 구축 가이드",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "tool-use",
+        "tutorial"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://openai.com/index/testing-ads-in-chatgpt": {
+      "title": "Testing ads in ChatGPT",
+      "summary": "ChatGPT 광고 시험 도입, 답변 독립성 유지 명시",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "governance",
+        "pricing"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "보안 특화 GPT-5.6-Cyber를 승인 파트너에 개방",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "model-access",
+        "security"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2608.11215": {
+      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+      "summary": "노트북에서 대규모 에이전트 사회 시뮬레이션",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2608.05604": {
+      "title": "SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries",
+      "summary": "스킬 라이브러리를 계약 보존 그래프로 압축",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2608.11350": {
+      "title": "Self-Evolving Embodied Agents via Skill-Harness Evolution",
+      "summary": "스킬과 하네스를 함께 진화시키는 자기개선 루프",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "agent-harness",
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2608.13560": {
+      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "summary": "장기 과제용 에이전트 하네스 자동 최적화",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "agent-harness",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2608.07545": {
+      "title": "DarwinX: Evolving Agent Harnesses Through Natural Selection",
+      "summary": "자연선택 방식으로 하네스 구성을 진화",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "agent-harness",
+        "paper"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2608.00677": {
+      "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution",
+      "summary": "환경 자동 생성으로 에이전트 레드팀 확장",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "ai-safety",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2608.06867": {
+      "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers",
+      "summary": "라우터 개발·평가·배포 통합 인프라",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "model-routing",
+        "paper"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2608.08160": {
+      "title": "Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives",
+      "summary": "장기 대화에서 지침 일관성 유지 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "benchmark",
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2608.13552": {
+      "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+      "summary": "에이전트 플레이어로 월드모델 장기 목표 평가",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "benchmark",
+        "paper",
+        "world-model"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2608.12440": {
+      "title": "Specification-first convergence with an AI coding agent: dismantling a core architectural invariant across 189 files in a 717k-line codebase",
+      "summary": "테스트 오라클·리뷰 없이 대규모 리팩터를 명세로 수렴시킨 사례 연구",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "cli-agent",
+        "paper",
+        "program-synthesis"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://github.com/cathrynlavery/diagram-design": {
+      "title": "cathrynlavery/diagram-design",
+      "summary": "Claude Code용 편집형 다이어그램 29종, HTML+SVG 자립형",
+      "category": "coding-agents",
+      "source": "github_trending",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "agent-skill",
+        "claude-code"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2608.10450": {
+      "title": "Persistent Recursive Worlds Enable Autonomous Software Evolution",
+      "summary": "지속 환경에서 소프트웨어가 자율 진화하는 구조",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "paper",
+        "program-synthesis"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://arxiv.org/abs/2608.13122": {
+      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "summary": "25만 줄 레거시 코드 GPU 이식에 코딩 에이전트 투입",
+      "category": "coding-agents",
+      "source": "hacker_news",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "paper",
+        "program-synthesis"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2608.12990": {
+      "title": "LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation",
+      "summary": "의미 단위 통합으로 장기 메모리 효율화",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2608.02870": {
+      "title": "Maglev: Sliding Recurrent Memory",
+      "summary": "슬라이딩 순환 메모리로 긴 컨텍스트 처리",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2607.29211": {
+      "title": "Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning",
+      "summary": "무의미한 추론을 스스로 중단시키는 학습법",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "paper",
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians": {
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "summary": "컨텍스트 윈도우를 인간 작업기억과 비교한 에세이",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-08-16",
+      "tags": [
+        "long-context"
+      ],
+      "tagged_at": "2026-08-16T15:48:48+09:00"
     }
   }
 }

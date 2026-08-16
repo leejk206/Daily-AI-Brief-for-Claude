@@ -1,326 +1,182 @@
 {
-  "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "Kwaipilot/KAT-Coder-V2.5-Dev"
-  },
-  "https://openai.com/index/scientific-computing-agentic-ai": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "Scientific computing in the age of agentic AI"
-  },
-  "https://openai.com/index/ten-advances-in-mathematics": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "Ten advances in mathematics and theoretical computer science"
-  },
-  "https://github.com/yc-software/qm": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "qm — Multiplayer agent harness for work"
-  },
-  "https://github.com/different-ai/openwork": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "different-ai/openwork"
-  },
-  "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "Advancing the price-performance frontier with GPT-5.6"
-  },
-  "https://huggingface.co/papers/2607.26760": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "Metis: Memory Foundation Model"
-  },
-  "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "deepseek-ai/DeepSeek-V4-Flash-0731"
-  },
-  "https://openai.com/index/building-abundant-intelligence": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "Building abundant intelligence"
-  },
-  "https://huggingface.co/thinkingmachines/Inkling-Small": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "thinkingmachines/Inkling-Small"
-  },
-  "https://huggingface.co/XYZAILab/XYZ-Aquila-mini": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "XYZAILab/XYZ-Aquila-mini"
-  },
-  "https://huggingface.co/papers/2607.28227": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "Qwen-UI-Agent Technical Report"
-  },
-  "https://huggingface.co/papers/2607.28568": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "Frontis-MA1: Recursive Self-Improvement in ML Engineering"
-  },
-  "https://huggingface.co/papers/2607.27958": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "Σ-Mem: An Online Reliability Memory for LLM-based Multi-Agent Systems"
-  },
-  "https://github.com/mvanhorn/last30days-skill": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "mvanhorn/last30days-skill"
-  },
-  "https://huggingface.co/papers/2607.28074": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "Echoverse: Deep, Evolving Environments for Training Computer-Use Agents"
-  },
-  "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
-    "days": 1,
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark"
-  },
-  "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
-    "days": 1,
-    "title": "Investigating three real-world incidents in our cybersecurity evaluations"
-  },
-  "https://huggingface.co/papers/2607.25294": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "CLBench-V: Evaluating Multimodal Context Learning"
-  },
-  "https://huggingface.co/papers/2607.27652": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "Harness-G: A Graph-Structured Harness for Search Agents"
-  },
-  "https://huggingface.co/papers/2607.20891": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions"
-  },
-  "https://huggingface.co/papers/2607.27146": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "MindForge: Whole-Life-Cycle Software Engineering for Small LMs"
-  },
-  "https://huggingface.co/papers/2607.27167": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "SpecFirst: Behavioral Specification Elicitation in Program Synthesis"
-  },
-  "https://huggingface.co/papers/2607.26497": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "BM25 Wins at Scale: A Scaling Study of RAG Paradigms"
-  },
-  "https://huggingface.co/papers/2607.27919": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory"
-  },
-  "https://huggingface.co/papers/2607.26637": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "Filesystem-Based Memory for LLM Agents"
-  },
-  "https://huggingface.co/papers/2607.28272": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "days": 1,
-    "title": "MemHarness: Memory Is Reconstructed, Not Replayed"
-  },
-  "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
-    "days": 1,
-    "title": "Responding to the next frontier of critical cyber capabilities"
-  },
-  "https://arcprize.org/results/deepseek-v4-flash-0731": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
-    "days": 1,
-    "title": "DeepSeek V4 Flash 0731 (ARC Prize 결과)"
-  },
-  "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
-    "days": 1,
-    "title": "Oracle bans AI-generated code from OpenJDK"
-  },
-  "https://github.com/PrimeIntellect-ai/prime-agent": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
-    "days": 1,
-    "title": "PrimeIntellect-ai/prime-agent"
-  },
-  "https://huggingface.co/papers/2608.06301": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
-    "days": 1,
-    "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization"
-  },
-  "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
-    "days": 1,
-    "title": "Improving Fable 5's biology safeguards"
-  },
   "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
     "title": "Improving GPT-5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users"
   },
-  "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://deepmind.google/blog/introducing-gemini-3-7-flash/": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency"
+    "title": "Introducing Gemini 3.7 Flash"
   },
-  "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://huggingface.co/Qwen/Qwen3.8-27B": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "Third-party cyber evaluations involving OpenAI models"
+    "title": "Qwen/Qwen3.8-27B"
   },
-  "https://simonwillison.net/2026/Aug/7/openai-timeline/": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://www.anthropic.com/research/multiagent-systems": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face"
+    "title": "Patterns and problems in emerging multi-agent systems"
   },
-  "https://genesisopenmodels.anl.gov/": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://github.com/github/spec-kit": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative"
+    "title": "github/spec-kit"
   },
-  "https://huggingface.co/papers/2608.04505": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://openai.com/index/previewing-ultrafast": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "K-EXAONE 2.0 Technical Report"
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed"
   },
-  "https://huggingface.co/papers/2608.06197": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic RL"
+    "title": "Qwen/Qwen3.8-2.4T-A95B"
   },
-  "https://huggingface.co/papers/2608.05987": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning"
+    "title": "deepseek-ai/DeepSeek-V4-Pro-0813"
   },
-  "https://huggingface.co/papers/2608.05102": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://huggingface.co/MiniMaxAI/MiniMax-H3": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment"
+    "title": "MiniMaxAI/MiniMax-H3"
   },
-  "https://huggingface.co/papers/2608.05466": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://huggingface.co/meta-models/Muse-Glimmer-30B": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "Recursive Synthesis for Long-Horizon Terminal Tasks"
+    "title": "meta-models/Muse-Glimmer-30B"
   },
-  "https://github.com/google/skills": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://openai.com/index/builders-guide-to-gpt-5-6": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "google/skills"
+    "title": "The builder's guide to GPT-5.6"
   },
-  "https://huggingface.co/papers/2608.03451": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://openai.com/index/testing-ads-in-chatgpt": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "DataSpace: Benchmarking Data Agents for Verifiable Analytics"
+    "title": "Testing ads in ChatGPT"
   },
-  "https://huggingface.co/papers/2607.28609": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "OSReward: Standardized Evaluation for Cross-Platform Computer-Use Reward Models"
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows"
   },
-  "https://huggingface.co/papers/2608.03764": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://huggingface.co/papers/2608.11215": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks"
+    "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop"
   },
-  "https://huggingface.co/papers/2607.21735": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://huggingface.co/papers/2608.05604": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "What AI Red-Team Evaluations Can and Cannot Prove"
+    "title": "SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries"
   },
-  "https://www.databricks.com/blog/managing-ai-coding-costs-scale": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://huggingface.co/papers/2608.11350": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "Managing AI Coding Costs at Scale"
+    "title": "Self-Evolving Embodied Agents via Skill-Harness Evolution"
   },
-  "https://huggingface.co/papers/2608.03392": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://huggingface.co/papers/2608.13560": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "Self-Evolving Coding Agents"
+    "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design"
   },
-  "https://openai.com/index/learn-teach-chatgpt-work-codex": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://huggingface.co/papers/2608.07545": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "New ways to learn and teach with ChatGPT Work and Codex"
+    "title": "DarwinX: Evolving Agent Harnesses Through Natural Selection"
   },
-  "https://huggingface.co/papers/2608.05784": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://huggingface.co/papers/2608.00677": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory"
+    "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution"
   },
-  "https://huggingface.co/papers/2608.04530": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://huggingface.co/papers/2608.06867": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory"
+    "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers"
   },
-  "https://huggingface.co/papers/2608.05108": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
+  "https://huggingface.co/papers/2608.08160": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "days": 1,
-    "title": "Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming"
+    "title": "Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives"
+  },
+  "https://huggingface.co/papers/2608.13552": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "days": 1,
+    "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives"
+  },
+  "https://huggingface.co/papers/2608.12440": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "days": 1,
+    "title": "Specification-first convergence with an AI coding agent: dismantling a core architectural invariant across 189 files in a 717k-line codebase"
+  },
+  "https://github.com/cathrynlavery/diagram-design": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "days": 1,
+    "title": "cathrynlavery/diagram-design"
+  },
+  "https://huggingface.co/papers/2608.10450": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "days": 1,
+    "title": "Persistent Recursive Worlds Enable Autonomous Software Evolution"
+  },
+  "https://arxiv.org/abs/2608.13122": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "days": 1,
+    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code"
+  },
+  "https://huggingface.co/papers/2608.12990": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "days": 1,
+    "title": "LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation"
+  },
+  "https://huggingface.co/papers/2608.02870": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "days": 1,
+    "title": "Maglev: Sliding Recurrent Memory"
+  },
+  "https://huggingface.co/papers/2607.29211": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "days": 1,
+    "title": "Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning"
+  },
+  "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "days": 1,
+    "title": "AI has access to a vastly larger working memory than the human brain"
   }
 }

@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "title": "Introducing Gemini 3.7 Flash"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+    "title": "Qwen/Qwen3.8-27B"
+  },
+  {
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "title": "Patterns and problems in emerging multi-agent systems"
+  },
+  {
+    "url": "https://github.com/github/spec-kit",
+    "title": "github/spec-kit"
+  },
+  {
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "title": "Qwen/Qwen3.8-2.4T-A95B"
+  },
+  {
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+    "title": "deepseek-ai/DeepSeek-V4-Pro-0813"
+  },
+  {
+    "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+    "title": "MiniMaxAI/MiniMax-H3"
+  },
+  {
+    "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+    "title": "meta-models/Muse-Glimmer-30B"
+  },
+  {
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "title": "The builder's guide to GPT-5.6"
+  },
+  {
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "title": "Improving GPT-5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users"
+  },
+  {
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "title": "Testing ads in ChatGPT"
+  },
+  {
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.11215",
+    "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.05604",
+    "title": "SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.11350",
+    "title": "Self-Evolving Embodied Agents via Skill-Harness Evolution"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.13560",
+    "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.07545",
+    "title": "DarwinX: Evolving Agent Harnesses Through Natural Selection"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.00677",
+    "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.06867",
+    "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.08160",
+    "title": "Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.13552",
+    "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.12440",
+    "title": "Specification-first convergence with an AI coding agent: dismantling a core architectural invariant across 189 files in a 717k-line codebase"
+  },
+  {
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "title": "cathrynlavery/diagram-design"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.10450",
+    "title": "Persistent Recursive Worlds Enable Autonomous Software Evolution"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.13122",
+    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.12990",
+    "title": "LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.02870",
+    "title": "Maglev: Sliding Recurrent Memory"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.29211",
+    "title": "Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning"
+  },
+  {
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "title": "AI has access to a vastly larger working memory than the human brain"
+  }
+]

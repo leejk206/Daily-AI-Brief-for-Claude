@@ -1814,5 +1814,25 @@
   "https://huggingface.co/papers/2608.06301": {
     "archived_on": "2026-08-08",
     "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization"
+  },
+  "https://deepmind.google/blog/introducing-gemini-3-7-flash/": {
+    "archived_on": "2026-08-16",
+    "title": "Introducing Gemini 3.7 Flash"
+  },
+  "https://huggingface.co/Qwen/Qwen3.8-27B": {
+    "archived_on": "2026-08-16",
+    "title": "Qwen/Qwen3.8-27B"
+  },
+  "https://www.anthropic.com/research/multiagent-systems": {
+    "archived_on": "2026-08-16",
+    "title": "Patterns and problems in emerging multi-agent systems"
+  },
+  "https://github.com/github/spec-kit": {
+    "archived_on": "2026-08-16",
+    "title": "github/spec-kit"
+  },
+  "https://openai.com/index/previewing-ultrafast": {
+    "archived_on": "2026-08-16",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed"
   }
 }

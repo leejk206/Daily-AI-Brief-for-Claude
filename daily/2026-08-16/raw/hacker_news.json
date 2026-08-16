@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-08-16T15:45:10+09:00",
+  "items": [
+    {
+      "id": "hn:49312845",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "description": "",
+      "signals": {
+        "points": 465,
+        "num_comments": 404,
+        "discussion_url": "https://news.ycombinator.com/item?id=49312845"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49311651",
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "description": "",
+      "signals": {
+        "points": 401,
+        "num_comments": 278,
+        "discussion_url": "https://news.ycombinator.com/item?id=49311651"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49268580",
+      "title": "Asus Bike Booster",
+      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "description": "",
+      "signals": {
+        "points": 286,
+        "num_comments": 160,
+        "discussion_url": "https://news.ycombinator.com/item?id=49268580"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49298035",
+      "title": "RISC-V: They Should Have Known Better",
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "description": "",
+      "signals": {
+        "points": 276,
+        "num_comments": 337,
+        "discussion_url": "https://news.ycombinator.com/item?id=49298035"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49310682",
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "description": "",
+      "signals": {
+        "points": 245,
+        "num_comments": 86,
+        "discussion_url": "https://news.ycombinator.com/item?id=49310682"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49314403",
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "description": "",
+      "signals": {
+        "points": 226,
+        "num_comments": 169,
+        "discussion_url": "https://news.ycombinator.com/item?id=49314403"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49310926",
+      "title": "A spectre is haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "description": "",
+      "signals": {
+        "points": 206,
+        "num_comments": 71,
+        "discussion_url": "https://news.ycombinator.com/item?id=49310926"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49313428",
+      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "description": "",
+      "signals": {
+        "points": 168,
+        "num_comments": 97,
+        "discussion_url": "https://news.ycombinator.com/item?id=49313428"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49314235",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "description": "",
+      "signals": {
+        "points": 137,
+        "num_comments": 32,
+        "discussion_url": "https://news.ycombinator.com/item?id=49314235"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49313367",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "description": "",
+      "signals": {
+        "points": 127,
+        "num_comments": 63,
+        "discussion_url": "https://news.ycombinator.com/item?id=49313367"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49243061",
+      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+      "description": "",
+      "signals": {
+        "points": 113,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=49243061"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49314902",
+      "title": "Software Engineering fundamentals matter more",
+      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "description": "",
+      "signals": {
+        "points": 81,
+        "num_comments": 21,
+        "discussion_url": "https://news.ycombinator.com/item?id=49314902"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49244872",
+      "title": "A fortuitous decade as an indie software developer",
+      "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
+      "description": "",
+      "signals": {
+        "points": 66,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=49244872"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49313068",
+      "title": "Tess's Android Wayland Compositor",
+      "url": "https://github.com/wmww/tawc",
+      "description": "",
+      "signals": {
+        "points": 61,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=49313068"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49314579",
+      "title": "Tracking down a Zsh history data loss bug",
+      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+      "description": "",
+      "signals": {
+        "points": 59,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=49314579"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49316888",
+      "title": "The quirky personal homepages of programming language creators",
+      "url": "https://breck.lol/plMakers.html",
+      "description": "",
+      "signals": {
+        "points": 56,
+        "num_comments": 16,
+        "discussion_url": "https://news.ycombinator.com/item?id=49316888"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49315742",
+      "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+      "url": "https://www.micdrop.gg/",
+      "description": "",
+      "signals": {
+        "points": 45,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=49315742"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49316271",
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "description": "",
+      "signals": {
+        "points": 43,
+        "num_comments": 12,
+        "discussion_url": "https://news.ycombinator.com/item?id=49316271"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49315456",
+      "title": "Tea5767-Radio-Tuner",
+      "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+      "description": "",
+      "signals": {
+        "points": 35,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=49315456"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49317234",
+      "title": "The Iran War Is a Whole New Level of Quagmire for the US",
+      "url": "https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217",
+      "description": "",
+      "signals": {
+        "points": 33,
+        "num_comments": 8,
+        "discussion_url": "https://news.ycombinator.com/item?id=49317234"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49315995",
+      "title": "Guiding Ships with Moire Patterns",
+      "url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+      "description": "",
+      "signals": {
+        "points": 29,
+        "num_comments": 7,
+        "discussion_url": "https://news.ycombinator.com/item?id=49315995"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49269451",
+      "title": "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite",
+      "url": "https://notebook.link/blog/numba-in-the-browser/",
+      "description": "",
+      "signals": {
+        "points": 24,
+        "num_comments": 5,
+        "discussion_url": "https://news.ycombinator.com/item?id=49269451"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49314967",
+      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "url": "https://arxiv.org/abs/2608.13122",
+      "description": "",
+      "signals": {
+        "points": 21,
+        "num_comments": 2,
+        "discussion_url": "https://news.ycombinator.com/item?id=49314967"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49316685",
+      "title": "Targeted marine cloud brightening weakens subsequent El Niño",
+      "url": "https://www.science.org/doi/10.1126/sciadv.adx3012",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=49316685"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47999020",
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "description": "",
+      "signals": {
+        "points": 13,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=47999020"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49316395",
+      "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
+      "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 3,
+        "discussion_url": "https://news.ycombinator.com/item?id=49316395"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47439821",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "description": "",
+      "signals": {
+        "points": 12,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47439821"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47613622",
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47613622"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:47320921",
+      "title": "Making your JITted Code known: Let me count the ways",
+      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=47320921"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:48351958",
+      "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
+      "url": "https://github.com/lateos-ai/npm-scan",
+      "description": "",
+      "signals": {
+        "points": 9,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=48351958"
+      },
+      "category_hint": null
+    }
+  ]
+}

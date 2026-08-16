@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "title": "Introducing Gemini 3.7 Flash"
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+    "title": "Qwen/Qwen3.8-27B"
+  },
+  {
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "title": "Patterns and problems in emerging multi-agent systems"
+  },
+  {
+    "url": "https://github.com/github/spec-kit",
+    "title": "github/spec-kit"
+  },
+  {
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed"
+  }
+]

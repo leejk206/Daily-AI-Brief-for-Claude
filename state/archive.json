@@ -1834,5 +1834,25 @@
   "https://openai.com/index/previewing-ultrafast": {
     "archived_on": "2026-08-16",
     "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed"
+  },
+  "https://huggingface.co/papers/2608.19880": {
+    "archived_on": "2026-08-22",
+    "title": "EnvHarness: Awakening Static Worlds for Agent Learning"
+  },
+  "https://openai.com/index/offering-zero-data-retention-for-frontier-models": {
+    "archived_on": "2026-08-22",
+    "title": "Offering Zero Data Retention for frontier models"
+  },
+  "https://huggingface.co/papers/2608.19799": {
+    "archived_on": "2026-08-22",
+    "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?"
+  },
+  "https://huggingface.co/papers/2608.18580": {
+    "archived_on": "2026-08-22",
+    "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis"
+  },
+  "https://github.com/apache/maka": {
+    "archived_on": "2026-08-22",
+    "title": "apache/maka"
   }
 }

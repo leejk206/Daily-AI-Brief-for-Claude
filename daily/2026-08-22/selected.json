@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://huggingface.co/papers/2608.19880",
+    "title": "EnvHarness: Awakening Static Worlds for Agent Learning"
+  },
+  {
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "title": "Offering Zero Data Retention for frontier models"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.19799",
+    "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.18580",
+    "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis"
+  },
+  {
+    "url": "https://github.com/apache/maka",
+    "title": "apache/maka"
+  },
+  {
+    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+    "title": "Improving Fable 5's biology safeguards"
+  },
+  {
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "title": "How Claude's text watermark works"
+  },
+  {
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "title": "Pacing model development in an era of cyber-critical capabilities"
+  },
+  {
+    "url": "https://munderdiffl.in/",
+    "title": "Munder Difflin – Agent harness to run an office of your clones"
+  },
+  {
+    "url": "https://huggingface.co/papers/2607.21596",
+    "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.08466",
+    "title": "Hierarchical Self-Improvement: A Framework for Task-Specific Evolvable Agent Harnesses"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.15888",
+    "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.17253",
+    "title": "Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.18852",
+    "title": "SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.19861",
+    "title": "PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.19197",
+    "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.18565",
+    "title": "SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.16590",
+    "title": "Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.18423",
+    "title": "FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.20202",
+    "title": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.13547",
+    "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures"
+  },
+  {
+    "url": "https://openai.com/index/replit",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna"
+  },
+  {
+    "url": "https://openai.com/index/asana",
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.19854",
+    "title": "Repo0: Design-Driven Zero-to-All Code Generation"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.18933",
+    "title": "SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.19758",
+    "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.18027",
+    "title": "Chain-of-Experience for Continual LLM Improvement"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.20281",
+    "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.18171",
+    "title": "Looped Language Models Improve Compositional Tool Calling"
+  },
+  {
+    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+    "title": "Claudette: Make Claude stop talking like a BuzzFeed article"
+  }
+]

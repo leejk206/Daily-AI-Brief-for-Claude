@@ -178,5 +178,185 @@
     "last_seen": "2026-08-16",
     "days": 1,
     "title": "AI has access to a vastly larger working memory than the human brain"
+  },
+  "https://huggingface.co/papers/2608.19880": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "EnvHarness: Awakening Static Worlds for Agent Learning"
+  },
+  "https://openai.com/index/offering-zero-data-retention-for-frontier-models": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Offering Zero Data Retention for frontier models"
+  },
+  "https://huggingface.co/papers/2608.19799": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?"
+  },
+  "https://huggingface.co/papers/2608.18580": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis"
+  },
+  "https://github.com/apache/maka": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "apache/maka"
+  },
+  "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Improving Fable 5's biology safeguards"
+  },
+  "https://www.anthropic.com/news/claude-text-watermark": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "How Claude's text watermark works"
+  },
+  "https://openai.com/index/pacing-model-development-cyber-capabilities": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Pacing model development in an era of cyber-critical capabilities"
+  },
+  "https://munderdiffl.in/": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Munder Difflin – Agent harness to run an office of your clones"
+  },
+  "https://huggingface.co/papers/2607.21596": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills"
+  },
+  "https://huggingface.co/papers/2608.08466": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Hierarchical Self-Improvement: A Framework for Task-Specific Evolvable Agent Harnesses"
+  },
+  "https://huggingface.co/papers/2608.15888": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems"
+  },
+  "https://huggingface.co/papers/2608.17253": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL"
+  },
+  "https://huggingface.co/papers/2608.18852": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents"
+  },
+  "https://huggingface.co/papers/2608.19861": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents"
+  },
+  "https://huggingface.co/papers/2608.19197": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments"
+  },
+  "https://huggingface.co/papers/2608.18565": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation"
+  },
+  "https://huggingface.co/papers/2608.16590": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence"
+  },
+  "https://huggingface.co/papers/2608.18423": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents"
+  },
+  "https://huggingface.co/papers/2608.20202": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use"
+  },
+  "https://huggingface.co/papers/2608.13547": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures"
+  },
+  "https://openai.com/index/replit": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Replit expands access to software creation with GPT-5.6 Luna"
+  },
+  "https://openai.com/index/asana": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex"
+  },
+  "https://huggingface.co/papers/2608.19854": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Repo0: Design-Driven Zero-to-All Code Generation"
+  },
+  "https://huggingface.co/papers/2608.18933": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution"
+  },
+  "https://huggingface.co/papers/2608.19758": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving"
+  },
+  "https://huggingface.co/papers/2608.18027": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Chain-of-Experience for Continual LLM Improvement"
+  },
+  "https://huggingface.co/papers/2608.20281": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization"
+  },
+  "https://huggingface.co/papers/2608.18171": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Looped Language Models Improve Compositional Tool Calling"
+  },
+  "https://github.com/adnanakil/nobuzz/blob/main/README.md": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "days": 1,
+    "title": "Claudette: Make Claude stop talking like a BuzzFeed article"
   }
 }

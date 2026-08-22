@@ -1,0 +1,366 @@
+{
+  "source": "hacker_news",
+  "fetched_at": "2026-08-22T21:50:00+09:00",
+  "items": [
+    {
+      "id": "hn:49388154",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "description": "",
+      "signals": {
+        "points": 1166,
+        "num_comments": 370,
+        "discussion_url": "https://news.ycombinator.com/item?id=49388154"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49386895",
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "description": "",
+      "signals": {
+        "points": 859,
+        "num_comments": 985,
+        "discussion_url": "https://news.ycombinator.com/item?id=49386895"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49389430",
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "description": "",
+      "signals": {
+        "points": 752,
+        "num_comments": 281,
+        "discussion_url": "https://news.ycombinator.com/item?id=49389430"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49390427",
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "description": "",
+      "signals": {
+        "points": 584,
+        "num_comments": 191,
+        "discussion_url": "https://news.ycombinator.com/item?id=49390427"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49387570",
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "description": "",
+      "signals": {
+        "points": 582,
+        "num_comments": 71,
+        "discussion_url": "https://news.ycombinator.com/item?id=49387570"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49395628",
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "description": "",
+      "signals": {
+        "points": 488,
+        "num_comments": 337,
+        "discussion_url": "https://news.ycombinator.com/item?id=49395628"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49386699",
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "description": "",
+      "signals": {
+        "points": 409,
+        "num_comments": 415,
+        "discussion_url": "https://news.ycombinator.com/item?id=49386699"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49398304",
+      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+      "description": "",
+      "signals": {
+        "points": 360,
+        "num_comments": 228,
+        "discussion_url": "https://news.ycombinator.com/item?id=49398304"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49357530",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "description": "",
+      "signals": {
+        "points": 325,
+        "num_comments": 330,
+        "discussion_url": "https://news.ycombinator.com/item?id=49357530"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49388752",
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "description": "",
+      "signals": {
+        "points": 303,
+        "num_comments": 194,
+        "discussion_url": "https://news.ycombinator.com/item?id=49388752"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49393052",
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "description": "",
+      "signals": {
+        "points": 301,
+        "num_comments": 58,
+        "discussion_url": "https://news.ycombinator.com/item?id=49393052"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49387525",
+      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+      "description": "",
+      "signals": {
+        "points": 256,
+        "num_comments": 166,
+        "discussion_url": "https://news.ycombinator.com/item?id=49387525"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49392200",
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "description": "",
+      "signals": {
+        "points": 219,
+        "num_comments": 58,
+        "discussion_url": "https://news.ycombinator.com/item?id=49392200"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49346444",
+      "title": "The coolest anti-surveillance tools at Defcon [video]",
+      "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+      "description": "",
+      "signals": {
+        "points": 215,
+        "num_comments": 36,
+        "discussion_url": "https://news.ycombinator.com/item?id=49346444"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49384210",
+      "title": "Stop Making TUIs",
+      "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+      "description": "",
+      "signals": {
+        "points": 193,
+        "num_comments": 281,
+        "discussion_url": "https://news.ycombinator.com/item?id=49384210"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49394496",
+      "title": "Three important steps in my maturation process",
+      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "description": "",
+      "signals": {
+        "points": 166,
+        "num_comments": 77,
+        "discussion_url": "https://news.ycombinator.com/item?id=49394496"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49389952",
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "description": "",
+      "signals": {
+        "points": 157,
+        "num_comments": 38,
+        "discussion_url": "https://news.ycombinator.com/item?id=49389952"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49391553",
+      "title": "OTel isn’t going well",
+      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+      "description": "",
+      "signals": {
+        "points": 147,
+        "num_comments": 59,
+        "discussion_url": "https://news.ycombinator.com/item?id=49391553"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49327408",
+      "title": "People of ACM – Russ Cox",
+      "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+      "description": "",
+      "signals": {
+        "points": 144,
+        "num_comments": 14,
+        "discussion_url": "https://news.ycombinator.com/item?id=49327408"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49376769",
+      "title": "Everyone says assembly is untyped—everyone is wrong",
+      "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+      "description": "",
+      "signals": {
+        "points": 99,
+        "num_comments": 43,
+        "discussion_url": "https://news.ycombinator.com/item?id=49376769"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49380303",
+      "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+      "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+      "description": "",
+      "signals": {
+        "points": 97,
+        "num_comments": 48,
+        "discussion_url": "https://news.ycombinator.com/item?id=49380303"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49388694",
+      "title": "Zig’s io.threaded is neat",
+      "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+      "description": "",
+      "signals": {
+        "points": 96,
+        "num_comments": 51,
+        "discussion_url": "https://news.ycombinator.com/item?id=49388694"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49395171",
+      "title": "HN: The Good Parts (2016)",
+      "url": "https://danluu.com/hn-comments/",
+      "description": "",
+      "signals": {
+        "points": 62,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=49395171"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49364721",
+      "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+      "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+      "description": "",
+      "signals": {
+        "points": 62,
+        "num_comments": 1,
+        "discussion_url": "https://news.ycombinator.com/item?id=49364721"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49398152",
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "description": "",
+      "signals": {
+        "points": 56,
+        "num_comments": 20,
+        "discussion_url": "https://news.ycombinator.com/item?id=49398152"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49391661",
+      "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+      "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+      "description": "",
+      "signals": {
+        "points": 48,
+        "num_comments": 0,
+        "discussion_url": "https://news.ycombinator.com/item?id=49391661"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49392099",
+      "title": "How Thailand Resisted Colonization",
+      "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+      "description": "",
+      "signals": {
+        "points": 41,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=49392099"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49398158",
+      "title": "Z80–The 1970s Microprocessor Still Alive",
+      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "description": "",
+      "signals": {
+        "points": 37,
+        "num_comments": 17,
+        "discussion_url": "https://news.ycombinator.com/item?id=49398158"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49391389",
+      "title": "Rebuilding our Electron meeting-recording engine in Swift",
+      "url": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+      "description": "",
+      "signals": {
+        "points": 36,
+        "num_comments": 9,
+        "discussion_url": "https://news.ycombinator.com/item?id=49391389"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "hn:49329506",
+      "title": "ESP32 Firmware Development with Docker Sandboxes",
+      "url": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/",
+      "description": "",
+      "signals": {
+        "points": 31,
+        "num_comments": 11,
+        "discussion_url": "https://news.ycombinator.com/item?id=49329506"
+      },
+      "category_hint": null
+    }
+  ]
+}

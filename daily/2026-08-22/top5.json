@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://huggingface.co/papers/2608.19880",
+    "title": "EnvHarness: Awakening Static Worlds for Agent Learning"
+  },
+  {
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "title": "Offering Zero Data Retention for frontier models"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.19799",
+    "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?"
+  },
+  {
+    "url": "https://huggingface.co/papers/2608.18580",
+    "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis"
+  },
+  {
+    "url": "https://github.com/apache/maka",
+    "title": "apache/maka"
+  }
+]

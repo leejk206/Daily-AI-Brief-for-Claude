@@ -13178,7 +13178,7 @@
       "tags": [
         "ai-safety"
       ],
-      "tagged_at": "2026-08-08T21:23:02+09:00"
+      "tagged_at": "2026-08-22T21:53:55+09:00"
     },
     "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt": {
       "title": "Improving GPT-5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
@@ -13775,6 +13775,369 @@
         "long-context"
       ],
       "tagged_at": "2026-08-16T15:48:48+09:00"
+    },
+    "https://huggingface.co/papers/2608.19880": {
+      "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
+      "summary": "정적 데이터를 학습 환경으로 되살리는 하네스, 오늘 최다 추천(245)",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "agent-harness",
+        "paper",
+        "world-model"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://openai.com/index/offering-zero-data-retention-for-frontier-models": {
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "OpenAI가 프런티어 모델에 무보존(ZDR) 옵션 공식 제공",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "governance",
+        "model-access"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.19799": {
+      "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
+      "summary": "코딩 에이전트를 과학 엔지니어링 과제로 확장한 신규 벤치마크",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "auto-research",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.18580": {
+      "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
+      "summary": "터미널 태스크 합성에서 의도·실행상태를 보존하는 방법(111 upvote)",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "agent-harness",
+        "cli-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://github.com/apache/maka": {
+      "title": "apache/maka",
+      "summary": "Apache 인큐베이팅 로컬 우선 에이전트 워크스페이스, 전 과정 append-only 로그",
+      "category": "agent-frameworks",
+      "source": "github_trending",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "agent-harness",
+        "cli-agent",
+        "tool-use"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://www.anthropic.com/news/claude-text-watermark": {
+      "title": "How Claude's text watermark works",
+      "summary": "Claude 생성 텍스트 워터마크의 동작 원리 설명",
+      "category": "frontier-models",
+      "source": "anthropic_news",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "ai-safety",
+        "governance"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://openai.com/index/pacing-model-development-cyber-capabilities": {
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "summary": "사이버 위험 능력 시대의 모델 개발 속도 조절 원칙",
+      "category": "frontier-models",
+      "source": "release_blogs",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "ai-safety",
+        "governance",
+        "security"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://munderdiffl.in/": {
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "summary": "자기 클론들로 사무실을 돌리는 에이전트 하네스 데모",
+      "category": "agent-frameworks",
+      "source": "hacker_news",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "agent-harness",
+        "multi-agent"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2607.21596": {
+      "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+      "summary": "워크플로와 실행 가능 스킬을 함께 진화시키는 자기진화 에이전트",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.08466": {
+      "title": "Hierarchical Self-Improvement: A Framework for Task-Specific Evolvable Agent Harnesses",
+      "summary": "태스크별로 진화하는 에이전트 하네스의 계층적 자기개선 프레임워크",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "agent-harness",
+        "agent-skill",
+        "paper"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.15888": {
+      "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
+      "summary": "멀티에이전트 위임 과정의 권한 경계와 보안 모델",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "ai-safety",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.17253": {
+      "title": "Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL",
+      "summary": "다양한 코호트의 멀티에이전트 RL에서 비지도 추론이 창발",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "multi-agent",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.18852": {
+      "title": "SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents",
+      "summary": "장기 과제 에이전트의 in-policy 스킬 선택 학습",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "rl"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.19861": {
+      "title": "PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents",
+      "summary": "단일 행동 차단이 아니라 워크플로 전체를 정책 준수로 유도",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "ai-safety",
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.19197": {
+      "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+      "summary": "적응형 합성 실행 환경에서의 셀프플레이 학습",
+      "category": "agent-frameworks",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "paper",
+        "rl",
+        "world-model"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.18565": {
+      "title": "SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation",
+      "summary": "검증 게이트를 둔 PLC 코드 생성 에이전트 하네스",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "agent-harness",
+        "paper",
+        "program-synthesis"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.16590": {
+      "title": "Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence",
+      "summary": "자기진화 물리 지능을 위한 폐루프 임바디드 하네스",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "agent-harness",
+        "paper",
+        "world-model"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.18423": {
+      "title": "FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents",
+      "summary": "경쟁 에이전트가 있는 장기 경영 시뮬레이션 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "benchmark",
+        "multi-agent",
+        "paper"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.20202": {
+      "title": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
+      "summary": "LLM 메모리 사용의 인지적 함정을 측정하는 벤치마크",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "agent-memory",
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.13547": {
+      "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+      "summary": "점수는 같아도 실행 경로 실패가 숨는다는 평가 함정 지적",
+      "category": "llm-harness-eval",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "benchmark",
+        "paper"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://openai.com/index/replit": {
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "summary": "Replit이 GPT-5.6 Luna로 소프트웨어 제작 접근성 확대",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "coding-platform",
+        "partnership"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://openai.com/index/asana": {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "summary": "Codex로 5년치 엔지니어링 백로그를 2주에 처리한 사례",
+      "category": "coding-agents",
+      "source": "release_blogs",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "agent-adoption",
+        "coding-platform"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.19854": {
+      "title": "Repo0: Design-Driven Zero-to-All Code Generation",
+      "summary": "설계 주도로 리포 전체를 0에서 생성하는 코드 생성",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "paper",
+        "program-synthesis"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.18933": {
+      "title": "SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution",
+      "summary": "프로젝트 특화 이슈 해결을 자기증류로 학습하는 에이전트",
+      "category": "coding-agents",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "agent-skill",
+        "paper",
+        "program-synthesis"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.19758": {
+      "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
+      "summary": "롱컨텍스트 서빙용 블록 희소 prefill 어텐션",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "long-context",
+        "paper"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.18027": {
+      "title": "Chain-of-Experience for Continual LLM Improvement",
+      "summary": "경험 사슬을 축적해 LLM을 지속 개선하는 기법",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "agent-memory",
+        "paper"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.20281": {
+      "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+      "summary": "검색 없이 문서 지식을 모델에 내재화하는 단계적 후처리 학습",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "paper",
+        "retrieval"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://huggingface.co/papers/2608.18171": {
+      "title": "Looped Language Models Improve Compositional Tool Calling",
+      "summary": "루프형 LM이 조합적 도구 호출 성능을 끌어올림",
+      "category": "prompt-context-engineering",
+      "source": "huggingface",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "paper",
+        "tool-use"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
+    },
+    "https://github.com/adnanakil/nobuzz/blob/main/README.md": {
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "summary": "Claude의 버즈피드 말투를 걷어내는 프롬프트/스타일 규칙 모음",
+      "category": "prompt-context-engineering",
+      "source": "hacker_news",
+      "brief_date": "2026-08-22",
+      "tags": [
+        "prompt-engineering"
+      ],
+      "tagged_at": "2026-08-22T21:53:55+09:00"
     }
   }
 }

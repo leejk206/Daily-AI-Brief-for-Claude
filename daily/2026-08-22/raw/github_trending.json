@@ -1,0 +1,210 @@
+{
+  "source": "github_trending",
+  "fetched_at": "2026-08-22T21:49:59+09:00",
+  "items": [
+    {
+      "id": "github:mattpocock/skills",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "signals": {
+        "stars": 230836,
+        "stars_today": 2684,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:mahlernim/google-timeline-visualizer",
+      "title": "mahlernim/google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "signals": {
+        "stars": 2447,
+        "stars_today": 441,
+        "language": "Kotlin"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "signals": {
+        "stars": 114404,
+        "stars_today": 903,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:AprilNEA/OpenLogi",
+      "title": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "signals": {
+        "stars": 13428,
+        "stars_today": 959,
+        "language": "Rust"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:PostHog/posthog",
+      "title": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "signals": {
+        "stars": 38433,
+        "stars_today": 288,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:microsoft/TypeScript",
+      "title": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "signals": {
+        "stars": 110451,
+        "stars_today": 65,
+        "language": "Go"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:obra/superpowers",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "signals": {
+        "stars": 275905,
+        "stars_today": 592,
+        "language": "Shell"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:santifer/career-ops",
+      "title": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "signals": {
+        "stars": 67722,
+        "stars_today": 604,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:cursor/plugins",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "signals": {
+        "stars": 4537,
+        "stars_today": 286,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:modular/modular",
+      "title": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "signals": {
+        "stars": 28770,
+        "stars_today": 395,
+        "language": "Mojo"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "signals": {
+        "stars": 241982,
+        "stars_today": 357,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:TryGhost/Ghost",
+      "title": "TryGhost/Ghost",
+      "url": "https://github.com/TryGhost/Ghost",
+      "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+      "signals": {
+        "stars": 55031,
+        "stars_today": 32,
+        "language": "JavaScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:ruvnet/ruflo",
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "signals": {
+        "stars": 68806,
+        "stars_today": 140,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:apache/maka",
+      "title": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "signals": {
+        "stars": 2148,
+        "stars_today": 148,
+        "language": "TypeScript"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:protocolbuffers/protobuf",
+      "title": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "signals": {
+        "stars": 71805,
+        "stars_today": 4,
+        "language": "C++"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:elder-plinius/OBLITERATUS",
+      "title": "elder-plinius/OBLITERATUS",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "signals": {
+        "stars": 7935,
+        "stars_today": 63,
+        "language": "Python"
+      },
+      "category_hint": null
+    },
+    {
+      "id": "github:microsoft/onnxruntime",
+      "title": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "signals": {
+        "stars": 21590,
+        "stars_today": 5,
+        "language": "C++"
+      },
+      "category_hint": null
+    }
+  ]
+}
